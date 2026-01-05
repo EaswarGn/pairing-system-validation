@@ -1,0 +1,30 @@
+SwissSys Standings. CCA_SWCC23: Class B (1500-1799)-3 (Standings (no tiebrk))
+#	Name	ID	Rating	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Total	
+1	Faisal Kaleem	14814707	1766	W22 (w)	~5 (b)						 1.0	
+2	Sebastian Lee	16126150	1673	W23 (w)	~6 (b)						 1.0	
+3	Brian Alan Wolfskill	12895563	1672	X24	~7 (w)						 1.0	
+4	Jeremy Lovelace	12728055	1653	W25 (b)	~8 (w)		H---				 1.0	
+5	Steven Villarreal	11217516	1608	W26 (w)	~1 (w)						 1.0	
+6	Ozan Adiguzel	16155094	1604	W27 (b)	~2 (w)						 1.0	
+7	Benny Thottakkara	15483021	1600	W18 (w)	~3 (b)						 1.0	
+8	David Lamas	16434126	1574	W19 (w)	~4 (b)						 1.0	
+9	Tanvi Borse	15992594	1532	W21 (b)	~11 (w)						 1.0	
+10	William Christopher Hamill	14033266	1706	H---	~14 (b)						 0.5	
+11	Christos Konstantakos	17130487	1701	D14 (w)	~9 (b)						 0.5	
+12	Annamalai Arunachalam	16740887	1674	D15 (b)	~17 (w)						 0.5	
+13	Asmit Panda	15295055	1626	H---	~15 (w)						 0.5	
+14	Arjun Bupeshnath	15891702	1568	D11 (b)	~10 (w)						 0.5	
+15	John William Williams	15584126	1564	D12 (w)	~13 (b)						 0.5	
+16	John Xavier	16754578	1500	D17 (w)	~18 (b)						 0.5	
+17	Lawrence C Zhang	30167437	1447	D16 (b)	~12 (b)						 0.5	
+18	Maurya Chandra	16566891	1792	L7 (b)	~16 (w)						 0.0	
+19	Aayansh R Guntaka	30198721	1712	L8 (b)	~27 (w)						 0.0	
+20	Huanzhi Zhou	17336634	1665	U---	~23 (b)						 0.0	
+21	Isaac Mcgee	13438628	1655	L9 (w)	~22 (b)						 0.0	
+22	Shriyan Vuyyuru	17035355	1593	L1 (b)	~21 (w)						 0.0	
+23	Jacob Emmanuel De Leon	30203735	1538	L2 (b)	~20 (w)						 0.0	
+24	Paul Poston	15647017	1537	F3	U---						 0.0	
+25	Zephan James Shivam	16004042	1525	L4 (w)	H---						 0.0	
+26	Jorge Ramirez-vazquez	15843465	1522	L5 (b)	B---						 0.0	
+27	Pranavi Pramod	16800145	1506	L6 (w)	~19 (b)					H---	 0.0	
+

@@ -1,0 +1,14 @@
+Transaction ID: 64208548405
+Invoice Number: 230216-234093
+Total Amount: $ 190.00
+Tournament: 2023 Southwest Class Championships
+Section: Class B (1500-1799): at or over 1500 USCF - (3 Day) ($190.00)
+Player Name: John Xavier
+USCF Memberships: None
+USCF ID: 16754578
+FIDE ID: 30970903
+1/2 point Bye request: None
+Zero point Bye request: None
+Paid By: John Xavier
+PayPal/Credit Card Fee Contribution: 0.00
+

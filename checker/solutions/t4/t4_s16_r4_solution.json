@@ -1,0 +1,458 @@
+{
+    "Sections": [
+        {
+            "Section name": "t4_s16_r4",
+            "Type": 0,
+            "Number of players": 32,
+            "Number of teams": 1,
+            "Rounds paired": 4,
+            "Rounds played": 3,
+            "Regular": true,
+            "Rapid": false,
+            "Blitz": false,
+            "Acceleration": 0,
+            "Use team pairings": true,
+            "Team cut": 4,
+            "Players": [
+                {
+                    "Pair number": 1,
+                    "Name": "Bartell, Thomas",
+                    "Rating": 2457,
+                    "Results": [
+                        "+;17;B",
+                        "+;10;W",
+                        "+;6;B",
+                        "~;2;W"
+                    ]
+                },
+                {
+                    "Pair number": 2,
+                    "Name": "Garcia, Erick G",
+                    "Rating": 2313,
+                    "Results": [
+                        "+;18;W",
+                        "+;11;B",
+                        "+;12;W",
+                        "~;1;B"
+                    ]
+                },
+                {
+                    "Pair number": 3,
+                    "Name": "Eidemiller, Mark B",
+                    "Rating": 2240,
+                    "Results": [
+                        "=;19;B",
+                        "+;23;W",
+                        "+;9;B",
+                        "~;8;W"
+                    ]
+                },
+                {
+                    "Pair number": 4,
+                    "Name": "Dehmelt, Karl",
+                    "Rating": 2200,
+                    "Results": [
+                        "+;20;W",
+                        "-;12;B",
+                        "+;22;W",
+                        "~;7;B"
+                    ]
+                },
+                {
+                    "Pair number": 5,
+                    "Name": "Belanoff, Ted",
+                    "Rating": 2200,
+                    "Results": [
+                        "+;21;B",
+                        "+;14;W",
+                        "-;8;B",
+                        "~;10;W"
+                    ]
+                },
+                {
+                    "Pair number": 6,
+                    "Name": "Gottehrer, Jonathan",
+                    "Rating": 2126,
+                    "Results": [
+                        "+;22;W",
+                        "+;13;B",
+                        "-;1;W",
+                        "~;12;B"
+                    ]
+                },
+                {
+                    "Pair number": 7,
+                    "Name": "Steincamp, Isaac K",
+                    "Rating": 2122,
+                    "Results": [
+                        "=;23;B",
+                        "+;19;W",
+                        "+;16;B",
+                        "~;4;W"
+                    ]
+                },
+                {
+                    "Pair number": 8,
+                    "Name": "Clark, Michael And",
+                    "Rating": 2026,
+                    "Results": [
+                        "+;24;W",
+                        "+;15;B",
+                        "+;5;W",
+                        "~;3;B"
+                    ]
+                },
+                {
+                    "Pair number": 9,
+                    "Name": "Mays, Shelly",
+                    "Rating": 1998,
+                    "Results": [
+                        "+;25;B",
+                        "=;16;W",
+                        "-;3;W",
+                        "~;26;B"
+                    ]
+                },
+                {
+                    "Pair number": 10,
+                    "Name": "Mucerino, Joseph J Jr",
+                    "Rating": 1996,
+                    "Results": [
+                        "+;26;W",
+                        "-;1;B",
+                        "+;20;W",
+                        "~;5;B"
+                    ]
+                },
+                {
+                    "Pair number": 11,
+                    "Name": "Lacomb, Jeffrey M",
+                    "Rating": 1983,
+                    "Results": [
+                        "+;27;B",
+                        "-;2;W",
+                        "=;24;B",
+                        "~;16;W"
+                    ]
+                },
+                {
+                    "Pair number": 12,
+                    "Name": "Johnson, Jeffery W",
+                    "Rating": 1953,
+                    "Results": [
+                        "+;28;W",
+                        "+;4;W",
+                        "-;2;B",
+                        "~;6;W"
+                    ]
+                },
+                {
+                    "Pair number": 13,
+                    "Name": "Henninger, Austin",
+                    "Rating": 1940,
+                    "Results": [
+                        "+;29;B",
+                        "-;6;W",
+                        "=;25;B",
+                        "~;24;W"
+                    ]
+                },
+                {
+                    "Pair number": 14,
+                    "Name": "Waters, Vincent Garrett Sr",
+                    "Rating": 1926,
+                    "Results": [
+                        "+;30;W",
+                        "-;5;B",
+                        "-;26;W",
+                        "U;0;-"
+                    ]
+                },
+                {
+                    "Pair number": 15,
+                    "Name": "Hemingway, Kevin",
+                    "Rating": 1910,
+                    "Team": "SHIPU",
+                    "Results": [
+                        "+;31;B",
+                        "-;8;W",
+                        "=;30;B",
+                        "~;25;W"
+                    ]
+                },
+                {
+                    "Pair number": 16,
+                    "Name": "Pugh, Lawrence B",
+                    "Rating": 1900,
+                    "Results": [
+                        "+;32;W",
+                        "=;9;B",
+                        "-;7;W",
+                        "~;11;B"
+                    ]
+                },
+                {
+                    "Pair number": 17,
+                    "Name": "Tumuluri, Vasishta S",
+                    "Rating": 1889,
+                    "Results": [
+                        "-;1;W",
+                        "-;26;B",
+                        "+;29;W",
+                        "~;22;B"
+                    ]
+                },
+                {
+                    "Pair number": 18,
+                    "Name": "Zelinski, Paul B",
+                    "Rating": 1884,
+                    "Results": [
+                        "-;2;B",
+                        "-;25;W",
+                        "H;-1;-",
+                        "~;23;B"
+                    ]
+                },
+                {
+                    "Pair number": 19,
+                    "Name": "Waranch, Samuel",
+                    "Rating": 1871,
+                    "Results": [
+                        "=;3;W",
+                        "-;7;B",
+                        "+;28;W",
+                        "H;-1;-"
+                    ]
+                },
+                {
+                    "Pair number": 20,
+                    "Name": "Demetruk, David E",
+                    "Rating": 1854,
+                    "Results": [
+                        "-;4;B",
+                        "+;27;W",
+                        "-;10;B",
+                        "~;30;W"
+                    ]
+                },
+                {
+                    "Pair number": 21,
+                    "Name": "Adams, Charles B",
+                    "Rating": 1820,
+                    "Results": [
+                        "-;5;W",
+                        "=;28;B",
+                        "=;23;W",
+                        "~;27;B"
+                    ]
+                },
+                {
+                    "Pair number": 22,
+                    "Name": "Pramanik, Aaynsh",
+                    "Rating": 1811,
+                    "Results": [
+                        "-;6;B",
+                        "+;29;W",
+                        "-;4;B",
+                        "~;17;W"
+                    ]
+                },
+                {
+                    "Pair number": 23,
+                    "Name": "Zeigler, Nathan",
+                    "Rating": 1806,
+                    "Team": "SHIPU",
+                    "Results": [
+                        "=;7;W",
+                        "-;3;B",
+                        "=;21;B",
+                        "~;18;W"
+                    ]
+                },
+                {
+                    "Pair number": 24,
+                    "Name": "Painter, Jacob D",
+                    "Rating": 1800,
+                    "Results": [
+                        "-;8;B",
+                        "+;32;W",
+                        "=;11;W",
+                        "~;13;B"
+                    ]
+                },
+                {
+                    "Pair number": 25,
+                    "Name": "Dubnoff, Mark",
+                    "Rating": 1800,
+                    "Results": [
+                        "-;9;W",
+                        "+;18;B",
+                        "=;13;W",
+                        "~;15;B"
+                    ]
+                },
+                {
+                    "Pair number": 26,
+                    "Name": "Trimmer, Max F",
+                    "Rating": 1732,
+                    "Results": [
+                        "-;10;B",
+                        "+;17;W",
+                        "+;14;B",
+                        "~;9;W"
+                    ]
+                },
+                {
+                    "Pair number": 27,
+                    "Name": "Effland, Nicholas A",
+                    "Rating": 1720,
+                    "Team": "SHIPU",
+                    "Results": [
+                        "-;11;W",
+                        "-;20;B",
+                        "+;32;B",
+                        "~;21;W"
+                    ]
+                },
+                {
+                    "Pair number": 28,
+                    "Name": "Ferguson, Rob C Iii",
+                    "Rating": 1654,
+                    "Results": [
+                        "-;12;B",
+                        "=;21;W",
+                        "-;19;B",
+                        "~;32;W"
+                    ]
+                },
+                {
+                    "Pair number": 29,
+                    "Name": "Namboodiri, Vinod",
+                    "Rating": 1627,
+                    "Results": [
+                        "-;13;W",
+                        "-;22;B",
+                        "-;17;B",
+                        "B;-1;-"
+                    ]
+                },
+                {
+                    "Pair number": 30,
+                    "Name": "Kula, John Scott",
+                    "Rating": 1545,
+                    "Results": [
+                        "-;14;B",
+                        "B;-1;-",
+                        "=;15;W",
+                        "~;20;B"
+                    ]
+                },
+                {
+                    "Pair number": 31,
+                    "Name": "Gusic, Kenneth",
+                    "Rating": 1400,
+                    "Results": [
+                        "-;15;W",
+                        "U;-1;-",
+                        "U;-1;-",
+                        "U;-1;-"
+                    ]
+                },
+                {
+                    "Pair number": 32,
+                    "Name": "Richards, Jerry",
+                    "Rating": 0,
+                    "Results": [
+                        "-;16;B",
+                        "-;24;B",
+                        "-;27;W",
+                        "~;28;B"
+                    ]
+                }
+            ],
+            "Teams": [
+                {
+                    "Pair number": 1,
+                    "Full name": "SHIPU",
+                    "Team code": "SHIPU"
+                }
+            ],
+            "Byes": [
+                {
+                    "Pair number": 18,
+                    "Round": 3,
+                    "Points": 0.5
+                },
+                {
+                    "Pair number": 19,
+                    "Round": 4,
+                    "Points": 0.5
+                },
+                {
+                    "Pair number": 29,
+                    "Round": 4,
+                    "Points": 1
+                },
+                {
+                    "Pair number": 30,
+                    "Round": 2,
+                    "Points": 1
+                }
+            ],
+            "Withdrawals": [
+                {
+                    "Pair number": 4,
+                    "Rounds withdrawn": [
+                        5
+                    ]
+                },
+                {
+                    "Pair number": 5,
+                    "Rounds withdrawn": [
+                        5
+                    ]
+                },
+                {
+                    "Pair number": 6,
+                    "Rounds withdrawn": [
+                        5
+                    ]
+                },
+                {
+                    "Pair number": 11,
+                    "Rounds withdrawn": [
+                        5
+                    ]
+                },
+                {
+                    "Pair number": 14,
+                    "Rounds withdrawn": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "Pair number": 18,
+                    "Rounds withdrawn": [
+                        5
+                    ]
+                },
+                {
+                    "Pair number": 20,
+                    "Rounds withdrawn": [
+                        5
+                    ]
+                },
+                {
+                    "Pair number": 31,
+                    "Rounds withdrawn": [
+                        2,
+                        3,
+                        4,
+                        5
+                    ]
+                }
+            ]
+        }
+    ]
+}

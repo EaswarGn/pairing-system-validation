@@ -1,0 +1,151 @@
+NAME = Belanoff, Ted
+RATING = 2207
+EXP1 = 09/30/2023
+ID# = 12758264
+FEES1 = 40.00
+ADDR = 9 Donworth Street
+CITY = Stockholm
+STATE = ME
+ZIP = 04783
+SEX = M
+
+NAME = Chabris, Christopher F See TD
+RATING = 2206
+EXP1 = 05/31/2026
+ID# = 11316425
+FEES1 = 40.00
+ADDR = 148 Glencoe Road
+CITY = Lewisburg
+STATE = PA
+ZIP = 17837
+SEX = M
+
+NAME = Dehmelt, Karl
+RATING = 2220
+EXP1 = 12/31/2099
+ID# = 10164176
+FEES1 = 40.00
+ADDR = 1409 West Broad Street Apt 108
+CITY = Quakertown
+STATE = PA
+ZIP = 18951
+SEX = M
+
+NAME = Dubnoff, Mark
+RATING = 1857
+EXP1 = 10/31/2023
+ID# = 12428925
+FEES1 = 40.00
+ADDR = 407 Williams Road
+CITY = Wynnewood
+STATE = PA
+ZIP = 19096
+SEX = M
+
+NAME = Ferguson, Rob C III
+RATING = 1682
+EXP1 = 12/31/2099
+ID# = 12425210
+FEES1 = 40.00
+CLUB = BRK
+ADDR = 153 South Avenue
+CITY = Bradford
+STATE = PA
+ZIP = 16701
+SEX = M
+
+NAME = Fuller, James A II
+RATING = 1777
+EXP1 = 07/31/2023
+ID# = 12747330
+FEES1 = 40.00
+SEX = M
+
+NAME = Garcia, Erick G
+RATING = 2314
+EXP1 = 04/30/2023
+ID# = 13983494
+FEES1 = 40.00
+ADDR = 931 Acker Road
+CITY = Stroudsburg
+STATE = PA
+ZIP = 18360
+SEX = M
+
+NAME = Gottehrer, Jonathan
+RATING = 2000
+EXP1 = 07/31/2023
+ID# = 12639294
+FEES1 = 40.00
+ADDR = 327 East Derry Road
+CITY = Hershey
+STATE = PA
+ZIP = 17033
+SEX = M
+
+NAME = Henninger, Austin
+RATING = 1913
+EXP1 = 07/31/2023
+ID# = 13569478
+FEES1 = 40.00
+ADDR = 5730 Olde Scotland Road
+CITY = Shippensburg
+STATE = PA
+ZIP = 17257
+SEX = M
+
+NAME = Kollur, Anshul See TD
+RATING = 1769
+EXP1 = 10/31/2024
+ID# = 16097612
+FEES1 = 40.00
+ADDR = 145 Pratt Lane
+CITY = West Chester
+STATE = PA
+ZIP = 19382
+SEX = M
+
+NAME = Mucerino, Joseph J Jr
+RATING = 2076
+EXP1 = 12/31/2099
+ID# = 12585616
+FEES1 = 40.00
+ADDR = 108 Russell Avenue
+CITY = Douglassville
+STATE = PA
+ZIP = 19518
+SEX = M
+
+NAME = Painter, Jacob D
+RATING = 1889
+EXP1 = 09/30/2023
+ID# = 15223307
+FEES1 = 40.00
+ADDR = 623 Cromwell Street
+CITY = Orbisonia
+STATE = PA
+ZIP = 17243
+SEX = M
+
+NAME = Thompson, Zachary P See TD
+RATING = 1882
+EXP1 = 06/30/2023
+ID# = 12687109
+FEES1 = 40.00
+ADDR = 3720 Holly Springs Drive
+CITY = Allison Park
+STATE = PA
+ZIP = 15101
+SEX = M
+
+NAME = Zelinski, Paul B
+RATING = 1900
+EXP1 = 12/31/2099
+ID# = 10155061
+FEES1 = 40.00
+ADDR = 859 Blossom Drive
+CITY = Hanover
+STATE = PA
+ZIP = 17331
+SEX = M
+

@@ -1,0 +1,32 @@
+SwissSys Standings. CCA_CHI22: Under 1700-3 (Standings (no tiebrk))
+#	Name	Rating	Team	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Total	
+1	Gurulakshmi Kaliappan	1694		W22	~6						 1.0	
+2	Jimmy Chen	1644		W24	~7						 1.0	
+3	Kamran Rawshani	1613		W25	~9						 1.0	
+4	Jonathan Terrell	1567		W26	~8						 1.0	
+5	Kevin Robert Fischer	1543		W27	~11						 1.0	
+6	Angel T Tochimani	1537		W28	~1						 1.0	
+7	Rahul Rajeshkumar	1505		W17	~2						 1.0	
+8	Cj Elam	1476		W18	~4						 1.0	
+9	Jacob Buchanan Wang	1446		W20	~3						 1.0	
+10	Drew Salski	1317		W21	~13						 1.0	
+11	Daniel Martalogu	1290		W19	~5						 1.0	
+12	John Fontaine	1253		W29	U---						 1.0	
+13	Michael Neshewat	1685		D15	~10						 0.5	
+14	Austin Insley	1642		D16	~15						 0.5	
+15	Radhika Gupta	1520		D13	~14						 0.5	
+16	Rishabh Udeshi	1513		D14	~20						 0.5	
+17	John Williams	1631		L7	~24						 0.0	
+18	Ronald Dewayne Sanders	1608		L8	~26						 0.0	
+19	Jordan Colby	1581		L11	~27						 0.0	
+20	David Rubenstein	1577		L9	~16						 0.0	
+21	Benjamin Durost	1561		L10	~25						 0.0	
+22	Chris Kletzien	1521		L1	~28						 0.0	
+23	Nathan Melnikov	1520		U---	U---						 0.0	
+24	Sam Zschack	1513		L2	~17						 0.0	
+25	Rudy Padilla	1500		L3	~21						 0.0	
+26	Niko Richard Curtis Nixon	1402		L4	~18						 0.0	
+27	Julian I Newman	1311		L5	~19						 0.0	
+28	Jian N/a Jiang	1268		L6	~22					H---	 0.0	
+29	Isaac Christopher Daley	 794		L12	U---						 0.0	
+

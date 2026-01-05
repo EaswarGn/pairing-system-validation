@@ -1,0 +1,306 @@
+{
+    "Sections": [
+        {
+            "Section name": "t1_s10_r1",
+            "Type": 0,
+            "Number of players": 45,
+            "Number of teams": 0,
+            "Rounds paired": 0,
+            "Rounds played": 0,
+            "Regular": true,
+            "Rapid": false,
+            "Blitz": false,
+            "Acceleration": 0,
+            "Use team pairings": true,
+            "Team cut": 4,
+            "Players": [
+                {
+                    "Pair number": 1,
+                    "Name": "Wallace, Johnny D",
+                    "Rating": 1287,
+                    "Results": []
+                },
+                {
+                    "Pair number": 2,
+                    "Name": "Mixon, Ozan",
+                    "Rating": 1286,
+                    "Results": []
+                },
+                {
+                    "Pair number": 3,
+                    "Name": "Pak, Kingston",
+                    "Rating": 1285,
+                    "Results": []
+                },
+                {
+                    "Pair number": 4,
+                    "Name": "Vandenberg, Joseph Jaxin",
+                    "Rating": 1284,
+                    "Results": []
+                },
+                {
+                    "Pair number": 5,
+                    "Name": "Graupe, Adam",
+                    "Rating": 1281,
+                    "Results": []
+                },
+                {
+                    "Pair number": 6,
+                    "Name": "Viswanathan, Anand",
+                    "Rating": 1274,
+                    "Results": []
+                },
+                {
+                    "Pair number": 7,
+                    "Name": "Bradley, David L",
+                    "Rating": 1269,
+                    "Results": []
+                },
+                {
+                    "Pair number": 8,
+                    "Name": "Washington, George",
+                    "Rating": 1255,
+                    "Results": []
+                },
+                {
+                    "Pair number": 9,
+                    "Name": "Putera, Joseph E",
+                    "Rating": 1252,
+                    "Results": []
+                },
+                {
+                    "Pair number": 10,
+                    "Name": "Westadt, Dan",
+                    "Rating": 1249,
+                    "Results": []
+                },
+                {
+                    "Pair number": 11,
+                    "Name": "Mitchell, Gregory",
+                    "Rating": 1248,
+                    "Results": []
+                },
+                {
+                    "Pair number": 12,
+                    "Name": "Lieberman, Boaz",
+                    "Rating": 1245,
+                    "Results": []
+                },
+                {
+                    "Pair number": 13,
+                    "Name": "Geisler, Adam Curtis",
+                    "Rating": 1240,
+                    "Results": []
+                },
+                {
+                    "Pair number": 14,
+                    "Name": "Cikowski, Colin Edward",
+                    "Rating": 1239,
+                    "Results": []
+                },
+                {
+                    "Pair number": 15,
+                    "Name": "Zerega, Luca",
+                    "Rating": 1236,
+                    "Results": []
+                },
+                {
+                    "Pair number": 16,
+                    "Name": "Valentine, Gene E",
+                    "Rating": 1228,
+                    "Results": []
+                },
+                {
+                    "Pair number": 17,
+                    "Name": "Koelikamp, Luke Andrew",
+                    "Rating": 1213,
+                    "Results": []
+                },
+                {
+                    "Pair number": 18,
+                    "Name": "Pashyan, Sofia",
+                    "Rating": 1210,
+                    "Results": []
+                },
+                {
+                    "Pair number": 19,
+                    "Name": "Doyle, Dennis R.",
+                    "Rating": 1204,
+                    "Results": []
+                },
+                {
+                    "Pair number": 20,
+                    "Name": "Bouardi, Afaf",
+                    "Rating": 1200,
+                    "Results": []
+                },
+                {
+                    "Pair number": 21,
+                    "Name": "Lesko, Philip",
+                    "Rating": 1200,
+                    "Results": []
+                },
+                {
+                    "Pair number": 22,
+                    "Name": "Fatehali, Faruk",
+                    "Rating": 1199,
+                    "Results": []
+                },
+                {
+                    "Pair number": 23,
+                    "Name": "Terrado, Julian",
+                    "Rating": 1196,
+                    "Results": []
+                },
+                {
+                    "Pair number": 24,
+                    "Name": "Walsh, William",
+                    "Rating": 1194,
+                    "Results": []
+                },
+                {
+                    "Pair number": 25,
+                    "Name": "Lieberman, Asa",
+                    "Rating": 1184,
+                    "Results": []
+                },
+                {
+                    "Pair number": 26,
+                    "Name": "Speer, Eric",
+                    "Rating": 1184,
+                    "Results": []
+                },
+                {
+                    "Pair number": 27,
+                    "Name": "Kyriazes, Harry",
+                    "Rating": 1177,
+                    "Results": []
+                },
+                {
+                    "Pair number": 28,
+                    "Name": "Framnes, Keith",
+                    "Rating": 1168,
+                    "Results": []
+                },
+                {
+                    "Pair number": 29,
+                    "Name": "Haskara, Beril Kayra",
+                    "Rating": 1137,
+                    "Results": []
+                },
+                {
+                    "Pair number": 30,
+                    "Name": "Qiao, Mason",
+                    "Rating": 1136,
+                    "Results": []
+                },
+                {
+                    "Pair number": 31,
+                    "Name": "Sajeevan, Jithya",
+                    "Rating": 1134,
+                    "Results": []
+                },
+                {
+                    "Pair number": 32,
+                    "Name": "Cheung, Winston",
+                    "Rating": 1133,
+                    "Results": []
+                },
+                {
+                    "Pair number": 33,
+                    "Name": "Fatehali, Faiz",
+                    "Rating": 1110,
+                    "Results": []
+                },
+                {
+                    "Pair number": 34,
+                    "Name": "Sahoo, Ojas Arohan",
+                    "Rating": 1087,
+                    "Results": []
+                },
+                {
+                    "Pair number": 35,
+                    "Name": "Das, Aishani",
+                    "Rating": 1066,
+                    "Results": []
+                },
+                {
+                    "Pair number": 36,
+                    "Name": "Balas, Sridhar",
+                    "Rating": 1059,
+                    "Results": []
+                },
+                {
+                    "Pair number": 37,
+                    "Name": "Zhu, Andrew J",
+                    "Rating": 1049,
+                    "Results": []
+                },
+                {
+                    "Pair number": 38,
+                    "Name": "Zalmezak, William Lowell",
+                    "Rating": 1040,
+                    "Results": []
+                },
+                {
+                    "Pair number": 39,
+                    "Name": "Hanrahan, Paul Sco",
+                    "Rating": 1038,
+                    "Results": []
+                },
+                {
+                    "Pair number": 40,
+                    "Name": "Litt, Aiden",
+                    "Rating": 1020,
+                    "Results": []
+                },
+                {
+                    "Pair number": 41,
+                    "Name": "Guifarro, Hector",
+                    "Rating": 1001,
+                    "Results": []
+                },
+                {
+                    "Pair number": 42,
+                    "Name": "Wang, Winston Huang",
+                    "Rating": 960,
+                    "Results": []
+                },
+                {
+                    "Pair number": 43,
+                    "Name": "Martic, Lazar",
+                    "Rating": 892,
+                    "Results": []
+                },
+                {
+                    "Pair number": 44,
+                    "Name": "Srikanth, Sachin",
+                    "Rating": 887,
+                    "Results": []
+                },
+                {
+                    "Pair number": 45,
+                    "Name": "Daley, Isaac Christopher",
+                    "Rating": 794,
+                    "Results": []
+                }
+            ],
+            "Teams": [],
+            "Byes": [
+                {
+                    "Pair number": 45,
+                    "Round": 1,
+                    "Points": 1
+                }
+            ],
+            "Withdrawals": [
+                {
+                    "Pair number": 5,
+                    "Rounds withdrawn": [
+                        2
+                    ]
+                }
+            ]
+        }
+    ]
+}

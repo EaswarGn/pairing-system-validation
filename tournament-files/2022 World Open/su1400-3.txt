@@ -1,0 +1,37 @@
+SwissSys Standings. CCA_WO22: Under 1400-3 (Standings (no tiebrk))
+#	Name	Rating	Team	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Rd 8	Rd 9	Total	
+1	Saharsh Santosh	1294		W34	W10	W20	W5	W9					 5.0	
+2	Kevin Neil Ahumada	1333		W33	W27	D9	W16	H---					 4.0	
+3	Austin* Wang	1284		L10	W25	W15	W11	W14					 4.0	
+4	Siddharth Santosh	1223		W30	W15	L5	W12	W10					 4.0	
+5	Tikila Nichols	1356		W31	W6	W4	L1	D7					 3.5	
+6	Bryan Tan	1220	HUATA2	W12	L5	W21	D13	W16					 3.5	
+7	Andrew Huang	1203		D13	D17	W29	W20	D5					 3.5	
+8	Carter William Gill	1007		D17	L13	W33	W28	W20					 3.5	
+9	Dillan*** Hobby	1385		W18	W21	D2	D14	L1					 3.0	
+10	Mathew J Brady	1371		W3	L1	W13	W17	L4					 3.0	
+11	Willie M Seymour	1339		W19	L14	W31	L3	W23					 3.0	
+12	Joshua Chapman	1333		L6	W23	W24	L4	W26					 3.0	
+13	Kushagra Bhargava	1329		D7	W8	L10	D6	W24					 3.0	
+14	Ryan Guo	1129		W28	W11	D16	D9	L3					 3.0	
+15	Ilirjana Bezhani	1363		B---	L4	L3	W19	D17					 2.5	
+16	Venkata Sesha Sai Ab Ayyadevara	1342		W23	W32	D14	L2	L6					 2.5	
+17	Parth Raha	1305		D8	D7	W26	L10	D15	H---	H---			 2.5	
+18	Timothy Parnell Callahan	1285		L9	D33	L19	W30	W28					 2.5	
+19	Hashem Zahedipour	1255	YEDZAD	L11	D28	W18	L15	W27					 2.5	
+20	Qianping Jiang	1369	JIAJIA	W22	W24	L1	L7	L8					 2.0	
+21	Eli Assa	1295		W26	L9	L6	L24	W29					 2.0	
+22	Ya He	1267	HELEN	L20	L29	L25	W33	W31					 2.0	
+23	Sophia Ziyan Cheng	1260		L16	L12	W30	W25	L11					 2.0	
+24	Alice Shen	1232		W29	L20	L12	W21	L13					 2.0	
+25	Ateeq As Panjwani	1143		L32	L3	W22	L23	W33					 2.0	
+26	Lucia Huang	 995	HUATA2	L21	B---	L17	W29	L12					 2.0	
+27	Daniel Merkh	 853		B---	L2	L28	W31	L19					 2.0	
+28	Ivo Anusic	1314		L14	D19	W27	L8	L18				H---	 1.5	
+29	Terrain Wu	1338		L24	W22	L7	L26	L21					 1.0	
+30	Matt B Thomas	1337		L4	L31	L23	L18	B---					 1.0	
+31	Ari Bershak	1266		L5	W30	L11	L27	L22					 1.0	
+32	Ephraim Schafli	1178		W25	L16	U---	U---	U---					 1.0	
+33	Johnson Weng	1223		L2	D18	L8	L22	L25					 0.5	
+34	Gabriel Peter	1398		L1	U---	U---	U---	U---					 0.0	
+

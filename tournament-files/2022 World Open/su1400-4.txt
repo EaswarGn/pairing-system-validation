@@ -1,0 +1,91 @@
+SwissSys Wall Chart. CCA_WO22: Under 1400-4 (Standings (no tiebrk))
+#	Name/Rating/ID	St/Tm	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Rd 8	Rd 9	
+1	Caleb Landau	PA	B  37	W    9								
+	1396   17091147      		 1.0									
+2	Daniel L Babakhan	NY	B  44	W  10								
+	1362   14927628      		 1.0									
+3	Joshua Smullens	PA	W  38	B  13								
+	1345   16195545      		 1.0									
+4	Maddox Jackson	VA	B  39	W  11								
+	1341   17048985      		 1.0									
+5	Akshay Rajagopal	NC	B  40	W  12								
+	1337   15629864      		 1.0									
+6	Nicodemus Njuguna	NC	B  41	W  15								
+	1322   13771521      		 1.0									
+7	Sarayu Thandra	NJ	W  42	B  14								
+	1312   17355628      		 1.0									
+8	Justin Dehorty	MD	B  43	W  16								
+	1308   14565428      		 1.0									
+9	Daisy Yuen	NY	B  28	B    1								
+	1243   17036117      		 1.0									
+10	Benjamin Shapiro	NY	W  29	B    2								
+	1239   15182972      		 1.0									
+11	Yifei Zhou	VA	-  30	B    4								
+	1234   16679298      		X1.0									
+12	Andrew Walden	NY	W  31	B    5								
+	1230   30484276      		 1.0									
+13	Angus Smith Duncan	CA	B  32	W    3								
+	1222   17166074      		 1.0									
+14	Grace Siqi Yang	FL	B  33	W    7								
+	1153   17122026      		 1.0									
+15	Giorgi Temo Shinjiashvili	PA	W  34	B    6								
+	1105   30326521      		 1.0									
+16	Amin Justin Armat	PA	B  35	B    8								
+	 925   14763145      		 1.0									
+17	Joey Nepravishta	NY	W  36	B  18								
+	 891   17104790      		 1.0									
+18	Trent L Williams	MD	bye  	W  17								
+	1397   16883258      		 0.5									
+19	Aaradhya Nitin Patil	VA	B  23	W  24								
+	1359   17349055      		 0.5									
+20	Terrain Wu	NY	W  25	B  23								
+	1338   30135638      		 0.5									
+21	James N Bonastia	NJ	W  26	B  25								
+	1327   12573871      		 0.5									
+22	Saadhanaa Ashok	NJ	bye  	B  26								
+	1202   17299835      		 0.5									
+23	Shyla Rana	NJ	W  19	W  20								
+	1183   16639835      		 0.5									
+24	Irakli Shereshashvili	PA	W  27	B  19								
+	1174   16946903      		 0.5									
+25	Isaac Hart Statz	NY	B  20	W  21								
+	1160   30163816      		 0.5									
+26	Sahil Shivakumar	CA	B  21	W  22								
+	1086   16379226      		 0.5									
+27	Nayib Alej Kuncar	VA	B  24	----	----	----	----	----	----	----	----	
+	unr.   30283417      		 0.5									
+28	Dillan Hobby	PA	W    9	B  37								
+	1385   30339896      		 0.0									
+29	Stan Wang	PA	B  10	W  39								
+	1379   15116660      		 0.0									
+30	Seyma Oz	TX	-  11	----	----	----	----	----	----	----	----	
+	1378   16078811      		F0.0									
+31	Andrew Lott	VA	B  12	W  40								
+	1372   12565889      		 0.0									
+32	Thihansa O Waduthanthree	NY	W  13	B  38								
+	1370   16126955      		 0.0									
+33	Matt B Thomas	VA	W  14	B  41								
+	1337   15481595      		 0.0									
+34	Kevin Neil Ahumada	CA	B  15	W  43								
+	1333   15468814      		 0.0									
+35	James M Weisz	CT	W  16	B  42								
+	1300   14875146      		 0.0									
+36	Aanya Yadawad	MA	B  17	W  44								
+	1286   16191144      		 0.0									
+37	Austin Wang	MA	W    1	W  28								
+	1284   16709530      		 0.0									
+38	Albert Li	NY	B    3	W  32								
+	1181   30047481      		 0.0									
+39	Ephraim Schafli	PA	W    4	B  29								
+	1178   30029512      		 0.0									
+40	Alexander J Clifton	NJ	W    5	B  31								
+	1159   14195935      		 0.0									
+41	Mark Joseph Henderson	MA	W    6	W  33								
+	1043   14714172      		 0.0									
+42	Ely Feldman	PA	B    7	W  35								
+	1006   16720328      		 0.0									
+43	Samuel Laserson	NY	W    8	B  34								
+	 965   16949595      		 0.0									
+44	Willie Hubbard	MD	W    2	B  36						bye	bye	
+	 865   12600622      		 0.0									
+

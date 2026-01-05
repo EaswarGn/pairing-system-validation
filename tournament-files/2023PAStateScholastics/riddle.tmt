@@ -1,0 +1,80 @@
+[Tournament info]
+Title=
+Time controls=
+[Section count]
+Total=4
+[Sections]
+Section1=riddleopen
+Section2=riddleu1800
+Section3=riddleu1400
+Section4=riddlemerge
+[riddleopen]
+Section title=Open
+Event type=1
+Double blitz=0
+Coin toss=1
+Ratings=-1
+Time controls=
+Minimum rating=0
+Maximum rating=9999
+Minimum grade=0
+Maximum grade=99
+Starting board=301
+Rounds=5
+Rounds paired=5
+Exclude batch=0
+Exclude ratings=0
+Exclude Krause=0
+[riddleu1800]
+Section title=U1800
+Event type=1
+Double blitz=0
+Coin toss=0
+Ratings=-1
+Time controls=
+Minimum rating=0
+Maximum rating=1799
+Minimum grade=0
+Maximum grade=99
+Starting board=312
+Rounds=5
+Rounds paired=5
+Exclude batch=0
+Exclude ratings=0
+Exclude Krause=0
+[riddleu1400]
+Section title=U1400
+Event type=1
+Double blitz=0
+Coin toss=1
+Ratings=-1
+Time controls=
+Minimum rating=0
+Maximum rating=1399
+Minimum grade=0
+Maximum grade=99
+Starting board=319
+Rounds=5
+Rounds paired=5
+Exclude batch=0
+Exclude ratings=0
+Exclude Krause=0
+[riddlemerge]
+Section title=PA State Championship Merged
+Event type=1
+Double blitz=0
+Coin toss=0
+Ratings=0
+Time controls=Game / 90 Minutes with 5 Secnd Delay
+Minimum rating=0
+Maximum rating=1799
+Minimum grade=0
+Maximum grade=99
+Starting board=312
+Rounds=5
+Exclude batch=1
+Exclude ratings=1
+Exclude Krause=0
+Rounds paired=2
+[Setup]
+Version=9.06

@@ -1,0 +1,14 @@
+Pairings for Round 2. CCA_SWCC23: Class C (1300-1599)-3
+Bd	#	Res	White	#	Res	Black	
+205	12	   	Thanuj Dinesan (1422 1.0)	1	   	Raam Narayanan Raghunathan (1570 1.0)	
+206	6	   	Namish Thakkar (1476 1.0)	19	   	Jason Loftiss (1316 1.0)	
+207	14	   	Ross Mcewen (1389 1.0)	9	   	Thanh Viet Nguyen (1464 1.0)	
+208	16	   	Owen Lin (1370 1.0)	11	   	Leah Yang (1427 1.0)	
+209	3	   	Michael J Hamill (1500 0.5)	20	   	Melissa Xu (1290 1.0)	
+210	4	   	Rohan Vinod (1495 0.5)	17	   	Charley Chen (1342 0.5)	
+211	8	   	Rishi Kolli (1470 0.5)	13	   	Tanish Seelam (1411 0.5)	
+212	10	   	Cedric Yu Zhang (1433 0.0)	2	   	Dylan Traber Kaye (1515 0.0)	
+213	18	   	Leo Le-Tran (1334 0.0)	5	   	Nguyen Nam Tran (1493 0.0)	
+214	21	   	Cole Bronz Peterson (unr. 0.0)	7	   	Michael Mettler (1473 0.0)	
+	15	1 	Alan Govea (1377 0.0)			Please wait here	
+

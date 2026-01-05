@@ -1,0 +1,22 @@
+index,section name,num_tests
+1,U1200-654,5
+2,U1200Merge,9
+3,U1400-654,5
+4,U1400Merge,9
+5,U1600-654,5
+6,U1600Merge,9
+7,Under 1000-3,9
+8,Under 1200-3,5
+9,Under 1200-4,2
+10,Under 1200-5,2
+11,Under 1200-6,2
+12,Under 1400-3,5
+13,Under 1400-4,2
+14,Under 1400-5,2
+15,Under 1400-6,2
+16,Under 1600-3,5
+17,Under 1600-4,2
+18,Under 1600-5,2
+19,Under 1600-6,2
+
+### 2022 World Open Total: 84 Test cases

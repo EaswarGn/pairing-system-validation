@@ -1,0 +1,93 @@
+SwissSys Standings. CCA_SWCC23: Master (USCF 2100 up or FIDE 2000 up)-5 (Standings (no tiebrk))
+#	Name	ID	Rating	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Rd 8	Rd 9	Total	Prize	
+1	GM Vladimir Belous	4174003	2505	W47 (w)	W19 (b)	W54 (w)	W16 (b)	W2 (w)	W10 (b)	W5 (w)	D7 (b)	D4 (w)	 8.0	4200.00	
+2	GM Christopher Woojin Yoo	30909694	2589	W62 (b)	W38 (w)	D17 (w)	W18 (b)	L1 (b)	W30 (w)	D12 (b)	D3 (w)	W13 (b)	 6.5	1183.33	
+3	IM Jason Liang	30940303	2528	D34 (w)	W78 (b)	D36 (w)	D42 (b)	W40 (w)	W16 (b)	W6 (w)	D2 (b)	D7 (w)	 6.5	1183.33	
+4	GM Balaji Daggupati	2090759	2507	W26 (b)	D21 (w)	W30 (b)	W13 (w)	D24 (b)	L7 (w)	W29 (b)	W19 (w)	D1 (b)	 6.5	1183.33	
+5	IM Gleb Dudin	34184934	2467	W64 (w)	L42 (b)	W33 (w)	W36 (b)	W27 (w)	W24 (b)	L1 (b)	W12 (w)	D10 (w)	 6.5	1183.33	
+6	IM Andy Austin Woodward	30953499	2446	W57 (b)	L24 (w)	W46 (b)	D72 (w)	W25 (b)	W26 (w)	L3 (b)	W39 (w)	W11 (b)	 6.5	1183.33	
+7	FM Jason Wang	30908124	2409	D27 (w)	W56 (b)	W34 (w)	W14 (b)	D10 (w)	W4 (b)	D9 (w)	D1 (w)	D3 (b)	 6.5	1183.33	
+8	GM Viktor Gazik	14928752	2554	W33 (w)	D18 (b)	W20 (w)	D17 (b)	D16 (w)	D19 (b)	D24 (w)	D10 (b)	W30 (w)	 6.0		
+9	IM Brian Escalante	3819566	2469	W63 (b)	W23 (w)	D22 (b)	D21 (w)	D26 (b)	W39 (w)	D7 (b)	D11 (w)	D12 (b)	 6.0		
+10	IM Safal Bora	2066149	2457	W55 (b)	W41 (w)	D24 (b)	W22 (w)	D7 (b)	L1 (w)	W44 (b)	D8 (w)	D5 (b)	 6.0		
+11	GM Bartlomiej Macieja	1104306	2525	W45 (b)	D30 (w)	L21 (b)	D48 (w)	W36 (w)	W42 (b)	W17 (w)	D9 (b)	L6 (w)	 5.5		
+12	IM Juraj Druska	14915650	2513	D35 (w)	W79 (b)	D27 (w)	W78 (b)	D17 (w)	W18 (b)	D2 (w)	L5 (b)	D9 (w)	 5.5		
+13	GM David Brodsky	2073250	2491	W49 (w)	W39 (b)	W42 (w)	L4 (b)	D21 (w)	L17 (b)	W20 (w)	W27 (b)	L2 (w)	 5.5		
+14	GM Srivatshav Peddi Rahul	25059653	2481	W88 (b)	D31 (w)	W60 (b)	L7 (w)	D22 (b)	D41 (w)	D23 (b)	W54 (w)	D24 (b)	 5.5		
+15	GM David Berczes	722960	2439	X89	L72 (w)	D48 (b)	W60 (w)	D43 (b)	L44 (w)	W57 (b)	D34 (b)	W45 (w)	 5.5		
+16	FM Ryo Wenyu Chen	7003072	2425	W86 (b)	W43 (w)	W72 (b)	L1 (w)	D8 (b)	L3 (w)	W41 (b)	D28 (w)	D23 (b)	 5.5		
+17	GM Melikset Khachiyan	13300512	2418	W80 (w)	X25	D2 (b)	D8 (w)	D12 (b)	W13 (w)	L11 (b)	D24 (w)	H---	 5.5		
+18	FM Jakub Fus	1193023	2416	W58 (b)	D8 (w)	W31 (b)	L2 (w)	W72 (b)	L12 (w)	D54 (b)	W44 (w)	D26 (b)	 5.5		
+19	IM Aaron Grabinsky	2087090	2401	W65 (b)	L1 (w)	W57 (b)	D25 (w)	W62 (b)	D8 (w)	W53 (w)	L4 (b)	D20 (w)	 5.5		
+20	FM Anish Vivekananthan	2090775	2378	H---	W90 (w)	L8 (b)	W51 (w)	D44 (b)	W48 (w)	L13 (b)	W46 (w)	D19 (b)	 5.5		
+21	IM Ekin Baris Ozenir	6357415	2369	W82 (w)	D4 (b)	W11 (w)	D9 (b)	D13 (b)	L29 (w)	D26 (b)	D48 (w)	W50 (b)	 5.5		
+22	IM Michael A Mulyar	2008742	2363	W68 (w)	W53 (b)	D9 (w)	L10 (b)	D14 (w)	D27 (b)	D35 (w)	D36 (b)	W49 (w)	 5.5		
+23	FM Tanitoluwa Adewumi	30966396	2307	W75 (w)	L9 (b)	W47 (w)	L27 (b)	W81 (w)	D33 (b)	D14 (w)	W53 (b)	D16 (w)	 5.5		
+24	FM Joshua Colas	2044447	2294	W70 (w)	W6 (b)	D10 (w)	W38 (b)	D4 (w)	L5 (w)	D8 (b)	D17 (b)	D14 (w)	 5.5	675.00	
+25	FM Sharvesh Deviprasath	30938228	2278	W61 (b)	F17	W87 (w)	D19 (b)	L6 (w)	W51 (w)	D30 (b)	D29 (w)	W48 (b)	 5.5	675.00	
+26	CM Eric Chang Liu	30960240	2174	L4 (w)	W66 (b)	W28 (w)	W54 (b)	D9 (w)	L6 (b)	D21 (w)	W31 (b)	D18 (w)	 5.5	675.00	
+27	Benjamin Yan	30919827	2020	D7 (b)	W29 (w)	D12 (b)	W23 (w)	L5 (b)	D22 (w)	W43 (b)	L13 (w)	W41 (b)	 5.5	675.00	
+28	GM Martin Petrov	2911086	2531	D44 (b)	D46 (w)	L26 (b)	W58 (w)	W49 (w)	D54 (b)	D31 (w)	D16 (b)	D33 (w)	 5.0		
+29	IM Andrei Macovei	13904680	2449	D56 (w)	L27 (b)	W61 (b)	W65 (w)	D42 (w)	W21 (b)	L4 (w)	D25 (b)	D34 (w)	 5.0		
+30	FM Sandeep Sethuraman	30941091	2386	W66 (w)	D11 (b)	L4 (w)	W73 (b)	W34 (w)	L2 (b)	D25 (w)	W35 (b)	L8 (b)	 5.0		
+31	FM Grayson Rorrer	30944996	2311	X---	D14 (b)	L18 (w)	L63 (b)	W37 (w)	W69 (w)	D28 (b)	L26 (w)	W59 (b)	 5.0		
+32	Shelev Oberoi	30908590	2307	D50 (b)	L60 (w)	D74 (b)	D59 (w)	D65 (b)	L52 (w)	W51 (b)	W57 (w)	W55 (b)	 5.0		
+33	Gunnar James Andersen	30920795	2230	L8 (b)	W58 (w)	L5 (b)	W67 (w)	W52 (b)	D23 (w)	L39 (b)	W62 (w)	D28 (b)	 5.0		
+34	Nicolas De La Colina	30946921	2211	D3 (b)	W74 (w)	L7 (b)	W84 (w)	L30 (b)	D61 (w)	W52 (b)	D15 (w)	D29 (b)	 5.0		
+35	FM Seth Homa	2031779	2191	D12 (b)	D52 (w)	L38 (b)	W74 (w)	D61 (b)	W72 (w)	D22 (b)	L30 (w)	W53 (w)	 5.0		
+36	Raghav Venkat	2096250	2185	H---	W84 (w)	D3 (b)	L5 (w)	L11 (b)	W65 (w)	W61 (b)	D22 (w)	H---	 5.0		
+37	FM Eugene Yanayt	2020165	1968	L41 (b)	W55 (w)	L43 (b)	W86 (w)	L31 (b)	W58 (w)	L48 (b)	W72 (w)	W62 (b)	 5.0		
+38	Aryan Gutla	30945968	2411	X---	L2 (b)	W35 (w)	L24 (w)	L48 (b)	D59 (w)	W74 (b)	L45 (w)	W69 (b)	 4.5		
+39	FM Vincent Tsay	30931835	2378	W67 (b)	L13 (w)	W86 (b)	D43 (w)	W63 (w)	L9 (b)	W33 (w)	L6 (b)	U---	 4.5		
+40	IM Tamas Petenyi	14909090	2364	D74 (b)	D59 (w)	W52 (b)	D44 (w)	L3 (b)	D60 (w)	D50 (b)	D55 (w)	D46 (b)	 4.5		
+41	FM Liam Henry Putnam	30938279	2299	W37 (w)	L10 (b)	D73 (w)	W56 (b)	D53 (w)	D14 (b)	L16 (w)	W63 (b)	L27 (w)	 4.5		
+42	WIM Sila Caglar	6364063	2283	W76 (b)	W5 (w)	L13 (b)	D3 (w)	D29 (b)	L11 (w)	D60 (b)	D59 (w)	D52 (b)	 4.5		
+43	FM Maria Malicka	1197576	2273	W71 (w)	L16 (b)	W37 (w)	D39 (b)	D15 (w)	L53 (b)	L27 (w)	D68 (b)	W63 (w)	 4.5		
+44	FM Ruiyang Yan	30919860	2219	D28 (w)	W69 (b)	D53 (w)	D40 (b)	D20 (w)	W15 (b)	L10 (w)	L18 (b)	D47 (w)	 4.5		
+45	Nicholas F Matta	30914523	2201	L11 (w)	D65 (b)	W68 (w)	L53 (b)	W75 (w)	D63 (b)	D49 (w)	W38 (b)	L15 (b)	 4.5		
+46	Andrew Jiang	30953510	2178	H---	D28 (b)	L6 (w)	L81 (b)	W82 (w)	W66 (b)	W68 (w)	L20 (b)	D40 (w)	 4.5		
+47	Atulya Vaidya	2047713	2154	L1 (b)	W67 (w)	L23 (b)	L69 (w)	W84 (b)	L50 (w)	W65 (b)	W61 (w)	D44 (b)	 4.5		
+48	Sudarshan Sriniaiyer	30937213	2151	L53 (w)	W82 (b)	D15 (w)	D11 (b)	W38 (w)	L20 (b)	W37 (w)	D21 (b)	L25 (w)	 4.5		
+49	Christopher Toolin	2024543	2146	L13 (b)	D51 (w)	W50 (b)	W85 (w)	L28 (b)	D62 (w)	D45 (b)	W60 (w)	L22 (b)	 4.5		
+50	Vincent Latorre	2636891	1969	D32 (w)	L62 (b)	L49 (w)	W79 (b)	D56 (w)	W47 (b)	D40 (w)	W64 (b)	L21 (w)	 4.5		
+51	Isaac Wang	30977185	1944	L54 (w)	D49 (b)	W79 (w)	L20 (b)	W80 (w)	L25 (b)	L32 (w)	W81 (b)	W68 (w)	 4.5		
+52	Peter Zheng	30927650	1802	H---	D35 (b)	L40 (w)	W64 (b)	L33 (w)	W32 (b)	L34 (w)	W73 (b)	D42 (w)	 4.5		
+53	IM Eyal Grinberg	2806070	2496	W48 (b)	L22 (w)	D44 (b)	W45 (w)	D41 (b)	W43 (w)	L19 (b)	L23 (w)	L35 (b)	 4.0		
+54	FM Erick Zhao	30946930	2297	W51 (b)	W85 (w)	L1 (b)	L26 (w)	W57 (b)	D28 (w)	D18 (w)	L14 (b)	U---	 4.0		
+55	Vignesh Anand	30916348	2069	L10 (w)	L37 (b)	D82 (w)	L68 (b)	W79 (w)	W77 (b)	W75 (w)	D40 (b)	L32 (w)	 4.0		
+56	Yu-cheng Liang	30958121	2068	D29 (b)	L7 (w)	W77 (b)	L41 (w)	D50 (b)	D74 (w)	D72 (b)	D69 (w)	H---	 4.0		
+57	Rohan Padhye	30946034	2059	L6 (w)	W70 (b)	L19 (w)	W66 (b)	L54 (w)	W81 (b)	L15 (w)	L32 (b)	W71 (w)	 4.0		
+58	Rose Atwell	30951011	2025	L18 (w)	L33 (b)	W70 (w)	L28 (b)	W71 (w)	L37 (b)	D66 (w)	D75 (b)	W76 (w)	 4.0		
+59	Advaith Vijayakumar	30933196	2013	H---	D40 (b)	L78 (w)	D32 (b)	D68 (w)	D38 (b)	W73 (w)	D42 (b)	L31 (w)	 4.0		
+60	Kelsey Liu	30944481	1990	H---	W32 (b)	L14 (w)	L15 (b)	W73 (w)	D40 (b)	D42 (w)	L49 (b)	H---	 4.0		
+61	Benson Schexnaydre	30935547	1891	L25 (w)	W64 (b)	L29 (w)	W87 (b)	D35 (w)	D34 (b)	L36 (w)	L47 (b)	W75 (w)	 4.0		
+62	IM Dante M Beukes	15200540	2239	L2 (w)	W50 (w)	D85 (b)	W75 (b)	L19 (w)	D49 (b)	D63 (w)	L33 (b)	L37 (w)	 3.5		
+63	Arsal Gardezi	30949521	2081	L9 (w)	D75 (b)	X---	W31 (w)	L39 (b)	D45 (w)	D62 (b)	L41 (w)	L43 (b)	 3.5		
+64	Kevin Xu	30922070	2070	L5 (b)	L61 (w)	W83 (b)	L52 (w)	D67 (b)	W84 (w)	D69 (b)	L50 (w)	H---	 3.5		
+65	Adrian Kondakov	30920302	2011	L19 (w)	D45 (w)	W88 (b)	L29 (b)	D32 (w)	L36 (b)	L47 (w)	D83 (b)	W82 (b)	 3.5		
+66	Ronak Hiwale	30975336	1999	L30 (b)	L26 (w)	W76 (b)	L57 (w)	W83 (b)	L46 (w)	D58 (b)	H---	H---	 3.5		
+67	Shreyas Nayak	30915791	1987	L39 (w)	L47 (b)	W71 (w)	L33 (b)	D64 (w)	L73 (b)	W83 (w)	L70 (b)	W84 (w)	 3.5		
+68	Vaseegaran Nandhakumar	30946409	1983	L22 (b)	D88 (w)	L45 (b)	W55 (w)	D59 (b)	W86 (w)	L46 (b)	D43 (w)	L51 (b)	 3.5		
+69	Sreekar Gangavarapu	30950309	1976	H---	L44 (w)	H---	W47 (b)	D78 (w)	L31 (b)	D64 (w)	D56 (b)	L38 (w)	 3.5		
+70	Shawn Noland	2017814	1926	L24 (b)	L57 (w)	L58 (b)	H---	H---	D83 (w)	W84 (b)	W67 (w)	U---	 3.5		
+71	Rafael Adam	2630958	1888	L43 (b)	L86 (w)	L67 (b)	W90 (w)	L58 (b)	W82 (b)	D80 (w)	W74 (w)	L57 (b)	 3.5		
+72	Deepak Aaron	2009412	2279	W77 (w)	W15 (b)	L16 (w)	D6 (b)	L18 (w)	L35 (b)	D56 (w)	L37 (b)	U---	 3.0		
+73	Steve Wongso	30939020	2100	L85 (b)	W76 (w)	D41 (b)	L30 (w)	L60 (b)	W67 (w)	L59 (b)	L52 (w)	H---	 3.0		
+74	Niko Pompe	14643413	1984	D40 (w)	L34 (b)	D32 (w)	L35 (b)	W87 (w)	D56 (b)	L38 (w)	L71 (b)	D83 (w)	 3.0		
+75	Robert Sanchez	2034360	1971	L23 (b)	D63 (w)	W90 (b)	L62 (w)	L45 (b)	W87 (w)	L55 (b)	D58 (w)	L61 (b)	 3.0		
+76	Ethan Guo	30976359	1920	L42 (w)	L73 (b)	L66 (w)	B---	D86 (b)	D80 (b)	D81 (w)	D79 (w)	L58 (b)	 3.0		
+77	Bryan B Leano	2092611	1911	L72 (b)	H---	L56 (w)	L80 (b)	B---	L55 (w)	D79 (b)	D82 (w)	H---	 3.0		
+78	FM Ryan Amburgy	30924820	2250	W83 (b)	L3 (w)	W59 (b)	L12 (w)	D69 (b)	U---	U---	U---	U---	 2.5		
+79	Alex Zhang	30967988	2092	H---	L12 (w)	L51 (b)	L50 (w)	L55 (b)	B---	D77 (w)	D76 (b)	U---	 2.5		
+80	Mark W Dejmek	2017628	2042	L17 (b)	D83 (w)	L84 (b)	W77 (w)	L51 (b)	D76 (w)	D71 (b)	U---	U---	 2.5		
+81	William Wu	30982049	2024	H---	H---	U---	W46 (w)	L23 (b)	L57 (w)	D76 (b)	L51 (w)	U---	 2.5		
+82	Alec Beck	30915325	1987	L21 (b)	L48 (w)	D55 (b)	D83 (w)	L46 (b)	L71 (w)	B---	D77 (b)	L65 (w)	 2.5		
+83	Lucius Melillo	30958245	1849	L78 (w)	D80 (b)	L64 (w)	D82 (b)	L66 (w)	D70 (b)	L67 (b)	D65 (w)	D74 (b)	 2.5		
+84	Ajitesh Nair	30966329	1800	H---	L36 (b)	W80 (w)	L34 (b)	L47 (w)	L64 (b)	L70 (w)	B---	L67 (b)	 2.5		
+85	IM Zurab Javakhadze	13603647	2477	W73 (w)	L54 (b)	D62 (w)	L49 (b)	U---	U---	U---	U---	U---	 1.5		
+86	Nelson Wilfredo Fernandez	8401594	2043	L16 (w)	W71 (b)	L39 (w)	L37 (b)	D76 (w)	L68 (b)	U---	U---	U---	 1.5		
+87	Ryan G Thurlow	12712516	2064	H---	H---	L25 (b)	L61 (w)	L74 (b)	L75 (b)	U---	U---	U---	 1.0		
+88	FM Doug D Eckert	2001993	2133	L14 (w)	D68 (b)	L65 (w)	U---	U---	U---	U---	U---	U---	 0.5		
+89	Ganesh Kumarappan	30900034	2046	F15	H---	U---	U---	U---	U---	U---	U---	U---	 0.5		
+90	Paul Yuu Iinuma	2031809	2017	H---	L20 (b)	L75 (w)	L71 (b)	U---	U---	U---	U---	U---	 0.5		
+

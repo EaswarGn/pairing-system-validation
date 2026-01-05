@@ -1,0 +1,802 @@
+{
+    "Sections": [
+        {
+            "Section name": "t3_s1_r1",
+            "Type": 0,
+            "Number of players": 66,
+            "Number of teams": 31,
+            "Rounds paired": 1,
+            "Rounds played": 0,
+            "Regular": true,
+            "Rapid": false,
+            "Blitz": false,
+            "Acceleration": 0,
+            "Use team pairings": true,
+            "Team cut": 4,
+            "Players": [
+                {
+                    "Pair number": 1,
+                    "Name": "Divvela, Vignesh",
+                    "Rating": 999,
+                    "Team": "DNGES",
+                    "Results": [
+                        "~;34;B"
+                    ]
+                },
+                {
+                    "Pair number": 2,
+                    "Name": "Robinson, Richard",
+                    "Rating": 973,
+                    "Team": "CHSES",
+                    "Results": [
+                        "~;37;W"
+                    ]
+                },
+                {
+                    "Pair number": 3,
+                    "Name": "Graves, Nathanual",
+                    "Rating": 970,
+                    "Team": "LNCHS",
+                    "Results": [
+                        "~;35;B"
+                    ]
+                },
+                {
+                    "Pair number": 4,
+                    "Name": "Amdur, Thomas",
+                    "Rating": 960,
+                    "Team": "EMMHS",
+                    "Results": [
+                        "~;36;W"
+                    ]
+                },
+                {
+                    "Pair number": 5,
+                    "Name": "Mansaray, Mabinti",
+                    "Rating": 957,
+                    "Team": "RAPCS",
+                    "Results": [
+                        "~;38;B"
+                    ]
+                },
+                {
+                    "Pair number": 6,
+                    "Name": "Guduru, Rohan",
+                    "Rating": 948,
+                    "Team": "LNVLS",
+                    "Results": [
+                        "~;40;W"
+                    ]
+                },
+                {
+                    "Pair number": 7,
+                    "Name": "Saravanamoorthy, Karthikeyan",
+                    "Rating": 938,
+                    "Team": "HHVMS",
+                    "Results": [
+                        "~;39;B"
+                    ]
+                },
+                {
+                    "Pair number": 8,
+                    "Name": "Trickey, Kareem",
+                    "Rating": 929,
+                    "Team": "ABNHS",
+                    "Results": [
+                        "~;41;W"
+                    ]
+                },
+                {
+                    "Pair number": 9,
+                    "Name": "Leung, Max",
+                    "Rating": 924,
+                    "Team": "EPSCS",
+                    "Results": [
+                        "~;42;B"
+                    ]
+                },
+                {
+                    "Pair number": 10,
+                    "Name": "Goldenberg, Ezra",
+                    "Rating": 919,
+                    "Team": "SCLDS",
+                    "Results": [
+                        "~;43;W"
+                    ]
+                },
+                {
+                    "Pair number": 11,
+                    "Name": "Rudnytsky, Gregory",
+                    "Rating": 903,
+                    "Team": "ABNHS",
+                    "Results": [
+                        "~;44;B"
+                    ]
+                },
+                {
+                    "Pair number": 12,
+                    "Name": "Farzaneh, Romina",
+                    "Rating": 896,
+                    "Team": "ABNHS",
+                    "Results": [
+                        "~;45;W"
+                    ]
+                },
+                {
+                    "Pair number": 13,
+                    "Name": "Jazexhiu, Alex",
+                    "Rating": 887,
+                    "Team": "ABNHS",
+                    "Results": [
+                        "~;46;B"
+                    ]
+                },
+                {
+                    "Pair number": 14,
+                    "Name": "Wachs-Lauret, Lyssandre",
+                    "Rating": 883,
+                    "Team": "HRRTS",
+                    "Results": [
+                        "~;47;W"
+                    ]
+                },
+                {
+                    "Pair number": 15,
+                    "Name": "Foley, Vincent J",
+                    "Rating": 882,
+                    "Team": "ABNHS",
+                    "Results": [
+                        "~;48;B"
+                    ]
+                },
+                {
+                    "Pair number": 16,
+                    "Name": "Kennerly, Justin",
+                    "Rating": 875,
+                    "Team": "SRSLS",
+                    "Results": [
+                        "~;49;W"
+                    ]
+                },
+                {
+                    "Pair number": 17,
+                    "Name": "Coates, Harrison",
+                    "Rating": 875,
+                    "Team": "CNRKS",
+                    "Results": [
+                        "~;50;B"
+                    ]
+                },
+                {
+                    "Pair number": 18,
+                    "Name": "Kuan, Sophia",
+                    "Rating": 846,
+                    "Team": "BRGYS",
+                    "Results": [
+                        "~;52;W"
+                    ]
+                },
+                {
+                    "Pair number": 19,
+                    "Name": "Johnson, Trenton R",
+                    "Rating": 840,
+                    "Team": "BRADS",
+                    "Results": [
+                        "~;51;B"
+                    ]
+                },
+                {
+                    "Pair number": 20,
+                    "Name": "Acero, Orlando",
+                    "Rating": 839,
+                    "Team": "CHSES",
+                    "Results": [
+                        "~;53;W"
+                    ]
+                },
+                {
+                    "Pair number": 21,
+                    "Name": "Moghadam, Dean",
+                    "Rating": 837,
+                    "Team": "PNBHS",
+                    "Results": [
+                        "~;54;B"
+                    ]
+                },
+                {
+                    "Pair number": 22,
+                    "Name": "Kuan, Nerissa",
+                    "Rating": 818,
+                    "Team": "PLMBS",
+                    "Results": [
+                        "~;55;W"
+                    ]
+                },
+                {
+                    "Pair number": 23,
+                    "Name": "Konda, Ratan",
+                    "Rating": 817,
+                    "Team": "CNSTS",
+                    "Results": [
+                        "~;56;B"
+                    ]
+                },
+                {
+                    "Pair number": 24,
+                    "Name": "Andrew, Jason",
+                    "Rating": 798,
+                    "Team": "CHSES",
+                    "Results": [
+                        "~;57;W"
+                    ]
+                },
+                {
+                    "Pair number": 25,
+                    "Name": "Moore, Ava R",
+                    "Rating": 794,
+                    "Team": "BFRKS",
+                    "Results": [
+                        "~;58;B"
+                    ]
+                },
+                {
+                    "Pair number": 26,
+                    "Name": "Hilliard, Alexander T",
+                    "Rating": 793,
+                    "Team": "ABNHS",
+                    "Results": [
+                        "~;59;W"
+                    ]
+                },
+                {
+                    "Pair number": 27,
+                    "Name": "Kleiman, Elijah L",
+                    "Rating": 792,
+                    "Team": "ABNHS",
+                    "Results": [
+                        "~;60;B"
+                    ]
+                },
+                {
+                    "Pair number": 28,
+                    "Name": "Al-Suimaini, Alijah",
+                    "Rating": 755,
+                    "Team": "CHSES",
+                    "Results": [
+                        "~;61;W"
+                    ]
+                },
+                {
+                    "Pair number": 29,
+                    "Name": "Whaley, Jordan",
+                    "Rating": 749,
+                    "Team": "CHSES",
+                    "Results": [
+                        "~;62;B"
+                    ]
+                },
+                {
+                    "Pair number": 30,
+                    "Name": "Dukuly, Fanta",
+                    "Rating": 730,
+                    "Team": "SCLDS",
+                    "Results": [
+                        "~;63;W"
+                    ]
+                },
+                {
+                    "Pair number": 31,
+                    "Name": "Jones, Marcus",
+                    "Rating": 727,
+                    "Team": "BRGYS",
+                    "Results": [
+                        "~;64;B"
+                    ]
+                },
+                {
+                    "Pair number": 32,
+                    "Name": "Jampana, Praneet",
+                    "Rating": 675,
+                    "Team": "MNVMS",
+                    "Results": [
+                        "~;65;W"
+                    ]
+                },
+                {
+                    "Pair number": 33,
+                    "Name": "Hoffmann, Oscar",
+                    "Rating": 663,
+                    "Team": "ABNHS",
+                    "Results": [
+                        "~;66;B"
+                    ]
+                },
+                {
+                    "Pair number": 34,
+                    "Name": "Shepard, Matthew",
+                    "Rating": 655,
+                    "Team": "WNSBS",
+                    "Results": [
+                        "~;1;W"
+                    ]
+                },
+                {
+                    "Pair number": 35,
+                    "Name": "Joyce, Timothy",
+                    "Rating": 609,
+                    "Team": "CHSES",
+                    "Results": [
+                        "~;3;W"
+                    ]
+                },
+                {
+                    "Pair number": 36,
+                    "Name": "Collazo, Isaac",
+                    "Rating": 606,
+                    "Team": "CHSES",
+                    "Results": [
+                        "~;4;B"
+                    ]
+                },
+                {
+                    "Pair number": 37,
+                    "Name": "Teytelboym, Lev",
+                    "Rating": 593,
+                    "Team": "MERES",
+                    "Results": [
+                        "~;2;B"
+                    ]
+                },
+                {
+                    "Pair number": 38,
+                    "Name": "Benjamin, Karina",
+                    "Rating": 586,
+                    "Team": "MERES",
+                    "Results": [
+                        "~;5;W"
+                    ]
+                },
+                {
+                    "Pair number": 39,
+                    "Name": "Jairath, Viraaj",
+                    "Rating": 580,
+                    "Team": "LNVLS",
+                    "Results": [
+                        "~;7;W"
+                    ]
+                },
+                {
+                    "Pair number": 40,
+                    "Name": "Hodgson, Alexander",
+                    "Rating": 565,
+                    "Team": "CHSES",
+                    "Results": [
+                        "~;6;B"
+                    ]
+                },
+                {
+                    "Pair number": 41,
+                    "Name": "McCrea, Hayes",
+                    "Rating": 560,
+                    "Team": "BLMHS",
+                    "Results": [
+                        "~;8;B"
+                    ]
+                },
+                {
+                    "Pair number": 42,
+                    "Name": "Teytelboym, Matthew",
+                    "Rating": 553,
+                    "Team": "CNTHS",
+                    "Results": [
+                        "~;9;W"
+                    ]
+                },
+                {
+                    "Pair number": 43,
+                    "Name": "Wear, Lillian",
+                    "Rating": 537,
+                    "Team": "CHSES",
+                    "Results": [
+                        "~;10;B"
+                    ]
+                },
+                {
+                    "Pair number": 44,
+                    "Name": "Shrivastava, Ojas",
+                    "Rating": 529,
+                    "Team": "NBTMS",
+                    "Results": [
+                        "~;11;W"
+                    ]
+                },
+                {
+                    "Pair number": 45,
+                    "Name": "Rowles, Braedon",
+                    "Rating": 529,
+                    "Team": "COMWS",
+                    "Results": [
+                        "~;12;B"
+                    ]
+                },
+                {
+                    "Pair number": 46,
+                    "Name": "Branderbit, Eric M",
+                    "Rating": 514,
+                    "Team": "CNRKS",
+                    "Results": [
+                        "~;13;W"
+                    ]
+                },
+                {
+                    "Pair number": 47,
+                    "Name": "Winarto, Maximillian",
+                    "Rating": 499,
+                    "Team": "CHSES",
+                    "Results": [
+                        "~;14;B"
+                    ]
+                },
+                {
+                    "Pair number": 48,
+                    "Name": "Cornish, Terrance",
+                    "Rating": 488,
+                    "Team": "UPDRS",
+                    "Results": [
+                        "~;15;W"
+                    ]
+                },
+                {
+                    "Pair number": 49,
+                    "Name": "Diaz, Joseph",
+                    "Rating": 465,
+                    "Team": "WNSBS",
+                    "Results": [
+                        "~;16;B"
+                    ]
+                },
+                {
+                    "Pair number": 50,
+                    "Name": "Armon, Tess S",
+                    "Rating": 443,
+                    "Team": "ABNHS",
+                    "Results": [
+                        "~;17;W"
+                    ]
+                },
+                {
+                    "Pair number": 51,
+                    "Name": "Bui, Christopher",
+                    "Rating": 432,
+                    "Team": "BRGYS",
+                    "Results": [
+                        "~;19;W"
+                    ]
+                },
+                {
+                    "Pair number": 52,
+                    "Name": "Kamara, Kelvin",
+                    "Rating": 414,
+                    "Team": "WSLHS",
+                    "Results": [
+                        "~;18;B"
+                    ]
+                },
+                {
+                    "Pair number": 53,
+                    "Name": "Ngo, Anthony",
+                    "Rating": 414,
+                    "Team": "BRGYS",
+                    "Results": [
+                        "~;20;B"
+                    ]
+                },
+                {
+                    "Pair number": 54,
+                    "Name": "Mouttet, Max",
+                    "Rating": 382,
+                    "Team": "PLMBS",
+                    "Results": [
+                        "~;21;W"
+                    ]
+                },
+                {
+                    "Pair number": 55,
+                    "Name": "Botello, Kevin",
+                    "Rating": 379,
+                    "Team": "CHSES",
+                    "Results": [
+                        "~;22;B"
+                    ]
+                },
+                {
+                    "Pair number": 56,
+                    "Name": "Kibler, Logan J",
+                    "Rating": 370,
+                    "Team": "NWOXS",
+                    "Results": [
+                        "~;23;W"
+                    ]
+                },
+                {
+                    "Pair number": 57,
+                    "Name": "Aiello, Ethan J",
+                    "Rating": 366,
+                    "Team": "NWOXS",
+                    "Results": [
+                        "~;24;B"
+                    ]
+                },
+                {
+                    "Pair number": 58,
+                    "Name": "Rinehart, Buck H",
+                    "Rating": 351,
+                    "Team": "COMWS",
+                    "Results": [
+                        "~;25;W"
+                    ]
+                },
+                {
+                    "Pair number": 59,
+                    "Name": "Holley, Damier",
+                    "Rating": 343,
+                    "Team": "WRKPS",
+                    "Results": [
+                        "~;26;B"
+                    ]
+                },
+                {
+                    "Pair number": 60,
+                    "Name": "Thumma, Alyssa N",
+                    "Rating": 311,
+                    "Team": "COMWS",
+                    "Results": [
+                        "~;27;W"
+                    ]
+                },
+                {
+                    "Pair number": 61,
+                    "Name": "Trippett, Jade",
+                    "Rating": 241,
+                    "Team": "BRGYS",
+                    "Results": [
+                        "~;28;B"
+                    ]
+                },
+                {
+                    "Pair number": 62,
+                    "Name": "Atkinson, Chance W",
+                    "Rating": 239,
+                    "Team": "WNSBS",
+                    "Results": [
+                        "~;29;W"
+                    ]
+                },
+                {
+                    "Pair number": 63,
+                    "Name": "Reid, Adanya",
+                    "Rating": 185,
+                    "Team": "WDLNS",
+                    "Results": [
+                        "~;30;B"
+                    ]
+                },
+                {
+                    "Pair number": 64,
+                    "Name": "Chen, Nicole",
+                    "Rating": 146,
+                    "Team": "ABNHS",
+                    "Results": [
+                        "~;31;W"
+                    ]
+                },
+                {
+                    "Pair number": 65,
+                    "Name": "Quap, Damien",
+                    "Rating": 109,
+                    "Team": "BRGYS",
+                    "Results": [
+                        "~;32;B"
+                    ]
+                },
+                {
+                    "Pair number": 66,
+                    "Name": "Baur, Carl W",
+                    "Rating": 103,
+                    "Team": "CNRKS",
+                    "Results": [
+                        "~;33;W"
+                    ]
+                }
+            ],
+            "Teams": [
+                {
+                    "Pair number": 1,
+                    "Full name": "DNGES",
+                    "Team code": "DNGES"
+                },
+                {
+                    "Pair number": 2,
+                    "Full name": "CHSES",
+                    "Team code": "CHSES"
+                },
+                {
+                    "Pair number": 3,
+                    "Full name": "LNCHS",
+                    "Team code": "LNCHS"
+                },
+                {
+                    "Pair number": 4,
+                    "Full name": "EMMHS",
+                    "Team code": "EMMHS"
+                },
+                {
+                    "Pair number": 5,
+                    "Full name": "RAPCS",
+                    "Team code": "RAPCS"
+                },
+                {
+                    "Pair number": 6,
+                    "Full name": "LNVLS",
+                    "Team code": "LNVLS"
+                },
+                {
+                    "Pair number": 7,
+                    "Full name": "HHVMS",
+                    "Team code": "HHVMS"
+                },
+                {
+                    "Pair number": 8,
+                    "Full name": "ABNHS",
+                    "Team code": "ABNHS"
+                },
+                {
+                    "Pair number": 9,
+                    "Full name": "EPSCS",
+                    "Team code": "EPSCS"
+                },
+                {
+                    "Pair number": 10,
+                    "Full name": "SCLDS",
+                    "Team code": "SCLDS"
+                },
+                {
+                    "Pair number": 11,
+                    "Full name": "HRRTS",
+                    "Team code": "HRRTS"
+                },
+                {
+                    "Pair number": 12,
+                    "Full name": "SRSLS",
+                    "Team code": "SRSLS"
+                },
+                {
+                    "Pair number": 13,
+                    "Full name": "CNRKS",
+                    "Team code": "CNRKS"
+                },
+                {
+                    "Pair number": 14,
+                    "Full name": "BRGYS",
+                    "Team code": "BRGYS"
+                },
+                {
+                    "Pair number": 15,
+                    "Full name": "BRADS",
+                    "Team code": "BRADS"
+                },
+                {
+                    "Pair number": 16,
+                    "Full name": "PNBHS",
+                    "Team code": "PNBHS"
+                },
+                {
+                    "Pair number": 17,
+                    "Full name": "PLMBS",
+                    "Team code": "PLMBS"
+                },
+                {
+                    "Pair number": 18,
+                    "Full name": "CNSTS",
+                    "Team code": "CNSTS"
+                },
+                {
+                    "Pair number": 19,
+                    "Full name": "BFRKS",
+                    "Team code": "BFRKS"
+                },
+                {
+                    "Pair number": 20,
+                    "Full name": "MNVMS",
+                    "Team code": "MNVMS"
+                },
+                {
+                    "Pair number": 21,
+                    "Full name": "WNSBS",
+                    "Team code": "WNSBS"
+                },
+                {
+                    "Pair number": 22,
+                    "Full name": "MERES",
+                    "Team code": "MERES"
+                },
+                {
+                    "Pair number": 23,
+                    "Full name": "BLMHS",
+                    "Team code": "BLMHS"
+                },
+                {
+                    "Pair number": 24,
+                    "Full name": "CNTHS",
+                    "Team code": "CNTHS"
+                },
+                {
+                    "Pair number": 25,
+                    "Full name": "NBTMS",
+                    "Team code": "NBTMS"
+                },
+                {
+                    "Pair number": 26,
+                    "Full name": "COMWS",
+                    "Team code": "COMWS"
+                },
+                {
+                    "Pair number": 27,
+                    "Full name": "UPDRS",
+                    "Team code": "UPDRS"
+                },
+                {
+                    "Pair number": 28,
+                    "Full name": "WSLHS",
+                    "Team code": "WSLHS"
+                },
+                {
+                    "Pair number": 29,
+                    "Full name": "NWOXS",
+                    "Team code": "NWOXS"
+                },
+                {
+                    "Pair number": 30,
+                    "Full name": "WRKPS",
+                    "Team code": "WRKPS"
+                },
+                {
+                    "Pair number": 31,
+                    "Full name": "WDLNS",
+                    "Team code": "WDLNS"
+                }
+            ],
+            "Byes": [
+                {
+                    "Pair number": 16,
+                    "Round": 4,
+                    "Points": 0.5
+                },
+                {
+                    "Pair number": 60,
+                    "Round": 4,
+                    "Points": 0.5
+                },
+                {
+                    "Pair number": 65,
+                    "Round": 5,
+                    "Points": 1
+                },
+                {
+                    "Pair number": 66,
+                    "Round": 4,
+                    "Points": 1
+                }
+            ],
+            "Withdrawals": [
+                {
+                    "Pair number": 39,
+                    "Rounds withdrawn": [
+                        4,
+                        5
+                    ]
+                }
+            ]
+        }
+    ]
+}

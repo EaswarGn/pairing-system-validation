@@ -1,0 +1,141 @@
+SwissSys Standings. CCA_WO22: Under 1400 Merged (Standings (no tiebrk))
+#	Name	Rating	Team	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Rd 8	Rd 9	Total	Prize	
+1	Sebastien D'Stair	1359		W7 (b)	W127 (w)	W6 (b)	W10 (w)	W9 (b)	W18 (b)	W5 (w)	W13 (b)	D2 (w)	 8.5	8000.00	
+2	Rees Thomas	1396		W138 (b)	L92 (w)	W127 (b)	W106 (w)	W43 (b)	W48 (w)	W18 (b)	W8 (w)	D1 (b)	 7.5	3000.00	
+3	Amin Justin Armat	 925		W43 (b)	W33 (b)	W15 (w)	L24 (w)	W26 (b)	W16 (w)	D4 (b)	W23 (w)	W13 (b)	 7.5	3000.00	
+4	Daniel L Babakhan	1362		W118 (b)	D12 (w)	W38 (b)	W98 (w)	D16 (b)	W44 (w)	D3 (w)	D6 (b)	W19 (w)	 7.0	1100.00	
+5	Anthony Lopresto	1345	BRILOP	W97 (b)	W46 (w)	D39 (b)	W12 (w)	W51 (b)	W24 (w)	L1 (b)	D7 (w)	W20 (b)	 7.0	1100.00	
+6	Andrew Walden	1230		W86 (w)	W30 (b)	L1 (w)	W15 (b)	W58 (b)	D9 (w)	W51 (b)	D4 (w)	W16 (b)	 7.0	1200.00	
+7	Laixian Wan	1224		L1 (w)	D25 (b)	W102 (w)	W71 (b)	W88 (w)	W33 (b)	W32 (w)	D5 (b)	W18 (w)	 7.0	1200.00	
+8	Trent L Williams	1397		H---	D22 (w)	W105 (b)	D19 (b)	W38 (w)	W61 (b)	W12 (w)	L2 (b)	W31 (w)	 6.5	520.00	
+9	Joshua Smullens	1345		W99 (w)	W78 (b)	W65 (w)	W32 (b)	L1 (w)	D6 (b)	L20 (w)	W37 (b)	W34 (w)	 6.5	520.00	
+10	Adam Hinton	1294		W115 (w)	W121 (b)	W13 (w)	L1 (b)	L30 (w)	W14 (b)	D28 (w)	W27 (b)	W25 (w)	 6.5	520.00	
+11	Jeremy Zhang	1247		L51 (b)	D60 (w)	D73 (b)	W84 (w)	W69 (b)	D56 (w)	W87 (w)	W28 (b)	W26 (w)	 6.5	520.00	
+12	Benjamin Shapiro	1239		W42 (w)	D4 (b)	W120 (w)	L5 (b)	W85 (w)	W27 (b)	L8 (b)	W56 (w)	W30 (b)	 6.5	520.00	
+13	Caleb Landau	1396	CATLAN	W125 (b)	W77 (w)	L10 (b)	W62 (w)	W75 (b)	W31 (w)	W30 (b)	L1 (w)	L3 (w)	 6.0		
+14	Mathew J Brady	1371		W44 (b)	L18 (w)	W57 (b)	W59 (w)	L48 (b)	L10 (w)	W46 (b)	W62 (w)	W47 (b)	 6.0		
+15	Maddox Jackson	1341		W68 (b)	W47 (w)	L3 (b)	L6 (w)	W97 (b)	W46 (w)	W44 (b)	L18 (w)	W48 (b)	 6.0		
+16	Anshu Seetharaman	1341		D66 (w)	W80 (b)	W36 (w)	W85 (b)	D4 (w)	L3 (b)	W48 (w)	W43 (b)	L6 (w)	 6.0		
+17	Everitt Ros Clark	1327		W107 (w)	W69 (b)	W96 (w)	D51 (w)	L24 (b)	L20 (b)	H---	W49 (w)	W44 (b)	 6.0		
+18	Saharsh Santosh	1294		W131 (w)	W14 (b)	W54 (b)	W27 (w)	W41 (b)	L1 (w)	L2 (w)	W15 (b)	L7 (b)	 6.0		
+19	Shenghao Yuan	1250		D71 (b)	D73 (w)	W123 (b)	D8 (w)	W98 (b)	W42 (w)	W24 (b)	D20 (w)	L4 (b)	 6.0		
+20	Andrew Huang	1203		D57 (b)	D59 (w)	W116 (b)	W54 (w)	D27 (b)	W17 (w)	W9 (b)	D19 (b)	L5 (w)	 6.0		
+21	Saadhanaa Ashok	1202	ASHVEN	H---	W83 (b)	L85 (w)	D53 (w)	W62 (b)	W75 (w)	D31 (b)	W57 (w)	D23 (b)	 6.0		
+22	Joey Nepravishta	 891		W106 (w)	D8 (b)	D88 (w)	D34 (b)	L25 (w)	D50 (b)	W92 (w)	W87 (b)	W43 (w)	 6.0		
+23	Thomas DeDona	1397		W28 (w)	W95 (b)	L32 (w)	W63 (b)	W61 (w)	L30 (b)	W74 (w)	L3 (b)	D21 (w)	 5.5		
+24	Pamil Jain	1392	JAIJAI	W63 (w)	W62 (b)	D61 (w)	W3 (b)	W17 (w)	L5 (b)	L19 (w)	D32 (b)	H---	 5.5		
+25	Craig Hinkley	1391		L92 (b)	D7 (w)	W110 (w)	D46 (b)	W22 (b)	W40 (w)	D57 (b)	W60 (w)	L10 (b)	 5.5		
+26	Tony Delabre	1357		D80 (w)	D120 (b)	W81 (w)	W65 (b)	L3 (w)	W92 (b)	W58 (w)	D30 (w)	L11 (b)	 5.5		
+27	Tikila Nichols	1356		W94 (b)	W79 (w)	W48 (b)	L18 (b)	D20 (w)	L12 (w)	W35 (b)	L10 (w)	W60 (b)	 5.5		
+28	Alden Moore	1343		L23 (b)	W111 (w)	D46 (b)	W36 (w)	D47 (b)	W49 (w)	D10 (b)	L11 (w)	W64 (b)	 5.5		
+29	Venkata Sesha Sai Ab Ayyadevara	1342		W45 (w)	W128 (b)	D37 (w)	L31 (b)	L79 (w)	L80 (b)	W100 (w)	W99 (w)	W67 (b)	 5.5		
+30	Akshay Rajagopal	1337		W49 (b)	L6 (w)	W66 (b)	W117 (w)	W10 (b)	W23 (w)	L13 (w)	D26 (b)	L12 (w)	 5.5		
+31	Kevin Neil* Ahumada	1333		W113 (w)	W119 (b)	D41 (b)	W29 (w)	H---	L13 (b)	D21 (w)	W67 (w)	L8 (b)	 5.5		
+32	Sarayu Thandra	1312	THATHA	W84 (w)	W82 (b)	W23 (b)	L9 (w)	D42 (b)	W67 (w)	L7 (b)	D24 (w)	D36 (b)	 5.5		
+33	Justin* Dehorty	1308	DEHDEH	W101 (b)	L3 (w)	W49 (b)	D67 (w)	W39 (b)	L7 (w)	L38 (b)	W69 (w)	W51 (b)	 5.5		
+34	Angelina Verma	1296	VERWIL	D38 (b)	D66 (w)	W101 (b)	D22 (w)	L67 (b)	W99 (w)	W39 (b)	W51 (w)	L9 (b)	 5.5		
+35	Hashem* Zahedipour	1255	YEDZAD	L56 (w)	D91 (b)	W112 (w)	L87 (b)	W119 (w)	W88 (b)	L27 (w)	W80 (b)	W55 (w)	 5.5		
+36	Shyla Rana	1183	RANPAT	D55 (w)	W124 (w)	L16 (b)	L28 (b)	D71 (w)	W104 (b)	W105 (w)	W74 (b)	D32 (w)	 5.5		
+37	Ryan Guo	1129		W91 (w)	W56 (b)	D29 (b)	D41 (w)	L44 (b)	W53 (w)	D42 (b)	L9 (w)	W52 (b)	 5.5		
+38	Will Hutchins	1118		D34 (w)	W102 (b)	L4 (w)	W60 (w)	L8 (b)	W112 (b)	W33 (w)	L41 (w)	W57 (b)	 5.5		
+39	Giorgi Temo Shinjiashvili	1105		W136 (w)	W90 (b)	D5 (w)	L61 (b)	L33 (w)	W63 (b)	L34 (w)	W76 (b)	W58 (w)	 5.5		
+40	Carter William Gill	1007		D59 (b)	L57 (w)	W113 (b)	W91 (w)	W54 (b)	L25 (b)	L52 (w)	W95 (w)	W56 (b)	 5.5		
+41	Dillan****** Hobby	1385		W112 (w)	W104 (b)	D31 (w)	D37 (b)	L18 (w)	W106 (b)	L43 (w)	W38 (b)	U---	 5.0		
+42	Stan Wang	1379		L12 (b)	W68 (w)	W77 (b)	W92 (b)	D32 (w)	L19 (b)	D37 (w)	L47 (w)	W78 (b)	 5.0		
+43	James M Weisz	1300		L3 (w)	W84 (b)	W70 (w)	W69 (b)	L2 (w)	W52 (b)	W41 (b)	L16 (w)	L22 (b)	 5.0		
+44	Austin*** Wang	1284		L14 (w)	W109 (b)	W87 (w)	W56 (b)	W37 (w)	L4 (b)	L15 (w)	W73 (b)	L17 (w)	 5.0		
+45	Sophia Ziyan Cheng	1260	CHELUO	L29 (b)	L74 (b)	W103 (w)	W109 (w)	L56 (b)	D82 (w)	D72 (b)	W86 (w)	W79 (b)	 5.0		
+46	Daniel St Schreck	1241		W52 (w)	L5 (b)	D28 (w)	D25 (w)	W82 (b)	L15 (b)	L14 (w)	W105 (b)	W71 (w)	 5.0		
+47	Yifei Zhou	1234		X134	L15 (b)	W52 (w)	D88 (b)	D28 (w)	L74 (w)	W71 (b)	W42 (b)	L14 (w)	 5.0		
+48	Siddharth Santosh	1223		W103 (w)	W87 (b)	L27 (w)	W74 (b)	W14 (w)	L2 (b)	L16 (b)	W54 (w)	L15 (w)	 5.0		
+49	Alexander J Clifton	1159		L30 (w)	W86 (b)	L33 (w)	W90 (b)	W77 (w)	L28 (b)	W106 (w)	L17 (b)	W73 (w)	 5.0		
+50	Bennie Porter Jr	1387		W126 (w)	L65 (b)	L63 (w)	W120 (b)	L96 (w)	D22 (w)	L64 (b)	W101 (w)	W99 (b)	 4.5		
+51	Kiani Walker	1378		W11 (w)	W81 (b)	W92 (w)	D17 (b)	L5 (w)	W79 (b)	L6 (w)	L34 (b)	L33 (w)	 4.5		
+52	Michael Pau Irvin	1375		L46 (b)	W97 (w)	L47 (b)	W110 (w)	W78 (b)	L43 (w)	W40 (b)	D58 (b)	L37 (w)	 4.5		
+53	Thihansa O Waduthanthree	1370	WADJEE	L78 (w)	W99 (b)	D95 (w)	D21 (b)	D80 (w)	L37 (b)	D93 (w)	D77 (b)	W97 (w)	 4.5		
+54	Qianping Jiang	1369	JIAJIA	W93 (w)	W64 (b)	L18 (w)	L20 (b)	L40 (w)	W109 (b)	W77 (w)	L48 (b)	D65 (w)	 4.5		
+55	Aaradhya Nitin Patil	1359	RANPAT	D36 (b)	L117 (w)	L60 (b)	W118 (w)	D66 (b)	D64 (w)	W97 (b)	W98 (w)	L35 (b)	 4.5		
+56	Willie M Seymour	1339		W35 (b)	L37 (w)	W94 (b)	L44 (w)	W45 (w)	D11 (b)	W79 (w)	L12 (b)	L40 (w)	 4.5		
+57	Kushagra Bhargava	1329		D20 (w)	W40 (b)	L14 (w)	D79 (w)	W64 (b)	W96 (b)	D25 (w)	L21 (b)	L38 (w)	 4.5		
+58	Walter H.j Mcdonald	1313		W133 (w)	L96 (b)	W108 (w)	W78 (b)	L6 (w)	W65 (b)	L26 (b)	D52 (w)	L39 (b)	 4.5		
+59	Parth Raha	1305		D40 (w)	D20 (b)	W100 (w)	L14 (b)	D87 (w)	H---	H---	D79 (b)	D66 (b)	 4.5		
+60	Archer D Berenson	1304		L81 (w)	D11 (b)	W55 (w)	L38 (b)	W83 (w)	W85 (b)	W80 (w)	L25 (b)	L27 (w)	 4.5		
+61	William E Perry	1300		W114 (b)	W122 (w)	D24 (b)	W39 (w)	L23 (b)	L8 (w)	L67 (b)	W82 (w)	U---	 4.5		
+62	Yicong Li	1288		W110 (b)	L24 (w)	W121 (w)	L13 (b)	L21 (w)	W119 (b)	W96 (w)	L14 (b)	H---	 4.5		
+63	Yunhui Ma	1283	MAMA	L24 (b)	W114 (w)	W50 (b)	L23 (w)	D99 (b)	L39 (w)	L82 (b)	W108 (w)	W100 (b)	 4.5		
+64	Alice Shen	1232	SHEZHU	W116 (b)	L54 (w)	L74 (w)	W104 (b)	L57 (w)	D55 (b)	W50 (w)	W68 (b)	L28 (w)	 4.5		
+65	Everett C Pashley	1224		W72 (b)	W50 (w)	L9 (b)	L26 (w)	W70 (b)	L58 (w)	L75 (b)	W102 (w)	D54 (b)	 4.5		
+66	Lenon C Murray	1206		D16 (b)	D34 (b)	L30 (w)	H---	D55 (w)	W90 (b)	L73 (w)	W92 (b)	D59 (w)	 4.5		
+67	Winston Cheung	1204		L88 (w)	W76 (b)	W90 (w)	D33 (b)	W34 (w)	L32 (b)	W61 (w)	L31 (b)	L29 (w)	 4.5		
+68	Ephraim* Schafli	1178		L15 (w)	L42 (b)	L125 (w)	B---	W111 (b)	W86 (w)	D95 (b)	L64 (w)	W96 (b)	 4.5		
+69	Leonardo Dou	1166		W75 (b)	L17 (w)	W89 (b)	L43 (w)	L11 (w)	D76 (b)	W112 (w)	L33 (b)	W93 (w)	 4.5		
+70	Mark Joseph Henderson	1043		L90 (w)	W135 (w)	L43 (b)	W76 (b)	L65 (w)	L77 (b)	W91 (w)	D93 (b)	W95 (w)	 4.5		
+71	Daniel Liu	1381	WANLIU	D19 (w)	X---	L98 (b)	L7 (w)	D36 (b)	W81 (b)	L47 (w)	W94 (w)	L46 (b)	 4.0		
+72	Frank L White	1368		L65 (w)	W126 (b)	L78 (w)	L81 (b)	W107 (w)	D100 (b)	D45 (w)	D96 (b)	D80 (w)	 4.0		
+73	Robert John Dewitt Campbell	1350		L95 (b)	D19 (b)	D11 (w)	L97 (w)	W114 (b)	W78 (w)	W66 (b)	L44 (w)	L49 (b)	 4.0		
+74	Joshua Chapman	1333		L79 (b)	W45 (w)	W64 (b)	L48 (w)	W100 (w)	W47 (b)	L23 (b)	L36 (w)	U---	 4.0		
+75	Christophe Burger	1300		L69 (w)	W107 (b)	W82 (w)	W96 (b)	L13 (w)	L21 (b)	W65 (w)	U---	U---	 4.0		
+76	Zining Fan	1287		L122 (b)	L67 (w)	W114 (b)	L70 (w)	W118 (b)	D69 (w)	W108 (b)	L39 (w)	D82 (b)	 4.0		
+77	Daisy Yuen	1243	YUEYUE	W123 (b)	L13 (b)	L42 (w)	W101 (w)	L49 (b)	W70 (w)	L54 (b)	D53 (w)	H---	 4.0		
+78	Angus Smith Duncan	1222		W53 (b)	L9 (w)	W72 (b)	L58 (w)	L52 (w)	L73 (b)	W90 (w)	W106 (b)	L42 (w)	 4.0		
+79	Bryan Tan	1220	HUATA2	W74 (w)	L27 (b)	W104 (w)	D57 (b)	W29 (b)	L51 (w)	L56 (b)	D59 (w)	L45 (w)	 4.0		
+80	Yibei Xiao	1215		D26 (b)	L16 (w)	D124 (b)	W86 (w)	D53 (b)	W29 (w)	L60 (b)	L35 (w)	D72 (b)	 4.0		
+81	Miah Guo	1182	GUOLUO	W60 (b)	L51 (w)	L26 (b)	W72 (w)	L106 (b)	L71 (w)	L86 (b)	W116 (w)	W102 (b)	 4.0		
+82	Grace Siqi Yang	1153	YANTHO	W135 (b)	L32 (w)	L75 (b)	W89 (w)	L46 (w)	D45 (b)	W63 (w)	L61 (b)	D76 (w)	 4.0		
+83	Sahil Shivakumar	1086		D89 (b)	L21 (w)	L86 (b)	W102 (w)	L60 (b)	D91 (w)	L94 (b)	W107 (w)	W103 (b)	 4.0		
+84	Ely Feldman	1006		L32 (b)	L43 (w)	B---	L11 (b)	L89 (w)	D111 (w)	W120 (b)	D88 (b)	W105 (w)	 4.0		
+85	Nayib Alej* Kuncar	unr.		H---	B---	W21 (b)	L16 (w)	L12 (b)	L60 (w)	D102 (b)	W103 (w)	U---	 4.0		
+86	Andrew Lott	1372		L6 (b)	L49 (w)	W83 (w)	L80 (b)	W120 (w)	L68 (b)	W81 (w)	L45 (b)	D92 (w)	 3.5		
+87	Ilirjana Bezhani	1363		B---	L48 (w)	L44 (b)	W35 (w)	D59 (b)	W98 (w)	L11 (b)	L22 (w)	U---	 3.5		
+88	Jay Serice	1339		W67 (b)	D98 (w)	D22 (b)	D47 (w)	L7 (b)	L35 (w)	L99 (b)	D84 (w)	D94 (b)	 3.5		
+89	James N Bonastia	1327		D83 (w)	D108 (b)	L69 (w)	L82 (b)	W84 (b)	D97 (w)	L98 (b)	L100 (w)	W114 (b)	 3.5		
+90	Nicodemus Njuguna	1322		W70 (b)	L39 (w)	L67 (b)	L49 (w)	W101 (b)	L66 (w)	L78 (b)	D114 (w)	W111 (b)	 3.5		
+91	Ivo Anusic	1314		L37 (b)	D35 (w)	W119 (w)	L40 (b)	L112 (w)	D83 (b)	L70 (b)	X117	H---	 3.5		
+92	Dani Kibblewhite 	1280		W25 (w)	W2 (b)	L51 (b)	L42 (w)	W117 (b)	L26 (w)	L22 (b)	L66 (w)	D86 (b)	 3.5		
+93	Ya He	1267	HELEN	L54 (b)	L116 (w)	L109 (b)	W113 (w)	W94 (b)	D108 (w)	D53 (b)	D70 (w)	L69 (b)	 3.5		
+94	Ari Bershak	1266		L27 (w)	W103 (b)	L56 (w)	L119 (b)	L93 (w)	W110 (b)	W83 (w)	L71 (b)	D88 (w)	 3.5		
+95	Todd A Yilk	1244		W73 (w)	L23 (w)	D53 (b)	H---	W108 (b)	U---	D68 (w)	L40 (b)	L70 (b)	 3.5		
+96	Abraham V Rodriguez	1220		W111 (b)	W58 (w)	L17 (b)	L75 (w)	W50 (b)	L57 (w)	L62 (b)	D72 (w)	L68 (w)	 3.5		
+97	Lucas Dou	1209		L5 (w)	L52 (b)	W115 (w)	W73 (b)	L15 (w)	D89 (b)	L55 (w)	X112	L53 (b)	 3.5		
+98	William Montross	1200		W137 (w)	D88 (b)	W71 (w)	L4 (b)	L19 (w)	L87 (b)	W89 (w)	L55 (b)	U---	 3.5		
+99	Albert Li	1181		L9 (b)	L53 (w)	W135 (b)	W111 (w)	D63 (w)	L34 (b)	W88 (w)	L29 (b)	L50 (w)	 3.5		
+100	Lucia Huang	 995	HUATA2	L104 (w)	B---	L59 (b)	W116 (w)	L74 (b)	D72 (w)	L29 (b)	W89 (b)	L63 (w)	 3.5		
+101	Samuel Laserson	 965		L33 (w)	W136 (b)	L34 (w)	L77 (b)	L90 (w)	W126 (b)	W104 (w)	L50 (b)	H---	 3.5		
+102	Jose-M G Mirasol	1341		H---	L38 (w)	L7 (b)	L83 (b)	W115 (b)	W120 (w)	D85 (w)	L65 (b)	L81 (w)	 3.0		
+103	Matt B* Thomas	1337	YANTHO	L48 (b)	L94 (w)	L45 (b)	L112 (b)	B---	W114 (w)	W119 (w)	L85 (b)	L83 (w)	 3.0		
+104	Eli Assa	1295		W100 (b)	L41 (w)	L79 (b)	L64 (w)	W116 (b)	L36 (w)	L101 (b)	W119 (w)	U---	 3.0		
+105	Luis J Vasquez	1288		L121 (w)	W115 (b)	L8 (w)	L108 (b)	W110 (b)	W117 (w)	L36 (b)	L46 (w)	L84 (b)	 3.0		
+106	Aanya Yadawad	1286	YADYAD	L22 (b)	W118 (w)	X122	L2 (b)	W81 (w)	L41 (w)	L49 (b)	L78 (w)	U---	 3.0		
+107	Steven L Baer	1200		L17 (b)	L75 (w)	L111 (b)	W115 (w)	L72 (b)	L116 (w)	X126	L83 (b)	W118 (b)	 3.0		
+108	Isaac Hart Statz	1160		D124 (b)	D89 (w)	L58 (b)	W105 (w)	L95 (w)	D93 (b)	L76 (w)	L63 (b)	H---	 3.0		
+109	Ateeq As Panjwani	1143		L128 (b)	L44 (w)	W93 (w)	L45 (b)	W113 (b)	L54 (w)	W116 (b)	U---	U---	 3.0		
+110	Robert Allen	 940		L62 (w)	B---	L25 (b)	L52 (b)	L105 (w)	L94 (w)	L115 (b)	W120 (w)	W119 (b)	 3.0		
+111	Lucca Stefano Palacios Zamalloa	1350		L96 (w)	L28 (b)	W107 (w)	L99 (b)	L68 (w)	D84 (b)	L113 (w)	W115 (b)	L90 (w)	 2.5		
+112	Timothy Parnell Callahan	1285		L41 (b)	D113 (w)	L35 (b)	W103 (w)	W91 (b)	L38 (w)	L69 (b)	F97	U---	 2.5		
+113	Johnson Weng	1223		L31 (b)	D112 (b)	L40 (w)	L93 (b)	L109 (w)	W118 (w)	W111 (b)	U---	U---	 2.5		
+114	Sahana Ramesh	1180	RAMVAI	L61 (w)	L63 (b)	L76 (w)	W126 (b)	L73 (w)	L103 (b)	W118 (w)	D90 (b)	L89 (w)	 2.5		
+115	Eric S Simon	1048		L10 (b)	L105 (w)	L97 (b)	L107 (b)	L102 (w)	H---	W110 (w)	L111 (w)	W120 (b)	 2.5		
+116	Terrain* Wu	1338		L64 (w)	W93 (b)	L20 (w)	L100 (b)	L104 (w)	W107 (b)	L109 (w)	L81 (b)	U---	 2.0		
+117	Irakli Shereshashvili	1174		D130 (w)	W55 (b)	H---	L30 (b)	L92 (w)	L105 (b)	U---	F91	U---	 2.0		
+118	Willie Hubbard	 865		L4 (w)	L106 (b)	W126 (w)	L55 (b)	L76 (w)	L113 (b)	L114 (b)	B---	L107 (w)	 2.0		
+119	Daniel Merkh	 853		B---	L31 (w)	L91 (b)	W94 (w)	L35 (b)	L62 (w)	L103 (b)	L104 (b)	L110 (w)	 2.0		
+120	Winston Huan Wang	 931		B---	D26 (w)	L12 (b)	L50 (w)	L86 (b)	L102 (b)	L84 (w)	L110 (b)	L115 (w)	 1.5		
+121	Gabriel* Peter	1398		W105 (b)	L10 (w)	L62 (b)	U---	U---	U---	U---	U---	U---	 1.0		
+122	Gregory Tod Burke	1396		W76 (w)	L61 (b)	F106	U---	U---	U---	U---	U---	U---	 1.0		
+123	Dillan*** Hobby	1385		L77 (w)	W125 (b)	L19 (w)	U---	U---	U---	U---	U---	U---	 1.0		
+124	Terrain Wu	1338		D108 (w)	L36 (b)	D80 (w)	U---	U---	U---	U---	U---	U---	 1.0		
+125	Austin* Wang	1284		L13 (w)	L123 (w)	W68 (b)	U---	U---	U---	U---	U---	U---	 1.0		
+126	Norm Koontz	1269		L50 (b)	L72 (w)	L118 (b)	L114 (w)	B---	L101 (w)	F107	U---	U---	 1.0		
+127	Hashem Zahedipour	1255		W132 (w)	L1 (b)	L2 (w)	U---	U---	U---	U---	U---	U---	 1.0		
+128	Ephraim Schafli	1178		W109 (w)	L29 (w)	U---	U---	U---	U---	U---	U---	U---	 1.0		
+129	Banarasi Tippa	1246		H---	U---	U---	U---	U---	U---	U---	U---	U---	 0.5		
+130	Nayib Alej Kuncar	unr.		D117 (b)	U---	U---	U---	U---	U---	U---	U---	U---	 0.5		
+131	Gabriel Peter	1398		L18 (b)	U---	U---	U---	U---	U---	U---	U---	U---	 0.0		
+132	Dillan Hobby	1385		L127 (b)	U---	U---	U---	U---	U---	U---	U---	U---	 0.0		
+133	Dillan** Hobby	1385		L58 (b)	U---	U---	U---	U---	U---	U---	U---	U---	 0.0		
+134	Seyma Oz	1378		F47	U---	U---	U---	U---	U---	U---	U---	U---	 0.0		
+135	Matt B Thomas	1337		L82 (w)	L70 (b)	L99 (w)	U---	U---	U---	U---	U---	U---	 0.0		
+136	Kevin Neil Ahumada	1333		L39 (b)	L101 (w)	U---	U---	U---	U---	U---	U---	U---	 0.0		
+137	Justin Dehorty	1308		L98 (b)	U---	U---	U---	U---	U---	U---	U---	U---	 0.0		
+138	Austin Wang	1284		L2 (w)	U---	U---	U---	U---	U---	U---	U---	U---	 0.0		
+

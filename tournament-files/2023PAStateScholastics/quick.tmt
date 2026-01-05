@@ -1,0 +1,62 @@
+[Tournament info]
+Title=
+Time controls=
+[Section count]
+Total=3
+[Sections]
+Section1=quickopen
+Section2=quicku1500
+Section3=quicku1100
+[quickopen]
+Section title=Open
+Event type=1
+Double blitz=0
+Coin toss=0
+Ratings=-1
+Time controls=
+Minimum rating=0
+Maximum rating=9999
+Minimum grade=0
+Maximum grade=99
+Starting board=201
+Rounds=6
+Rounds paired=6
+Exclude batch=0
+Exclude ratings=0
+Exclude Krause=0
+[quicku1500]
+Section title=U1500
+Event type=1
+Double blitz=0
+Coin toss=1
+Ratings=-1
+Time controls=
+Minimum rating=0
+Maximum rating=9999
+Minimum grade=0
+Maximum grade=99
+Starting board=219
+Rounds=6
+Rounds paired=6
+Exclude batch=0
+Exclude ratings=0
+Exclude Krause=0
+[quicku1100]
+Section title=U1100
+Event type=1
+Double blitz=0
+Coin toss=0
+Ratings=0
+Time controls=
+Minimum rating=0
+Maximum rating=9999
+Minimum grade=0
+Maximum grade=99
+Starting board=228
+Rounds=6
+Rounds paired=6
+Exclude batch=0
+Exclude ratings=0
+Exclude Krause=0
+[Setup]
+Version=9.06

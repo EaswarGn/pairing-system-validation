@@ -1,0 +1,209 @@
+{
+    "Sections": [
+        {
+            "Section name": "t1_s8_r1",
+            "Type": 0,
+            "Number of players": 26,
+            "Number of teams": 1,
+            "Rounds paired": 0,
+            "Rounds played": 0,
+            "Regular": true,
+            "Rapid": false,
+            "Blitz": false,
+            "Acceleration": 0,
+            "Use team pairings": true,
+            "Team cut": 4,
+            "Players": [
+                {
+                    "Pair number": 1,
+                    "Name": "Gaw, Zachary",
+                    "Rating": 988,
+                    "Results": []
+                },
+                {
+                    "Pair number": 2,
+                    "Name": "Harutyunyan, Arman",
+                    "Rating": 970,
+                    "Results": []
+                },
+                {
+                    "Pair number": 3,
+                    "Name": "Heller, Jack G",
+                    "Rating": 969,
+                    "Results": []
+                },
+                {
+                    "Pair number": 4,
+                    "Name": "Cooke, Oliver Edward",
+                    "Rating": 914,
+                    "Results": []
+                },
+                {
+                    "Pair number": 5,
+                    "Name": "Ramey, Alexander",
+                    "Rating": 868,
+                    "Results": []
+                },
+                {
+                    "Pair number": 6,
+                    "Name": "Gaw, Christian",
+                    "Rating": 847,
+                    "Results": []
+                },
+                {
+                    "Pair number": 7,
+                    "Name": "Dadibattina, Jashith Charvik",
+                    "Rating": 795,
+                    "Results": []
+                },
+                {
+                    "Pair number": 8,
+                    "Name": "Heitman, Grant",
+                    "Rating": 757,
+                    "Results": []
+                },
+                {
+                    "Pair number": 9,
+                    "Name": "Lee, Daniel J",
+                    "Rating": 753,
+                    "Results": []
+                },
+                {
+                    "Pair number": 10,
+                    "Name": "Samayamantri, Jotin",
+                    "Rating": 732,
+                    "Results": []
+                },
+                {
+                    "Pair number": 11,
+                    "Name": "Gokhale, Gaurav Vikram",
+                    "Rating": 699,
+                    "Results": []
+                },
+                {
+                    "Pair number": 12,
+                    "Name": "Patel, Tirth V",
+                    "Rating": 660,
+                    "Results": []
+                },
+                {
+                    "Pair number": 13,
+                    "Name": "Bellamkonda, Venkatesh Ramesh",
+                    "Rating": 645,
+                    "Results": []
+                },
+                {
+                    "Pair number": 14,
+                    "Name": "Matus, Ksenija A",
+                    "Rating": 620,
+                    "Results": []
+                },
+                {
+                    "Pair number": 15,
+                    "Name": "Biswas, Avidha",
+                    "Rating": 420,
+                    "Results": []
+                },
+                {
+                    "Pair number": 16,
+                    "Name": "Dillingham, Jeremy",
+                    "Rating": 102,
+                    "Results": []
+                },
+                {
+                    "Pair number": 17,
+                    "Name": "Amadasun, Osaro",
+                    "Rating": 0,
+                    "Results": []
+                },
+                {
+                    "Pair number": 18,
+                    "Name": "Ross, Philip",
+                    "Rating": 0,
+                    "Results": []
+                },
+                {
+                    "Pair number": 19,
+                    "Name": "Anand-ochir, Khurelbaatar",
+                    "Rating": 0,
+                    "Results": []
+                },
+                {
+                    "Pair number": 20,
+                    "Name": "Momunkulov, Nurdan",
+                    "Rating": 0,
+                    "Results": []
+                },
+                {
+                    "Pair number": 21,
+                    "Name": "Adreani, John",
+                    "Rating": 0,
+                    "Results": []
+                },
+                {
+                    "Pair number": 22,
+                    "Name": "Wu, Lei",
+                    "Rating": 0,
+                    "Team": "WUZHA",
+                    "Results": []
+                },
+                {
+                    "Pair number": 23,
+                    "Name": "Annis, Dylan Michael Kane",
+                    "Rating": 0,
+                    "Results": []
+                },
+                {
+                    "Pair number": 24,
+                    "Name": "Davaadorj, Altansoyombo",
+                    "Rating": 0,
+                    "Results": []
+                },
+                {
+                    "Pair number": 25,
+                    "Name": "Greenberg, Grant",
+                    "Rating": 0,
+                    "Results": []
+                },
+                {
+                    "Pair number": 26,
+                    "Name": "Wuttke, Reed A",
+                    "Rating": 0,
+                    "Results": []
+                }
+            ],
+            "Teams": [
+                {
+                    "Pair number": 1,
+                    "Full name": "WUZHA",
+                    "Team code": "WUZHA"
+                }
+            ],
+            "Byes": [
+                {
+                    "Pair number": 15,
+                    "Round": 2,
+                    "Points": 1
+                },
+                {
+                    "Pair number": 16,
+                    "Round": 1,
+                    "Points": 1
+                },
+                {
+                    "Pair number": 24,
+                    "Round": 1,
+                    "Points": 0.5
+                }
+            ],
+            "Withdrawals": [
+                {
+                    "Pair number": 21,
+                    "Rounds withdrawn": [
+                        2
+                    ]
+                }
+            ]
+        }
+    ]
+}

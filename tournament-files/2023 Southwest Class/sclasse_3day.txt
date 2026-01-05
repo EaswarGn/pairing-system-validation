@@ -1,0 +1,31 @@
+SwissSys Standings. CCA_SWCC23: Class E (Under 1200)-3 (Standings (no tiebrk))
+#	Name	ID	Rating	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Total	
+1	Ishaan Ikkurthi	30361280	1183	W19 (b)	~7 (w)						 1.0	
+2	Logan White	15580358	1168	W20 (w)	~8 (b)						 1.0	
+3	Aarav Prasad Dinesh	17145172	1166	W21 (b)	~9 (w)						 1.0	
+4	Michael Zhang	16824864	1067	W22 (w)	~10 (b)						 1.0	
+5	Zachary Aaron Gawiser	15608941	1009	W23 (w)	~11 (b)						 1.0	
+6	Sarvesh Nair	16292056	 997	W24 (b)	~12 (w)						 1.0	
+7	Rithik Jayaram	16767726	 986	W25 (w)	~1 (b)						 1.0	
+8	Oliver Wang	17140002	 970	W26 (b)	~2 (w)						 1.0	
+9	Saanvika C Kalavagunta	16697508	 941	W27 (w)	~3 (b)						 1.0	
+10	Leo Olivera Jackson	30226167	 864	X28	~4 (w)						 1.0	
+11	Samantha Kathelynn Davis	30219140	 656	W17 (w)	~5 (w)						 1.0	
+12	Christian Lee Deluca	new	unr.	W18 (w)	~6 (b)						 1.0	
+13	Bhanusri Durbhakula	16904413	 935	D16 (w)	~17 (b)						 0.5	
+14	Myles H Stewart	30929293	 650	H---	~16 (b)						 0.5	
+15	Luca Yang	30914170	unr.	H---	H---						 0.5	
+16	Ethan Todd Stanich	30921617	unr.	D13 (b)	~14 (w)						 0.5	
+17	Alan Wolfskill	12899626	1020	L11 (b)	~13 (w)						 0.0	
+18	Mukund Sharma	15560946	 937	L12 (b)	~23 (w)						 0.0	
+19	Atharv Katdare	30302894	 796	L1 (w)	~25 (b)						 0.0	
+20	Anushka Borse	16724907	 754	L2 (b)	~24 (w)						 0.0	
+21	Mark A Vargas	12466346	 712	L3 (w)	~27 (b)						 0.0	
+22	Devdatta Kashelkar	30828654	 670	L4 (b)	~26 (w)						 0.0	
+23	Micah Kheraj	16335728	 516	L5 (b)	~18 (b)						 0.0	
+24	Vincent He	30285844	 490	L6 (w)	~20 (b)						 0.0	
+25	Sue Samuels	30550747	 447	L7 (b)	~19 (w)					H---	 0.0	
+26	Emile Morgan	30269469	 355	L8 (w)	~22 (b)						 0.0	
+27	Ashley White	31026218	unr.	L9 (b)	~21 (w)						 0.0	
+28	Jacob Anderson-Richard	31003901	unr.	F10	U---						 0.0	
+

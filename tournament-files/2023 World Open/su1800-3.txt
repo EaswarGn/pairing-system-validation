@@ -1,0 +1,42 @@
+SwissSys Standings. CCA_WO23: Under 1800-3 (Standings (no tiebrk))
+#	Name	ID	Rating	Team	St	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Rd 8	Rd 9	Total	
+1	Leo Xiaohang Shen	17132332	1798		NY	W14 (b)	W11 (w)	W6 (b)	W4 (w)	W2 (b)					 5.0	
+2	Ariel Crawford	12922657	1780		IL	W33 (b)	W13 (w)	W10 (b)	W5 (w)	L1 (w)					 4.0	
+3	Faisal Kaleem	14814707	1776		LA	W34 (b)	W7 (w)	L5 (b)	W8 (w)	W16 (b)					 4.0	
+4	Cyril* Chua	16110064	1757		IL	W16 (b)	W19 (w)	W9 (b)	L1 (b)	W11 (w)		H---			 4.0	
+5	Daniel D Shen	14437784	1645		GA	W29 (b)	W24 (w)	W3 (w)	L2 (b)	W10 (b)					 4.0	
+6	Brandon Nicholas Tregde	17185665	1737		SC	W35 (w)	W32 (b)	L1 (w)	W13 (b)	D7 (w)					 3.5	
+7	Aarush Tippa	15751253	1678		NJ	W39 (w)	L3 (b)	W17 (w)	W24 (w)	D6 (b)					 3.5	
+8	Richard Karp	15130704	1727		NY	D22 (b)	W23 (w)	W21 (w)	L3 (b)	D15 (w)					 3.0	
+9	Ethan Josiah Smith	16068600	1718		AL	W36 (b)	X28	L4 (w)	L16 (w)	W26 (b)			H---	H---	 3.0	
+10	Christopher Sims	12634402	1711		PA	W27 (w)	W17 (b)	L2 (w)	W26 (b)	L5 (w)					 3.0	
+11	Joshua D Deskovic	16386903	1706		NY	W37 (b)	L1 (b)	W27 (w)	W19 (w)	L4 (b)					 3.0	
+12	Robert Ruggiero	14354088	1697		NJ	D23 (b)	W30 (w)	L24 (b)	W38 (w)	H---					 3.0	
+13	Fitzherbert Henderso Legall	14043462	1690		TX	W18 (w)	L2 (b)	W37 (w)	L6 (w)	W27 (b)					 3.0	
+14	Vikash Ganesan	16427685	1667		TX	L1 (w)	L27 (b)	W29 (b)	W36 (w)	W24 (b)					 3.0	
+15	Aarav Amit Mehta	16672514	1634		NJ	D30 (b)	D20 (w)	D38 (b)	W35 (w)	D8 (b)					 3.0	
+16	Dennis Moore	12757345	1626		PA	L4 (w)	W39 (b)	W25 (w)	W9 (b)	L3 (w)					 3.0	
+17	Ashmeet S Goraya	14701160	1554	AKAGOR	CA	W31 (b)	L10 (w)	L7 (b)	W32 (b)	W25 (w)					 3.0	
+18	Ajitesh Nallapareddygari	15909136	1536		NJ	L13 (b)	D34 (w)	W30 (b)	W21 (w)	D20 (b)					 3.0	
+19	Albert Li	30047481	1448		NY	W25 (w)	L4 (b)	W32 (w)	L11 (b)	W30 (w)					 3.0	
+20	Don Asanti Burrus	12734442	1783		TX	L32 (w)	D15 (b)	W22 (w)	D23 (b)	D18 (w)					 2.5	
+21	Jason B Ochoa	12440572	1700		CA	H---	W22 (w)	L8 (b)	L18 (b)	W38 (w)					 2.5	
+22	Matthew Matusiak	12617009	1615		NY	D8 (w)	L21 (b)	L20 (b)	W28 (w)	W35 (b)					 2.5	
+23	Jayden Li	30082341	1552	LIJIN	NJ	D12 (w)	L8 (b)	W34 (b)	D20 (w)	H---					 2.5	
+24	Jesse Gililland	15491550	1724		CA	W26 (w)	L5 (b)	W12 (w)	L7 (b)	L14 (w)					 2.0	
+25	Frank Tota	14523060	1689		NJ	L19 (b)	W36 (w)	L16 (b)	W37 (w)	L17 (b)					 2.0	
+26	Albert Dong	30036635	1611		RI	L24 (b)	W31 (w)	W28 (b)	L10 (w)	L9 (w)					 2.0	
+27	Haokai Cao	30431303	1581		NJ	L10 (b)	W14 (w)	L11 (b)	W31 (w)	L13 (w)					 2.0	
+28	Emanuel Stoute	30286246	1135		PA	B---	F9	L26 (w)	L22 (b)	W39 (w)					 2.0	
+29	Timothy R Bartlett	17181270	1776		RI	L5 (w)	L35 (b)	L14 (w)	W39 (b)	D33 (b)					 1.5	
+30	Daniel Rhenals	12816807	1762	MENRHE	FL	D15 (w)	L12 (b)	L18 (w)	W34 (b)	L19 (b)					 1.5	
+31	Micah Scobie	15515233	1705		NY	L17 (w)	L26 (b)	W33 (w)	L27 (b)	D36 (b)					 1.5	
+32	Lawrence Lepes	12811169	1659		PA	W20 (b)	L6 (w)	L19 (b)	L17 (w)	D37 (b)					 1.5	
+33	Mariia Yeni	31002709	1650	YENMOO	PA	L2 (w)	L37 (b)	L31 (b)	B---	D29 (w)					 1.5	
+34	Avi Daniel Schneider	12839899	1641		IL	L3 (w)	D18 (b)	L23 (w)	L30 (w)	B---					 1.5	
+35	Lorenzo Pasetes	12759741	1621		NJ	L6 (b)	W29 (w)	H---	L15 (b)	L22 (w)					 1.5	
+36	Guy Colas	12566278	1600		NY	L9 (w)	L25 (b)	B---	L14 (b)	D31 (w)					 1.5	
+37	Subhasish Chakraborti	16552335	1573		NJ	L11 (w)	W33 (w)	L13 (b)	L25 (b)	D32 (w)					 1.5	
+38	Shyam Dasari	14453187	1348		GA	H---	H---	D15 (w)	L12 (b)	L21 (b)	H---				 1.5	
+39	Charley Chen	16766215	1240		GA	L7 (b)	L16 (w)	H---	L29 (w)	L28 (b)					 0.5	
+

@@ -1,0 +1,68 @@
+SwissSys Standings. CCA_SWCC23: Class B Merged (Standings (no tiebrk))
+#	Name	ID	Rating	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Total	Prize	
+1	Travis J Olson	14841357	1762	H---	W34 (b)	W25 (w)	D21 (b)	W12 (w)	W19 (w)	W2 (b)	 6.0	1166.67	
+2	Ronit Podder	15187262	1685	W29 (b)	W40 (w)	W47 (w)	W10 (b)	W17 (w)	W5 (b)	L1 (w)	 6.0	1166.67	
+3	Tanvi Borse	15992594	1532	W53 (b)	L16 (w)	W59 (b)	W6 (w)	W13 (b)	W7 (w)	W10 (b)	 6.0	1166.67	
+4	William Christopher Hamill	14033266	1706	H---	L21 (b)	W32 (w)	W35 (w)	W14 (b)	W26 (b)	W12 (w)	 5.5	300.00	
+5	Maurya Chandra	16566891	1792	L19 (b)	W57 (w)	W37 (b)	W54 (w)	W11 (b)	L2 (w)	W15 (w)	 5.0	33.33	
+6	Annamalai Arunachalam	16740887	1674	D28 (b)	X---	D33 (w)	L3 (b)	W29 (w)	W31 (b)	W22 (w)	 5.0	33.33	
+7	Sebastian Lee	16126150	1673	W48 (w)	W15 (b)	L10 (w)	W22 (b)	W21 (w)	L3 (b)	W19 (w)	 5.0	33.33	
+8	Matthew W Feldman	16319583	1632	W41 (w)	L22 (b)	W38 (w)	H---	H---	W23 (b)	W21 (w)	 5.0	33.33	
+9	Asmit Panda	15295055	1626	L31 (b)	H---	H---	W40 (w)	W39 (b)	W33 (w)	W17 (b)	 5.0	33.33	
+10	Ethan Edward Hartfield	15272857	1596	W62 (b)	W59 (w)	W7 (b)	L2 (w)	W18 (b)	W17 (b)	L3 (w)	 5.0	33.33	
+11	Zachary Rozenblat	12900580	1697	W36 (w)	W14 (b)	W13 (w)	D12 (b)	L5 (w)	L15 (b)	W26 (w)	 4.5		
+12	Huanzhi Zhou	17336634	1665	X---	W48 (b)	W22 (w)	D11 (w)	L1 (b)	W28 (w)	L4 (b)	 4.5		
+13	Jeremy Lovelace	12728055	1653	W56 (b)	W37 (w)	L11 (b)	H---	L3 (w)	W48 (b)	W24 (w)	 4.5		
+14	Srihas Maddipati	17152864	1620	W32 (b)	L11 (w)	W40 (b)	D16 (w)	L4 (w)	W41 (b)	W25 (w)	 4.5		
+15	Ozan Adiguzel	16155094	1604	W50 (b)	L7 (w)	D41 (b)	W51 (w)	W16 (b)	W11 (w)	L5 (b)	 4.5		
+16	Christos Konstantakos	17130487	1701	D21 (w)	W3 (b)	D28 (w)	D14 (b)	L15 (w)	D20 (b)	W32 (w)	 4.0		
+17	Jason Jimmy	30349211	1694	W55 (b)	W58 (w)	W54 (b)	W19 (w)	L2 (b)	L10 (w)	L9 (w)	 4.0		
+18	Brian Alan Wolfskill	12895563	1672	X65	L19 (w)	W30 (b)	W23 (b)	L10 (w)	L21 (b)	W39 (w)	 4.0		
+19	Benny Thottakkara	15483021	1600	W5 (w)	W18 (b)	W26 (w)	L17 (b)	W33 (w)	L1 (b)	L7 (b)	 4.0		
+20	Shriyan Vuyyuru	17035355	1593	L51 (b)	D53 (w)	W52 (b)	D42 (w)	D32 (b)	D16 (w)	W33 (b)	 4.0		
+21	Arjun Bupeshnath	15891702	1568	D16 (b)	W4 (w)	W42 (b)	D1 (w)	L7 (b)	W18 (w)	L8 (b)	 4.0		
+22	Sai Vijay Himaghna Sista	17280467	1523	W44 (b)	W8 (w)	L12 (b)	L7 (w)	W37 (b)	W43 (w)	L6 (b)	 4.0		
+23	Vikash Ganesan	16427685	1451	W46 (b)	L42 (w)	W58 (b)	L18 (w)	W51 (b)	L8 (w)	W43 (b)	 4.0		
+24	Aayansh R Guntaka	30198721	1712	L37 (b)	D50 (w)	W27 (b)	D39 (w)	W38 (b)	D30 (w)	L13 (b)	 3.5		
+25	Aaron A Reyes	12775560	1661	D30 (b)	W35 (w)	L1 (b)	W41 (w)	L28 (b)	W36 (w)	L14 (b)	 3.5		
+26	Cole Braun	30478538	1653	W39 (b)	W31 (w)	L19 (b)	D28 (w)	W36 (b)	L4 (w)	L11 (b)	 3.5		
+27	Tommy Li	30101402	1579	L59 (b)	H---	L24 (w)	W34 (b)	D52 (w)	D29 (w)	W42 (b)	 3.5		
+28	John William Williams	15584126	1564	D6 (w)	X---	D16 (b)	D26 (b)	W25 (w)	L12 (b)	U---	 3.5		
+29	Isabella Stubbins	17074803	1563	L2 (w)	D52 (w)	D53 (b)	W57 (w)	L6 (b)	D27 (b)	W45 (w)	 3.5		
+30	Ananya Wadhwa	30145895	1539	D25 (w)	D43 (b)	L18 (w)	W53 (w)	W54 (b)	D24 (b)	U---	 3.5		
+31	Zanir Pirani	15740033	1478	W9 (w)	L26 (b)	H---	W44 (w)	W42 (b)	L6 (w)	U---	 3.5		
+32	Lawrence C* Zhang	30167437	1447	L14 (w)	B---	L4 (b)	W62 (b)	D20 (w)	W47 (w)	L16 (b)	 3.5		
+33	Kelvin* McAlister	12519171	1700	H---	W55 (w)	D6 (b)	W47 (w)	L19 (b)	L9 (b)	L20 (w)	 3.0		
+34	Holden Humphreys	17145454	1618	D42 (b)	L1 (w)	L39 (b)	L27 (w)	W50 (w)	D56 (b)	W55 (w)	 3.0		
+35	Hector R Martinez	10404584	1600	D43 (w)	L25 (b)	W49 (w)	L4 (b)	L44 (b)	W58 (w)	D37 (w)	 3.0		
+36	Sahithi Kommuri	17064153	1581	L11 (b)	W62 (w)	D51 (b)	W43 (w)	L26 (w)	L25 (b)	D41 (w)	 3.0		
+37	David Lamas	16434126	1574	W24 (w)	L13 (b)	L5 (w)	W60 (b)	L22 (w)	D42 (w)	D35 (b)	 3.0		
+38	Garrett Hunt	30269749	1544	W52 (b)	L54 (w)	L8 (b)	X59	L24 (w)	H---	H---	 3.0		
+39	Yangyang Shen	17080503	1529	L26 (w)	D45 (b)	W34 (w)	D24 (b)	L9 (w)	W52 (b)	L18 (b)	 3.0		
+40	Ellery C Zhang	30167442	1516	W45 (w)	L2 (b)	L14 (w)	L9 (b)	D58 (b)	D46 (w)	W57 (b)	 3.0		
+41	Mihika Krishnan	16596204	1509	L8 (b)	W46 (w)	D15 (w)	L25 (b)	W45 (b)	L14 (w)	D36 (b)	 3.0		
+42	Naren Pullela	15401978	1740	D34 (w)	W23 (b)	L21 (w)	D20 (b)	L31 (w)	D37 (b)	L27 (w)	 2.5		
+43	Artemio Loiz	12910148	1721	D35 (b)	D30 (w)	H---	L36 (b)	W56 (w)	L22 (b)	L23 (w)	 2.5		
+44	Leon Powers	12422431	1646	L22 (w)	D49 (b)	W56 (w)	L31 (b)	W35 (w)	U---	U---	 2.5		
+45	Gabriel Teubner	16119806	1640	L40 (b)	D39 (w)	W50 (b)	U---	L41 (w)	W57 (w)	L29 (b)	 2.5		
+46	Julius Cromartie	12428265	1622	L23 (w)	L41 (b)	L48 (w)	L56 (b)	B---	D40 (b)	W58 (w)	 2.5		
+47	Steven Villarreal	11217516	1608	W60 (w)	W51 (w)	L2 (b)	L33 (b)	D48 (w)	L32 (b)	U---	 2.5		
+48	Jacob Emmanuel De Leon	30203735	1538	L7 (b)	L12 (w)	W46 (b)	W58 (w)	D47 (b)	L13 (w)	U---	 2.5		
+49	Siddharth Santosh	15912207	1532	L54 (b)	D44 (w)	L35 (b)	L52 (w)	W62 (b)	D51 (w)	H---	 2.5		
+50	Pranavi Pramod	16800145	1506	L15 (w)	D24 (b)	L45 (w)	U---	L34 (b)	B---	W62 (b)	 2.5		
+51	Faisal Kaleem	14814707	1766	W20 (w)	L47 (b)	D36 (w)	L15 (b)	L23 (w)	D49 (b)	U---	 2.0		
+52	Jason Wang	17022610	1676	L38 (w)	D29 (b)	L20 (w)	W49 (b)	D27 (b)	L39 (w)	U---	 2.0		
+53	Isaac Mcgee	13438628	1655	L3 (w)	D20 (b)	D29 (w)	L30 (b)	W60 (w)	U---	U---	 2.0		
+54	Saketh Ram Gurumurthi	17232482	1653	W49 (w)	W38 (b)	L17 (w)	L5 (b)	L30 (w)	U---	U---	 2.0		
+55	Lyric Barai	16347440	1580	L17 (w)	L33 (b)	L60 (w)	B---	L57 (b)	W62 (w)	L34 (b)	 2.0		
+56	Zephan James Shivam	16004042	1525	L13 (w)	H---	L44 (b)	W46 (w)	L43 (b)	D34 (w)	U---	 2.0		
+57	John Xavier	16754578	1500	D63 (w)	L5 (b)	D62 (w)	L29 (b)	W55 (w)	L45 (b)	L40 (w)	 2.0		
+58	Benjamin Higgins	30916527	1585	W64 (w)	L17 (b)	L23 (w)	L48 (b)	D40 (w)	L35 (b)	L46 (b)	 1.5		
+59	Stephen K Sommers	12223020	1694	W27 (w)	L10 (b)	L3 (w)	F38	U---	U---	U---	 1.0		
+60	Jorge Ramirez-vazquez	15843465	1522	L47 (b)	L61 (w)	W55 (b)	L37 (w)	L53 (b)	U---	U---	 1.0		
+61	Alan Govea	12844812	1377	U---	W60 (b)	U---	U---	U---	U---	U---	 1.0		
+62	Charles R Davis	12561407	1711	L10 (w)	L36 (b)	D57 (b)	L32 (w)	L49 (w)	L55 (b)	L50 (w)	 0.5		
+63	Lawrence C Zhang	30167437	1447	D57 (b)	U---	U---	U---	U---	U---	U---	 0.5		
+64	Kelvin Mcalister	12519171	1700	L58 (b)	U---	U---	U---	U---	U---	U---	 0.0		
+65	Paul Poston	15647017	1537	F18	U---	U---	U---	U---	U---	U---	 0.0		
+

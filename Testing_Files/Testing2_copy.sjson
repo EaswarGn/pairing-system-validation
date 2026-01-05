@@ -1,0 +1,149 @@
+{
+  "Sections": [
+    {
+      "Section name": "Open",
+      "Type": 0,
+      "Number of players": 8,
+      "Number of teams": 1,
+      "Rounds paired": 3,
+      "Rounds played": 2,
+      "Rating to use": 0,
+      "Regular": true,
+      "Rapid": false,
+      "Blitz": false,
+      "Acceleration": 0,
+      "Use team pairings": true,
+      "Team cut": 4,
+      "Players": [
+        {
+          "Pair number": 1,
+          "Name": "Carlsen, Magnus",
+          "ID": "15218438",
+          "Rating": 2914,
+          "Rating2": 2875,
+          "Exp1": "7/31/2013",
+          "Current result": " ",
+          "Note": "Result coding is Result; Op.; Clr; Brd; Logical ops. 1 & 2; Game pnts",
+          "Results": [
+            "-;5;B;1;5;5;0",
+            "+;2;W;3;2;2;0",
+            "~;8;W;2;8;8;0"
+          ]
+        },
+        {
+          "Pair number": 2,
+          "Name": "Giri, Anish",
+          "ID": "15782874",
+          "Rating": 2823,
+          "Rating2": 2757,
+          "Exp1": "11/30/2024",
+          "Current result": "1",
+          "Results": [
+            "-;6;B;2;6;6;0",
+            "-;1;B;3;1;1;0",
+            "B;-1;-;0;-1;-1;0"
+          ]
+        },
+        {
+          "Pair number": 3,
+          "Name": "Nepomniachtchi, Ia",
+          "ID": "13468661",
+          "Rating": 2736,
+          "Rating2": 2756,
+          "Exp1": "11/30/2024",
+          "Current result": " ",
+          "Results": [
+            "-;7;W;3;7;7;0",
+            "B;-1;-;0;-1;-1;0",
+            "~;5;B;3;5;5;0"
+          ]
+        },
+        {
+          "Pair number": 4,
+          "Name": "Seirawan, Yasser",
+          "ID": "16161616",
+          "Rating": 2707,
+          "Team": "USA",
+          "Results": [
+            "U;0;-;0;0;0;0",
+            "U;0;-;0;0;0;0",
+            "U;0;-;0;0;0;0"
+          ]
+        },
+        {
+          "Pair number": 5,
+          "Name": "Zhao, Erick",
+          "ID": "15346712",
+          "Rating": 2471,
+          "Rating2": 1680,
+          "Exp1": "2/28/2026",
+          "State": "PA",
+          "Current result": " ",
+          "Results": [
+            "+;1;W;1;1;1;0",
+            "-;7;B;1;7;7;0",
+            "~;3;W;3;3;3;0"
+          ]
+        },
+        {
+          "Pair number": 6,
+          "Name": "Rozman, Levy",
+          "ID": "12879834",
+          "Rating": 2411,
+          "Rating2": 2274,
+          "Exp1": "1/31/2022",
+          "State": "NY",
+          "Current result": " ",
+          "Results": [
+            "+;2;W;2;2;2;0",
+            "=;8;B;2;8;8;0",
+            "~;7;W;1;7;7;0"
+          ]
+        },
+        {
+          "Pair number": 7,
+          "Name": "Thomforde-Toates,",
+          "ID": "15582857",
+          "Rating": 2272,
+          "Rating2": 2115,
+          "Exp1": "1/31/2025",
+          "State": "PA",
+          "Current result": " ",
+          "Results": [
+            "+;3;B;3;3;3;0",
+            "+;5;W;1;5;5;0",
+            "~;6;B;1;6;6;0"
+          ]
+        },
+        {
+          "Pair number": 8,
+          "Name": "Liu, Raymond",
+          "ID": "15974801",
+          "Rating": 1678,
+          "Rating2": 1259,
+          "Exp1": "3/31/2025",
+          "State": "PA",
+          "Current result": " ",
+          "Results": [
+            "B;-1;-;0;-1;-1;0",
+            "=;6;W;2;6;6;0",
+            "~;1;B;2;1;1;0"
+          ]
+        }
+      ],
+      "Teams": [
+        {
+          "Pair number": 1,
+          "Full name": "United States",
+          "Team code": "USA",
+          "Rating": 0,
+          "Results": [
+            "U;0;-;0;0;0;0",
+            "U;0;-;0;0;0;0",
+            "U;0;-;0;0;0;0"
+          ]
+        }
+      ]
+    }
+  ]
+}

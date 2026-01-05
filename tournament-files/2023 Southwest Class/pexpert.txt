@@ -1,0 +1,28 @@
+Pairings for Round 7. CCA_SWCC23: Class X Merged
+Bd	#	Res	White	#	Res	Black	
+45	6	1 	Ethan Liu (2096 4.5)	14	0 	Andrew H Zhang (2048 5.5)	
+46	1	1 	Brian Jeremiah Tineo (2172 4.5)	5	0 	Minh Binh Tran (2099 4.5)	
+47	18	½ 	Krishnan* Warrier (2039 4.5)	2	½ 	Dion Su (2142 4.5)	
+48	28	1 	James Altucher (2005 4.0)	7	0 	Kenneth Su (2095 4.0)	
+49	9	½ 	Michael P Carey (2086 4.0)	21	½ 	Yakshwag Reddy Raju (2029 4.0)	
+50	24	½ 	Paul Yuu Iinuma (2017 4.0)	19	½ 	Chloe Gaw (2031 4.0)	
+51	10	0 	Neil S Bhaduri (2085 3.5)	57	1 	Abhinav Naveen Mysore (1898 3.5)	
+52	13	½ 	Jeremy Bader (2051 3.5)	39	½ 	Logan Clark Shafer (1958 3.5)	
+53	47	1 	WCM Chelsea Zhou (1927 3.5)	29	0 	Elbert Fang (2004 3.5)	
+54	38	½ 	Rishabh Chinni (1963 3.5)	37	½ 	William Donham (1966 3.5)	
+55	43	½ 	Vijay Srinivas Anandh (1933 3.0)	8	½ 	Isaac George (2088 3.0)	
+56	20	½ 	Kyle Yiwen Wang (2031 3.0)	46	½ 	Sri Avishkar Raghuraja (1931 3.0)	
+57	23	0 	Cannon Farragut (2017 3.0)	53	1 	Akshat Suresh (1914 3.0)	
+58	45	1 	Joshua Meng (1931 3.0)	26	0 	Yusuf Mansurov (2009 3.0)	
+59	55	0 	William Howard Mcnutt (1901 3.0)	42	1 	Vedant Ameya Talwalkar (1934 3.0)	
+60	22	0 	Advait Nair (2028 2.5)	51	1 	Lohit Krishna Naraya Polisetti (1916 2.5)	
+61	27	1 	Stewart Bradley Taylor (2009 2.5)	56	0 	Luca Chang (1900 2.5)	
+62	50	1 	Alexander* Zhu (1921 2.5)	36	0 	Kevin Sun (1980 2.5)	
+63	59	0 	Steven J Linett (1763 2.5)	48	1 	Vinh Welsh (1923 2.5)	
+64	52	½ 	Neil Lad (1914 2.0)	58	½ 	Harshin Reddy Jagirapu (1888 2.5)	
+65	12	0 	Shawn Swindell (2083 1.5)	15	1 	Maxwell Hampton Barnes (2047 1.5)	
+66	31	½ 	Jay A Carr (2000 1.5)	33	½ 	Ravishekhar Kashelkar (2000 1.5)	
+	34	1 	Kritin Rohan Gopalakrishnan (1993 1.5)			Please wait here	
+	4	½ 	Jonathan J Lang (2102 4.5)			BYE	
+	11	½ 	WCM Aksithi Eswaran (2085 3.5)			BYE	
+

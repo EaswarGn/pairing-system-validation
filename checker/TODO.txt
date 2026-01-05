@@ -1,0 +1,18 @@
+TODO:
+
+Checker:
+- use swissSys to geenrate tournaments and test of the checking functions
+- Testing of overall system
+- Add geenral pairing validity checking? e.g. team exists?
+- Implement other formats
+
+PlanA:
+- Implement sessino with idnexes/progression
+- Implement a software validated page/certificate/license key
+- implement results showing of vlaidation verdict
+
+PlanB:
+- Implement sessino
+- Implement progression/flow of test cases
+- Implement comprehension of results
+

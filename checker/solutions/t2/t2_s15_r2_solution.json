@@ -1,0 +1,120 @@
+{
+    "Sections": [
+        {
+            "Section name": "t2_s15_r2",
+            "Type": 0,
+            "Number of players": 10,
+            "Number of teams": 0,
+            "Rounds paired": 2,
+            "Rounds played": 1,
+            "Regular": true,
+            "Rapid": false,
+            "Blitz": false,
+            "Acceleration": 0,
+            "Use team pairings": true,
+            "Team cut": 4,
+            "Players": [
+                {
+                    "Pair number": 1,
+                    "Name": "DeDona, Thomas",
+                    "Rating": 1397,
+                    "Results": [
+                        "+;6;W",
+                        "~;9;B"
+                    ]
+                },
+                {
+                    "Pair number": 2,
+                    "Name": "Hobby, Dillan",
+                    "Rating": 1385,
+                    "Results": [
+                        "-;7;B",
+                        "U;0;-"
+                    ]
+                },
+                {
+                    "Pair number": 3,
+                    "Name": "Liu, Daniel",
+                    "Rating": 1381,
+                    "Results": [
+                        "=;8;W",
+                        "~;0;-"
+                    ]
+                },
+                {
+                    "Pair number": 4,
+                    "Name": "Campbell, Robert John Dewitt",
+                    "Rating": 1350,
+                    "Results": [
+                        "-;9;B",
+                        "~;8;B"
+                    ]
+                },
+                {
+                    "Pair number": 5,
+                    "Name": "Palacios Zamalloa, Lucca Stefano",
+                    "Rating": 1350,
+                    "Results": [
+                        "-;10;W",
+                        "~;6;B"
+                    ]
+                },
+                {
+                    "Pair number": 6,
+                    "Name": "Moore, Alden",
+                    "Rating": 1343,
+                    "Results": [
+                        "-;1;B",
+                        "~;5;W"
+                    ]
+                },
+                {
+                    "Pair number": 7,
+                    "Name": "Mcdonald, Walter H.j",
+                    "Rating": 1313,
+                    "Results": [
+                        "+;2;W",
+                        "~;10;B"
+                    ]
+                },
+                {
+                    "Pair number": 8,
+                    "Name": "Yuan, Shenghao",
+                    "Rating": 1250,
+                    "Results": [
+                        "=;3;B",
+                        "~;4;W"
+                    ]
+                },
+                {
+                    "Pair number": 9,
+                    "Name": "Yilk, Todd A",
+                    "Rating": 1244,
+                    "Results": [
+                        "+;4;W",
+                        "~;1;W"
+                    ]
+                },
+                {
+                    "Pair number": 10,
+                    "Name": "Rodriguez, Abraham V",
+                    "Rating": 1220,
+                    "Results": [
+                        "+;5;B",
+                        "~;7;W"
+                    ]
+                }
+            ],
+            "Teams": [],
+            "Byes": [],
+            "Withdrawals": [
+                {
+                    "Pair number": 2,
+                    "Rounds withdrawn": [
+                        2
+                    ]
+                }
+            ]
+        }
+    ]
+}

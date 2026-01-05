@@ -1,0 +1,27 @@
+ALT, Altoona Chess Club
+BRK, Bradford Knight Owls
+CCL, Cocalico Chess Club
+CIM, Chess in Millburn
+CPH, CPA - Hershey
+EXT, Exton Chess Club
+FAN, Fan Chess Club
+KAQ, Kings and Queens of Chess
+LBC, Lower Bucks County Chess Club
+LCH, Lehigh Valley Chinese Chess Club
+LGL, Logan Lemurs
+LNF, Lenfest Center Chess Club
+LVC, Lehigh Valley Chess Association
+MNL, Main Line Chess Club
+MOH, Meyers High School Mohawk Pride
+MTH, Minor Threats Chess Club
+NPC, North Penn Chess Club
+PCC, Pittsburgh Chess Club
+PLR, Paul Robeson Chess Club
+RYA, Royal Academy
+SHK, Shining Knights Chess Club
+SHP, Shippensburg University Chess Club
+SJI, South Jersey Innovation Center
+TLK, Thinks Like a King
+TRB, Tri-Bridges Chess Club
+WSW, Workshop Warriors
+YCC, York Chess Club

@@ -1,0 +1,47 @@
+SwissSys Standings. CCA_WO23: Under 1400-3 (Standings (no tiebrk))
+#	Name	ID	Rating	Team	St	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Rd 8	Rd 9	Total	
+1	Gabriel Cumming	30657122	1276		VA	W32 (w)	W3 (b)	W19 (w)	W9 (w)	D2 (b)					 4.5	
+2	Panda Chen	31019180	1274		MI	W40 (b)	W24 (w)	W25 (b)	W6 (w)	D1 (w)					 4.5	
+3	William Y Li	16920805	1393		VA	X44	L1 (w)	W11 (b)	W27 (w)	W10 (b)					 4.0	
+4	Ean Fish	13956342	1350		CA	W17 (w)	L7 (b)	W34 (w)	W18 (b)	W14 (w)					 4.0	
+5	Abhishikth Ayyagari	16614003	1330		PA	L30 (b)	W31 (w)	W16 (b)	W28 (w)	W15 (b)					 4.0	
+6	Tayon Brown	14618863	1308		PA	W37 (b)	W36 (w)	W18 (w)	L2 (b)	W17 (w)					 4.0	
+7	Ivo Anusic	15208453	1231		OH	W23 (b)	W4 (w)	D10 (b)	W25 (w)	D9 (b)					 4.0	
+8	Gerardo Lameda	31048676	1364		VA	D11 (b)	W35 (w)	W24 (b)	L10 (w)	W21 (b)					 3.5	
+9	Sriman Devineni	16732714	1351		MA	W16 (b)	W30 (w)	W15 (w)	L1 (b)	D7 (w)					 3.5	
+10	Ansh Shrivastava	30136879	1316		CA	W31 (w)	W39 (b)	D7 (w)	W8 (b)	L3 (w)					 3.5	
+11	Kevin Andr John Francis Kennedy	30477246	1189		PA	D8 (w)	W26 (b)	L3 (w)	W24 (b)	W25 (w)					 3.5	
+12	Isaac Noah Lui	30138098	1353		NY	W34 (w)	L15 (b)	W22 (w)	L17 (b)	W28 (w)					 3.0	
+13	Alan Rivera-duran	30977574	1288		SC	L39 (b)	W37 (w)	W30 (b)	L15 (w)	W29 (b)					 3.0	
+14	Charles Cunningham	30479252	1271		NY	L36 (b)	W38 (w)	W39 (w)	W19 (b)	L4 (b)					 3.0	
+15	Adrian Bauer	30278825	1241		MD	W33 (w)	W12 (w)	L9 (b)	W13 (b)	L5 (w)					 3.0	
+16	Hyden Z Zhang	30279900	1078		PA	L9 (w)	W33 (b)	L5 (w)	W41 (b)	W34 (w)					 3.0	
+17	Trevor Donovan Owen	13807941	1072		IL	L4 (b)	W23 (w)	W20 (b)	W12 (w)	L6 (b)					 3.0	
+18	Brandon Kim	31300297	unr.		NY	X43	W20 (w)	L6 (b)	L4 (w)	W27 (b)					 3.0	
+19	Gabriel Suvaca	30914906	1354		IL	W29 (b)	W28 (w)	L1 (b)	L14 (w)	D22 (b)					 2.5	
+20	Ephraim Schafli	30029512	1293		PA	W38 (w)	L18 (b)	L17 (w)	W37 (b)	D23 (w)					 2.5	
+21	Varsha Sayana	15259183	1209	SAYSAY	GA	L24 (b)	D32 (w)	W35 (b)	W26 (w)	L8 (w)					 2.5	
+22	Leo Berkson	16262317	1165	TAIBER	NY	L25 (b)	W40 (w)	L12 (b)	W39 (w)	D19 (w)					 2.5	
+23	Nathaniel B Taylor	31235487	unr.		PA	L7 (w)	L17 (b)	W38 (b)	W30 (w)	D20 (b)					 2.5	
+24	Timothy Han	16527044	1371		PA	W21 (w)	L2 (b)	L8 (w)	L11 (w)	X36					 2.0	
+25	Alden Moore	16629707	1362		NY	W22 (w)	W27 (b)	L2 (w)	L7 (b)	L11 (b)					 2.0	
+26	Gregory Murray	12649055	1300		PA	H---	L11 (w)	W32 (b)	L21 (b)	H---	H---				 2.0	
+27	Joshua Klatt	15039335	1273		OH	W41 (w)	L25 (w)	W36 (b)	L3 (b)	L18 (w)					 2.0	
+28	Varun Sayana	15259198	1259	SAYSAY	GA	W42 (w)	L19 (b)	W41 (w)	L5 (b)	L12 (b)					 2.0	
+29	Jesse Carman	31290596	1122		VA	L19 (w)	L41 (b)	W40 (w)	W33 (b)	L13 (w)					 2.0	
+30	Kyle Wu	30021477	1047		NY	W5 (w)	L9 (b)	L13 (w)	L23 (b)	X41					 2.0	
+31	Jeffrey Yang	17278871	1046		NJ	L10 (b)	L5 (b)	L33 (w)	W35 (w)	W39 (b)		H---			 2.0	
+32	Aakash Rao	16796786	 862		PA	L1 (b)	D21 (b)	L26 (w)	H---	W37 (w)					 2.0	
+33	Luka Alexander Dolgov	31322079	unr.		CT	L15 (b)	L16 (w)	W31 (b)	L29 (w)	W38 (b)					 2.0	
+34	Anirudh Tirukottiyur Sathish	30265136	1087		NJ	L12 (b)	W42 (w)	L4 (b)	D36 (w)	L16 (b)					 1.5	
+35	Aslihan B Akalin	30527944	 980	AKAGOR	CA	H---	L8 (b)	L21 (w)	L31 (b)	X42					 1.5	
+36	Meher Walia	30641568	 420		NY	W14 (w)	L6 (b)	L27 (w)	D34 (b)	F24					 1.5	
+37	Devon B Reynolds	14033925	1033		TX	L6 (w)	L13 (b)	W42 (b)	L20 (w)	L32 (b)					 1.0	
+38	Faelan E Mcdermott	30666733	 903		PA	L20 (b)	L14 (b)	L23 (w)	W40 (b)	L33 (w)					 1.0	
+39	Antonio Craig	20042349	 901		GA	W13 (w)	L10 (w)	L14 (b)	L22 (b)	L31 (w)					 1.0	
+40	James Zagranichny	30181569	 494		NY	L2 (w)	L22 (b)	L29 (b)	L38 (w)	B---					 1.0	
+41	Liam Mott	17288045	 465		NY	L27 (b)	W29 (w)	L28 (b)	L16 (w)	F30					 1.0	
+42	Armaan Walia	30641571	 216		NY	L28 (b)	L34 (b)	L37 (w)	B---	F35					 1.0	
+43	Tanin Collins	30267428	1245		GA	F18	U---	U---	U---	U---					 0.0	
+44	Jesse Hugh Osada	30923492	1227		PA	F3	U---	U---	U---	U---					 0.0	
+

@@ -1,0 +1,318 @@
+{
+    "Overview": {
+        "Program": "SwissSys",
+        "Version": 11.53,
+        "Tournament title": "Documentation",
+        "Tournament time controls": "G/30d5",
+        "Starting date": "7/11/2024",
+        "Ending date": "7/11/2024",
+        "Trace": "7.4.6.7.4.6.1.6.6.0."
+    },
+    "Sections": [
+        {
+            "Section name": "Open",
+            "Type": 0,
+            "Number of players": 24,
+            "Number of teams": 3,
+            "Rounds paired": 0,
+            "Rounds played": 0,
+            "Rating to use": 0,
+            "Need search options": false,
+            "Final round": 5,
+            "Coin toss": 0,
+            "Team cut": 4,
+            "Acceleration": 0,
+            "Blitz": false,
+            "Use team pairings": true,
+            "Pair table items": 0,
+            "Team pair table items": 0,
+            "Players": [
+                {
+                    "Pair number": 1,
+                    "Name": "Carlsen, Magnus",
+                    "ID": "15218438",
+                    "Rating": 2914,
+                    "Rating2": 2875,
+                    "Exp1": "7/31/2013",
+                    "Current result": " ",
+                    "Note": "Result coding is Result; Op.; Clr; Brd; Logical ops. 1 & 2; Game pnts",
+                    "Results": []
+                },
+                {
+                    "Pair number": 2,
+                    "Name": "Caruana, Fabiano",
+                    "ID": "12743305",
+                    "Rating": 2880,
+                    "Rating2": 2699,
+                    "Exp1": "12/31/2099",
+                    "State": "FL",
+                    "Current result": " ",
+                    "Results": []
+                },
+                {
+                    "Pair number": 3,
+                    "Name": "Nakamura, Hikaru",
+                    "ID": "12641216",
+                    "Rating": 2876,
+                    "Rating2": 2778,
+                    "Exp1": "12/31/2060",
+                    "State": "NY",
+                    "Current result": " ",
+                    "Results": []
+                },
+                {
+                    "Pair number": 4,
+                    "Name": "Vachier-Lagrave, M",
+                    "ID": "14988438",
+                    "Rating": 2842,
+                    "Rating2": 2823,
+                    "Exp1": "11/30/2024",
+                    "Results": []
+                },
+                {
+                    "Pair number": 5,
+                    "Name": "Kasparov, Garry",
+                    "ID": "27182818",
+                    "Rating": 2838,
+                    "Team": "RUS",
+                    "Current result": " ",
+                    "Results": []
+                },
+                {
+                    "Pair number": 6,
+                    "Name": "Ding, Liren",
+                    "ID": "14988423",
+                    "Rating": 2828,
+                    "Rating2": 2829,
+                    "Exp1": "7/31/2012",
+                    "Results": []
+                },
+                {
+                    "Pair number": 7,
+                    "Name": "Giri, Anish",
+                    "ID": "15782874",
+                    "Rating": 2823,
+                    "Rating2": 2757,
+                    "Exp1": "11/30/2024",
+                    "Results": []
+                },
+                {
+                    "Pair number": 8,
+                    "Name": "Aronian, Levon",
+                    "ID": "15218444",
+                    "Rating": 2803,
+                    "Rating2": 2785,
+                    "Exp1": "12/31/2030",
+                    "State": "MO",
+                    "Results": []
+                },
+                {
+                    "Pair number": 9,
+                    "Name": "Duda, Jan-Krzyszto",
+                    "ID": "16978565",
+                    "Rating": 2803,
+                    "Provisional": true,
+                    "Rating2": 2783,
+                    "Exp1": "11/30/2024",
+                    "Results": []
+                },
+                {
+                    "Pair number": 10,
+                    "Name": "Rapport, Richard",
+                    "ID": "16978571",
+                    "Rating": 2800,
+                    "Rating2": 2765,
+                    "Exp1": "11/30/2024",
+                    "Results": []
+                },
+                {
+                    "Pair number": 11,
+                    "Name": "Morphy, Paul",
+                    "ID": "15162789",
+                    "Rating": 2800,
+                    "Team": "USA",
+                    "Current result": " ",
+                    "Results": []
+                },
+                {
+                    "Pair number": 12,
+                    "Name": "Grischuk, Alexande",
+                    "ID": "12807416",
+                    "Rating": 2795,
+                    "Rating2": 2720,
+                    "Exp1": "12/31/2004",
+                    "Results": []
+                },
+                {
+                    "Pair number": 13,
+                    "Name": "Niemann, Hans",
+                    "ID": "15041466",
+                    "Rating": 2764,
+                    "Rating2": 2398,
+                    "Exp1": "10/31/2024",
+                    "State": "CT",
+                    "Current result": " ",
+                    "Results": []
+                },
+                {
+                    "Pair number": 14,
+                    "Name": "Anand, Viswanathan",
+                    "ID": "12345678",
+                    "Rating": 2757,
+                    "Team": "TEAM5",
+                    "Current result": " ",
+                    "Results": []
+                },
+                {
+                    "Pair number": 15,
+                    "Name": "Nepomniachtchi, Ia",
+                    "ID": "13468661",
+                    "Rating": 2736,
+                    "Rating2": 2756,
+                    "Exp1": "11/30/2024",
+                    "Results": []
+                },
+                {
+                    "Pair number": 16,
+                    "Name": "Karpov, Anatoly",
+                    "ID": "19191919",
+                    "Rating": 2693,
+                    "Team": "RUS",
+                    "Current result": " ",
+                    "Results": []
+                },
+                {
+                    "Pair number": 17,
+                    "Name": "Abdusattorov, Nodi",
+                    "ID": "16417028",
+                    "Rating": 2560,
+                    "Provisional": true,
+                    "Exp1": "3/31/2017",
+                    "Results": []
+                },
+                {
+                    "Pair number": 18,
+                    "Name": "Zhao, Erick",
+                    "ID": "15346712",
+                    "Rating": 2471,
+                    "Rating2": 1680,
+                    "Exp1": "2/28/2026",
+                    "State": "PA",
+                    "Results": []
+                },
+                {
+                    "Pair number": 19,
+                    "Name": "Rozman, Levy",
+                    "ID": "12879834",
+                    "Rating": 2411,
+                    "Rating2": 2274,
+                    "Exp1": "1/31/2022",
+                    "State": "NY",
+                    "Current result": " ",
+                    "Results": []
+                },
+                {
+                    "Pair number": 20,
+                    "Name": "Kramnik, Vladimir",
+                    "ID": "20046805",
+                    "Rating": 2288,
+                    "Exp1": "5/31/1989",
+                    "Current result": " ",
+                    "Results": []
+                },
+                {
+                    "Pair number": 21,
+                    "Name": "Thomforde-Toates,",
+                    "ID": "15582857",
+                    "Rating": 2272,
+                    "Rating2": 2115,
+                    "Exp1": "1/31/2025",
+                    "State": "PA",
+                    "Results": []
+                },
+                {
+                    "Pair number": 22,
+                    "Name": "Botez, Alexandra",
+                    "ID": "12882405",
+                    "Rating": 2081,
+                    "Rating2": 1821,
+                    "Exp1": "1/31/2025",
+                    "State": "OR",
+                    "Results": []
+                },
+                {
+                    "Pair number": 23,
+                    "Name": "Kahan, Noah",
+                    "ID": "12928608",
+                    "Rating": 478,
+                    "Provisional": true,
+                    "Exp1": "2/28/2005",
+                    "State": "NY",
+                    "Results": []
+                },
+                {
+                    "Pair number": 24,
+                    "Name": "Gukesh, D",
+                    "ID": "30064890",
+                    "Exp1": "11/30/2021",
+                    "Results": []
+                }
+            ],
+            "Teams": [
+                {
+                    "Pair number": 1,
+                    "Full name": "United States",
+                    "Team code": "USA",
+                    "Rating": 0,
+                    "Current result": " ",
+                    "Results": []
+                },
+                {
+                    "Pair number": 2,
+                    "Full name": "Russia A",
+                    "Team code": "RUS",
+                    "Rating": 0,
+                    "Current result": " ",
+                    "Results": []
+                },
+                {
+                    "Pair number": 3,
+                    "Full name": "Fifth Team",
+                    "Team code": "TEAM5",
+                    "Rating": 0,
+                    "Current result": " ",
+                    "Results": []
+                }
+            ],
+            "Prizes": {
+                "Place prizes": [],
+                "Class prizes": []
+            },
+            "Ladder": {}
+        },
+        {
+            "Section name": "Closed",
+            "Type": 0,
+            "Number of players": 0,
+            "Number of teams": 0,
+            "Rounds paired": 0,
+            "Rounds played": 0,
+            "Rating to use": 0,
+            "Need search options": false,
+            "Final round": 5,
+            "Team cut": 4,
+            "Acceleration": 0,
+            "Blitz": false,
+            "Use team pairings": true,
+            "Pair table items": 0,
+            "Team pair table items": 0,
+            "Players": [],
+            "Teams": [],
+            "Prizes": {
+                "Place prizes": [],
+                "Class prizes": []
+            },
+            "Ladder": {}
+        }
+    ]
+}

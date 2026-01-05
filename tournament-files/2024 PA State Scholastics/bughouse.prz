@@ -1,0 +1,60 @@
+[Prizes]
+Percentage awarded=100
+Grand Prix style=0
+Guaranteed place prizes=0
+Limit awards=0
+Include withdrawn=0
+Treat as percentage1=0
+Treat as percentage2=0
+Total cash1=0
+Total cash2=0
+Maximum for unrated=100
+Place prize count=4
+Class Categories=4
+Class prizes=1
+Upset prizes=0
+Clear winner bonus=0
+Prizes by age=0
+Round up=0
+[Place prize amount]
+Place1=0
+Place2=0
+Place3=0
+Place4=0
+[Class prize amount]
+Category1Place1=0
+Category2Place1=0
+Category3Place1=0
+Category4Place1=0
+[Class rating tops]
+Category1=1299
+Category2=999
+Category3=699
+Category4=399
+[Class rating bottoms]
+Category1=100
+Category2=100
+Category3=100
+Category4=100
+[Class names]
+Category1=U1300
+Category2=U1000
+Category3=U700
+Category4=U400
+[Other]
+Unrated in top class=0
+[Place prize description]
+Place1=1st Overall
+Place2=2nd Overall
+Place3=3rd Overall
+Place4=4th Overall
+[Class prize description]
+Category1Place1=U1300
+Category2Place1=U1000
+Category3Place1=U700
+Category4Place1=U400
+[Class prize priorities]
+Category1Place1=100
+Category2Place1=100
+Category3Place1=100
+Category4Place1=100

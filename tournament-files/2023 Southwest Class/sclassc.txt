@@ -1,0 +1,66 @@
+SwissSys Standings. CCA_SWCC23: Class C Merged (Standings (no tiebrk))
+#	Name	ID	Rating	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Total	Prize	
+1	Tobias William Maxwe Slatken	30201049	1401	W36 (b)	W43 (w)	W13 (b)	D9 (w)	D15 (b)	W10 (w)	W3 (w)	 6.0	1600.00	
+2	Namish Thakkar	16701768	1476	W8 (b)	W35 (w)	W6 (b)	D15 (w)	L3 (b)	W34 (w)	W16 (b)	 5.5	533.33	
+3	John C Lee	12536424	1455	W7 (w)	W41 (b)	H---	W32 (b)	W2 (w)	W9 (w)	L1 (b)	 5.5	533.33	
+4	Sanjeev Ravichandar	15638998	1396	W11 (b)	W28 (w)	D14 (w)	W26 (b)	D10 (w)	D6 (b)	W15 (w)	 5.5	533.33	
+5	Rishi Kolli	30358373	1470	D48 (b)	D17 (w)	W42 (b)	W51 (w)	L16 (b)	W21 (w)	W22 (b)	 5.0	50.00	
+6	Daniel Ismagilov	30746032	1428	W62 (b)	W59 (w)	L2 (w)	W35 (b)	W37 (b)	D4 (w)	H---	 5.0	50.00	
+7	Madhushan Selvamani	17115543	1393	L3 (b)	W57 (w)	W28 (b)	L13 (w)	W19 (b)	W37 (w)	W23 (w)	 5.0	50.00	
+8	Alan Govea	12844812	1377	L2 (w)	B---	D17 (b)	W38 (w)	W26 (b)	W29 (w)	D9 (b)	 5.0	50.00	
+9	Raam Narayanan Raghunathan	15612775	1570	X---	D16 (b)	W39 (w)	D1 (b)	W14 (w)	L3 (b)	D8 (w)	 4.5		
+10	Michael J Hamill	12664156	1500	H---	D23 (w)	W45 (b)	W40 (w)	D4 (b)	L1 (b)	W27 (w)	 4.5		
+11	Cole Daly	30461355	1499	L4 (w)	W47 (w)	D21 (b)	W46 (b)	D32 (w)	D23 (b)	W29 (w)	 4.5		
+12	Rohan Vinod	30118297	1495	D17 (b)	W48 (w)	D40 (b)	D23 (w)	L29 (b)	W44 (w)	W32 (b)	 4.5		
+13	Thanh Viet Nguyen	16406652	1464	W56 (w)	W46 (b)	L1 (w)	W7 (b)	D23 (b)	D22 (w)	D17 (b)	 4.5		
+14	Arsenio Bachurin	16790750	1452	W42 (b)	W21 (w)	D4 (b)	D16 (w)	L9 (b)	D32 (w)	W34 (b)	 4.5		
+15	Umar Mansurov	17128190	1440	W52 (b)	W45 (w)	W51 (b)	D2 (b)	D1 (w)	D16 (w)	L4 (b)	 4.5		
+16	Thanuj Dinesan	30182156	1422	W61 (b)	D9 (w)	W25 (w)	D14 (b)	W5 (w)	D15 (b)	L2 (w)	 4.5		
+17	Tanish Seelam	17061896	1411	D12 (w)	D5 (b)	D8 (w)	D25 (b)	W52 (w)	W41 (b)	D13 (w)	 4.5		
+18	Sejal Singh	17205701	1474	D31 (b)	L29 (w)	W47 (b)	D21 (w)	L22 (b)	W51 (w)	W41 (b)	 4.0		
+19	Stephen D Aarons	12293210	1443	L51 (w)	D34 (b)	D48 (w)	W49 (b)	L7 (w)	W40 (b)	W42 (w)	 4.0		
+20	Aadhya Jay Rajagopalan	30065644	1413	L22 (b)	W62 (w)	L35 (b)	L36 (w)	W54 (b)	W52 (w)	W37 (b)	 4.0		
+21	Jerome W Tichacek	12014840	1400	W49 (w)	L14 (b)	D11 (w)	D18 (b)	W25 (w)	L5 (b)	W38 (b)	 4.0		
+22	Brody Joel Barcheers	16956895	1303	W20 (w)	L25 (b)	D44 (w)	W39 (b)	W18 (w)	D13 (b)	L5 (w)	 4.0		
+23	Melissa Xu	16962396	1290	B---	D10 (b)	W27 (w)	D12 (b)	D13 (w)	D11 (w)	L7 (b)	 4.0		
+24	Jaithra Dillibabu	17023435	1276	L40 (b)	D30 (w)	L52 (b)	W47 (w)	W45 (b)	W28 (w)	D25 (b)	 4.0		
+25	Jose C De La Colina	15217257	1540	D29 (b)	W22 (w)	L16 (b)	D17 (w)	L21 (b)	W33 (b)	D24 (w)	 3.5		
+26	Doyle W Lobaugh	12437813	1500	W30 (b)	D40 (w)	W29 (b)	L4 (w)	L8 (w)	W35 (b)	U---	 3.5		
+27	Tianmu Wang	16996027	1448	D47 (b)	W31 (w)	L23 (b)	L29 (w)	W36 (b)	W30 (w)	L10 (b)	 3.5		
+28	Eskandar Saraie	15737746	1436	W33 (w)	L4 (b)	L7 (w)	W48 (b)	D42 (w)	L24 (b)	W46 (w)	 3.5		
+29	Isaac Drum	13900327	1400	D25 (w)	W18 (b)	L26 (w)	W27 (b)	W12 (w)	L8 (b)	L11 (b)	 3.5		
+30	Angel G Reyes	12775561	1398	L26 (w)	D24 (b)	W33 (w)	L44 (b)	W57 (w)	L27 (b)	W49 (w)	 3.5		
+31	Leslie Smith	12686442	1396	D18 (w)	L27 (b)	L34 (w)	L33 (b)	W53 (w)	W57 (b)	W50 (w)	 3.5		
+32	Owen Lin	30076624	1370	W50 (b)	D39 (w)	W43 (b)	L3 (w)	D11 (b)	D14 (b)	L12 (w)	 3.5		
+33	Sanmita Hosur	16249172	1342	L28 (b)	D38 (w)	L30 (b)	W31 (w)	W39 (b)	L25 (w)	W44 (b)	 3.5		
+34	Daniel Evan Hartfield	15272878	1332	L55 (b)	D19 (w)	W31 (b)	W43 (w)	W44 (w)	L2 (b)	L14 (w)	 3.5		
+35	Jason Loftiss	12608883	1316	W44 (w)	L2 (b)	W20 (w)	L6 (w)	W40 (b)	L26 (w)	H---	 3.5		
+36	Dhanvi Namala	30205159	1269	L1 (w)	L58 (b)	W54 (w)	W20 (b)	L27 (w)	D39 (w)	W45 (b)	 3.5		
+37	Nguyen Nam Tran	16406667	1493	L46 (w)	W56 (b)	W58 (w)	W41 (b)	L6 (w)	L7 (b)	L20 (w)	 3.0		
+38	Jaret Ryan Dawson	14566505	1450	L59 (w)	D33 (b)	W53 (w)	L8 (b)	W46 (w)	D42 (b)	L21 (w)	 3.0		
+39	Leah Yang	30127892	1427	W54 (w)	D32 (b)	L9 (b)	L22 (w)	L33 (w)	D36 (b)	W51 (b)	 3.0		
+40	Krishna Setty	17034958	1402	W24 (w)	D26 (b)	D12 (w)	L10 (b)	L35 (w)	L19 (w)	W53 (b)	 3.0		
+41	Gregory Reinhart	12946611	1400	W57 (b)	L3 (w)	W50 (b)	L37 (w)	W51 (b)	L17 (w)	L18 (w)	 3.0		
+42	Sri Yashvi Raghuraja	15714811	1392	L14 (w)	W49 (b)	L5 (w)	W53 (b)	D28 (b)	D38 (w)	L19 (b)	 3.0		
+43	Quintin A Noland	13592605	1516	W58 (w)	L1 (b)	L32 (w)	L34 (b)	W48 (w)	D49 (b)	U---	 2.5		
+44	Cedric Yu Zhang	16640764	1433	L35 (b)	W61 (w)	D22 (b)	W30 (w)	L34 (b)	L12 (b)	L33 (w)	 2.5		
+45	George Robert Eason	12504467	1400	W53 (w)	L15 (b)	L10 (w)	D57 (b)	L24 (w)	W47 (b)	L36 (w)	 2.5		
+46	Ross Mcewen	30839169	1389	W37 (b)	L13 (w)	D55 (b)	L11 (w)	L38 (b)	W56 (w)	L28 (b)	 2.5		
+47	Johnny Paul	12730546	1360	D27 (w)	L11 (b)	L18 (w)	L24 (b)	B---	L45 (w)	W56 (b)	 2.5		
+48	Charley Chen	16766215	1342	D5 (w)	L12 (b)	D19 (b)	L28 (w)	L43 (b)	W54 (w)	H---	 2.5		
+49	Pranav Ganesan	16294398	1215	L21 (b)	L42 (w)	W62 (b)	L19 (w)	W50 (b)	D43 (w)	L30 (b)	 2.5		
+50	Michael Mettler	13620918	1473	L32 (w)	W54 (b)	L41 (w)	L52 (b)	L49 (w)	X62	L31 (b)	 2.0		
+51	Austen Johnson	16187613	1347	W19 (b)	W55 (w)	L15 (w)	L5 (b)	L41 (w)	L18 (b)	L39 (w)	 2.0		
+52	Paul Webb	12662018	1347	L15 (w)	L53 (b)	W24 (w)	W50 (w)	L17 (b)	L20 (b)	U---	 2.0		
+53	Nethra Vinayagaram	30041004	1126	L45 (b)	W52 (w)	L38 (b)	L42 (w)	L31 (b)	B---	L40 (w)	 2.0		
+54	Cole Bronz Peterson	31019243	unr.	L39 (b)	L50 (w)	L36 (b)	W56 (w)	L20 (w)	L48 (b)	W57 (w)	 2.0		
+55	Chris Amburgy	16001936	1424	W34 (w)	L51 (b)	D46 (w)	U---	U---	U---	U---	 1.5		
+56	Leo Le-Tran	30587257	1334	L13 (b)	L37 (w)	H---	L54 (b)	W62 (w)	L46 (b)	L47 (w)	 1.5		
+57	Vidhun Ganesan	16442420	1200	L41 (w)	L7 (b)	W63 (b)	D45 (w)	L30 (b)	L31 (w)	L54 (b)	 1.5		
+58	Chris Hyde	12677407	1400	L43 (b)	W36 (w)	L37 (b)	U---	U---	U---	U---	 1.0		
+59	Matthew A Caughey	30971331	1362	W38 (b)	L6 (b)	U---	U---	U---	U---	U---	 1.0		
+60	Anushka Borse	16724907	 754	U---	U---	U---	W62 (w)	U---	U---	U---	 1.0		
+61	Dylan Traber Kaye	15656032	1515	L16 (w)	L44 (b)	U---	U---	U---	U---	U---	 0.0		
+62	Alexander Zhao	16644794	1337	L6 (w)	L20 (b)	L49 (w)	L60 (b)	L56 (b)	F50	U---	 0.0		
+63	Micah Kheraj	16335728	 516	U---	U---	L57 (w)	U---	U---	U---	U---	 0.0		
+

@@ -1,0 +1,450 @@
+{
+    "Sections": [
+        {
+            "Section name": "t3_s5_r1",
+            "Type": 0,
+            "Number of players": 40,
+            "Number of teams": 24,
+            "Rounds paired": 0,
+            "Rounds played": 0,
+            "Regular": true,
+            "Rapid": false,
+            "Blitz": false,
+            "Acceleration": 0,
+            "Use team pairings": true,
+            "Team cut": 4,
+            "Players": [
+                {
+                    "Pair number": 1,
+                    "Name": "Samanta, Aayansh",
+                    "Rating": 1234,
+                    "Team": "FRNES",
+                    "Results": []
+                },
+                {
+                    "Pair number": 2,
+                    "Name": "Lu, Jingyi",
+                    "Rating": 1186,
+                    "Team": "NEGLS",
+                    "Results": []
+                },
+                {
+                    "Pair number": 3,
+                    "Name": "Liu, Joseph",
+                    "Rating": 1124,
+                    "Team": "STBES",
+                    "Results": []
+                },
+                {
+                    "Pair number": 4,
+                    "Name": "Yu, Nicole Q",
+                    "Rating": 1098,
+                    "Team": "NSTES",
+                    "Results": []
+                },
+                {
+                    "Pair number": 5,
+                    "Name": "Luo, William T",
+                    "Rating": 1097,
+                    "Team": "VTMES",
+                    "Results": []
+                },
+                {
+                    "Pair number": 6,
+                    "Name": "Su-feng, Max",
+                    "Rating": 917,
+                    "Team": "PHILS",
+                    "Results": []
+                },
+                {
+                    "Pair number": 7,
+                    "Name": "Zhang, Hyden Z",
+                    "Rating": 909,
+                    "Team": "FGLES",
+                    "Results": []
+                },
+                {
+                    "Pair number": 8,
+                    "Name": "Ye, Simon M",
+                    "Rating": 875,
+                    "Team": "NWEES",
+                    "Results": []
+                },
+                {
+                    "Pair number": 9,
+                    "Name": "Lan, William",
+                    "Rating": 805,
+                    "Team": "FJJNS",
+                    "Results": []
+                },
+                {
+                    "Pair number": 10,
+                    "Name": "Kumbharathi, Eeshan See Td",
+                    "Rating": 772,
+                    "Team": "WVNCS",
+                    "Results": []
+                },
+                {
+                    "Pair number": 11,
+                    "Name": "Arunkumar, Mirthvik",
+                    "Rating": 715,
+                    "Team": "HMPDS",
+                    "Results": []
+                },
+                {
+                    "Pair number": 12,
+                    "Name": "Kuo, Nathan",
+                    "Rating": 672,
+                    "Team": "HRTES",
+                    "Results": []
+                },
+                {
+                    "Pair number": 13,
+                    "Name": "Dunsay, Asher",
+                    "Rating": 669,
+                    "Team": "MERES",
+                    "Results": []
+                },
+                {
+                    "Pair number": 14,
+                    "Name": "Xiao, Will",
+                    "Rating": 622,
+                    "Team": "SDRTS",
+                    "Results": []
+                },
+                {
+                    "Pair number": 15,
+                    "Name": "Zhao, Erica",
+                    "Rating": 602,
+                    "Team": "SFTES",
+                    "Results": []
+                },
+                {
+                    "Pair number": 16,
+                    "Name": "Miao, Brian",
+                    "Rating": 594,
+                    "Team": "WDFES",
+                    "Results": []
+                },
+                {
+                    "Pair number": 17,
+                    "Name": "Yu, Tony Z",
+                    "Rating": 566,
+                    "Team": "NSTES",
+                    "Results": []
+                },
+                {
+                    "Pair number": 18,
+                    "Name": "Kitterman, Leo",
+                    "Rating": 564,
+                    "Team": "MERES",
+                    "Results": []
+                },
+                {
+                    "Pair number": 19,
+                    "Name": "Sheth, Arhan A",
+                    "Rating": 413,
+                    "Team": "EXTNS",
+                    "Results": []
+                },
+                {
+                    "Pair number": 20,
+                    "Name": "Rouse, Lorenzo",
+                    "Rating": 390,
+                    "Team": "ASJNS",
+                    "Results": []
+                },
+                {
+                    "Pair number": 21,
+                    "Name": "Diwakar, Varun",
+                    "Rating": 328,
+                    "Team": "PNALS",
+                    "Results": []
+                },
+                {
+                    "Pair number": 22,
+                    "Name": "Chang, Lia",
+                    "Rating": 0,
+                    "Team": "MERES",
+                    "Results": []
+                },
+                {
+                    "Pair number": 23,
+                    "Name": "Pericharla, Sumukh V",
+                    "Rating": 0,
+                    "Team": "WNDCS",
+                    "Results": []
+                },
+                {
+                    "Pair number": 24,
+                    "Name": "Bullaughey, Mina",
+                    "Rating": 0,
+                    "Team": "MERES",
+                    "Results": []
+                },
+                {
+                    "Pair number": 25,
+                    "Name": "Huang, Jimmy",
+                    "Rating": 0,
+                    "Team": "ASJNS",
+                    "Results": []
+                },
+                {
+                    "Pair number": 26,
+                    "Name": "McCaffrey, Mj",
+                    "Rating": 0,
+                    "Team": "FRICS",
+                    "Results": []
+                },
+                {
+                    "Pair number": 27,
+                    "Name": "Berkouk, Mohamed",
+                    "Rating": 0,
+                    "Team": "ASJNS",
+                    "Results": []
+                },
+                {
+                    "Pair number": 28,
+                    "Name": "Morisseau, Eric",
+                    "Rating": 0,
+                    "Team": "FRICS",
+                    "Results": []
+                },
+                {
+                    "Pair number": 29,
+                    "Name": "Bajwa, Avreet S",
+                    "Rating": 0,
+                    "Team": "WNDCS",
+                    "Results": []
+                },
+                {
+                    "Pair number": 30,
+                    "Name": "Jojua, Gabriel",
+                    "Rating": 0,
+                    "Team": "LSCES",
+                    "Results": []
+                },
+                {
+                    "Pair number": 31,
+                    "Name": "Hoffman, William",
+                    "Rating": 0,
+                    "Team": "SSPES",
+                    "Results": []
+                },
+                {
+                    "Pair number": 32,
+                    "Name": "Vogan, Theodore",
+                    "Rating": 0,
+                    "Team": "FRICS",
+                    "Results": []
+                },
+                {
+                    "Pair number": 33,
+                    "Name": "Wang, Laura Z",
+                    "Rating": 0,
+                    "Team": "NSTES",
+                    "Results": []
+                },
+                {
+                    "Pair number": 34,
+                    "Name": "Grant, Bennett",
+                    "Rating": 0,
+                    "Team": "FRICS",
+                    "Results": []
+                },
+                {
+                    "Pair number": 35,
+                    "Name": "Reliford, Alana",
+                    "Rating": 0,
+                    "Team": "CYNWS",
+                    "Results": []
+                },
+                {
+                    "Pair number": 36,
+                    "Name": "Reliford, Nicholas",
+                    "Rating": 0,
+                    "Team": "CYNWS",
+                    "Results": []
+                },
+                {
+                    "Pair number": 37,
+                    "Name": "Duffy, Peter",
+                    "Rating": 0,
+                    "Team": "MERES",
+                    "Results": []
+                },
+                {
+                    "Pair number": 38,
+                    "Name": "Karthic, Dhusanth",
+                    "Rating": 0,
+                    "Team": "FJJNS",
+                    "Results": []
+                },
+                {
+                    "Pair number": 39,
+                    "Name": "Zhang, Noah",
+                    "Rating": 0,
+                    "Team": "MERES",
+                    "Results": []
+                },
+                {
+                    "Pair number": 40,
+                    "Name": "Hoffman, Nicholas",
+                    "Rating": 0,
+                    "Team": "SSPES",
+                    "Results": []
+                }
+            ],
+            "Teams": [
+                {
+                    "Pair number": 1,
+                    "Full name": "FRNES",
+                    "Team code": "FRNES"
+                },
+                {
+                    "Pair number": 2,
+                    "Full name": "NEGLS",
+                    "Team code": "NEGLS"
+                },
+                {
+                    "Pair number": 3,
+                    "Full name": "STBES",
+                    "Team code": "STBES"
+                },
+                {
+                    "Pair number": 4,
+                    "Full name": "NSTES",
+                    "Team code": "NSTES"
+                },
+                {
+                    "Pair number": 5,
+                    "Full name": "VTMES",
+                    "Team code": "VTMES"
+                },
+                {
+                    "Pair number": 6,
+                    "Full name": "PHILS",
+                    "Team code": "PHILS"
+                },
+                {
+                    "Pair number": 7,
+                    "Full name": "FGLES",
+                    "Team code": "FGLES"
+                },
+                {
+                    "Pair number": 8,
+                    "Full name": "NWEES",
+                    "Team code": "NWEES"
+                },
+                {
+                    "Pair number": 9,
+                    "Full name": "FJJNS",
+                    "Team code": "FJJNS"
+                },
+                {
+                    "Pair number": 10,
+                    "Full name": "WVNCS",
+                    "Team code": "WVNCS"
+                },
+                {
+                    "Pair number": 11,
+                    "Full name": "HMPDS",
+                    "Team code": "HMPDS"
+                },
+                {
+                    "Pair number": 12,
+                    "Full name": "HRTES",
+                    "Team code": "HRTES"
+                },
+                {
+                    "Pair number": 13,
+                    "Full name": "MERES",
+                    "Team code": "MERES"
+                },
+                {
+                    "Pair number": 14,
+                    "Full name": "SDRTS",
+                    "Team code": "SDRTS"
+                },
+                {
+                    "Pair number": 15,
+                    "Full name": "SFTES",
+                    "Team code": "SFTES"
+                },
+                {
+                    "Pair number": 16,
+                    "Full name": "WDFES",
+                    "Team code": "WDFES"
+                },
+                {
+                    "Pair number": 17,
+                    "Full name": "EXTNS",
+                    "Team code": "EXTNS"
+                },
+                {
+                    "Pair number": 18,
+                    "Full name": "ASJNS",
+                    "Team code": "ASJNS"
+                },
+                {
+                    "Pair number": 19,
+                    "Full name": "PNALS",
+                    "Team code": "PNALS"
+                },
+                {
+                    "Pair number": 20,
+                    "Full name": "WNDCS",
+                    "Team code": "WNDCS"
+                },
+                {
+                    "Pair number": 21,
+                    "Full name": "FRICS",
+                    "Team code": "FRICS"
+                },
+                {
+                    "Pair number": 22,
+                    "Full name": "LSCES",
+                    "Team code": "LSCES"
+                },
+                {
+                    "Pair number": 23,
+                    "Full name": "SSPES",
+                    "Team code": "SSPES"
+                },
+                {
+                    "Pair number": 24,
+                    "Full name": "CYNWS",
+                    "Team code": "CYNWS"
+                }
+            ],
+            "Byes": [],
+            "Withdrawals": [
+                {
+                    "Pair number": 2,
+                    "Rounds withdrawn": [
+                        5
+                    ]
+                },
+                {
+                    "Pair number": 23,
+                    "Rounds withdrawn": [
+                        1,
+                        2,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "Pair number": 38,
+                    "Rounds withdrawn": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                    ]
+                }
+            ]
+        }
+    ]
+}

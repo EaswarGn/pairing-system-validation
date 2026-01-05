@@ -1,0 +1,32 @@
+[Prizes]
+Percentage awarded=100
+Grand Prix style=0
+Guaranteed place prizes=0
+Limit awards=1
+Include withdrawn=0
+Treat as percentage1=0
+Treat as percentage2=0
+Total cash1=0
+Total cash2=0
+Maximum for unrated=300
+Place prize count=5
+Class Categories=0
+Class prizes=0
+Upset prizes=0
+Clear winner bonus=0
+Prizes by age=0
+Round up=0
+[Place prize amount]
+Place1=1600
+Place2=800
+Place3=500
+Place4=300
+Place5=200
+[Other]
+Unrated in top class=0
+[Place prize description]
+Place1=
+Place2=
+Place3=
+Place4=
+Place5=

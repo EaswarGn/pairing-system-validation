@@ -1,0 +1,23 @@
+SwissSys Standings. CCA_SWCC23: Class A  (1700-1999)-3 (Standings (no tiebrk))
+#	Name	ID	Rating	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Total	
+1	Oscar Wang	16068470	1956	W14 (b)	~5 (w)						 1.0	
+2	Tianjun Chen	16788394	1884	W15 (w)	~6 (b)						 1.0	
+3	Thirupathy Ramanathan	12840153	1880	X16	~8 (w)						 1.0	
+4	Tony Zhou	16147444	1862	W17 (w)	~7 (b)						 1.0	
+5	Oliver Hsiao	16905993	1828	W18 (w)	~1 (b)					H---	 1.0	
+6	Saathvik Dasari	16807683	1790	W19 (b)	~2 (w)						 1.0	
+7	Lev Shangin	17117362	1783	W20 (b)	~4 (w)						 1.0	
+8	Elizabeth Riley Braddy	16738150	1754	W12 (w)	~3 (b)						 1.0	
+9	Benjamin Munro Austin	15852652	1700	W13 (b)	~11 (w)						 1.0	
+10	Huanzhi Zhou	17336634	1665	W11 (b)	U---						 1.0	
+11	Nikunj Chandrakant Oza	12497585	1851	L10 (w)	~9 (b)						 0.0	
+12	Marvin Lee	12873415	1850	L8 (b)	~19 (w)						 0.0	
+13	Greg Zhou	16183296	1788	L9 (w)	~17 (b)						 0.0	
+14	Devin Sanjay Martins	15934344	1774	L1 (w)	~18 (b)						 0.0	
+15	Samuel Gu	30050913	1770	L2 (b)	~20 (w)						 0.0	
+16	Daniel A Marmer	12889369	1768	F3	U---						 0.0	
+17	Srikar Kandikayala	16803213	1756	L4 (b)	~13 (w)						 0.0	
+18	Mark Mettler	13934473	1733	L5 (b)	~14 (w)						 0.0	
+19	Kanishk Mahesh	17039667	1707	L6 (w)	~12 (b)						 0.0	
+20	Ayan Nagulapally	15934570	1699	L7 (w)	~15 (b)						 0.0	
+

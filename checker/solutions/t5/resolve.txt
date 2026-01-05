@@ -1,0 +1,18 @@
+index,section name,num_tests
+1,U1400-45,5
+2,U1600-45,5
+3,U1800-45,5
+4,Under 1400-3,5
+5,Under 1400-4,2
+6,Under 1400-5,2
+7,Under 1600-3,5
+8,Under 1600-4,2
+9,Under 1600-5,2
+10,Under 1800-3,5
+11,Under 1800-4,2
+12,Under 1800-5,2
+13,UNDER1400,9
+14,UNDER1600,9
+15,UNDER1800,9
+
+#2023 World Open

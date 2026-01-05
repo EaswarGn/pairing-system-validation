@@ -1,0 +1,130 @@
+SwissSys Standings. CCA_CHI22: Under 1900 Merged (Standings (no tiebrk))
+#	Name	Rating	Team	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Total	Prize	
+1	Cole Rice	1893		W66	W67	W40	W22	W11	W3	L2	 6.0	2020.00	
+2	Lefan Yang	1838		L5	W85	W82	W24	W40	W10	W1	 6.0	2020.00	
+3	Alan Zheng	1808		W102	W86	W44	W5	W9	L1	W16	 6.0	2020.00	
+4	Augusto Gutierrez	1800	BOWGUT	W79	L5	W75	W57	W76	W9	W11	 6.0	2020.00	
+5	Ashwin Damaraju	1651		W2	W4	W14	L3	W33	W38	W13	 6.0	2020.00	
+6	Adam Forrest*** Stafford	1855		W47	L62	W65	D46	W59	W39	W22	 5.5	450.00	
+7	Theodore John Epstein	1779		W84	W87	L9	D59	W52	W29	W21	 5.5	450.00	
+8	James* Asaro	1898		D101	W71	D50	L15	W94	W40	W37	 5.0	82.00	
+9	Louis Cedeno	1880		W122	W91	W7	W33	L3	L4	W36	 5.0	82.00	
+10	Eric Henry	1865		W123	W57	W92	D16	W19	L2	D14	 5.0	82.00	
+11	Akshat Suresh	1853		W73	W59	W15	W17	L1	W26	L4	 5.0	82.00	
+12	Rafael Serrato	1850		W45	W72	L16	W42	L17	W66	W44	 5.0	82.00	
+13	Gary R Patella	1829		L57	W103	W72	W96	W44	W17	L5	 5.0	82.00	
+14	Alex Kong	1799		W109	W52	L5	D58	W77	W27	D10	 5.0	82.00	
+15	Bret Thomas O'Brien	1762		W108	W89	L11	W8	D28	W53	H---	 5.0	82.00	
+16	Roman Glusker	1734		W113	W110	W12	D10	W53	D21	L3	 5.0	82.00	
+17	Harvey Steven Hanke	1728		W114	W21	W20	L11	W12	L13	W33	 5.0	82.00	
+18	George Trbojevic	1643		D31	W54	D27	W90	D22	D19	W30	 5.0	82.00	
+19	Matthew John Campbell	1840		D55	W60	W99	W50	L10	D18	D24	 4.5		
+20	Justin Meek	1837		W68	W75	L17	L44	D56	W73	W55	 4.5		
+21	Aitegin Akmatbekov	1821		W48	L17	W73	W66	W25	D16	L7	 4.5		
+22	Sara Walsh	1781	WALSAN	W126	W26	W76	L1	D18	W28	L6	 4.5		
+23	Alan Xu	1759		L26	W68	W61	L28	D83	W84	W52	 4.5		
+24	Teodoro Porlares	1756		H---	D61	W97	L2	W49	W63	D19	 4.5		
+25	Mathew Jiang	1695		W30	W107	L33	W35	L21	W34	H---	 4.5		
+26	Rishi Murali	1506		W23	L22	W67	W92	W36	L11	D27	 4.5		
+27	George Leo Mccoy	1891		W38	D90	D18	W62	D39	L14	D26	 4.0		
+28	Brent Lee Baxter	1860		W56	L40	W94	W23	D15	L22	D41	 4.0		
+29	Jahaade* Adams	1855		W35	D58	L77	W55	W41	L7	D43	 4.0		
+30	Jithu Sajeevan	1847		L25	W48	W56	L40	W57	W75	L18	 4.0		
+31	Sharath Radhakrishnan	1841		D18	L98	U---	W93	W70	D74	W75	 4.0		
+32	Aswin Chirukandath	1824		L46	D93	D54	W65	D73	W59	D45	 4.0		
+33	Sherwin Duke	1805		W69	W82	W25	L9	L5	W42	L17	 4.0		
+34	Spencer Carran	1800	CHECAR	D60	L55	W70	W71	D46	L25	W74	 4.0		
+35	Oliver Smirnov	1793		L29	W109	W88	L25	D74	W83	D50	 4.0		
+36	James He Canty Jr	1781		W83	L44	W79	W74	L26	W76	L9	 4.0		
+37	Grayson Cooke	1778		D61	L77	D83	W103	W96	W58	L8	 4.0		
+38	George David	1774		L27	W47	W93	W98	W62	L5	U---	 4.0		
+39	Irene Jiao Fei	1768	FEICAO	W49	L50	W86	W63	D27	L6	D46	 4.0		
+40	Arjun Raman	1764		W104	W28	L1	W30	L2	L8	W79	 4.0		
+41	Madison Loftis	1759		L87	W69	W89	D52	L29	W77	D28	 4.0		
+42	Patrick Kidwell	1750		L89	W84	W110	L12	W98	L33	W76	 4.0		
+43	Charles H Craigmile	1744		L50	W78	H---	L60	W71	W89	D29	 4.0		
+44	Vachagan Harutyunyan	1722		W117	W36	L3	W20	L13	W54	L12	 4.0		
+45	Paul D Lubinski	1721		L12	W100	L52	H---	W103	W51	D32	 4.0		
+46	James* Zhang	1716		W32	D51	D90	D6	D34	H---	D39	 4.0		
+47	Brian Harrigan	1703		L6	L38	L95	B---	W97	W98	W64	 4.0		
+48	J W R* Terry	1618		L21	L30	L104	W121	W87	W80	W66	 4.0		
+49	Freyr Wang	1523		L39	L66	W69	W82	L24	W94	W65	 4.0		
+50	Faris Adan Pena	 979		W43	W39	D8	L19	L63	W90	D35	 4.0		
+51	Amarjargal* Ganbaatar	1889	GANBAT	W93	D46	L62	L80	W79	L45	W83	 3.5		
+52	Emmett Madigan	1868	WEBMAD	W94	L14	W45	D41	L7	W56	L23	 3.5		
+53	Stephen J Jennings	1844		D74	W70	W55	W77	L16	L15	U---	 3.5		
+54	Mohammed H Zafar	1802		H---	L18	D32	W95	W72	L44	D61	 3.5		
+55	Jacob Matthew Sanders	1718	WALSAN	D19	W34	L53	L29	W85	X92	L20	 3.5		
+56	Sean Richard Mccarter	1713		L28	W104	L30	W61	D20	L52	W84	 3.5		
+57	Mike A Cronin	1709		W13	L10	W64	L4	L30	D78	W86	 3.5		
+58	Lorenzo Sampson	1708		X115	D29	H---	D14	H---	L37	H---	 3.5		
+59	Ryan Zhang	1676		W118	L11	W107	D7	L6	L32	W89	 3.5		
+60	Denis Pozharskii	1650		D34	L19	W101	W43	W80	U---	U---	 3.5		
+61	Max Cao	1539	FEICAO	D37	D24	L23	L56	W82	W69	D54	 3.5		
+62	Jd*** Winick	1879		W95	W6	W51	L27	L38	U---	U---	 3.0		
+63	Ben Tancinco	1877		H---	B---	D74	L39	W50	L24	U---	 3.0		
+64	Bernard Louis Parham	1845		W96	L76	L57	H---	H---	W72	L47	 3.0		
+65	Eric* Kennedy	1807		L98	W95	L6	L32	W102	W96	L49	 3.0		
+66	Niklas C Heglin	1735		L1	W49	W108	L21	W90	L12	L48	 3.0		
+67	Louisa Zhang	1730	ZHACAR	X---	L1	L26	D85	D78	D86	D77	 3.0		
+68	Elton Huang	1715		L20	L23	W109	D78	L89	D71	W97	 3.0		
+69	Francis Michael Sheehy	1709		L33	L41	L49	W109	W88	L61	W96	 3.0		
+70	Sanjana Ramesh	1705	RAMSET	D111	L53	L34	W100	L31	D93	W98	 3.0		
+71	Keyron Jarvis	1701		H---	L8	X111	L34	L43	D68	W80	 3.0		
+72	Mulazim Muwwakkil	1700		W100	L12	L13	W87	L54	L64	W93	 3.0		
+73	Greg Zhou	1697		L11	B---	L21	W97	D32	L20	D78	 3.0		
+74	Vidyuth Kamesh	1684	PASKAM	D53	W111	D63	L36	D35	D31	L34	 3.0		
+75	Jonathan Reigenborn	1631		W120	L20	L4	W88	W92	L30	L31	 3.0		
+76	Celina Zhou	1619	ZHOWAN	W106	W64	L22	W91	L4	L36	L42	 3.0		
+77	Niyathi Girish	1601	GIRWIL	H---	W37	W29	L53	L14	L41	D67	 3.0		
+78	CM Jind Kaur	1531	KAUSIN	L92	L43	W121	D68	D67	D57	D73	 3.0		
+79	Shaina Berman	1274	BERPRA	L4	W122	L36	W102	L51	X101	L40	 3.0		
+80	Gennadiy*** Reznikov	1800	SHAREZ	H---	H---	H---	W51	L60	L48	L71	 2.5		
+81	Kelvin Mcalister	1753		L88	D83	L103	L101	L100	W121	W109	 2.5		
+82	David Morgan	1710		X119	L33	L2	L49	L61	W109	D87	 2.5		
+83	Adarsh Girish	1622		L36	D81	D37	W110	D23	L35	L51	 2.5		
+84	Archer Quinn Watson	1589		L7	L42	W100	D89	W101	L23	L56	 2.5		
+85	Koen Pazdan Beaver	1584		L107	L2	W122	D67	L55	L95	W100	 2.5		
+86	Mason Wu	1583		W121	L3	L39	L94	W95	D67	L57	 2.5		
+87	Aarav T Shah	1477		W41	L7	L91	L72	L48	W102	D82	 2.5		
+88	Aayush Thakkar	1447		W81	L92	L35	L75	L69	D100	W110	 2.5		
+89	Michael Goldstein	1233		W42	L15	L41	D84	W68	L43	L59	 2.5		
+90	Ivan* Wijetunge	1858	KALWIJ	B---	D27	D46	L18	L66	L50	U---	 2.0		
+91	Gennadiy* Reznikov	1800	SHAREZ	W97	L9	W87	L76	U---	U---	U---	 2.0		
+92	Cesaer Enverga	1775		W78	W88	L10	L26	L75	F55	U---	 2.0		
+93	Nikhil* Murugan	1762		L51	D32	L38	L31	W110	D70	L72	 2.0		
+94	Saad* Al-hariri	1727		L52	X112	L28	W86	L8	L49	U---	 2.0		
+95	Logan Mark Jo Fry	1726		L62	L65	W47	L54	L86	W85	U---	 2.0		
+96	Alice Chovanec	1695	CHOBEC	L64	W118	W106	L13	L37	L65	L69	 2.0		
+97	Inbhavenkat Sundara Rajan	1517	RAMSUN	L91	W121	L24	L73	L47	W110	L68	 2.0		
+98	Gerelt Od Tumurkhuyag	1331		W65	W31	U---	L38	L42	L47	L70	 2.0		
+99	Ivan Wijetunge	1858	KALWIJ	H---	W101	L19	U---	U---	U---	U---	 1.5		
+100	Hector R Hernandez	1800		L72	L45	L84	L70	W81	D88	L85	 1.5		
+101	Teance Godfrey	1739		D8	L99	L60	W81	L84	F79	U---	 1.5		
+102	Aidan Christopher Kolar	1600		L3	L106	X118	L79	L65	L87	H---	 1.5		
+103	Tejas Ponugupati	1141		H---	L13	W81	L37	L45	U---	U---	 1.5		
+104	Amarjargal Ganbaatar	1889	GANBAT	L40	L56	W48	U---	U---	U---	U---	 1.0		
+105	Matthew Kent Pikus	1847		U---	U---	U---	U---	U---	U---	W121	 1.0		
+106	Julio Jose Candanedo	1822		L76	W102	L96	U---	U---	U---	U---	 1.0		
+107	Eric Kennedy	1807		W85	L25	L59	U---	U---	U---	U---	 1.0		
+108	Stanley Ren	1512		L15	B---	L66	U---	U---	U---	U---	 1.0		
+109	Henderson Johnson	1500		L14	L35	L68	L69	W121	L82	L81	 1.0		
+110	Charles Keegan Shiner	 893		B---	L16	L42	L83	L93	L97	L88	 1.0		
+111	Adam Forrest* Stafford	1855		D70	L74	F71	U---	U---	U---	U---	 0.5		
+112	James Asaro	1898		U---	F94	U---	U---	U---	U---	U---	 0.0		
+113	Jd Winick	1879		L16	U---	U---	U---	U---	U---	U---	 0.0		
+114	Jd* Winick	1879		L17	U---	U---	U---	U---	U---	U---	 0.0		
+115	Senthil Sundaram	1857		F58	U---	U---	U---	U---	U---	U---	 0.0		
+116	Jahaade Adams	1855		U---	U---	U---	U---	U---	U---	U---	 0.0		
+117	Adam Forrest Stafford	1855		L44	U---	U---	U---	U---	U---	U---	 0.0		
+118	Jeremy L Ashley	1839		L59	L96	F102	U---	U---	U---	U---	 0.0		
+119	David Milliern	1835		F82	U---	U---	U---	U---	U---	U---	 0.0		
+120	Gennadiy Reznikov	1800		L75	U---	U---	U---	U---	U---	U---	 0.0		
+121	Trevor Robertson	1800		L86	L97	L78	L48	L109	L81	L105	 0.0		
+122	Nikhil Murugan	1762		L9	L79	L85	U---	U---	U---	U---	 0.0		
+123	Saad Al-hariri	1727		L10	U---	U---	U---	U---	U---	U---	 0.0		
+124	James Zhang	1716		U---	U---	U---	U---	U---	U---	U---	 0.0		
+125	Siddarth Sriaditya Kunapuli	1624		U---	U---	U---	U---	U---	U---	U---	 0.0		
+126	J W R Terry	1618		L22	U---	U---	U---	U---	U---	U---	 0.0		
+127	Dimitrios Deligiannis	1517		U---	U---	U---	U---	U---	U---	U---	 0.0		
+

@@ -1,0 +1,176 @@
+ABNHS, Abington Senior High School
+ALYPS, Saint Aloysius Parish School
+ARRWS, Arrowhead Elementary School
+ASJNS, Abram S Jenks School
+BARDC, Bard College at Simon's Rock
+BFRKS, Ben Franklin High School
+BLCYS, Bala Cynwyd Middle School
+BLMHS, Belmont Charter High School
+BMNTS, Beaumont Elementary School
+BRADS, Bradford Area High School
+BRGYS, F Amedee Bregy School
+BYCMS, Boyce Middle School
+BYLTS, Boys Latin of Philadelphia Charter School
+BYSHS, Bysiek CPA Home School
+CCCHS, Christopher Columbus Charter School
+CCLHS, Cocalico High School
+CDLES, Cedar Lane Elementary School
+CFPMS, Charles F Patton Middle School
+CHRLS, Charlestown Elementary School
+CHSES, G W Carver High School of Engineering & Science
+CLVCS, Calvary Christian Academy
+CMVLS, Cumberland Valley High School
+CNRKS, Council Rock High School South
+CNSTS, Conestoga High School
+CNTHS, Central High School
+COMWS, Commonwealth Charter Academy
+CRLCS, Carlisle Christian Academy
+CWVIS, Conewago Valley Intermediate School
+CYNWS, Cynwyd Elementary School
+DLCHS, Delaware County Christian School
+DLTMS, Delta Middle School
+DNGES, Downingtown East High School
+DNGMS, Downingtown Middle School
+DNGSS, Downingtown STEM Academy
+DRYES, Derry Township Elementary School
+ELCIS, Eastern Lebanon County Intermediate School
+ELCMS, Eastern Lebanon County Middle School
+ELMAS, Elmwood Academy
+ELZHS, Elizabethtown Area High School
+EMMHS, Emmaus High School
+EPSCS, Episcopal Academy
+EVNES, East Vincent Elementary School
+EWRES, East Ward Elementary School
+EXTNS, Exton Elementary School
+FGLES, Fogelsville Elementary School
+FGTTS, Fugett Middle School
+FJJNS, Fred J Jaindl Elementary School
+FRHES, Fern Hill Elementary School
+FRICS, French International School of Philadelphia Lower School
+FRIUS, French International School of Philadelphia Upper School
+FRNES, Franklin Elementary School
+GAMPS, Girard Academic Music Program
+GLDES, Gladwyne Elementary School
+GNVMS, Garnet Valley Middle School
+GRMAS, Germantown Academy
+GRMFS, Germantown Friends School
+GRNBS, Joseph J Greenberg Elementary
+GRNRS, Green Ridge Elementary School
+GRVHS, Great Valley High School
+GRVMS, Great Valley Middle School
+GTTBS, Gettysburg Area High School
+HGHHS, Houghton Area Homeschool
+HHVMS, Herbert Hoover Middle School
+HLDES, Hillendale Elementary School
+HLLMS, Holland Middle School
+HLSES, Hillside Elementary School
+HMLTS, Andrew Hamilton School
+HMPDS, Hampden Elementary School
+HMPFS, Hempfield High School
+HMPMS, Hampton Middle School
+HMRHS, Homer Center High School
+HOWES, Mary C Howse Elementary School
+HRRTS, Harriton High School
+HRSBS, Harrisburg Academy
+HRSES, Hershey Elementary School
+HRSMS, Hershey Middle School
+HRTES, Hartshorn Elementary School
+INRES, Indian Rock Elementary School
+JADMS, John Adams Middle School
+JEFFU, Jefferson University
+JJNES, James Johnson Elementary School
+JWHES, Julia Ward Howe Elementary School
+KHLYS, Kohelet Yeshiva Lab School
+LGNHS, Logan Hope School
+LHVLS, Lehigh Valley Academy
+LMRHS, Lower Moreland High School
+LMRNS, Lower Merion High School
+LNCDS, Lancaster Country Day School
+LNCHS, Abraham Lincoln High School
+LNVES, Lionville Elementary School
+LNVLS, Lionville Middle School
+LWSHS, Lewisburg Area High School
+LWSMS, Lewistown Middle School
+MERES, William M Meredith School
+MLCES, Mill Creek Elementary School
+MLLMS, Mellon Middle School
+MNVMS, Mountain View Middle School
+MPGLS, Maple Glen Elementary School
+MRNES, Merion Elementary School
+MRSCS, Marsh Creek Sixth Grade Center
+MRSES, Marshall Elementary School
+MSTRS, Julia R Masterman School
+MTCHS, S Weir Mitchell Elementary School
+MTLMS, Mount Lebanon Montessori School
+NALLS, North Allegheny Intermediate School
+NBTMS, North Brunswick Township Middle School
+NEGLS, New Eagle Elementary School
+NESTS, Northeast High School
+NPNNS, North Penn High School
+NSTES, North Star Elementary School
+NWEES, New Eagles Elementary School
+NWOXS, New Oxford High School
+NWXMS, New Oxford Middle School
+NZRMS, Nazareth Area Middle School
+NZRTS, Nazareth Area High School
+OAKSS, Oaks Elementary School
+PCKVS, Pickering Valley Elementary School
+PHILS, The Philadelphia School
+PLMBS, Academy at Palumbo
+PMEHS, Pocono Mountain East High School
+PMEJS, Pocono Mountain East Junior High School
+PNALS, Penn Alexander School
+PNBHS, Pennsbury High School
+PNCMS, Penn Cambria Middle School
+PNFDS, Pennfield Middle School
+PNWMS, Pennwood Middle School
+POCPS, Pocopson Elementary School
+PRBES, Prettyboy Elementary School
+PRCHS, Princeton Charter School
+PRCMS, Peirce Middle School
+PRKES, Parkway Manor Elementary School
+PRKWS, Parkway West High School
+PSUWB, Penn State University Wilkes Barre
+RAPCS, Richard Allen Preparatory Charter School
+RCTHS, Roman Catholic High School
+RDLJS, Red Lion Junior High School
+RHDES, E W Rhodes Elementary School
+SCLDS, Science Leadership Academy
+SDRTS, Souderton Charter School Collaborative
+SFTES, South Fayette Elementary School
+SFTMS, South Fayette Middle School
+SHIPU, Shippensburg University
+SHMCS, Shamona Creek Elementary School
+SHPBS, Shippensburg Area Senior High School
+SHSMS, Shady Side Academy Middle School
+SKPES, Skippack Elementary School
+SNDMS, Sandy Run Middle School
+SPMNS, Springton Manor Elementary School
+SPRMS, Springhouse Middle School
+SRSLS, Saint Rose of Lima School
+SSPES, Silver Spring Elementary School
+STBES, Stony Brook Elementary School
+STCRS, Stony Creek Elementary School
+SVLES, South Valley Elementary School
+TRDYS, Tredyffrin/Easttown Middle School
+UPDRS, Upper Darby High School
+UPRVS, Upper Providence Elementary School
+VLFMS, Valley Forge Middle School
+VTMES, Veterans Memorial Elementary School
+WASES, Washington Elementary School
+WCEHS, West Chester East High School
+WDFES, Warnsdorfer Elementary School
+WDLNS, Woodlynde School
+WLFES, Wallingford Elementary School
+WLTFS, Walton Farm Elementary School
+WNDCS, Winding Creek Elementary School
+WNSBS, Waynesboro Area High School
+WNTHS, Winchester Thurston School
+WRCES, Worcester Elementary School
+WRKPS, The Workshop School
+WRNHS, Warren High School
+WSHES, Washington Heights Elementary School
+WSLHS, Walter B Saul High School
+WVLMS, Welsh Valley Middle School
+WVNCS, West Vincent Elementary School
+WYVMS, Wyoming Valley West Middle School

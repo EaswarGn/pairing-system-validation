@@ -1,0 +1,36 @@
+SwissSys Standings. CCA_WO23: Under 1600-3 (Standings (no tiebrk))
+#	Name	ID	Rating	Team	St	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Rd 8	Rd 9	Total	
+1	Ari Z. Karlin	16250665	1544		FL	W21 (b)	W28 (w)	W4 (b)	D2 (b)	W5 (w)					 4.5	
+2	Dann Hu Merriman	17079355	1410	ZHAMER	WA	W32 (w)	W12 (b)	W11 (b)	D1 (w)	W6 (b)					 4.5	
+3	Nader* Rawshani	30232614	1573		NJ	H---	H---	W25 (w)	W14 (b)	W12 (w)					 4.0	
+4	Logan Moore	30203399	1511	YENMOO	PA	W19 (w)	W10 (b)	L1 (w)	W24 (b)	W11 (b)					 4.0	
+5	David Yagudayev	14506595	1559		NY	W25 (w)	D17 (b)	W7 (w)	W8 (b)	L1 (b)					 3.5	
+6	Godwin Wilson-Livingstone	15745841	1546		NY	W16 (w)	W18 (b)	D8 (w)	W17 (b)	L2 (w)					 3.5	
+7	Jonah Noam Kutikov	15612157	1520		NJ	W26 (b)	D15 (w)	L5 (b)	W28 (w)	W13 (b)					 3.5	
+8	Christian Harrs	14376224	1518		FL	B---	W14 (w)	D6 (b)	L5 (w)	W17 (b)					 3.5	
+9	John Delgado	12812282	1561		NY	L28 (b)	W20 (w)	L22 (b)	W15 (w)	W21 (b)					 3.0	
+10	Tyshaune Mack	13551062	1549	DOSMAC	NY	W20 (b)	L4 (w)	W19 (b)	L13 (w)	W22 (b)					 3.0	
+11	Michael Dale Wiseman	12815504	1533		IN	W22 (w)	W24 (b)	L2 (w)	W18 (b)	L4 (w)					 3.0	
+12	Luis Carias	12906002	1529		DC	W23 (b)	L2 (w)	W27 (b)	W22 (w)	L3 (b)					 3.0	
+13	Ronald Sanders	15835046	1506		GA	H---	H---	W16 (w)	W10 (b)	L7 (w)					 3.0	
+14	Ibrahim Saizad	30609776	1488		LA	X31	L8 (b)	W26 (w)	L3 (w)	W20 (b)					 3.0	
+15	Danny Kharaev	15798012	1509	WURKHA	CA	X30	D7 (b)	L17 (w)	L9 (b)	W24 (w)					 2.5	
+16	Mohammad Bazzi	13323770	1454		MI	L6 (b)	W29 (w)	L13 (b)	D19 (w)	W27 (b)					 2.5	
+17	Taimoor Syed	17172077	1438		NY	W29 (b)	D5 (w)	W15 (b)	L6 (w)	L8 (w)					 2.5	
+18	Aaditya Bilakanti	16403578	1384		VA	W33 (b)	L6 (w)	W28 (b)	L11 (w)	H---					 2.5	
+19	Ian Lowther	30277011	1300		AL	L4 (b)	X33	L10 (w)	D16 (b)	W28 (w)				H---	 2.5	
+20	Michael Anthony* Bauml	17069343	1460		OH	L10 (w)	L9 (b)	W23 (w)	W26 (b)	L14 (w)					 2.0	
+21	Grant Mccool	12533425	1445		PA	L1 (w)	H---	H---	W25 (b)	L9 (w)	H---				 2.0	
+22	David Tyau	12877280	1402		UT	L11 (b)	X32	W9 (w)	L12 (b)	L10 (w)					 2.0	
+23	Vikraman Boobalan	14866060	1400		VA	L12 (w)	L25 (b)	L20 (b)	B---	W29 (w)					 2.0	
+24	Tommy Kozlek	30347417	1208		MA	B---	L11 (w)	W29 (b)	L4 (w)	L15 (b)					 2.0	
+25	Adam Moore	16663416	1464		NY	L5 (b)	W23 (w)	L3 (b)	L21 (w)	D26 (w)					 1.5	
+26	Hans Chi Law	16022577	1337		TX	L7 (w)	B---	L14 (b)	L20 (w)	D25 (b)					 1.5	
+27	Vihaan Jambudi	30035506	1283		NJ	H---	H---	L12 (w)	D29 (b)	L16 (w)					 1.5	
+28	Sobel Gaudissard	15800055	1477		NY	W9 (w)	L1 (b)	L18 (w)	L7 (b)	L19 (b)					 1.0	
+29	Suneel Sharad	14028004	1538		NJ	L17 (w)	L16 (b)	L24 (w)	D27 (w)	L23 (b)					 0.5	
+30	Miguel Angel Andrade-vazquez	16985583	1585		CA	F15	U---	U---	U---	U---					 0.0	
+31	Nader Rawshani	30232614	1573		NJ	F14	U---	U---	U---	U---					 0.0	
+32	Evan Meyers	14491825	1533		PA	L2 (b)	F22	U---	U---	U---					 0.0	
+33	Ashwath Raj	16724474	1522		VA	L18 (w)	F19	U---	U---	U---					 0.0	
+

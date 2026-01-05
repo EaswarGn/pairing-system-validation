@@ -1,0 +1,62 @@
+SwissSys Standings. CCA_WO23: Under 1600-4 (Standings (no tiebrk))
+#	Name	ID	Rating	Team	St	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Rd 8	Rd 9	Total	
+1	Nicklaus Lo	14493534	1591		CA	W44 (b)	~14 (w)								 1.0	
+2	Trent L Williams	16883258	1590		MD	W45 (w)	~15 (b)								 1.0	
+3	Daniel George	13996856	1567		CA	W46 (b)	~17 (w)								 1.0	
+4	Jason Dang	30134127	1562		NY	W47 (w)	~16 (b)								 1.0	
+5	David Lopez	13520430	1551		MA	W48 (w)	~18 (b)								 1.0	
+6	Craig Hinkley	15716096	1539		PA	W49 (w)	~22 (b)								 1.0	
+7	Yvette Fannell	14805752	1535		NY	W50 (w)	~23 (b)								 1.0	
+8	Davin Chen	30529002	1532		NY	W51 (b)	~19 (w)								 1.0	
+9	Matthew Clibanoff	16884466	1532		NY	W52 (w)	~24 (b)								 1.0	
+10	Ari Bershak	16222222	1531		MD	W53 (b)	~20 (w)								 1.0	
+11	Broderick Bello	12482806	1529		NC	W54 (w)	~25 (b)								 1.0	
+12	Aashrith Podduturi	15834477	1513		GA	W55 (w)	~26 (b)								 1.0	
+13	Aileen Lou	30058347	1501		NY	W56 (b)	~21 (w)								 1.0	
+14	Jeffrey Jacobus	15411713	1491		NY	W57 (w)	~1 (b)								 1.0	
+15	Aditya Joshi	16655401	1481		NJ	W58 (b)	~2 (w)								 1.0	
+16	Lexi Loar	30240758	1471		OH	W59 (b)	~4 (w)								 1.0	
+17	Will Hutchins	15878545	1432		MS	W34 (w)	~3 (b)								 1.0	
+18	Akshay Rajagopal	15629864	1421		NC	W35 (b)	~5 (w)								 1.0	
+19	Warren Liang	16874605	1413		NY	W36 (w)	~8 (b)								 1.0	
+20	Selina Cheng	17236746	1405		WA	W37 (w)	~10 (b)								 1.0	
+21	Kola Oyekole	15784363	1344			W38 (w)	~13 (b)								 1.0	
+22	Ryan Guo	16441940	1340		VA	W39 (b)	~6 (w)								 1.0	
+23	Leo Su	16192331	1324		VA	B---	~7 (w)				H---				 1.0	
+24	Raymond Ouyang	30136126	1303		NJ	W40 (b)	~9 (w)								 1.0	
+25	Leo Wang	17354652	1283		NY	X41	~11 (w)								 1.0	
+26	Vihaan Jambudi	30035506	1283		NJ	W42 (b)	~12 (w)								 1.0	
+27	Vahini Sadhu Venkata	16893742	1222		PA	W43 (b)	~30 (w)								 1.0	
+28	Liam Schrader Pinder	30851907	1550		PA	D30 (b)	~31 (w)								 0.5	
+29	Hartej Sahni	15475104	1523		NJ	D31 (b)	~32 (w)								 0.5	
+30	Alvin R Jones	12692133	1425		MD	D28 (w)	~27 (b)								 0.5	
+31	Cooper Mott	15455707	1337		NY	D29 (w)	~28 (b)								 0.5	
+32	William Jere Green	12232750	1303		PA	H---	~29 (b)								 0.5	
+33	William Kaiyuan Wang	30082828	1200		ON	H---	~34 (b)								 0.5	
+34	Grace Siqi Yang	17122026	1555		FL	L17 (b)	~33 (w)								 0.0	
+35	Sidney Meade	30982481	1546		MA	L18 (w)	~48 (b)								 0.0	
+36	Snegapraneeth Sudhakar	30260576	1545		CA	L19 (b)	~51 (w)								 0.0	
+37	Suneel Sharad	14028004	1538		NJ	L20 (b)	~53 (w)								 0.0	
+38	Evan Jiahuan Zhou	16831148	1529		NJ	L21 (b)	~56 (w)								 0.0	
+39	Christopher Hill	12908517	1524		OH	L22 (w)	~49 (b)								 0.0	
+40	Ronald Sanders	15835046	1506		GA	L24 (w)	~50 (b)								 0.0	
+41	Ibrahim Saizad	30609776	1488		LA	F25	U---								 0.0	
+42	Alex Fuchs	30213296	1482		CT	L26 (w)	~52 (b)								 0.0	
+43	Lyric Connor Authier	16538662	1481		TN	L27 (w)	~54 (b)								 0.0	
+44	Michael Anthony Bauml	17069343	1460		OH	L1 (w)	~55 (b)								 0.0	
+45	Maddox Jackson	17048985	1451		VA	L2 (b)	~58 (w)								 0.0	
+46	Ansh S Nandurbarkar	15857120	1447		MA	L3 (w)	~57 (b)								 0.0	
+47	Tomas Martinez	30709699	1436		FL	L4 (b)	~59 (w)								 0.0	
+48	Alvin Lou	30228821	1428		NY	L5 (b)	~35 (w)								 0.0	
+49	Stella Liu	17042064	1408		NY	L6 (b)	~39 (w)								 0.0	
+50	Yegna Sairam Jandhyala	30294344	1394		NJ	L7 (b)	~40 (w)								 0.0	
+51	Aaditya Bilakanti	16403578	1384		VA	L8 (w)	~36 (b)								 0.0	
+52	Celine Chen	30485114	1377		FL	L9 (b)	~42 (w)								 0.0	
+53	Thomas Egelhof	30224545	1370		NY	L10 (w)	~37 (b)								 0.0	
+54	Allen Everett Wang	30218415	1365		PA	L11 (b)	~43 (w)								 0.0	
+55	Alex Musselman	14712065	1326		VA	L12 (b)	~44 (w)								 0.0	
+56	Benjamin D Statz	12746377	1293		NY	L13 (w)	~38 (b)								 0.0	
+57	Rohan Kunal Madhok	16867876	1293		NJ	L14 (b)	~46 (w)								 0.0	
+58	Wen Shen	30013762	1270		NJ	L15 (w)	~45 (b)								 0.0	
+59	Charles Wang	30481807	1122		VA	L16 (w)	~47 (b)							H---	 0.0	
+

@@ -1,0 +1,38 @@
+SwissSys Standings. CCA_CHI22: Under 1500-3 (Standings (no tiebrk))
+#	Name	Rating	Team	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Total	
+1	Aki Nakaguwa	1477		X27	~10						 1.0	
+2	Yuri Malina	1459		W28	~9						 1.0	
+3	Oliver Rubenstein	1453		W29	~11						 1.0	
+4	Joshua Gingerich	1444		W30	~13						 1.0	
+5	Kevin Cahill	1444		W31	~12						 1.0	
+6	Brendan Ger Kolar	1438		W32	~14						 1.0	
+7	Eric Saxe	1436		W33	~16						 1.0	
+8	Nader Rawshani	1424		X---	~15						 1.0	
+9	Erika L Mclean	1422		W34	~2						 1.0	
+10	Benjamin Morgen Young	1421		W21	~1						 1.0	
+11	Mongoljin Davaadorj	1410	DAVRAV	W35	~3						 1.0	
+12	Bat Uya Molomjamts	1375		W22	~5						 1.0	
+13	Stella Pashyan	1351		W23	~4						 1.0	
+14	Vinay Sridhar	1239		W24	~6						 1.0	
+15	Michael Tavish Goodwin	1115		W25	~8						 1.0	
+16	Owen Kelliher	1060		W26	~7						 1.0	
+17	William Cahill	1491		D19	~18						 0.5	
+18	Michael Harris	1457		D20	~17						 0.5	
+19	Sebastian A Lopez	1417		D17	~20						 0.5	
+20	Nick Mihailovic	1347		D18	~19						 0.5	
+21	Philip Mccully	1494		L10	~29						 0.0	
+22	Sophie Elizabeth Salomon	1465		L12	~31						 0.0	
+23	Jack Michael Bradley	1462		L13	~30						 0.0	
+24	Mert Iseri	1430		L14	~32						 0.0	
+25	Theron Plaines	1423		L15	~33						 0.0	
+26	Sam Allen Smith	1423		L16	~35						 0.0	
+27	Andrzej Kadlubowski	1400		F1	U---						 0.0	
+28	Duc T Le	1348		L2	~34			H---		H---	 0.0	
+29	Shaan Jiandani	1344		L3	~21						 0.0	
+30	Esad Hamzic	1335		L4	~23						 0.0	
+31	Sameer Mansinh Udeshi	1329		L5	~22						 0.0	
+32	Tamboura Jackson	1320		L6	~24						 0.0	
+33	Keith A Tomarchio	1306		L7	~25						 0.0	
+34	Melissa Xu	1042		L9	~28						 0.0	
+35	William Tk Ahn	1012		L11	~26						 0.0	
+

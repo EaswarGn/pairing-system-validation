@@ -1,0 +1,58 @@
+Pairings for Round 9. CCA_WO22: Under 1200 Merged
+Bd	#	Res	White	#	Res	Black	
+613	63	   	Mady Krise (1013 7.0)	104	   	Stephen Fanning ( 837 7.5)	
+614	6	   	Arihant Deva (1166 6.5)	7	   	Leah Yang (1165 6.5)	
+615	1	   	Sujay Uppalapati (1196 6.0)	38	   	Ali Hawkes (1081 6.0)	
+616	2	   	Jacob Nair (1175 6.0)	65	   	Andrew Christian-ale James (1009 6.0)	
+617	64	   	Gabriel Burgos (1009 6.0)	10	   	Felix De La Cruz (1160 6.0)	
+618	14	   	Atticus Nelson (1145 6.0)	82	   	Jordan Sean Levin ( 964 6.0)	
+619	42	   	Richardson Jingsi Qiao (1065 5.5)	18	   	Onyedikachi Osondu (1136 5.5)	
+620	20	   	Hemanth Samayamantri (1134 5.5)	47	   	Eric Peffer (1058 5.5)	
+621	83	   	Matteo Singer ( 962 5.5)	21	   	Leo Berkson (1132 5.5)	
+622	4	   	Thomas William Rowan (1170 5.0)	80	   	Drake Shi ( 970 5.5)	
+623	28	   	Hrtha Rajiv (1113 5.0)	15	   	Jake Matthew Heid (1140 5.0)	
+624	48	   	Lily Wang (1055 5.0)	17	   	Aiden Fries (1138 5.0)	
+625	19	   	Raymond Ouyang (1136 5.0)	59	   	Austin Carl Youngerman (1019 5.0)	
+626	89	   	Leon Chu ( 918 5.0)	24	   	Philip* Lesko (1126 5.0)	
+627	26	   	Mujtuba Ahmed Yousufi (1117 5.0)	90	   	Connor Fries ( 915 5.0)	
+628	3	   	Leo Su (1173 4.5)	56	   	Anderson E Broadus (1046 4.5)	
+629	13	   	Alan Fraley (1150 4.5)	77	   	Evan Jiahuan Zhou ( 979 4.5)	
+630	22	   	Louis Zhang (1130 4.5)	58	   	Mingway Wang (1037 4.5)	
+631	40	   	Jacqueline A Martin (1074 4.5)	72	   	Kesavan M Srivilliputhur ( 989 4.5)	
+632	57	   	Ansh S Nandurbarkar (1042 4.5)	49	   	Megan Gansukh (1054 4.5)	
+633	5	   	Daniel Smith (1170 4.0)	93	   	Jose Antonio Cancino ( 892 4.5)	
+634	53	   	Vincent Zhiwen Yu (1049 4.0)	29	   	Jonathan Yang (1112 4.0)	
+635	32	   	Terence Huang (1103 4.0)	70	   	Rohan Kunal Madhok ( 999 4.0)	
+636	34	   	David Melnikov (1095 4.0)	107	   	Alan Cheng ( 818 4.0)	
+637	36	   	Siddharth Ramkumar (1085 4.0)	113	   	Zen Jiang ( 748 4.0)	
+638	67	   	Atharv Bapuram (1005 4.0)	41	   	Ethan Curry (1068 4.0)	
+639	68	   	Anastasia Catelli (1004 4.0)	43	   	Ari Zhang (1064 4.0)	
+640	94	   	Christian Gaw ( 892 5.0)	16	   	Darius Overlingas (1139 4.5)	
+641	78	   	Michael Zhang ( 974 4.0)	44	   	Anna Mari Boglino (1062 4.0)	
+642	46	   	Winston Chen (1058 4.0)	120	   	Tristan Bussiere (unr. 4.0)	
+643	9	   	Bruce A Shull (1162 3.5)	114	   	Edmund D Meyers ( 724 4.0)	
+644	27	   	Jason Cheung (1115 3.5)	85	   	Ronald L Taylor ( 953 3.5)	
+645	101	   	Fatima* Dehorty ( 848 3.5)	35	   	Dev Menon Madhavan (1089 3.5)	
+646	76	   	Charles Chengyu* Hu ( 983 3.5)	106	   	Albert Yang ( 820 3.5)	
+647	112	   	Doyle Akin ( 748 3.5)	12	   	Owen J Pang (1151 3.0)	
+648	33	   	Shan Ramesh Lee (1101 3.0)	81	   	Alan Morris ( 969 3.0)	
+649	96	   	Isaac Christopher Daley ( 882 3.0)	37	   	Oxana Malevanaia (1084 3.0)	
+650	62	   	Silence Ezra Karl (1015 3.0)	92	   	Fahad* Anwar ( 894 3.0)	
+651	66	   	Theodore Fooskas (1007 3.0)	98	   	Stephen E Lapinel ( 856 3.0)	
+652	31	   	Kyle Wu (1107 2.5)	99	   	Jeffrey Williams Cheng ( 854 2.5)	
+653	87	   	Aniket Narasinh Sinkar ( 929 2.5)	111	   	Aiden Zhu ( 756 2.5)	
+654	102	   	Claire Sun ( 846 2.5)	8	   	Eric Zheng (1163 2.0)	
+655	95	   	Kyla Shai Brink ( 891 2.0)	60	   	James Lamb (1017 2.0)	
+656	115	   	Max Zong ( 708 2.0)	110	   	Bhanusri Durbhakula ( 757 1.0)	
+664	97	   	Zachary Gaw ( 879 3.0)	74	   	Colin Hu ( 986 3.0)	
+999	51	   	Thomas Nordeman (1050 2.5)	105	   	Kaden Sun ( 822 2.5)	
+	25	1 	Riona Hiwale (1121 1.5)			BYE	
+	73	½ 	Douglas Schwartz ( 987 5.0)			BYE	
+	109	½ 	Vihaan Jambudi ( 784 2.0)			BYE	
+	116	0 	Nick Andrews ( 702 1.5)			BYE	
+	39	½ 	Benjamin D Statz (1081 3.5)			BYE	
+	84	½ 	Eric Goddard ( 958 3.5)			BYE	
+	71	0 	Sathyan Kallamparambil ( 989 3.0)			BYE	
+	69	½ 	Aswath Madhan (1003 2.0)			BYE	
+	55	0 	Srihari Shankar (1047 3.5)			BYE	
+

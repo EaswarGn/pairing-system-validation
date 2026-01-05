@@ -1,0 +1,24 @@
+SwissSys Standings. CCA_SWCC23: Class C (1300-1599)-3 (Standings (no tiebrk))
+#	Name	ID	Rating	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Total	
+1	Raam Narayanan Raghunathan	15612775	1570	X---	~5 (b)						 1.0	
+2	Namish Thakkar	16701768	1476	W19 (b)	~8 (w)						 1.0	
+3	Thanh Viet Nguyen	16406652	1464	W20 (w)	~6 (b)						 1.0	
+4	Leah Yang	30127892	1427	W21 (w)	~7 (b)						 1.0	
+5	Thanuj Dinesan	30182156	1422	W15 (b)	~1 (w)						 1.0	
+6	Ross Mcewen	30839169	1389	W16 (b)	~3 (w)						 1.0	
+7	Owen Lin	30076624	1370	W17 (b)	~4 (w)						 1.0	
+8	Jason Loftiss	12608883	1316	W18 (w)	~2 (b)					H---	 1.0	
+9	Melissa Xu	16962396	1290	B---	~10 (b)						 1.0	
+10	Michael J Hamill	12664156	1500	H---	~9 (w)						 0.5	
+11	Rohan Vinod	30118297	1495	D13 (b)	~14 (w)						 0.5	
+12	Rishi Kolli	30358373	1470	D14 (b)	~13 (w)						 0.5	
+13	Tanish Seelam	17061896	1411	D11 (w)	~12 (b)						 0.5	
+14	Charley Chen	16766215	1342	D12 (w)	~11 (b)						 0.5	
+15	Dylan Traber Kaye	15656032	1515	L5 (w)	~18 (b)						 0.0	
+16	Nguyen Nam Tran	16406667	1493	L6 (w)	~20 (b)						 0.0	
+17	Michael Mettler	13620918	1473	L7 (w)	~21 (b)						 0.0	
+18	Cedric Yu Zhang	16640764	1433	L8 (b)	~15 (w)						 0.0	
+19	Alan Govea	12844812	1377	L2 (w)	B---						 0.0	
+20	Leo Le-Tran	30587257	1334	L3 (b)	~16 (w)	H---					 0.0	
+21	Cole Bronz Peterson	31019243	unr.	L4 (b)	~17 (w)						 0.0	
+

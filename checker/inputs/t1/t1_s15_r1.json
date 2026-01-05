@@ -1,0 +1,154 @@
+{
+    "Sections": [
+        {
+            "Section name": "t1_s15_r1",
+            "Type": 0,
+            "Number of players": 20,
+            "Number of teams": 0,
+            "Rounds paired": 0,
+            "Rounds played": 0,
+            "Regular": true,
+            "Rapid": false,
+            "Blitz": false,
+            "Acceleration": 0,
+            "Use team pairings": true,
+            "Team cut": 4,
+            "Players": [
+                {
+                    "Pair number": 1,
+                    "Name": "Johnson, Christopher",
+                    "Rating": 1673,
+                    "Results": []
+                },
+                {
+                    "Pair number": 2,
+                    "Name": "O'connor, Scott Damien",
+                    "Rating": 1664,
+                    "Results": []
+                },
+                {
+                    "Pair number": 3,
+                    "Name": "Dave, Amit",
+                    "Rating": 1660,
+                    "Results": []
+                },
+                {
+                    "Pair number": 4,
+                    "Name": "Gonzalez, Luis F",
+                    "Rating": 1658,
+                    "Results": []
+                },
+                {
+                    "Pair number": 5,
+                    "Name": "Kapica, Kamil",
+                    "Rating": 1642,
+                    "Results": []
+                },
+                {
+                    "Pair number": 6,
+                    "Name": "Andrade, Gerard",
+                    "Rating": 1627,
+                    "Results": []
+                },
+                {
+                    "Pair number": 7,
+                    "Name": "Zhang, Justin",
+                    "Rating": 1613,
+                    "Results": []
+                },
+                {
+                    "Pair number": 8,
+                    "Name": "Sanders, Ronald Dewayne*",
+                    "Rating": 1608,
+                    "Results": []
+                },
+                {
+                    "Pair number": 9,
+                    "Name": "Von Hoff, Christopher Daniel",
+                    "Rating": 1598,
+                    "Results": []
+                },
+                {
+                    "Pair number": 10,
+                    "Name": "Christian, Tony R",
+                    "Rating": 1593,
+                    "Results": []
+                },
+                {
+                    "Pair number": 11,
+                    "Name": "Mosley, Richard",
+                    "Rating": 1590,
+                    "Results": []
+                },
+                {
+                    "Pair number": 12,
+                    "Name": "Colby, Jordan",
+                    "Rating": 1581,
+                    "Results": []
+                },
+                {
+                    "Pair number": 13,
+                    "Name": "Raghunathan, Raam Narayanan",
+                    "Rating": 1580,
+                    "Results": []
+                },
+                {
+                    "Pair number": 14,
+                    "Name": "Durost, Benjamin",
+                    "Rating": 1561,
+                    "Results": []
+                },
+                {
+                    "Pair number": 15,
+                    "Name": "Kowalczyk, Jakub J",
+                    "Rating": 1561,
+                    "Results": []
+                },
+                {
+                    "Pair number": 16,
+                    "Name": "Chandra, Maurya",
+                    "Rating": 1541,
+                    "Results": []
+                },
+                {
+                    "Pair number": 17,
+                    "Name": "Ren, Stanley",
+                    "Rating": 1512,
+                    "Results": []
+                },
+                {
+                    "Pair number": 18,
+                    "Name": "Schaffer, Stefan",
+                    "Rating": 1462,
+                    "Results": []
+                },
+                {
+                    "Pair number": 19,
+                    "Name": "Bieda, John Raymond",
+                    "Rating": 1325,
+                    "Results": []
+                },
+                {
+                    "Pair number": 20,
+                    "Name": "Sonnenberg, Elian",
+                    "Rating": 1195,
+                    "Results": []
+                }
+            ],
+            "Teams": [],
+            "Byes": [
+                {
+                    "Pair number": 3,
+                    "Round": 1,
+                    "Points": 0.5
+                },
+                {
+                    "Pair number": 13,
+                    "Round": 1,
+                    "Points": 1
+                }
+            ],
+            "Withdrawals": []
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+Pairings for Round 7. CCA_CHI22: Under 1500 Merged
+Bd	#	Res	White	#	Res	Black	
+249	57	   	Bat Uya Molomjamts (1375 5.5)	40	   	Mongoljin* Davaadorj (1410 5.5)	
+250	70	   	Gene Xijie Li (1343 5.0)	8	   	Jack Michael Bradley (1462 5.0)	
+251	75	   	Jack Drucker (1332 5.0)	37	   	Lev Reyzin (1416 5.0)	
+252	26	   	Eric Saxe (1436 4.5)	18	   	Jacob Gaisinsky (1450 4.5)	
+253	19	   	Sergey V Hakobyan (1450 4.5)	33	   	Sam Allen* Smith (1423 4.5)	
+254	22	   	Joshua Gingerich (1444 4.5)	41	   	Rohil Shah Bose (1405 4.5)	
+255	23	   	Matthew Herbert (1441 4.5)	62	   	Matthew Daniel Bak (1354 4.5)	
+256	87	   	Vinay Sridhar (1239 4.5)	16	   	Oliver* Rubenstein (1453 4.0)	
+257	3	   	William Cahill (1491 4.0)	35	   	Benjamin Morgen Young (1421 4.0)	
+258	24	   	Samuel Cole Heinrich (1440 4.0)	20	   	Aron Amram (1447 4.0)	
+259	11	   	Michael* Harris (1457 3.5)	43	   	Oliver Rana (1405 3.5)	
+260	17	   	Slawomir Borkowski (1450 3.5)	97	   	Owen Kelliher (1060 3.5)	
+261	56	   	Shivani Manimaran (1379 3.5)	21	   	Kevin Cahill (1444 3.5)	
+262	28	   	Billy Marcelle Edwards (1429 3.5)	86	   	Paul Lewis (1271 3.5)	
+263	60	   	Evan Boettner (1363 3.5)	30	   	Nader* Rawshani (1424 3.5)	
+264	1	   	Jin Ma (1497 3.0)	98	   	Ray Xue (1059 3.5)	
+265	69	   	Andrew H Cook (1343 3.0)	7	   	Sophie Elizabeth Salomon (1465 3.0)	
+266	12	   	Winston Z Chen (1455 3.0)	72	   	Esad Hamzic (1335 3.0)	
+267	13	   	Everardo Gamino (1454 3.0)	83	   	Jay Serice (1300 3.0)	
+268	42	   	Steve Kuhlmann (1405 3.0)	91	   	Tate Darin (1177 3.0)	
+269	48	   	Jerome W Tichacek (1400 3.0)	94	   	Jackson Borst (1137 3.0)	
+270	50	   	Deangelo Watkins (1395 3.0)	101	   	Temuulen Turbat ( 998 3.0)	
+271	73	   	Meris X Goldfarb (1333 3.0)	59	   	Eduardo Elias (1365 3.0)	
+272	64	   	Stella Pashyan (1351 3.0)	96	   	Daniel Lona (1076 3.0)	
+273	36	   	Sebastian A Lopez (1417 2.5)	90	   	Timothy A Lund (1189 2.5)	
+274	61	   	Louis L Smith (1362 2.5)	92	   	Matthew Kennedy Moore (1140 2.5)	
+275	88	   	Robert James Scott (1235 2.5)	93	   	Justin Odisho (1138 2.5)	
+276	38	   	Donald Hanes (1415 2.0)	99	   	Melissa Xu (1042 2.5)	
+277	63	   	Dominic Immer (1352 2.0)	100	   	William Tk Ahn (1012 2.0)	
+278	80	   	Tamboura*** Jackson (1320 2.0)	68	   	Shaan Jiandani (1344 2.0)	
+279	14	   	Charles Adams Whipple (1454 1.5)	95	   	Michael Tavish Goodwin (1115 1.5)	
+280	31	   	Theron Plaines (1423 1.5)	77	   	Michael J Lobraco (1327 1.5)	
+281	45	   	George Robert Eason (1400 0.0)	74	   	Kyle Birky (1332 1.0)	
+	89	½ 	Mike Vayner (1200 2.0)			BYE	
+	82	0 	Keith A Tomarchio (1306 1.0)			BYE	
+	44	½ 	Charithra Arvind (1401 3.5)			BYE	
+	65	½ 	Duc T Le (1348 2.5)			BYE	
+	25	½ 	Brendan Ger Kolar (1438 4.0)			BYE	
+	6	½ 	Aki Nakaguwa (1477 3.0)			BYE	
+

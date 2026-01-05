@@ -1,0 +1,12 @@
+Pairings for Round 4. CCA_CHI22: Under 1900-2
+Bd	#	Res	White	#	Res	Black	
+332	3	   	Jd* Winick (1879 3.0)	1	   	George Leo Mccoy (1891 2.0)	
+333	4	   	Ivan Wijetunge (1858 2.0)	16	   	George Trbojevic (1643 2.0)	
+334	14	   	James Zhang (1716 2.0)	5	   	Adam Forrest Stafford (1855 2.0)	
+335	17	   	Gerelt Od Tumurkhuyag (1331 2.0)	11	   	George David (1774 2.0)	
+336	10	   	Gennadiy* Reznikov (1800 1.5)	2	   	Amarjargal Ganbaatar (1889 1.5)	
+337	8	   	Eric Kennedy (1807 1.0)	7	   	Aswin Chirukandath (1824 1.0)	
+338	9	   	Mohammed H Zafar (1802 1.0)	13	   	Logan Mark Jo Fry (1726 1.0)	
+339	12	   	Nikhil Murugan (1762 0.5)	6	   	Sharath Radhakrishnan (1841 0.5)	
+	15	1 	Brian Harrigan (1703 0.0)			BYE	
+

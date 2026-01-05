@@ -1,0 +1,17 @@
+Pairings for Round 4. CCA_CHI22: Under 1300-2
+Bd	#	Res	White	#	Res	Black	
+362	1	   	David Joseph Cimbalista (1295 3.0)	21	   	Shyam Ganesh (1064 3.0)	
+363	17	   	Srikar Jayam (1111 2.5)	22	   	Carter Henry Eid (1043 3.0)	
+364	3	   	Anand Viswanathan (1274 2.0)	4	   	Oishik Mondal (1256 2.5)	
+365	6	   	Matthew Skarha (1207 2.0)	12	   	Sunny R Patel (1163 2.0)	
+366	11	   	Gregory J Michalek (1177 2.0)	15	   	Nasir A Siddiqui (1118 2.0)	
+367	9	   	Nimrod Bareket (1200 1.5)	18	   	Nathaniel F Gross (1088 2.0)	
+368	19	   	Matthew Yu (1078 1.5)	13	   	Ryan Gerald Springer (1150 1.5)	
+369	20	   	Dhanvi Namala (1078 1.5)	14	   	John Ramey (1127 1.5)	
+370	2	   	Aderemi Taiwo Adekola (1293 1.0)	27	   	Drew Nicholas Humphries ( 857 1.5)	
+371	24	   	Zakariya M Ali ( 947 1.0)	7	   	Zachary Paul Mccoy (1207 1.0)	
+372	8	   	Matthew Vincent Malicki (1203 1.0)	25	   	Daniel Merkh ( 929 1.0)	
+373	10	   	Philip Lesko (1200 1.0)	26	   	Suhana Sharad ( 916 1.0)	
+374	23	   	Ty Price Dooley (1040 0.5)	5	   	Kyle Lawrence (1227 0.5)	
+	16	1 	Brendan Merlo (1114 0.0)			BYE	
+

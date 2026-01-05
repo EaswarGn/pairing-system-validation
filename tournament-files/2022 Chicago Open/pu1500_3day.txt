@@ -1,0 +1,20 @@
+Pairings for Round 2. CCA_CHI22: Under 1500-3
+Bd	#	Res	White	#	Res	Black	
+368	3	   	Aki Nakaguwa (1477 1.0)	18	   	Benjamin Morgen Young (1421 1.0)	
+369	17	   	Erika L Mclean (1422 1.0)	6	   	Yuri Malina (1459 1.0)	
+370	20	   	Mongoljin Davaadorj (1410 1.0)	8	   	Oliver Rubenstein (1453 1.0)	
+371	9	   	Joshua Gingerich (1444 1.0)	23	   	Stella Pashyan (1351 1.0)	
+372	22	   	Bat Uya Molomjamts (1375 1.0)	10	   	Kevin Cahill (1444 1.0)	
+373	11	   	Brendan Ger Kolar (1438 1.0)	31	   	Vinay Sridhar (1239 1.0)	
+374	33	   	Owen Kelliher (1060 1.0)	12	   	Eric Saxe (1436 1.0)	
+375	14	   	Nader Rawshani (1424 1.0)	32	   	Michael Tavish Goodwin (1115 1.0)	
+376	7	   	Michael Harris (1457 0.5)	2	   	William Cahill (1491 0.5)	
+377	19	   	Sebastian A Lopez (1417 0.5)	25	   	Nick Mihailovic (1347 0.5)	
+378	1	   	Philip Mccully (1494 0.0)	26	   	Shaan Jiandani (1344 0.0)	
+379	28	   	Sameer Mansinh Udeshi (1329 0.0)	4	   	Sophie Elizabeth Salomon (1465 0.0)	
+380	5	   	Jack Michael Bradley (1462 0.0)	27	   	Esad Hamzic (1335 0.0)	
+381	13	   	Mert Iseri (1430 0.0)	29	   	Tamboura Jackson (1320 0.0)	
+382	15	   	Theron Plaines (1423 0.0)	30	   	Keith A Tomarchio (1306 0.0)	
+383	35	   	William Tk Ahn (1012 0.0)	16	   	Sam Allen Smith (1423 0.0)	
+384	24	   	Duc T Le (1348 0.0)	34	   	Melissa Xu (1042 0.0)	
+

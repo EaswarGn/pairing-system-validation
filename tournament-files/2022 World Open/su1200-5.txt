@@ -1,0 +1,35 @@
+SwissSys Standings. CCA_WO22: Under 1200-5 (Standings (no tiebrk))
+#	Name	Rating	Team	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Total	
+1	Jacob Nair	1175		W25							 1.0	
+2	Andre L Morris	1157		W26							 1.0	
+3	Alan Fraley	1150		W27							 1.0	
+4	Anna Mari Boglino	1062		W28							 1.0	
+5	Eric Peffer	1058		W29							 1.0	
+6	Anderson E Broadus	1046		W30							 1.0	
+7	Austin Carl Youngerman	1019		W31							 1.0	
+8	Mady Krise	1013		W32							 1.0	
+9	Michael Zhang	 974		W19							 1.0	
+10	Matteo Singer	 962		W20							 1.0	
+11	Christian Gaw	 892		W21							 1.0	
+12	Stephen Fanning	 837		W22							 1.0	
+13	Doyle Akin	 748		X23							 1.0	
+14	Edmund D Meyers	 724		X24							 1.0	
+15	Max Zong	 708		B---							 1.0	
+16	Philip Lesko	1126		H---							 0.5	
+17	Megan Gansukh	1054		D18							 0.5	
+18	Stephen E Lapinel	 856		D17							 0.5	
+19	Sujay Uppalapati	1196		L9							 0.0	
+20	Leo Su	1173		L10							 0.0	
+21	Riona Hiwale	1121		L11							 0.0	
+22	Mingway Wang	1037		L12							 0.0	
+23	Tristan Bussiere	1013		F13							 0.0	
+24	Charles Chengyu Hu	 983		F14							 0.0	
+25	Alan Morris	 969		L1							 0.0	
+26	Aniket Narasinh Sinkar	 929		L2							 0.0	
+27	Fahad Anwar	 894		L3	H---						 0.0	
+28	Kyla Shai Brink	 891		L4							 0.0	
+29	Zachary Gaw	 879		L5							 0.0	
+30	Fatima Dehorty	 848		L6							 0.0	
+31	Anthony Debroux	 791		L7							 0.0	
+32	Aiden Zhu	 756		L8							 0.0	
+

@@ -1,0 +1,37 @@
+SwissSys Standings. CCA_WO22: Under 1600-3 (Standings (no tiebrk))
+#	Name	Rating	Team	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Rd 8	Rd 9	Total	
+1	Matthew Billings	1508		W33	W2	W25	W4	W7					 5.0	
+2	Brandon Nicholas Tregde	1567		W26	L1	W13	W6	W8					 4.0	
+3	Nader Rawshani	1480		W29	W17	L4	W24	W11					 4.0	
+4	Jack Edward Shuman Mason	1296		B---	W16	W3	L1	W9					 4.0	
+5	Hector Juarez Reyes	1490		W20	W9	D7	L8	W19					 3.5	
+6	Ashton Bellur	1467		W21	D10	W14	L2	W16					 3.5	
+7	Aron Amram	1452		W22	W11	D5	W10	L1					 3.5	
+8	Srinivas Burre	1382		W31	H---	W27	W5	L2					 3.5	
+9	Kevin Fr Prasanna	1552		W18	L5	W26	W15	L4			H---	H---	 3.0	
+10	Ariv DebMisra	1523		W15	D6	W28	L7	D14					 3.0	
+11	Ronald Sanders II	1513		W32	L7	W29	W25	L3					 3.0	
+12	Oyekola Oyekole	1479		D16	L14	D23	W29	W25					 3.0	
+13	Lulu Huang	1419	HUATAN	L17	W34	L2	W31	W21					 3.0	
+14	Zohran Valliani	1398		H---	W12	L6	W17	D10					 3.0	
+15	Darren Wu	1374		L10	W21	W31	L9	W24		H---	H---	U---	 3.0	
+16	Vladi Bershanskiy	1584		D12	L4	W30	X28	L6					 2.5	
+17	Atom Valderrama	1551		W13	L3	D19	L14	W30					 2.5	
+18	Vikraman Boobalan	1424		L9	L20	W34	D22	W27					 2.5	
+19	Austin Zhizhong Xiao	1379		L24	W22	D17	W27	L5					 2.5	
+20	Peyton Larosa	1351		L5	W18	L24	W23	D22					 2.5	
+21	John Delgado	1579		L6	L15	W33	W26	L13					 2.0	
+22	Daksh Dudipala	1567	CHEDUD	L7	L19	W32	D18	D20					 2.0	
+23	Kevin Scott Kerr	1560		D27	L28	D12	L20	W32					 2.0	
+24	Luis Ferna Carias	1540		W19	L25	W20	L3	L15					 2.0	
+25	Bill Howard Putnam	1475		W34	W24	L1	L11	L12					 2.0	
+26	Max Xavier Humes	1446		L2	W32	L9	L21	W31					 2.0	
+27	David Tyau	1438		D23	W30	L8	L19	L18					 1.5	
+28	Robert Chen	1407	LICHE	H---	W23	L10	F16	U---					 1.5	
+29	Gregory Murray	1300		L3	B---	L11	L12	H---	H---		H---		 1.5	
+30	Aahil Valliani	1149		H---	L27	L16	X34	L17					 1.5	
+31	Aaron Kuo	1547		L8	W33	L15	L13	L26					 1.0	
+32	Julian Ma	1369		L11	L26	L22	W33	L23					 1.0	
+33	Skirmantas Pipas	1351		L1	L31	L21	L32	B---					 1.0	
+34	Russell Stevens	1582		L25	L13	L18	F30	U---					 0.0	
+

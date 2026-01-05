@@ -1,0 +1,257 @@
+{
+    "Sections": [
+        {
+            "Section name": "t1_s9_r1",
+            "Type": 0,
+            "Number of players": 27,
+            "Number of teams": 5,
+            "Rounds paired": 0,
+            "Rounds played": 0,
+            "Regular": true,
+            "Rapid": false,
+            "Blitz": false,
+            "Acceleration": 0,
+            "Use team pairings": true,
+            "Team cut": 4,
+            "Players": [
+                {
+                    "Pair number": 1,
+                    "Name": "Cimbalista, David Joseph",
+                    "Rating": 1295,
+                    "Results": []
+                },
+                {
+                    "Pair number": 2,
+                    "Name": "Adekola, Aderemi Taiwo",
+                    "Rating": 1293,
+                    "Team": "ADEADE",
+                    "Results": []
+                },
+                {
+                    "Pair number": 3,
+                    "Name": "Viswanathan, Anand",
+                    "Rating": 1274,
+                    "Results": []
+                },
+                {
+                    "Pair number": 4,
+                    "Name": "Mondal, Oishik",
+                    "Rating": 1256,
+                    "Results": []
+                },
+                {
+                    "Pair number": 5,
+                    "Name": "Lawrence, Kyle",
+                    "Rating": 1227,
+                    "Results": []
+                },
+                {
+                    "Pair number": 6,
+                    "Name": "Skarha, Matthew",
+                    "Rating": 1207,
+                    "Results": []
+                },
+                {
+                    "Pair number": 7,
+                    "Name": "Mccoy, Zachary Paul",
+                    "Rating": 1207,
+                    "Results": []
+                },
+                {
+                    "Pair number": 8,
+                    "Name": "Malicki, Matthew Vincent",
+                    "Rating": 1203,
+                    "Results": []
+                },
+                {
+                    "Pair number": 9,
+                    "Name": "Bareket, Nimrod",
+                    "Rating": 1200,
+                    "Results": []
+                },
+                {
+                    "Pair number": 10,
+                    "Name": "Lesko, Philip",
+                    "Rating": 1200,
+                    "Team": "BIELES",
+                    "Results": []
+                },
+                {
+                    "Pair number": 11,
+                    "Name": "Michalek, Gregory J",
+                    "Rating": 1177,
+                    "Results": []
+                },
+                {
+                    "Pair number": 12,
+                    "Name": "Patel, Sunny R",
+                    "Rating": 1163,
+                    "Results": []
+                },
+                {
+                    "Pair number": 13,
+                    "Name": "Springer, Ryan Gerald",
+                    "Rating": 1150,
+                    "Results": []
+                },
+                {
+                    "Pair number": 14,
+                    "Name": "Ramey, John",
+                    "Rating": 1127,
+                    "Results": []
+                },
+                {
+                    "Pair number": 15,
+                    "Name": "Siddiqui, Nasir A",
+                    "Rating": 1118,
+                    "Results": []
+                },
+                {
+                    "Pair number": 16,
+                    "Name": "Merlo, Brendan",
+                    "Rating": 1114,
+                    "Results": []
+                },
+                {
+                    "Pair number": 17,
+                    "Name": "Jayam, Srikar",
+                    "Rating": 1111,
+                    "Results": []
+                },
+                {
+                    "Pair number": 18,
+                    "Name": "Gross, Nathaniel F",
+                    "Rating": 1088,
+                    "Results": []
+                },
+                {
+                    "Pair number": 19,
+                    "Name": "Yu, Matthew",
+                    "Rating": 1078,
+                    "Team": "XIAYU",
+                    "Results": []
+                },
+                {
+                    "Pair number": 20,
+                    "Name": "Namala, Dhanvi",
+                    "Rating": 1078,
+                    "Team": "NAMGRE",
+                    "Results": []
+                },
+                {
+                    "Pair number": 21,
+                    "Name": "Ganesh, Shyam",
+                    "Rating": 1064,
+                    "Results": []
+                },
+                {
+                    "Pair number": 22,
+                    "Name": "Eid, Carter Henry",
+                    "Rating": 1043,
+                    "Results": []
+                },
+                {
+                    "Pair number": 23,
+                    "Name": "Dooley, Ty Price",
+                    "Rating": 1040,
+                    "Results": []
+                },
+                {
+                    "Pair number": 24,
+                    "Name": "Ali, Zakariya M",
+                    "Rating": 947,
+                    "Results": []
+                },
+                {
+                    "Pair number": 25,
+                    "Name": "Merkh, Daniel",
+                    "Rating": 929,
+                    "Results": []
+                },
+                {
+                    "Pair number": 26,
+                    "Name": "Sharad, Suhana",
+                    "Rating": 916,
+                    "Team": "SHAJAL",
+                    "Results": []
+                },
+                {
+                    "Pair number": 27,
+                    "Name": "Humphries, Drew Nicholas",
+                    "Rating": 857,
+                    "Results": []
+                }
+            ],
+            "Teams": [
+                {
+                    "Pair number": 1,
+                    "Full name": "ADEADE",
+                    "Team code": "ADEADE"
+                },
+                {
+                    "Pair number": 2,
+                    "Full name": "BIELES",
+                    "Team code": "BIELES"
+                },
+                {
+                    "Pair number": 3,
+                    "Full name": "XIAYU",
+                    "Team code": "XIAYU"
+                },
+                {
+                    "Pair number": 4,
+                    "Full name": "NAMGRE",
+                    "Team code": "NAMGRE"
+                },
+                {
+                    "Pair number": 5,
+                    "Full name": "SHAJAL",
+                    "Team code": "SHAJAL"
+                }
+            ],
+            "Byes": [
+                {
+                    "Pair number": 5,
+                    "Round": 1,
+                    "Points": 0.5
+                },
+                {
+                    "Pair number": 9,
+                    "Round": 2,
+                    "Points": 1
+                },
+                {
+                    "Pair number": 16,
+                    "Round": 4,
+                    "Points": 1
+                },
+                {
+                    "Pair number": 21,
+                    "Round": 2,
+                    "Points": 1
+                },
+                {
+                    "Pair number": 23,
+                    "Round": 1,
+                    "Points": 0.5
+                },
+                {
+                    "Pair number": 25,
+                    "Round": 3,
+                    "Points": 1
+                },
+                {
+                    "Pair number": 26,
+                    "Round": 2,
+                    "Points": 1
+                },
+                {
+                    "Pair number": 27,
+                    "Round": 1,
+                    "Points": 1
+                }
+            ],
+            "Withdrawals": []
+        }
+    ]
+}

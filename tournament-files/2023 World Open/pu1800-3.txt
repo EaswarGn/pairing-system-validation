@@ -1,0 +1,24 @@
+Pairings for Round 5. CCA_WO23: Under 1800-3
+Bd	#	Res	White	#	Res	Black	
+747	3	0 	Ariel Crawford (1780 4.0)	1	1 	Leo Xiaohang Shen (1798 4.0)	
+748	26	0 	Dennis Moore (1626 3.0)	5	1 	Faisal Kaleem (1776 3.0)	
+749	7	1 	Cyril* Chua (1757 3.0)	13	0 	Joshua D Deskovic (1706 3.0)	
+750	8	½ 	Brandon Nicholas Tregde (1737 3.0)	19	½ 	Aarush Tippa (1678 3.0)	
+751	12	0 	Christopher Sims (1711 3.0)	23	1 	Daniel D Shen (1645 3.0)	
+752	9	½ 	Richard Karp (1727 2.5)	25	½ 	Aarav Amit Mehta (1634 2.5)	
+753	2	½ 	Don Asanti Burrus (1783 2.0)	35	½ 	Ajitesh Nallapareddygari (1536 2.5)	
+754	10	0 	Jesse Gililland (1724 2.0)	20	1 	Vikash Ganesan (1667 2.0)	
+755	29	0 	Albert Dong (1611 2.0)	11	1 	Ethan Josiah Smith (1718 2.0)	
+756	31	0 	Haokai Cao (1581 2.0)	17	1 	Fitzherbert Henderso Legall (1690 2.0)	
+757	33	1 	Ashmeet S Goraya (1554 2.0)	18	0 	Frank Tota (1689 2.0)	
+758	36	1 	Albert Li (1448 2.0)	6	0 	Daniel Rhenals (1762 1.5)	
+759	15	1 	Jason B Ochoa (1700 1.5)	37	0 	Shyam Dasari (1348 1.5)	
+760	27	0 	Lorenzo Pasetes (1621 1.5)	28	1 	Matthew Matusiak (1615 1.5)	
+761	22	½ 	Mariia Yeni (1650 1.0)	4	½ 	Timothy R Bartlett (1776 1.0)	
+762	30	½ 	Guy Colas (1600 1.0)	14	½ 	Micah Scobie (1705 1.0)	
+763	32	½ 	Subhasish Chakraborti (1573 1.0)	21	½ 	Lawrence Lepes (1659 1.0)	
+764	39	1 	Emanuel Stoute (1135 1.0)	38	0 	Charley Chen (1240 0.5)	
+	24	1 	Avi Daniel Schneider (1641 0.5)			Please wait here	
+	34	½ 	Jayden Li (1552 2.0)			BYE	
+	16	½ 	Robert Ruggiero (1697 2.5)			BYE	
+

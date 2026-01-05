@@ -1,0 +1,13 @@
+Pairings for Round 4. CCA_CHI22: Under 1700-2
+Bd	#	Res	White	#	Res	Black	
+340	7	   	Justin Zhang (1613 3.0)	12	   	Jordan Colby (1581 3.0)	
+341	5	   	Kamil Kapica (1642 2.0)	14	   	Benjamin Durost (1561 2.5)	
+342	11	   	Richard Mosley (1590 2.0)	6	   	Gerard Andrade (1627 2.0)	
+343	8	   	Ronald Dewayne* Sanders (1608 2.0)	20	   	Elian Sonnenberg (1195 2.0)	
+344	1	   	Christopher Johnson (1673 1.5)	15	   	Jakub J Kowalczyk (1561 1.5)	
+345	4	   	Luis F Gonzalez (1658 1.5)	13	   	Raam Narayanan Raghunathan (1580 1.5)	
+346	9	   	Christopher Daniel Von Hoff (1598 1.5)	2	   	Scott Damien O'connor (1664 1.0)	
+347	16	   	Maurya Chandra (1541 1.0)	19	   	John Raymond Bieda (1325 1.0)	
+348	18	   	Stefan Schaffer (1462 1.0)	3	   	Amit Dave (1660 0.5)	
+349	17	   	Stanley Ren (1512 0.0)	10	   	Tony R Christian (1593 0.0)	
+

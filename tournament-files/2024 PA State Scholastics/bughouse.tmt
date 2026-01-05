@@ -1,0 +1,26 @@
+[Setup]
+Version=9.06
+[Tournament info]
+Title=Bughouse
+Time controls=G/5, d0
+[Section count]
+Total=1
+[Sections]
+Section1=bughouse
+[bughouse]
+Section title=
+Event type=0
+Double blitz=1
+Coin toss=0
+Ratings=0
+Time controls=
+Minimum rating=0
+Maximum rating=9999
+Minimum grade=0
+Maximum grade=99
+Starting board=291
+Rounds=5
+Exclude batch=0
+Exclude ratings=0
+Exclude Krause=0
+Rounds paired=5

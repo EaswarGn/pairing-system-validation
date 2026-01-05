@@ -1,0 +1,202 @@
+{
+    "Sections": [
+        {
+            "Section name": "t3_s15_r2",
+            "Type": 0,
+            "Number of players": 16,
+            "Number of teams": 2,
+            "Rounds paired": 1,
+            "Rounds played": 1,
+            "Regular": true,
+            "Rapid": false,
+            "Blitz": false,
+            "Acceleration": 0,
+            "Use team pairings": true,
+            "Team cut": 4,
+            "Players": [
+                {
+                    "Pair number": 1,
+                    "Name": "Daubert, George E Iii",
+                    "Rating": 1454,
+                    "Results": [
+                        "F;9;W"
+                    ]
+                },
+                {
+                    "Pair number": 2,
+                    "Name": "Confer, Mark",
+                    "Rating": 1410,
+                    "Results": [
+                        "-;10;B"
+                    ]
+                },
+                {
+                    "Pair number": 3,
+                    "Name": "Misra, Aritra Kuma",
+                    "Rating": 1399,
+                    "Results": [
+                        "-;12;B"
+                    ]
+                },
+                {
+                    "Pair number": 4,
+                    "Name": "Shinjiashvili, Giorgi",
+                    "Rating": 1375,
+                    "Results": [
+                        "+;11;W"
+                    ]
+                },
+                {
+                    "Pair number": 5,
+                    "Name": "Collier, Zane",
+                    "Rating": 1368,
+                    "Results": [
+                        "+;13;B"
+                    ]
+                },
+                {
+                    "Pair number": 6,
+                    "Name": "Elias, Bradley J",
+                    "Rating": 1362,
+                    "Results": [
+                        "-;14;W"
+                    ]
+                },
+                {
+                    "Pair number": 7,
+                    "Name": "Ayithi, Yashaswini",
+                    "Rating": 1325,
+                    "Team": "PRKES",
+                    "Results": [
+                        "-;15;B"
+                    ]
+                },
+                {
+                    "Pair number": 8,
+                    "Name": "Negron-duprey, Nasir",
+                    "Rating": 1073,
+                    "Results": [
+                        "+;16;W"
+                    ]
+                },
+                {
+                    "Pair number": 9,
+                    "Name": "Neiderhiser, Alex",
+                    "Rating": 1017,
+                    "Results": [
+                        "X;1;B"
+                    ]
+                },
+                {
+                    "Pair number": 10,
+                    "Name": "Kennedy, Kevin",
+                    "Rating": 933,
+                    "Team": "BMNTS",
+                    "Results": [
+                        "+;2;W"
+                    ]
+                },
+                {
+                    "Pair number": 11,
+                    "Name": "Sciochetti, Joseph",
+                    "Rating": 813,
+                    "Results": [
+                        "-;4;B"
+                    ]
+                },
+                {
+                    "Pair number": 12,
+                    "Name": "Gessner, Jeffrey A",
+                    "Rating": 599,
+                    "Results": [
+                        "+;3;W"
+                    ]
+                },
+                {
+                    "Pair number": 13,
+                    "Name": "Lojo, Jose",
+                    "Rating": 0,
+                    "Results": [
+                        "-;5;W"
+                    ]
+                },
+                {
+                    "Pair number": 14,
+                    "Name": "Forsythe, Samuel L",
+                    "Rating": 0,
+                    "Results": [
+                        "+;6;B"
+                    ]
+                },
+                {
+                    "Pair number": 15,
+                    "Name": "Yeni, Mariia",
+                    "Rating": 0,
+                    "Results": [
+                        "+;7;W"
+                    ]
+                },
+                {
+                    "Pair number": 16,
+                    "Name": "Ford, Matthew",
+                    "Rating": 0,
+                    "Results": [
+                        "-;8;B"
+                    ]
+                }
+            ],
+            "Teams": [
+                {
+                    "Pair number": 1,
+                    "Full name": "PRKES",
+                    "Team code": "PRKES"
+                },
+                {
+                    "Pair number": 2,
+                    "Full name": "BMNTS",
+                    "Team code": "BMNTS"
+                }
+            ],
+            "Byes": [
+                {
+                    "Pair number": 2,
+                    "Round": 5,
+                    "Points": 1
+                },
+                {
+                    "Pair number": 7,
+                    "Round": 3,
+                    "Points": 1
+                },
+                {
+                    "Pair number": 11,
+                    "Round": 2,
+                    "Points": 1
+                },
+                {
+                    "Pair number": 13,
+                    "Round": 4,
+                    "Points": 1
+                }
+            ],
+            "Withdrawals": [
+                {
+                    "Pair number": 1,
+                    "Rounds withdrawn": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "Pair number": 2,
+                    "Rounds withdrawn": [
+                        6
+                    ]
+                }
+            ]
+        }
+    ]
+}

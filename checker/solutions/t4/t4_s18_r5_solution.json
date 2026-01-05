@@ -1,0 +1,306 @@
+{
+    "Sections": [
+        {
+            "Section name": "t4_s18_r5",
+            "Type": 0,
+            "Number of players": 18,
+            "Number of teams": 3,
+            "Rounds paired": 5,
+            "Rounds played": 4,
+            "Regular": true,
+            "Rapid": false,
+            "Blitz": false,
+            "Acceleration": 0,
+            "Use team pairings": true,
+            "Team cut": 4,
+            "Players": [
+                {
+                    "Pair number": 1,
+                    "Name": "Graham, Robert E",
+                    "Rating": 1783,
+                    "Results": [
+                        "=;9;B",
+                        "+;12;W",
+                        "+;15;B",
+                        "+;2;W",
+                        "~;3;B"
+                    ]
+                },
+                {
+                    "Pair number": 2,
+                    "Name": "Faulk, William",
+                    "Rating": 1741,
+                    "Results": [
+                        "+;10;W",
+                        "+;11;B",
+                        "+;18;W",
+                        "-;1;B",
+                        "~;8;W"
+                    ]
+                },
+                {
+                    "Pair number": 3,
+                    "Name": "Valderrama, Atom",
+                    "Rating": 1736,
+                    "Team": "ESU",
+                    "Results": [
+                        "=;12;B",
+                        "+;9;W",
+                        "+;13;B",
+                        "+;4;W",
+                        "~;1;W"
+                    ]
+                },
+                {
+                    "Pair number": 4,
+                    "Name": "Conner, Stephen J",
+                    "Rating": 1698,
+                    "Results": [
+                        "=;13;W",
+                        "=;14;B",
+                        "+;10;W",
+                        "-;3;B",
+                        "~;18;W"
+                    ]
+                },
+                {
+                    "Pair number": 5,
+                    "Name": "Ayyapparaj, Kavin",
+                    "Rating": 1647,
+                    "Results": [
+                        "-;15;B",
+                        "-;13;B",
+                        "U;0;-",
+                        "U;0;-",
+                        "U;0;-"
+                    ]
+                },
+                {
+                    "Pair number": 6,
+                    "Name": "Kennedy, David I",
+                    "Rating": 1562,
+                    "Results": [
+                        "+;17;W",
+                        "-;18;B",
+                        "-;11;W",
+                        "+;16;B",
+                        "~;14;W"
+                    ]
+                },
+                {
+                    "Pair number": 7,
+                    "Name": "Greene, Odell",
+                    "Rating": 1500,
+                    "Results": [
+                        "+;16;B",
+                        "-;15;W",
+                        "-;8;B",
+                        "+;12;W",
+                        "~;13;B"
+                    ]
+                },
+                {
+                    "Pair number": 8,
+                    "Name": "Bhattacharyya, Rishik",
+                    "Rating": 1492,
+                    "Results": [
+                        "-;18;W",
+                        "+;17;B",
+                        "+;7;W",
+                        "+;15;B",
+                        "~;2;B"
+                    ]
+                },
+                {
+                    "Pair number": 9,
+                    "Name": "Forsythe, Samuel L",
+                    "Rating": 1487,
+                    "Results": [
+                        "=;1;W",
+                        "-;3;B",
+                        "-;14;W",
+                        "+;17;B",
+                        "~;11;B"
+                    ]
+                },
+                {
+                    "Pair number": 10,
+                    "Name": "Ciarlante, Anthony B III",
+                    "Rating": 1479,
+                    "Results": [
+                        "-;2;B",
+                        "+;16;W",
+                        "-;4;B",
+                        "H;0;-",
+                        "B;0;-"
+                    ]
+                },
+                {
+                    "Pair number": 11,
+                    "Name": "Rebisz, Matthew",
+                    "Rating": 1454,
+                    "Results": [
+                        "B;0;-",
+                        "-;2;W",
+                        "+;6;B",
+                        "-;18;B",
+                        "~;9;W"
+                    ]
+                },
+                {
+                    "Pair number": 12,
+                    "Name": "Sahay, Sourav",
+                    "Rating": 1431,
+                    "Results": [
+                        "=;3;W",
+                        "-;1;B",
+                        "=;16;W",
+                        "-;7;B",
+                        "~;17;W"
+                    ]
+                },
+                {
+                    "Pair number": 13,
+                    "Name": "Lal, Siddharth",
+                    "Rating": 1423,
+                    "Team": "PSU",
+                    "Results": [
+                        "=;4;B",
+                        "+;5;W",
+                        "-;3;W",
+                        "+;14;B",
+                        "~;7;W"
+                    ]
+                },
+                {
+                    "Pair number": 14,
+                    "Name": "Gusic, Kenneth",
+                    "Rating": 1400,
+                    "Results": [
+                        "H;0;-",
+                        "=;4;W",
+                        "+;9;B",
+                        "-;13;W",
+                        "~;6;B"
+                    ]
+                },
+                {
+                    "Pair number": 15,
+                    "Name": "Dudley, Ean",
+                    "Rating": 1353,
+                    "Team": "PSU",
+                    "Results": [
+                        "+;5;W",
+                        "+;7;B",
+                        "-;1;W",
+                        "-;8;W",
+                        "U;0;-"
+                    ]
+                },
+                {
+                    "Pair number": 16,
+                    "Name": "Sides, Ethan E",
+                    "Rating": 1342,
+                    "Team": "SHIPU",
+                    "Results": [
+                        "-;7;W",
+                        "-;10;B",
+                        "=;12;B",
+                        "-;6;W",
+                        "B;-1;-"
+                    ]
+                },
+                {
+                    "Pair number": 17,
+                    "Name": "Stoute, Emanuel",
+                    "Rating": 1301,
+                    "Results": [
+                        "-;6;B",
+                        "-;8;W",
+                        "B;-1;-",
+                        "-;9;W",
+                        "~;12;B"
+                    ]
+                },
+                {
+                    "Pair number": 18,
+                    "Name": "Irwin, William",
+                    "Rating": 0,
+                    "Team": "PSU",
+                    "Results": [
+                        "+;8;B",
+                        "+;6;W",
+                        "-;2;B",
+                        "+;11;W",
+                        "~;4;B"
+                    ]
+                }
+            ],
+            "Teams": [
+                {
+                    "Pair number": 1,
+                    "Full name": "ESU",
+                    "Team code": "ESU"
+                },
+                {
+                    "Pair number": 2,
+                    "Full name": "PSU",
+                    "Team code": "PSU"
+                },
+                {
+                    "Pair number": 3,
+                    "Full name": "SHIPU",
+                    "Team code": "SHIPU"
+                }
+            ],
+            "Byes": [
+                {
+                    "Pair number": 10,
+                    "Round": 4,
+                    "Points": 0.5
+                },
+                {
+                    "Pair number": 10,
+                    "Round": 5,
+                    "Points": 1
+                },
+                {
+                    "Pair number": 11,
+                    "Round": 1,
+                    "Points": 1
+                },
+                {
+                    "Pair number": 14,
+                    "Round": 1,
+                    "Points": 0.5
+                },
+                {
+                    "Pair number": 16,
+                    "Round": 5,
+                    "Points": 1
+                },
+                {
+                    "Pair number": 17,
+                    "Round": 3,
+                    "Points": 1
+                }
+            ],
+            "Withdrawals": [
+                {
+                    "Pair number": 5,
+                    "Rounds withdrawn": [
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "Pair number": 15,
+                    "Rounds withdrawn": [
+                        5
+                    ]
+                }
+            ]
+        }
+    ]
+}

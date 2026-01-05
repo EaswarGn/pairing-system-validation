@@ -1,0 +1,20 @@
+Pairings for Round 5. CCA_WO22: Under 1600-3
+Bd	#	Res	White	#	Res	Black	
+643	19	0 	Aron Amram (1452 3.5)	13	1 	Matthew Billings (1508 4.0)	
+644	5	1 	Brandon Nicholas Tregde (1567 3.0)	26	0 	Srinivas Burre (1382 3.5)	
+645	33	1 	Jack Edward Shuman Mason (1296 3.0)	7	0 	Kevin Fr Prasanna (1552 3.0)	
+646	12	0 	Ronald Sanders II (1513 3.0)	15	1 	Nader Rawshani (1480 3.0)	
+647	1	0 	Vladi Bershanskiy (1584 2.5)	18	1 	Ashton Bellur (1467 2.5)	
+648	11	½ 	Ariv DebMisra (1523 2.5)	25	½ 	Zohran Valliani (1398 2.5)	
+649	14	1 	Hector Juarez Reyes (1490 2.5)	27	0 	Austin Zhizhong Xiao (1379 2.5)	
+650	23	1 	Lulu Huang (1419 2.0)	3	0 	John Delgado (1579 2.0)	
+651	10	0 	Luis Ferna Carias (1540 2.0)	28	1 	Darren Wu (1374 2.0)	
+652	16	1 	Oyekola Oyekole (1479 2.0)	17	0 	Bill Howard Putnam (1475 2.0)	
+653	4	½ 	Daksh Dudipala (1567 1.5)	31	½ 	Peyton Larosa (1351 2.0)	
+654	8	1 	Atom Valderrama (1551 1.5)	34	0 	Aahil Valliani (1149 1.5)	
+655	21	0 	David Tyau (1438 1.5)	22	1 	Vikraman Boobalan (1424 1.5)	
+656	6	1 	Kevin Scott Kerr (1560 1.0)	29	0 	Julian Ma (1369 1.0)	
+657	20	1 	Max Xavier Humes (1446 1.0)	9	0 	Aaron Kuo (1547 1.0)	
+	30	1 	Skirmantas Pipas (1351 0.0)			BYE	
+	32	½ 	Gregory Murray (1300 1.0)			BYE	
+

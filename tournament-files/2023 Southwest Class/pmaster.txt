@@ -1,0 +1,45 @@
+Pairings for Round 9. CCA_SWCC23: Master (USCF 2100 up or FIDE 2000 up)-5
+Bd	#	Res	White	#	Res	Black	
+1	8	½ 	GM Vladimir Belous (2505 7.5)	7	½ 	GM Balaji Daggupati (2507 6.0)	
+2	4	½ 	IM Jason Liang (2528 6.0)	23	½ 	FM Jason Wang (2409 6.0)	
+3	14	½ 	IM Gleb Dudin (2467 6.0)	15	½ 	IM Safal Bora (2457 5.5)	
+4	10	0 	GM David Brodsky (2491 5.5)	1	1 	GM Christopher Woojin Yoo (2589 5.5)	
+5	5	0 	GM Bartlomiej Macieja (2525 5.5)	17	1 	IM Andy Austin Woodward (2446 5.5)	
+6	6	½ 	IM Juraj Druska (2513 5.0)	13	½ 	IM Brian Escalante (2469 5.5)	
+7	2	1 	GM Viktor Gazik (2554 5.0)	25	0 	FM Sandeep Sethuraman (2386 5.0)	
+8	36	½ 	FM Joshua Colas (2294 5.0)	11	½ 	GM Srivatshav Peddi Rahul (2481 5.0)	
+9	32	½ 	FM Tanitoluwa Adewumi (2307 5.0)	19	½ 	FM Ryo Wenyu Chen (2425 5.0)	
+10	50	½ 	CM Eric Chang Liu (2174 5.0)	21	½ 	FM Jakub Fus (2416 5.0)	
+11	24	½ 	IM Aaron Grabinsky (2401 5.0)	26	½ 	FM Anish Vivekananthan (2378 5.0)	
+12	3	½ 	GM Martin Petrov (2531 4.5)	43	½ 	Gunnar James Andersen (2230 4.5)	
+13	16	½ 	IM Andrei Macovei (2449 4.5)	45	½ 	Nicolas De La Colina (2211 4.5)	
+14	18	1 	GM David Berczes (2439 4.5)	46	0 	Nicholas F Matta (2201 4.5)	
+15	80	0 	Vincent Latorre (1969 4.5)	28	1 	IM Ekin Baris Ozenir (2369 4.5)	
+16	30	1 	IM Michael A Mulyar (2363 4.5)	53	0 	Christopher Toolin (2146 4.5)	
+17	34	0 	FM Liam Henry Putnam (2299 4.5)	68	1 	Benjamin Yan (2020 4.5)	
+18	52	0 	Sudarshan Sriniaiyer (2151 4.5)	39	1 	FM Sharvesh Deviprasath (2278 4.5)	
+19	47	1 	FM Seth Homa (2191 4.0)	9	0 	IM Eyal Grinberg (2496 4.0)	
+20	49	½ 	Andrew Jiang (2178 4.0)	29	½ 	IM Tamas Petenyi (2364 4.0)	
+21	70	0 	Advaith Vijayakumar (2013 4.0)	31	1 	FM Grayson Rorrer (2311 4.0)	
+22	59	0 	Vignesh Anand (2069 4.0)	33	1 	Shelev Oberoi (2307 4.0)	
+23	89	½ 	Peter Zheng (1802 4.0)	37	½ 	WIM Sila Caglar (2283 4.0)	
+24	44	½ 	FM Ruiyang Yan (2219 4.0)	51	½ 	Atulya Vaidya (2154 4.0)	
+25	42	0 	IM Dante M Beukes (2239 3.5)	81	1 	FM Eugene Yanayt (1968 4.0)	
+26	78	0 	Sreekar Gangavarapu (1976 3.5)	22	1 	Aryan Gutla (2411 3.5)	
+27	40	1 	FM Maria Malicka (2273 3.5)	57	0 	Arsal Gardezi (2081 3.5)	
+28	82	1 	Isaac Wang (1944 3.5)	77	0 	Vaseegaran Nandhakumar (1983 3.5)	
+29	62	1 	Rohan Padhye (2059 3.0)	87	0 	Rafael Adam (1888 3.5)	
+30	66	1 	Rose Atwell (2025 3.0)	84	0 	Ethan Guo (1920 3.0)	
+31	86	1 	Benson Schexnaydre (1891 3.0)	79	0 	Robert Sanchez (1971 3.0)	
+32	75	0 	Alec Beck (1987 2.5)	71	1 	Adrian Kondakov (2011 2.5)	
+33	74	1 	Shreyas Nayak (1987 2.5)	90	0 	Ajitesh Nair (1800 2.5)	
+34	76	½ 	Niko Pompe (1984 2.5)	88	½ 	Lucius Melillo (1849 2.0)	
+	55	½ 	Steve Wongso (2100 2.5)			BYE	
+	60	½ 	Yu-cheng Liang (2068 3.5)			BYE	
+	85	½ 	Bryan B Leano (1911 2.5)			BYE	
+	48	½ 	Raghav Venkat (2185 4.5)			BYE	
+	73	½ 	Kelsey Liu (1990 3.5)			BYE	
+	20	½ 	GM Melikset Khachiyan (2418 5.0)			BYE	
+	58	½ 	Kevin Xu (2070 3.0)			BYE	
+	72	½ 	Ronak Hiwale (1999 3.0)			BYE	
+

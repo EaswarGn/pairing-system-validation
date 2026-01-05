@@ -1,0 +1,16 @@
+Pairings for Round 7. CCA_SWCC23: Class D Merged
+Bd	#	Res	White	#	Res	Black	
+195	10	0 	Preston Rushford (1230 5.0)	8	1 	Amogh Akella (1277 4.5)	
+196	4	½ 	Aditya Kotaru (1378 4.0)	1	½ 	Reynaldo Huerta (1393 4.0)	
+197	2	½ 	Suraj Boinpally (1389 4.0)	20	½ 	Chad Bostick (1169 4.0)	
+198	11	0 	Shankaranarayanan Rajagopal (1222 3.5)	12	1 	Surya Prakash Kundurthi (1218 3.5)	
+199	25	½ 	Zachary Gaw (1053 3.5)	5	½ 	John W Kendrick (1376 3.0)	
+200	22	1 	Arya Roy Choudhury (1155 3.0)	13	0 	Michael Mao (1214 3.0)	
+201	23	1 	Shravan Balaji (1150 3.0)	15	0 	Christian Gaw (1202 3.0)	
+202	7	1 	Deborah R Shafer (1300 2.5)	21	0 	Samarth Ram Bharadwaj (1159 2.5)	
+203	26	0 	Isaiah Felix (1006 0.0)	14	1 	Rayna Yan (1210 2.5)	
+204	18	1 	Afaf* Bouardi (1200 2.0)	24	0 	Anurag Roy Choudhury (1092 1.5)	
+205	6	0 	Ishak Hossain (1364 1.0)	9	1 	Saatvik Agarwal (1274 2.0)	
+	3	½ 	Will Hutchins (1381 4.5)			BYE	
+	16	½ 	Mingle Daniel Li (1201 3.5)			BYE	
+

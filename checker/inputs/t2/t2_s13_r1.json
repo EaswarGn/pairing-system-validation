@@ -1,0 +1,318 @@
+{
+    "Sections": [
+        {
+            "Section name": "t2_s13_r1",
+            "Type": 0,
+            "Number of players": 44,
+            "Number of teams": 1,
+            "Rounds paired": 0,
+            "Rounds played": 0,
+            "Regular": true,
+            "Rapid": false,
+            "Blitz": false,
+            "Acceleration": 0,
+            "Use team pairings": true,
+            "Team cut": 4,
+            "Players": [
+                {
+                    "Pair number": 1,
+                    "Name": "Williams, Trent L",
+                    "Rating": 1397,
+                    "Results": []
+                },
+                {
+                    "Pair number": 2,
+                    "Name": "Landau, Caleb",
+                    "Rating": 1396,
+                    "Results": []
+                },
+                {
+                    "Pair number": 3,
+                    "Name": "Hobby, Dillan",
+                    "Rating": 1385,
+                    "Results": []
+                },
+                {
+                    "Pair number": 4,
+                    "Name": "Wang, Stan",
+                    "Rating": 1379,
+                    "Results": []
+                },
+                {
+                    "Pair number": 5,
+                    "Name": "Oz, Seyma",
+                    "Rating": 1378,
+                    "Results": []
+                },
+                {
+                    "Pair number": 6,
+                    "Name": "Lott, Andrew",
+                    "Rating": 1372,
+                    "Results": []
+                },
+                {
+                    "Pair number": 7,
+                    "Name": "Waduthanthree, Thihansa O",
+                    "Rating": 1370,
+                    "Team": "WADJEE",
+                    "Results": []
+                },
+                {
+                    "Pair number": 8,
+                    "Name": "Babakhan, Daniel L",
+                    "Rating": 1362,
+                    "Results": []
+                },
+                {
+                    "Pair number": 9,
+                    "Name": "Patil, Aaradhya Nitin",
+                    "Rating": 1359,
+                    "Results": []
+                },
+                {
+                    "Pair number": 10,
+                    "Name": "Smullens, Joshua",
+                    "Rating": 1345,
+                    "Results": []
+                },
+                {
+                    "Pair number": 11,
+                    "Name": "Jackson, Maddox",
+                    "Rating": 1341,
+                    "Results": []
+                },
+                {
+                    "Pair number": 12,
+                    "Name": "Wu, Terrain",
+                    "Rating": 1338,
+                    "Results": []
+                },
+                {
+                    "Pair number": 13,
+                    "Name": "Rajagopal, Akshay",
+                    "Rating": 1337,
+                    "Results": []
+                },
+                {
+                    "Pair number": 14,
+                    "Name": "Thomas, Matt B",
+                    "Rating": 1337,
+                    "Results": []
+                },
+                {
+                    "Pair number": 15,
+                    "Name": "Ahumada, Kevin Neil",
+                    "Rating": 1333,
+                    "Results": []
+                },
+                {
+                    "Pair number": 16,
+                    "Name": "Bonastia, James N",
+                    "Rating": 1327,
+                    "Results": []
+                },
+                {
+                    "Pair number": 17,
+                    "Name": "Njuguna, Nicodemus",
+                    "Rating": 1322,
+                    "Results": []
+                },
+                {
+                    "Pair number": 18,
+                    "Name": "Thandra, Sarayu",
+                    "Rating": 1312,
+                    "Results": []
+                },
+                {
+                    "Pair number": 19,
+                    "Name": "Dehorty, Justin",
+                    "Rating": 1308,
+                    "Results": []
+                },
+                {
+                    "Pair number": 20,
+                    "Name": "Weisz, James M",
+                    "Rating": 1300,
+                    "Results": []
+                },
+                {
+                    "Pair number": 21,
+                    "Name": "Yadawad, Aanya",
+                    "Rating": 1286,
+                    "Results": []
+                },
+                {
+                    "Pair number": 22,
+                    "Name": "Wang, Austin",
+                    "Rating": 1284,
+                    "Results": []
+                },
+                {
+                    "Pair number": 23,
+                    "Name": "Yuen, Daisy",
+                    "Rating": 1243,
+                    "Results": []
+                },
+                {
+                    "Pair number": 24,
+                    "Name": "Shapiro, Benjamin",
+                    "Rating": 1239,
+                    "Results": []
+                },
+                {
+                    "Pair number": 25,
+                    "Name": "Zhou, Yifei",
+                    "Rating": 1234,
+                    "Results": []
+                },
+                {
+                    "Pair number": 26,
+                    "Name": "Walden, Andrew",
+                    "Rating": 1230,
+                    "Results": []
+                },
+                {
+                    "Pair number": 27,
+                    "Name": "Duncan, Angus Smith",
+                    "Rating": 1222,
+                    "Results": []
+                },
+                {
+                    "Pair number": 28,
+                    "Name": "Ashok, Saadhanaa",
+                    "Rating": 1202,
+                    "Results": []
+                },
+                {
+                    "Pair number": 29,
+                    "Name": "Rana, Shyla",
+                    "Rating": 1183,
+                    "Results": []
+                },
+                {
+                    "Pair number": 30,
+                    "Name": "Li, Albert",
+                    "Rating": 1181,
+                    "Results": []
+                },
+                {
+                    "Pair number": 31,
+                    "Name": "Schafli, Ephraim",
+                    "Rating": 1178,
+                    "Results": []
+                },
+                {
+                    "Pair number": 32,
+                    "Name": "Shereshashvili, Irakli",
+                    "Rating": 1174,
+                    "Results": []
+                },
+                {
+                    "Pair number": 33,
+                    "Name": "Statz, Isaac Hart",
+                    "Rating": 1160,
+                    "Results": []
+                },
+                {
+                    "Pair number": 34,
+                    "Name": "Clifton, Alexander J",
+                    "Rating": 1159,
+                    "Results": []
+                },
+                {
+                    "Pair number": 35,
+                    "Name": "Yang, Grace Siqi",
+                    "Rating": 1153,
+                    "Results": []
+                },
+                {
+                    "Pair number": 36,
+                    "Name": "Shinjiashvili, Giorgi Temo",
+                    "Rating": 1105,
+                    "Results": []
+                },
+                {
+                    "Pair number": 37,
+                    "Name": "Shivakumar, Sahil",
+                    "Rating": 1086,
+                    "Results": []
+                },
+                {
+                    "Pair number": 38,
+                    "Name": "Henderson, Mark Joseph",
+                    "Rating": 1043,
+                    "Results": []
+                },
+                {
+                    "Pair number": 39,
+                    "Name": "Feldman, Ely",
+                    "Rating": 1006,
+                    "Results": []
+                },
+                {
+                    "Pair number": 40,
+                    "Name": "Laserson, Samuel",
+                    "Rating": 965,
+                    "Results": []
+                },
+                {
+                    "Pair number": 41,
+                    "Name": "Armat, Amin Justin",
+                    "Rating": 925,
+                    "Results": []
+                },
+                {
+                    "Pair number": 42,
+                    "Name": "Nepravishta, Joey",
+                    "Rating": 891,
+                    "Results": []
+                },
+                {
+                    "Pair number": 43,
+                    "Name": "Hubbard, Willie",
+                    "Rating": 865,
+                    "Results": []
+                },
+                {
+                    "Pair number": 44,
+                    "Name": "Kuncar, Nayib Alej",
+                    "Rating": 0,
+                    "Results": []
+                }
+            ],
+            "Teams": [
+                {
+                    "Pair number": 1,
+                    "Full name": "WADJEE",
+                    "Team code": "WADJEE"
+                }
+            ],
+            "Byes": [
+                {
+                    "Pair number": 1,
+                    "Round": 1,
+                    "Points": 0.5
+                },
+                {
+                    "Pair number": 28,
+                    "Round": 1,
+                    "Points": 0.5
+                }
+            ],
+            "Withdrawals": [
+                {
+                    "Pair number": 5,
+                    "Rounds withdrawn": [
+                        2
+                    ]
+                },
+                {
+                    "Pair number": 44,
+                    "Rounds withdrawn": [
+                        2
+                    ]
+                }
+            ]
+        }
+    ]
+}

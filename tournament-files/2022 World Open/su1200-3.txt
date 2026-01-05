@@ -1,0 +1,41 @@
+SwissSys Standings. CCA_WO22: Under 1200-3 (Standings (no tiebrk))
+#	Name	Rating	Team	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Rd 8	Rd 9	Total	
+1	Felix De La Cruz	1160		W37	W10	W13	W3	W7					 5.0	
+2	Ali Hawkes	1081		W27	W21	W5	W6	H---					 4.5	
+3	Arihant Deva	1166		W30	W22	W8	L1	D5					 3.5	
+4	Raymond Ouyang	1136	CHEOUY	L24	W25	W31	W22	D8					 3.5	
+5	Onyedikachi Osondu	1136	OSOOSO	W15	W23	L2	W29	D3					 3.5	
+6	Hemanth Samayamantri	1134		W25	D14	W9	L2	W19					 3.5	
+7	Louis Zhang	1130		W16	D24	W14	W19	L1					 3.5	
+8	Jason Cheung	1115		W26	W33	L3	W15	D4					 3.5	
+9	Richardson Jingsi Qiao	1065	BAPQIA	W28	W17	L6	W13	H---					 3.5	
+10	Eric Liu	1062		W31	L1	W20	W21	H---					 3.5	
+11	Drake Shi	 970		W18	L13	D17	W20	W21					 3.5	
+12	Leo Berkson	1132		L33	W28	L15	W26	W24					 3.0	
+13	Philip Lesko	1126		B---	W11	L1	L9	W25					 3.0	
+14	Winston Chen	1058	MARCHE	W29	D6	L7	D24	W27					 3.0	
+15	Atharv Bapuram	1005	BYSBAP	L5	W34	W12	L8	W22					 3.0	
+16	Douglas Schwartz	 987		L7	D18	W32	W17	H---				H---	 3.0	
+17	Bruce A Shull	1162		B---	L9	D11	L16	W29					 2.5	
+18	Kyle Wu	1107		L11	D16	L29	W37	X30					 2.5	
+19	Dev Menon Madhavan	1089		H---	W32	W24	L7	L6					 2.5	
+20	Daniel Smith	1170		L23	W26	L10	L11	W31					 2.0	
+21	Eric Zheng	1163		X36	L2	W23	L10	L11					 2.0	
+22	Shan Ramesh Lee	1101		X38	L3	W33	L4	L15					 2.0	
+23	Lily Wang	1055	WANWA2	W20	L5	L21	L27	W33					 2.0	
+24	Silence Ezra Karl	1015	BYSKAR	W4	D7	L19	D14	L12					 2.0	
+25	Anastasia Catelli	1004	CATLAN	L6	L4	W28	W33	L13					 2.0	
+26	Mukund Sriram	 971		L8	L20	W34	L12	W32					 2.0	
+27	Fahad Anwar	 894		L2	L29	W37	W23	L14					 2.0	
+28	Isaac Christopher Daley	 882		L9	L12	L25	W34	W37					 2.0	
+29	Zen Jiang	 748		L14	W27	W18	L5	L17					 2.0	
+30	Kevin Arroyo	1053		L3	H---	H---	H---	F18					 1.5	
+31	Vihaan Jambudi	 784		L10	W37	L4	D32	L20		H---		H---	 1.5	
+32	Srihari Shankar	1047		H---	L19	L16	D31	L26				U---	 1.0	
+33	Aswath Madhan	1003		W12	L8	L22	L25	L23				H---	 1.0	
+34	Bhanusri Durbhakula	 757		L35	L15	L26	L28	B---					 1.0	
+35	William Y Li	 101		W34	U---	U---	U---	U---					 1.0	
+36	Joseph Mathew Phiri	1050		F21	U---	U---	U---	U---					 0.0	
+37	James Lamb	1017	EVALAM	L1	L31	L27	L18	L28					 0.0	
+38	Lucas Anderson	 920		F22	U---	U---	U---	U---					 0.0	
+

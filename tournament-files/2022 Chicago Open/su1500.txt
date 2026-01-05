@@ -1,0 +1,105 @@
+SwissSys Standings. CCA_CHI22: Under 1500 Merged (Standings (no tiebrk))
+#	Name	Rating	Team	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Total	Prize	
+1	Mongoljin* Davaadorj	1410	DAVRAV	W65	W87	D6	W49	W5	W3	D2	 6.0	1500.00	(prize limit)
+2	Bat Uya Molomjamts	1375		W52	W17	D19	W6	W11	W7	D1	 6.0	1500.00	(prize limit)
+3	Gene Xijie Li	1343		W54	W10	W75	W12	W21	L1	W8	 6.0	2350.00	
+4	Jack Drucker	1332		L5	W97	W87	W37	W18	W26	W14	 6.0	2350.00	
+5	Jacob Gaisinsky	1450		W4	D58	W15	W56	L1	W45	W19	 5.5	450.00	
+6	Joshua Gingerich	1444		W33	W31	D1	L2	W35	W49	W21	 5.5	450.00	
+7	William Cahill	1491		D41	W86	D49	W59	W27	L2	W29	 5.0	134.00	
+8	Jack Michael Bradley	1462		L31	W33	W95	W68	W60	W28	L3	 5.0	134.00	
+9	Oliver* Rubenstein	1453		L82	W47	W16	W46	L28	W44	W23	 5.0	134.00	
+10	Sergey V Hakobyan	1450		W94	L3	W61	D45	W69	W30	D13	 5.0	134.00	
+11	Matthew Herbert	1441		W84	W93	D56	W69	L2	W38	D15	 5.0	134.00	
+12	Samuel Cole Heinrich	1440		W101	W61	W68	L3	W34	L14	W26	 5.0	134.00	
+13	Sam Allen* Smith	1423	MCLSMI	W32	L79	W60	W50	W51	D23	D10	 5.0	134.00	
+14	Lev Reyzin	1416		W60	W70	W51	H---	H---	W12	L4	 5.0	134.00	
+15	Matthew Daniel Bak	1354		D25	W80	L5	W43	W16	W39	D11	 5.0	134.00	
+16	Michael* Harris	1457		D57	W50	L9	W62	L15	W59	W42	 4.5		
+17	Kevin Cahill	1444		W83	L2	L22	W84	W36	D46	W45	 4.5		
+18	Brendan Ger Kolar	1438		W102	L23	W72	W31	L4	W34	H---	 4.5		
+19	Eric Saxe	1436		W95	W24	D2	D34	W57	D21	L5	 4.5		
+20	Nader* Rawshani	1424		L92	L57	W90	W47	D22	W72	W46	 4.5		
+21	Rohil Shah Bose	1405		W96	W72	W37	W23	L3	D19	L6	 4.5		
+22	Paul Lewis	1271		D42	D67	W17	L39	D20	W66	W40	 4.5		
+23	Vinay Sridhar	1239	CHESID	W27	W18	W28	L21	W52	D13	L9	 4.5		
+24	Owen Kelliher	1060		W88	L19	W91	L30	W67	D52	W39	 4.5		
+25	Jin Ma	1497	MAMA	D15	L34	D86	W61	L31	W73	W49	 4.0		
+26	Aron Amram	1447		W46	W92	D40	D57	W44	L4	L12	 4.0		
+27	Mert Iseri	1430		L23	W102	W73	W36	L7	W31	U---	 4.0		
+28	Erika L Mclean	1422	MCLSMI	W64	W38	L23	W48	W9	L8	U---	 4.0		
+29	Benjamin Morgen Young	1421		W85	L37	L36	W95	W48	W54	L7	 4.0		
+30	Charithra Arvind	1401	ARVJAY	L61	W96	W74	W24	D39	L10	H---	 4.0		
+31	Stella Pashyan	1351	PASDAN	W8	L6	W65	L18	W25	L27	W63	 4.0		
+32	Andrew H Cook	1343		L13	W55	L46	W82	D37	D56	W52	 4.0		
+33	Esad Hamzic	1335		L6	L8	W66	U---	W65	W95	W53	 4.0		
+34	Meris X Goldfarb	1333		D39	W25	W85	D19	L12	L18	W58	 4.0		
+35	Jay Serice	1300		D67	W42	D45	D38	L6	D53	W54	 4.0		
+36	Tate Darin	1177		L43	W76	W29	L27	L17	W77	W55	 4.0		
+37	Aki Nakaguwa	1477		X99	W29	L21	L4	D32	H---	H---	 3.5		
+38	Yuri Malina	1459		W59	L28	X93	D35	W56	L11	U---	 3.5		
+39	Slawomir Borkowski	1450		D34	H---	W84	W22	D30	L15	L24	 3.5		
+40	Billy Marcelle Edwards	1429		W47	W82	D26	L51	L45	X69	L22	 3.5		
+41	Sebastian A Lopez	1417	SAJLOP	D7	L69	L52	D76	D61	W74	W72	 3.5		
+42	Oliver Rana	1405		D22	L35	W80	W63	L49	W62	L16	 3.5		
+43	Jerome W Tichacek	1400		W36	L49	D63	L15	D71	W78	D48	 3.5		
+44	Deangelo Watkins	1395		W62	L51	W70	W79	L26	L9	D50	 3.5		
+45	Shivani Manimaran	1379	MANKAR	W63	H---	D35	D10	W40	L5	L17	 3.5		
+46	Evan Boettner	1363		L26	W90	W32	L9	W50	D17	L20	 3.5		
+47	Louis L Smith	1362		L40	L9	B---	L20	D74	W84	W73	 3.5		
+48	Jackson Borst	1137		W91	L68	W67	L28	L29	W76	D43	 3.5		
+49	Ray Xue	1059		W76	W43	D7	L1	W42	L6	L25	 3.5		
+50	Temuulen Turbat	 998		B---	L16	X92	L13	L46	W81	D44	 3.5		
+51	Max Villarreal	1485		W100	W44	L14	W40	L13	U---	U---	 3.0		
+52	Sophie Elizabeth Salomon	1465	SALWAL	L2	D83	W41	W58	L23	D24	L32	 3.0		
+53	Winston Z Chen	1455		W77	L56	L59	D78	W70	D35	L33	 3.0		
+54	Everardo Gamino	1454		L3	W94	U---	W83	W79	L29	L35	 3.0		
+55	Steve Kuhlmann	1405		L79	L32	X100	D70	D78	W71	L36	 3.0		
+56	Blake Jansen	1390		W73	W53	D11	L5	L38	D32	U---	 3.0		
+57	Charles O Esan	1386		D16	W20	W79	D26	L19	U---	U---	 3.0		
+58	Eduardo Elias	1365		W97	D5	L69	L52	D63	W60	L34	 3.0		
+59	Duc T Le	1348		L38	W64	W53	L7	H---	L16	H---	 3.0		
+60	Tamboura*** Jackson	1320		L14	W100	L13	W90	L8	L58	W78	 3.0		
+61	Robert James Scott	1235		W30	L12	L10	L25	D41	W83	D62	 3.0		
+62	Justin Odisho	1138		L44	B---	W82	L16	D68	L42	D61	 3.0		
+63	Daniel Lona	1076		L45	W77	D43	L42	D58	W67	L31	 3.0		
+64	Melissa Xu	1042	XULIE	L28	L59	L77	W89	D83	X90	D67	 3.0		
+65	William Tk Ahn	1012		L1	W88	L31	L67	L33	W89	W77	 3.0		
+66	Theron Plaines	1423		L74	L95	L33	W94	D73	L22	W84	 2.5		
+67	Donald Hanes	1415		D35	D22	L48	W65	L24	L63	D64	 2.5		
+68	David J White	1400		W71	W48	L12	L8	D62	U---	U---	 2.5		
+69	Nick Mihailovic	1347		D86	W41	W58	L11	L10	F40	U---	 2.5		
+70	Michael Anthony* Bauml	1298		W90	L14	L44	D55	L53	W82	U---	 2.5		
+71	Mike Vayner	1200		L68	L91	D76	W81	D43	L55	H---	 2.5		
+72	Timothy A Lund	1189		W89	L21	L18	W85	H---	L20	L41	 2.5		
+73	Matthew Kennedy Moore	1140		L56	W89	L27	W77	D66	L25	L47	 2.5		
+74	Michael Tavish Goodwin	1115		W66	L75	L30	L80	D47	L41	W81	 2.5		
+75	Nader Rawshani	1424		X---	W74	L3	U---	U---	U---	U---	 2.0		
+76	Patrick F Gordon	1373		L49	L36	D71	D41	W95	L48	U---	 2.0		
+77	Dominic Immer	1352		L53	L63	W64	L73	X97	L36	L65	 2.0		
+78	Shaan Jiandani	1344		L87	L85	W97	D53	D55	L43	L60	 2.0		
+79	Emmanuel Pabustan	1307		W55	W13	L57	L44	L54	U---	U---	 2.0		
+80	Anisha Oberai	1482	OBEOBE	H---	L15	L42	W74	U---	U---	U---	 1.5		
+81	Charles Adams Whipple	1454		L93	L84	D83	L71	W89	L50	L74	 1.5		
+82	Dylan* Stein	1380		W9	L40	L62	L32	D84	L70	U---	 1.5		
+83	Sameer Mansinh Udeshi	1329		L17	D52	D81	L54	D64	L61	U---	 1.5		
+84	Michael J Lobraco	1327		L11	W81	L39	L17	D82	L47	L66	 1.5		
+85	Philip Mccully	1494		L29	W78	L34	L72	U---	U---	U---	 1.0		
+86	Michael Harris	1457		D69	L7	D25	U---	U---	U---	U---	 1.0		
+87	Oliver Rubenstein	1453		W78	L1	L4	U---	U---	U---	U---	 1.0		
+88	Sam Allen Smith	1423	MCLSMI	L24	L65	W102	U---	U---	U---	U---	 1.0		
+89	George Robert Eason	1400		L72	L73	L96	L64	L81	L65	W94	 1.0		
+90	Andrzej* Kadlubowski	1400		L70	L46	L20	L60	W94	F64	U---	 1.0		
+91	Dylan Stein	1380		L48	W71	L24	U---	U---	U---	U---	 1.0		
+92	Robert Lee Mcdonald	1347		W20	L26	F50	U---	U---	U---	U---	 1.0		
+93	Kyle Tebelman	1338		W81	L11	F38	U---	U---	U---	U---	 1.0		
+94	Kyle Birky	1332		L10	L54	U---	L66	L90	B---	L89	 1.0		
+95	Keith A Tomarchio	1306		L19	W66	L8	L29	L76	L33	U---	 1.0		
+96	Michael Anthony Bauml	1298		L21	L30	W89	U---	U---	U---	U---	 1.0		
+97	Prathik Arunkumar	 343	MENARU	L58	L4	L78	B---	F77	U---	U---	 1.0		
+98	Mongoljin Davaadorj	1410	DAVRAV	H---	U---	U---	U---	U---	U---	U---	 0.5		
+99	Andrzej Kadlubowski	1400		F37	U---	U---	U---	U---	U---	U---	 0.0		
+100	Angelo  R Jackson	1387		L51	L60	F55	U---	U---	U---	U---	 0.0		
+101	Tamboura Jackson	1320		L12	U---	U---	U---	U---	U---	U---	 0.0		
+102	Tamboura* Jackson	1320		L18	L27	L88	U---	U---	U---	U---	 0.0		
+

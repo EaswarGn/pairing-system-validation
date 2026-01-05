@@ -1,0 +1,27 @@
+AJC, AJ Chess Academy
+BRK, Bradford Knight Owls
+CHT, Chaturanga Chess Club
+CMD, Chess Masters of Delaware
+CPH, CPA - Hershey
+EXT, Exton Chess Club
+HRS, Harrisburg West Shore Chess Club
+KCL, Knights of Columbus 4191
+LVC, Lehigh Valley Chess Association
+LBC, Lower Bucks County Chess Club
+MNL, Main Line Chess Club
+MOH, Meyers High School Mohawk Pride
+MTH, Minor Threats Chess Club
+MES, Monelli Educational Services
+MYR, Myerstown Chess Club
+NPC, North Penn Chess Club
+PLR, Paul Robeson Chess Club
+PCC, Pittsburgh Chess Club
+RBC, Rebecca Chess Club
+SHK, Shining Knights Chess Club
+SHP, Shippensburg University Chess Club
+SJI, South Jersey Innovation Center
+SLC, Southern Lehigh Chess Club
+TRB, Tri-Bridges Chess Club
+WCH, West Chester Chess Club
+WOC, West Orange Chess Club
+YCC, York Chess Club

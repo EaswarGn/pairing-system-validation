@@ -1,0 +1,50 @@
+SwissSys Standings. CCA_CHI22: Under 1900-3 (Standings (no tiebrk))
+#	Name	Rating	Team	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Total	
+1	Louis Cedeno	1880		W35	~11						 1.0	
+2	Emmett Madigan	1868		W36	~12						 1.0	
+3	Brent Lee Baxter	1860		W38	~13						 1.0	
+4	Jahaade Adams	1855		W34	~15						 1.0	
+5	Akshat Suresh	1853		W39	~17						 1.0	
+6	Bernard Louis Parham	1845		W40	~19						 1.0	
+7	Aitegin Akmatbekov	1821		W42	~14						 1.0	
+8	Alan Zheng	1808		W43	~20						 1.0	
+9	Eric Kennedy	1807		W44	~16						 1.0	
+10	Augusto Gutierrez	1800		W47	~18						 1.0	
+11	Gennadiy Reznikov	1800		W45	~1						 1.0	
+12	Alex Kong	1799		W46	~2						 1.0	
+13	Arjun Raman	1764		W26	~3						 1.0	
+14	Harvey Steven Hanke	1728		W27	~7						 1.0	
+15	Lorenzo Sampson	1708		X28	~4	H---		H---		H---	 1.0	
+16	Mathew Jiang	1695		W29	~9					H---	 1.0	
+17	Ryan Zhang	1676		W30	~5						 1.0	
+18	Ashwin Damaraju	1651		W31	~10						 1.0	
+19	Celina Zhou	1619		W32	~6						 1.0	
+20	Mason Wu	1583		W33	~8						 1.0	
+21	Adam Forrest Stafford	1855		D23	~24						 0.5	
+22	Stephen J Jennings	1844		D24	~23						 0.5	
+23	Sanjana Ramesh	1705		D21	~22						 0.5	
+24	Vidyuth Kamesh	1684		D22	~21						 0.5	
+25	James Asaro	1898		U---	~36						 0.0	
+26	Amarjargal Ganbaatar	1889		L13	~38						 0.0	
+27	Jd Winick	1879		L14	~39						 0.0	
+28	Senthil Sundaram	1857		F15	U---						 0.0	
+29	Jithu Sajeevan	1847		L16	~42						 0.0	
+30	Jeremy L Ashley	1839		L17	~40						 0.0	
+31	Lefan Yang	1838		L18	~44						 0.0	
+32	Julio Jose Candanedo	1822		L19	~43						 0.0	
+33	Trevor Robertson	1800		L20	~45						 0.0	
+34	Oliver Smirnov	1793		L4	~46						 0.0	
+35	Nikhil Murugan	1762		L1	~47						 0.0	
+36	Saad Al-hariri	1727		L2	~25						 0.0	
+37	James Zhang	1716		U---	U---						 0.0	
+38	Sean Richard Mccarter	1713		L3	~26						 0.0	
+39	Greg Zhou	1697		L5	~27						 0.0	
+40	Alice Chovanec	1695		L6	~30						 0.0	
+41	Siddarth Sriaditya Kunapuli	1624		U---	U---						 0.0	
+42	J W R Terry	1618		L7	~29						 0.0	
+43	Aidan Christopher Kolar	1600		L8	~32					H---	 0.0	
+44	Koen Pazdan Beaver	1584		L9	~31						 0.0	
+45	Inbhavenkat Sundara Rajan	1517		L11	~33						 0.0	
+46	Henderson Johnson	1500		L12	~34						 0.0	
+47	Shaina Berman	1274		L10	~35						 0.0	
+

@@ -1,0 +1,23 @@
+Pairings for Round 5. CCA_WO22: Under 1200-3
+Bd	#	Res	White	#	Res	Black	
+675	10	0 	Louis Zhang (1130 3.5)	5	1 	Felix De La Cruz (1160 4.0)	
+676	2	½ 	Arihant Deva (1166 3.0)	7	½ 	Onyedikachi Osondu (1136 3.0)	
+677	6	½ 	Raymond Ouyang (1136 3.0)	12	½ 	Jason Cheung (1115 3.0)	
+678	15	0 	Dev Menon Madhavan (1089 2.5)	8	1 	Hemanth Samayamantri (1134 2.5)	
+679	31	1 	Drake Shi ( 970 2.5)	3	0 	Eric Zheng (1163 2.0)	
+680	25	0 	Silence Ezra Karl (1015 2.0)	9	1 	Leo Berkson (1132 2.0)	
+681	11	1 	Philip Lesko (1126 2.0)	27	0 	Anastasia Catelli (1004 2.0)	
+682	26	1 	Atharv Bapuram (1005 2.0)	14	0 	Shan Ramesh Lee (1101 2.0)	
+683	33	0 	Fahad Anwar ( 894 2.0)	19	1 	Winston Chen (1058 2.0)	
+684	4	1 	Bruce A Shull (1162 1.5)	37	0 	Zen Jiang ( 748 2.0)	
+685	21	0 F	Kevin Arroyo (1053 1.5)	13	1 X	Kyle Wu (1107 1.5)	
+686	1	1 	Daniel Smith (1170 1.0)	35	0 	Vihaan Jambudi ( 784 1.5)	
+687	20	1 	Lily Wang (1055 1.0)	28	0 	Aswath Madhan (1003 1.0)	
+688	23	0 	Srihari Shankar (1047 1.0)	30	1 	Mukund Sriram ( 971 1.0)	
+689	34	1 	Isaac Christopher Daley ( 882 1.0)	24	0 	James Lamb (1017 0.0)	
+	36	1 	Bhanusri Durbhakula ( 757 0.0)			BYE	
+	17	½ 	Richardson Jingsi Qiao (1065 3.0)			BYE	
+	16	½ 	Ali Hawkes (1081 4.0)			BYE	
+	29	½ 	Douglas Schwartz ( 987 2.5)			BYE	
+	18	½ 	Eric Liu (1062 3.0)			BYE	
+

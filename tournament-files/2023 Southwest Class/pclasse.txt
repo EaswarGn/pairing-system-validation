@@ -1,0 +1,26 @@
+Pairings for Round 7. CCA_SWCC23: Class E Merged
+Bd	#	Res	White	#	Res	Black	
+208	2	1 	Logan White (1168 6.0)	44	0 	Christian Lee Deluca (unr. 4.5)	
+209	10	1 	Zachary Aaron Gawiser (1009 4.5)	8	0 	Pradeep Naga (1019 5.0)	
+210	14	1 	Oliver Wang ( 970 4.5)	6	0 	Parker Myers (1026 4.5)	
+211	13	1 	Andres Vargas ( 986 4.0)	3	0 	Aarav Prasad Dinesh (1166 4.0)	
+212	4	1 	Michael Zhang (1067 4.0)	16	0 	Mukund Sharma ( 937 4.0)	
+213	9	0 	Jaylen Jeremiah Marshall (1016 4.0)	11	1 	Sarvesh Nair ( 997 4.0)	
+214	18	0 	Aiden Zhu ( 935 4.0)	5	1 	Pardhu Sai Kanaparthi (1046 3.5)	
+215	12	1 	Rithik Jayaram ( 986 3.5)	41	0 	Emile Morgan ( 355 3.5)	
+216	24	½ 	Kyrene Zhang ( 799 3.5)	28	½ 	David Epstein ( 715 3.5)	
+217	1	1 	Ishaan Ikkurthi (1183 3.0)	33	0 	Myles H Stewart ( 650 3.0)	
+218	32	0 	Samantha Kathelynn Davis ( 656 3.0)	21	1 	Leo Olivera Jackson ( 864 3.0)	
+219	34	1 	Bhuvi Naga ( 601 3.0)	23	0 	Andrew Wang ( 819 3.0)	
+220	30	1 	Mark A* Vargas ( 712 3.0)	38	0 	Vincent He ( 490 3.0)	
+221	36	0 	Sumeet Barai ( 553 3.0)	31	1 	Devdatta Kashelkar ( 670 3.0)	
+222	25	1 	Atharv Katdare ( 796 2.5)	7	0 	Alan Wolfskill (1020 2.5)	
+223	15	1 	Saanvika C Kalavagunta ( 941 2.0)	19	0 	William H, Jr Lawrence ( 901 2.5)	
+224	47	0 	Ashley White (unr. 2.0)	40	1 	Craig Carson ( 426 2.5)	
+225	17	1 	Bhanusri Durbhakula ( 935 2.0)	35	0 	Rheya Sumeet Barai ( 567 2.0)	
+226	27	1 	Anushka Borse ( 754 2.0)	43	0 	Emanuel Xavier Claudio-loiz (unr. 1.5)	
+227	37	0 	Micah Kheraj ( 516 1.0)	46	1 	Ethan Todd Stanich (unr. 1.5)	
+228	45	0 	Venkat Kiran Kumar Relangi (unr. 1.0)	48	1 	Luca Yang (unr. 1.0)	
+	26	0 	Douglas W Jackson ( 765 3.0)			BYE	
+	39	½ 	Sue Samuels ( 447 2.0)			BYE	
+

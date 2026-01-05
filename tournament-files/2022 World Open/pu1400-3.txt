@@ -1,0 +1,20 @@
+Pairings for Round 5. CCA_WO22: Under 1400-3
+Bd	#	Res	White	#	Res	Black	
+659	2	0 	Dillan*** Hobby (1385 3.0)	17	1 	Saharsh Santosh (1294 4.0)	
+660	25	1 	Siddharth Santosh (1223 3.0)	3	0 	Mathew J Brady (1371 3.0)	
+661	6	½ 	Tikila Nichols (1356 3.0)	28	½ 	Andrew Huang (1203 3.0)	
+662	19	1 	Austin* Wang (1284 3.0)	31	0 	Ryan Guo (1129 3.0)	
+663	7	0 	Venkata Sesha Sai Ab Ayyadevara (1342 2.5)	27	1 	Bryan Tan (1220 2.5)	
+664	4	0 	Qianping Jiang (1369 2.0)	32	1 	Carter William Gill (1007 2.5)	
+665	15	½ 	Parth Raha (1305 2.0)	5	½ 	Ilirjana Bezhani (1363 2.0)	
+666	8	1 	Willie M Seymour (1339 2.0)	22	0 	Sophia Ziyan Cheng (1260 2.0)	
+667	12	1 	Joshua Chapman (1333 2.0)	33	0 	Lucia Huang ( 995 2.0)	
+668	24	0 	Alice Shen (1232 2.0)	13	1 	Kushagra Bhargava (1329 2.0)	
+669	23	1 	Hashem Zahedipour (1255 1.5)	34	0 	Daniel Merkh ( 853 2.0)	
+670	14	0 	Ivo Anusic (1314 1.5)	18	1 	Timothy Parnell Callahan (1285 1.5)	
+671	9	0 	Terrain Wu (1338 1.0)	16	1 	Eli Assa (1295 1.0)	
+672	21	0 	Ari Bershak (1266 1.0)	20	1 	Ya He (1267 1.0)	
+673	26	0 	Johnson Weng (1223 0.5)	30	1 	Ateeq As Panjwani (1143 1.0)	
+	10	1 	Matt B Thomas (1337 0.0)			BYE	
+	11	½ 	Kevin Neil Ahumada (1333 3.5)			BYE	
+

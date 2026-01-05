@@ -1,0 +1,86 @@
+[Prizes]
+Percentage awarded=100
+Limit awards=0
+Maximum for unrated=100
+Place prize count=10
+Class Categories=3
+Class prizes=3
+Upset prizes=0
+Clear winner bonus=0
+Include withdrawn=0
+Grand Prix style=0
+[Place prize amount]
+Place1=0
+Place2=0
+Place3=0
+Place4=0
+Place5=0
+Place6=0
+Place7=0
+Place8=0
+Place9=0
+Place10=0
+[Class prize amount]
+Category1Place1=0
+Category1Place2=0
+Category2Place1=0
+Category2Place2=0
+Category1Place3=0
+Category1Place4=0
+Category2Place3=0
+Category2Place4=0
+Category3Place1=0
+Category3Place2=0
+Category3Place3=0
+Category3Place4=0
+[Class rating tops]
+Category1=799
+Category2=599
+Category3=399
+[Class rating bottoms]
+Category1=1
+Category2=1
+Category3=1
+[Class names]
+Category1=U800
+Category2=U600
+Category3=U400
+[Other]
+Unrated in top class=0
+[Place prize description]
+Place1=1st Place
+Place2=2nd Place
+Place3=3rd Place
+Place4=4th Place
+Place5=5th Place
+Place6=6th Place
+Place7=7th Place
+Place8=8th Place
+Place9=9th Place
+Place10=10th Place
+[Class prize description]
+Category1Place1=1st Place U800
+Category1Place2=2nd Place U800
+Category2Place1=1st Place U600
+Category2Place2=2nd Place U600
+Category1Place3=3rd Place U800
+Category1Place4=
+Category2Place3=3rd Place U600
+Category2Place4=
+Category3Place1=1st Place U400
+Category3Place2=
+Category3Place3=
+Category3Place4=4th Place Unrated
+[Class prize priorities]
+Category1Place1=101
+Category1Place2=102
+Category2Place1=104
+Category2Place2=105
+Category1Place3=103
+Category1Place4=100
+Category2Place3=106
+Category2Place4=100
+Category3Place1=107
+Category3Place2=100
+Category3Place3=100
+Category3Place4=107

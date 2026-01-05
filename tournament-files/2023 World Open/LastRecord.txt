@@ -1,0 +1,14 @@
+Transaction ID: Cash
+Invoice Number: MN230630-181203
+Total Amount: $ 350.00
+Tournament: 2023 World Open, top 6 sections
+Section: Under 2200 - (5 Day) ($350.00)
+Player Name: Roberto A Dominguez
+USCF Memberships: None
+USCF ID: 12528700
+FIDE ID: 2038480
+1/2 point Bye request: Round: 1
+Zero point Bye request: None
+Paid By: Bill Buklis
+PayPal/Credit Card Fee Contribution: 0.00
+

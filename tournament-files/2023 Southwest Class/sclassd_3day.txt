@@ -1,0 +1,16 @@
+SwissSys Standings. CCA_SWCC23: Class D (1100-1399)-3 (Standings (no tiebrk))
+#	Name	ID	Rating	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Total	
+1	Suraj Boinpally	16356773	1389	W9 (b)	~3 (w)						 1.0	
+2	Aditya Kotaru	15453455	1378	W11 (w)	~4 (b)						 1.0	
+3	Amogh Akella	30066572	1277	W12 (w)	~1 (b)						 1.0	
+4	Mingle Daniel Li	30351225	1201	W13 (w)	~2 (w)						 1.0	
+5	John W Kendrick	12740110	1376	D7 (b)	~8 (w)						 0.5	
+6	Saatvik Agarwal	30138317	1274	D8 (b)	~7 (w)						 0.5	
+7	Arya Roy Choudhury	30381329	1155	D5 (w)	~6 (b)						 0.5	
+8	Anurag Roy Choudhury	30404842	1092	D6 (w)	~5 (b)						 0.5	
+9	Afaf Bouardi	16091921	1200	L1 (w)	~12 (b)						 0.0	
+10	Sofia Rios-Ocampo	30424110	1187	U---	U---						 0.0	
+11	Chad Bostick	30604715	1169	L2 (b)	~13 (w)						 0.0	
+12	Shravan Balaji	16753506	1150	L3 (b)	~9 (w)						 0.0	
+13	Isaiah Felix	17111796	1006	L4 (b)	~11 (b)						 0.0	
+

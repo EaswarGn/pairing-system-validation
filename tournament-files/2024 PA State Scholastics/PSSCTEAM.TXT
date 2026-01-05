@@ -1,0 +1,192 @@
+ABNMS, Abington Middle School
+ABNHS, Abington Senior High School
+ASJNS, Abram S Jenks School
+PLMBS, Academy at Palumbo
+GRFLS, Albert M Greenfield School
+HMLTS, Andrew Hamilton School
+AFRKS, Anne Frank Elementary School
+ARBWS, Archbishop Walsh Academy
+ARRWS, Arrowhead Elementary School
+BLCYS, Bala Cynwyd Middle School
+BLDMS, Baldi Middle School
+BTWMS, Beaty-Warren Middle School
+BFRKS, Benjamin Franklin High School
+BLTMS, Boys Latin of Philadelphia Charter Middle School
+BYLTS, Boys Latin of Philadelphia Charter School
+BRADS, Bradford Area High School
+BRDVS, Bridge Valley Elementary School
+BRENS, Bright Endeavors Now
+CLVCS, Calvary Christian Academy
+CHCAS, Camp Hill Christian Academy
+CYHES, Cayuga Heights Elementary School
+CNTES, Central Elementary School
+CNTHS, Central High School
+CHFDS, Chaddsford Elementary
+CFPMS, Charles F Patton Middle School
+CCCHS, Christopher Columbus Charter School
+CLMES, Claymont Elementary School
+COMWS, Commonwealth Charter Academy
+CNSTS, Conestoga High School
+CNRNS, Council Rock High School North
+CNRKS, Council Rock High School South
+CMVLS, Cumberland Valley High School
+DNBHS, Daniel Boone Area High School
+DNGES, Downingtown East High School
+DNGMS, Downingtown Middle School
+DTNKS, Dutch Neck Elementary School
+GLVLS, Eagleville Elementary School
+EGSES, East Goshen Elementary School
+ESTRS, East Stroudsburg South High School
+EVNES, East Vincent Elementary School
+EWRES, East Ward Elementary School
+ELCMS, Eastern Lebanon County Middle School
+ELMAS, Elmwood Academy
+EMMHS, Emmaus High School
+EPHRS, Ephrata High School
+EPINS, Ephrata Intermediate School
+EPSCS, Episcopal Academy
+ERDHS, Erdenheim Elementary School
+EXTNS, Exton Elementary School
+FRTZS, Floyd C Fretz Middle School
+FGLES, Fogelsville Elementary School
+FACTS, Folk Arts-Cultural Treasures Charter School
+FTCMS, Fort Couch Middle School
+FRNES, Franklin Elementary School
+FJJNS, Fred J Jaindl Elementary School
+FRICS, French International School of Philadelphia Lower School
+FRIUS, French International School of Philadelphia Upper School
+FRSLS, Friends Select School
+FGTTS, Fugett Middle School
+CHSES, G W Carver High School of Engineering & Science
+GRNTS, Garnet Valley Elementary School
+GNVHS, Garnet Valley High School
+GNVMS, Garnet Valley Middle School
+MCLLS, General George A McCall Elementary and Middle School
+GWSHS, George Washington High School
+GRMAS, Germantown Academy
+GRMFS, Germantown Friends School
+GTTBS, Gettysburg Area High School
+GLMNS, Gilman School
+GAMPS, Girard Academic Music Program
+GLDES, Gladwyne Elementary School
+GDHPS, Good Hope Middle School
+GRVHS, Great Valley High School
+GRVMS, Great Valley Middle School
+GRVLS, Green Valley Elementary School
+GLPES, Gulph Elementary School
+HMPDS, Hampden Elementary School
+HMPMS, Hampton Middle School
+HRRTS, Harriton High School
+HRTES, Hartshorn Elementary School
+HRSMS, Hershey Middle School
+HGLES, Highland Elementary School
+HLLMS, Holland Middle School
+HGHHS, Houghton Area Homeschool
+INLES, Indian Lane Elementary School
+ITHNS, Ithan Elementary School
+JJNES, James Johnson Elementary School
+MSTRS, Julia R Masterman School
+KDMES, Kathryn D Markley Elementary School
+LKWES, Lakewood Elementary School
+LMNTS, Lancaster Mennonite High School
+LHSHS, Laurel Highlands Senior High School
+LTRES, Letort Elementary School
+LWSHS, Lewisburg Area High School
+LBLES, Liberty Bell Elementary School
+LNVLS, Lionville Middle School
+LMRNS, Lower Merion High School
+LZCCC, Luzerne County Community College
+MNTHS, Manheim Township High School
+MRSCS, Marsh Creek Sixth Grade Center
+MRSES, Marshall Elementary School
+MRSMS, Marshall Middle School
+MRTES, Martic Elementary
+HOWES, Mary C Howse Elementary School
+MSTCS, MaST Community Charter School
+MCSCS, Mathematics, Civics & Science Charter School
+MLLMS, Mellon Middle School
+MRNES, Merion Elementary School
+MTHHS, Methacton High School
+MPKES, Mifflin Park Elementary School
+MLCES, Mill Creek Elementary School
+MTLES, Mount Lebanon Elementary School
+MTLMS, Mount Lebanon Montessori School
+MTPES, Mount Pleasant Elementary School
+MNVMS, Mountain View Middle School
+NVPRS, Nativity Preparatory School of Wilmington
+NCMBS, New Cumberland Middle School
+NEGLS, New Eagle Elementary School
+NWOXS, New Oxford High School
+NWXMS, New Oxford Middle School
+NASHS, North Allegheny Senior High School
+NPNNS, North Penn High School
+NSTES, North Star Elementary School
+NESTS, Northeast High School
+OAKSS, Oaks Elementary School
+ODYSS, Odyssey Charter School
+OJRMS, Owen J Roberts Middle School
+PRKES, Parkway Manor Elementary School
+PRCMS, Peirce Middle School
+PNALS, Penn Alexander School
+PNVLS, Penn Valley Elementary School
+PNBHS, Pennsbury High School
+PRLMS, Perelman Jewish Day School
+PCKVS, Pickering Valley Elementary School
+PMEHS, Pocono Mountain East High School
+PMEJS, Pocono Mountain East Junior High School
+POCPS, Pocopson Elementary School
+QRRYS, Quarry Hill Elementary School
+RDNRS, Radnor Elementary School
+RDNMS, Radnor Middle School
+RAPCS, Richard Allen Preparatory Charter School
+RJWPS, Robert J Wilf Preschool and Kindergarten @ Kaiserman JCC
+MTCHS, S Weir Mitchell Elementary School
+SNDMS, Sandy Run Middle School
+SNKCS, Sankofa Freedom Academy Charter School
+SCVMS, Saucon Valley Middle School
+SCLDS, Science Leadership Academy
+SCHLS, School Street Elementary
+SHSDS, Shady Side Academy Senior School
+SHLCS, Shalom Christian Academy
+SHMCS, Shamona Creek Elementary School
+SHIPU, Shippensburg University
+SSPES, Silver Spring Elementary School
+SKPES, Skippack Elementary School
+SKYUS, Skyview Upper Elementary School
+STHES, South Elementary School
+SFTIS, South Fayette Intermediate School
+SLHHS, Southern Lehigh High School
+SLHIS, Southern Lehigh Intermediate School
+SLHMS, Southern Lehigh Middle School
+SPRFS, Spring-Ford 5-6 Grade Center
+SPRMS, Springhouse Middle School
+SCHAS, Springside Chestnut Hill Academy
+SPMNS, Springton Manor Elementary School
+SANES, St Anne's Episcopal School
+STJOS, St Joseph's Prepatory School
+STCRS, Stony Creek Elementary School
+STRES, Streams Elementary School
+SSXMS, Sussex Montessori School
+INDPS, The Independence School
+MLCAS, The Main Line Classical Academy
+PHILS, The Philadelphia School
+WRKPS, The Workshop School
+TWHLS, Tower Hill School DE
+TWHPS, Tower Hill School PA
+TRDYS, Tredyffrin/Easttown Middle School
+UNAMS, Unami Middle School
+UNNHS, Unionville High School
+UPRVS, Upper Providence Elementary School
+VLFMS, Valley Forge Middle School
+VTMES, Veterans Memorial Elementary School
+VILGS, Village School
+WLFES, Wallingford Elementary School
+WRNHS, Warren Area High School
+WBRES, West Bradford Elementary School
+WCEHS, West Chester East High School
+WVNCS, West Vincent Elementary School
+WHLES, William H Loesche Elementary School
+MERES, William M Meredith School
+WNTHS, Winchester Thurston School
+WNDCS, Winding Creek Elementary School
+WDLNS, Woodlynde School

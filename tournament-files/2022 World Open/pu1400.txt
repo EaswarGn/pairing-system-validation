@@ -1,0 +1,62 @@
+Pairings for Round 9. CCA_WO22: Under 1400 Merged
+Bd	#	Res	White	#	Res	Black	
+562	27	   	Sebastien D'Stair (1359 8.0)	7	   	Rees Thomas (1396 7.0)	
+563	6	   	Caleb Landau (1396 6.0)	133	   	Amin Justin Armat ( 925 6.5)	
+564	26	   	Daniel L Babakhan (1362 6.0)	84	   	Shenghao Yuan (1250 6.0)	
+565	105	   	Andrew Huang (1203 6.0)	33	   	Anthony Lopresto (1345 6.0)	
+566	39	   	Anshu Seetharaman (1341 6.0)	93	   	Andrew Walden (1230 6.0)	
+567	95	   	Laixian Wan (1224 6.0)	67	   	Saharsh Santosh (1294 6.0)	
+568	4	   	Trent L Williams (1397 5.5)	48	   	Kevin Neil* Ahumada (1333 5.5)	
+569	66	   	Adam Hinton (1294 5.5)	9	   	Craig Hinkley (1391 5.5)	
+570	85	   	Jeremy Zhang (1247 5.5)	29	   	Tony Delabre (1357 5.5)	
+571	34	   	Joshua Smullens (1345 5.5)	64	   	Angelina Verma (1296 5.5)	
+572	44	   	Akshay Rajagopal (1337 5.5)	90	   	Benjamin Shapiro (1239 5.5)	
+573	3	   	Thomas DeDona (1397 5.0)	106	   	Saadhanaa Ashok (1202 5.5)	
+574	91	   	Yifei Zhou (1234 5.0)	21	   	Mathew J Brady (1371 5.0)	
+575	96	   	Siddharth Santosh (1223 5.0)	37	   	Maddox Jackson (1341 5.0)	
+576	75	   	Austin*** Wang (1284 5.0)	52	   	Everitt Ros Clark (1327 5.0)	
+577	109	   	Shyla Rana (1183 5.0)	56	   	Sarayu Thandra (1312 5.0)	
+578	134	   	Joey Nepravishta ( 891 5.0)	63	   	James M Weisz (1300 5.0)	
+579	18	   	Kiani Walker (1378 4.5)	58	   	Justin* Dehorty (1308 4.5)	
+580	19	   	Michael Pau Irvin (1375 4.5)	121	   	Ryan Guo (1129 4.5)	
+581	83	   	Hashem* Zahedipour (1255 4.5)	28	   	Aaradhya Nitin Patil (1359 4.5)	
+582	60	   	Archer D Berenson (1304 4.5)	30	   	Tikila Nichols (1356 4.5)	
+583	92	   	Alice Shen (1232 4.5)	35	   	Alden Moore (1343 4.5)	
+584	104	   	Winston Cheung (1204 4.5)	36	   	Venkata Sesha Sai Ab Ayyadevara (1342 4.5)	
+585	41	   	Willie M Seymour (1339 4.5)	127	   	Carter William Gill (1007 4.5)	
+586	50	   	Kushagra Bhargava (1329 4.5)	122	   	Will Hutchins (1118 4.5)	
+587	123	   	Giorgi Temo Shinjiashvili (1105 4.5)	55	   	Walter H.j Mcdonald (1313 4.5)	
+588	89	   	Daniel St Schreck (1241 4.0)	15	   	Daniel Liu (1381 4.0)	
+589	98	   	Angus Smith Duncan (1222 4.0)	16	   	Stan Wang (1379 4.0)	
+590	23	   	Qianping Jiang (1369 4.0)	94	   	Everett C Pashley (1224 4.0)	
+591	118	   	Alexander J Clifton (1159 4.0)	31	   	Robert John Dewitt Campbell (1350 4.0)	
+592	103	   	Lenon C Murray (1206 4.0)	59	   	Parth Raha (1305 4.0)	
+593	100	   	Bryan Tan (1220 4.0)	81	   	Sophia Ziyan Cheng (1260 4.0)	
+594	111	   	Albert Li (1181 3.5)	10	   	Bennie Porter Jr (1387 3.5)	
+595	22	   	Thihansa O Waduthanthree (1370 3.5)	102	   	Lucas Dou (1209 3.5)	
+596	24	   	Frank L White (1368 3.5)	101	   	Yibei Xiao (1215 3.5)	
+597	119	   	Grace Siqi Yang (1153 3.5)	70	   	Zining Fan (1287 3.5)	
+598	116	   	Leonardo Dou (1166 3.5)	76	   	Yunhui Ma (1283 3.5)	
+599	129	   	Lucia Huang ( 995 3.5)	79	   	Ya He (1267 3.5)	
+600	126	   	Mark Joseph Henderson (1043 3.5)	87	   	Todd A Yilk (1244 3.5)	
+601	99	   	Abraham V Rodriguez (1220 3.5)	114	   	Ephraim* Schafli (1178 3.5)	
+602	20	   	Andrew Lott (1372 3.0)	77	   	Dani Kibblewhite  (1280 3.0)	
+603	38	   	Jose-M G Mirasol (1341 3.0)	110	   	Miah Guo (1182 3.0)	
+604	80	   	Ari Bershak (1266 3.0)	40	   	Jay Serice (1339 3.0)	
+605	46	   	Matt B* Thomas (1337 3.0)	124	   	Sahil Shivakumar (1086 3.0)	
+606	128	   	Ely Feldman (1006 3.0)	69	   	Luis J Vasquez (1288 3.0)	
+607	32	   	Lucca Stefano Palacios Zamalloa (1350 2.5)	53	   	Nicodemus Njuguna (1322 2.5)	
+608	112	   	Sahana Ramesh (1180 2.5)	51	   	James N Bonastia (1327 2.5)	
+609	135	   	Willie Hubbard ( 865 2.0)	107	   	Steven L Baer (1200 2.0)	
+610	136	   	Daniel Merkh ( 853 2.0)	131	   	Robert Allen ( 940 2.0)	
+611	132	   	Winston Huan Wang ( 931 1.5)	125	   	Eric S Simon (1048 1.5)	
+	130	½ 	Samuel Laserson ( 965 3.0)			BYE	
+	117	½ 	Isaac Hart Statz (1160 2.5)			BYE	
+	8	½ 	Pamil Jain (1392 5.0)			BYE	
+	61	0 	Christophe Burger (1300 4.0)			BYE	
+	68	½ 	Yicong Li (1288 4.0)			BYE	
+	88	½ 	Daisy Yuen (1243 3.5)			BYE	
+	138	0 	Nayib Alej* Kuncar (unr. 4.0)			BYE	
+	54	½ 	Ivo Anusic (1314 3.0)			BYE	
+	43	0 	Terrain* Wu (1338 2.0)			BYE	
+

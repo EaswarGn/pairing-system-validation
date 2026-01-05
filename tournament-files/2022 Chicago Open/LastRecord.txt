@@ -1,0 +1,14 @@
+Transaction ID: 63736941853
+Invoice Number: 220527-216503
+Total Amount: $ 250.00
+Tournament: 2022 Chicago Open
+Section: Under 2300 - (2 Day) ($250.00)
+Player Name: Joseph Truelson
+USCF Memberships: None
+USCF ID: 14688723
+FIDE ID: 30934060
+1/2 point Bye request: None
+Zero point Bye request: None
+Paid By: Joseph Truelson
+PayPal/Credit Card Fee Contribution: 0.00
+

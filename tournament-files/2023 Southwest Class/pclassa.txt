@@ -1,0 +1,38 @@
+Pairings for Round 7. CCA_SWCC23: Class A Merged
+Bd	#	Res	White	#	Res	Black	
+72	2	½ 	Oscar Wang (1956 5.5)	63	½ 	Advay Singi (1701 5.0)	
+73	34	1 	Serena Yuan (1782 4.5)	4	0 	Ethan Yizhe Wang (1905 4.5)	
+74	30	0 	Shaurya Mazumdar (1788 4.5)	16	1 	Kabir Ahmed (1845 4.5)	
+75	22	½ 	Michael Franco (1802 4.5)	35	½ 	Kylie Zhang (1782 4.5)	
+76	56	½ 	Christian Karlseng (1724 4.5)	1	½ 	Jack Grills (1984 4.0)	
+77	5	1 	Tianjun Chen (1884 4.0)	33	0 	Lev Shangin (1783 4.0)	
+78	23	1 	Roman Nicholas Navarro (1801 4.0)	6	0 	Thirupathy Ramanathan (1880 4.0)	
+79	8	1 	Tony Zhou (1862 4.0)	36	0 	Michelle Zhang (1779 4.0)	
+80	40	1 	Samuel Gu (1770 3.5)	3	0 	Richard Sansing (1917 3.5)	
+81	31	1 X	Greg Zhou (1788 3.5)	7	0 F	Colin Wei (1863 3.5)	
+82	17	½ 	Justin Shandong Shan He (1832 3.5)	27	½ 	Sean Keit Sommers (1792 3.5)	
+83	64	1 	Benjamin Munro Austin (1700 3.5)	20	0 	Sudeep Vadderaju (1808 3.5)	
+84	11	1 	Ryan K Blackman (1853 3.0)	65	0 	Vishnu Chetlapalli (1699 3.5)	
+85	57	0 	Jingtu Oscar Li (1724 3.0)	10	1 	Owen Yuan (1855 3.0)	
+86	32	1 	Amay Babel (1783 3.0)	45	0 	Daniel R Mattson (1756 3.0)	
+87	38	½ 	Devin Sanjay Martins (1774 3.0)	50	½ 	Mohit Sreejan Bayyarapu (1743 3.0)	
+88	9	½ 	Siddharth Singh (1860 2.5)	73	½ 	Aarav Nambiar Thilop (1641 3.0)	
+89	66	½ 	Ayan Nagulapally (1699 2.5)	28	½ 	Saathvik Dasari (1790 2.5)	
+90	37	0 	Brian Xing Zhou (1776 2.5)	49	1 	Oscar Yihang Zhang (1745 2.5)	
+91	67	0 	Anish Krishnan (1698 2.5)	39	1 	Yue Chu (1772 2.5)	
+92	69	0 	Marcos Sambilay (1689 2.5)	42	1 	Jenny Qi (1762 2.5)	
+93	71	½ 	Robert C Hampton (1677 2.5)	44	½ 	Srikar Kandikayala (1756 2.5)	
+94	48	1 	Suhas Varma Indukuri (1746 2.5)	70	0 	Nandini Prakash (1688 2.5)	
+95	47	0 	Arush Sunil (1754 2.0)	58	1 	Ojas Aniket Tendulkar (1721 2.0)	
+96	52	½ 	Jacob Wu (1733 2.0)	61	½ 	Luis A Jimenez (1709 2.0)	
+97	43	½ 	Oliver Rana (1758 1.5)	54	½ 	Mike A Cronin (1725 1.5)	
+98	14	0 	Marvin Lee (1850 1.0)	60	1 	Ella Guo (1712 1.5)	
+	62	1 	Kanishk Mahesh (1707 1.5)			Please wait here	
+	29	½ 	Julian Trujillo (1790 3.0)			BYE	
+	18	½ 	Oliver Hsiao (1828 2.5)			BYE	
+	25	½ 	George Kvakovszky (1800 3.5)			BYE	
+	68	0 	Oliver Ohly (1694 2.5)			BYE	
+	51	½ 	Mark Mettler (1733 3.0)			BYE	
+	46	½ 	Elizabeth Riley Braddy (1754 3.5)			BYE	
+	21	½ 	Saharsh Santosh (1803 3.5)			BYE	
+

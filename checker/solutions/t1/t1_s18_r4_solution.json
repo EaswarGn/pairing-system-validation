@@ -1,0 +1,273 @@
+{
+    "Sections": [
+        {
+            "Section name": "t1_s18_r4",
+            "Type": 0,
+            "Number of players": 17,
+            "Number of teams": 3,
+            "Rounds paired": 4,
+            "Rounds played": 3,
+            "Regular": true,
+            "Rapid": false,
+            "Blitz": false,
+            "Acceleration": 0,
+            "Use team pairings": true,
+            "Team cut": 4,
+            "Players": [
+                {
+                    "Pair number": 1,
+                    "Name": "Mccoy, George Leo",
+                    "Rating": 1891,
+                    "Results": [
+                        "+;11;B",
+                        "=;4;W",
+                        "=;16;B",
+                        "~;3;B"
+                    ]
+                },
+                {
+                    "Pair number": 2,
+                    "Name": "Ganbaatar, Amarjargal",
+                    "Rating": 1889,
+                    "Team": "GANBAT",
+                    "Results": [
+                        "+;12;W",
+                        "=;14;B",
+                        "-;3;W",
+                        "~;10;B"
+                    ]
+                },
+                {
+                    "Pair number": 3,
+                    "Name": "Winick, Jd*",
+                    "Rating": 1879,
+                    "Results": [
+                        "+;13;B",
+                        "+;5;W",
+                        "+;2;B",
+                        "~;1;W"
+                    ]
+                },
+                {
+                    "Pair number": 4,
+                    "Name": "Wijetunge, Ivan",
+                    "Rating": 1858,
+                    "Team": "KALWIJ",
+                    "Results": [
+                        "B;0;-",
+                        "=;1;B",
+                        "=;14;W",
+                        "~;16;W"
+                    ]
+                },
+                {
+                    "Pair number": 5,
+                    "Name": "Stafford, Adam Forrest",
+                    "Rating": 1855,
+                    "Results": [
+                        "+;15;W",
+                        "-;3;B",
+                        "+;8;W",
+                        "~;14;B"
+                    ]
+                },
+                {
+                    "Pair number": 6,
+                    "Name": "Radhakrishnan, Sharath",
+                    "Rating": 1841,
+                    "Results": [
+                        "=;16;B",
+                        "-;17;W",
+                        "U;0;-",
+                        "~;12;B"
+                    ]
+                },
+                {
+                    "Pair number": 7,
+                    "Name": "Chirukandath, Aswin",
+                    "Rating": 1824,
+                    "Results": [
+                        "-;14;W",
+                        "=;12;B",
+                        "=;9;W",
+                        "~;8;B"
+                    ]
+                },
+                {
+                    "Pair number": 8,
+                    "Name": "Kennedy, Eric",
+                    "Rating": 1807,
+                    "Results": [
+                        "-;17;B",
+                        "+;13;W",
+                        "-;5;B",
+                        "~;7;W"
+                    ]
+                },
+                {
+                    "Pair number": 9,
+                    "Name": "Zafar, Mohammed H",
+                    "Rating": 1802,
+                    "Results": [
+                        "H;0;-",
+                        "-;16;W",
+                        "=;7;B",
+                        "~;13;W"
+                    ]
+                },
+                {
+                    "Pair number": 10,
+                    "Name": "Reznikov, Gennadiy*",
+                    "Rating": 1800,
+                    "Team": "SHAREZ",
+                    "Results": [
+                        "H;0;-",
+                        "H;0;-",
+                        "H;0;-",
+                        "~;2;W"
+                    ]
+                },
+                {
+                    "Pair number": 11,
+                    "Name": "David, George",
+                    "Rating": 1774,
+                    "Results": [
+                        "-;1;W",
+                        "+;15;B",
+                        "+;12;W",
+                        "~;17;B"
+                    ]
+                },
+                {
+                    "Pair number": 12,
+                    "Name": "Murugan, Nikhil",
+                    "Rating": 1762,
+                    "Results": [
+                        "-;2;B",
+                        "=;7;W",
+                        "-;11;B",
+                        "~;6;W"
+                    ]
+                },
+                {
+                    "Pair number": 13,
+                    "Name": "Fry, Logan Mark Jo",
+                    "Rating": 1726,
+                    "Results": [
+                        "-;3;W",
+                        "-;8;B",
+                        "+;15;W",
+                        "~;9;B"
+                    ]
+                },
+                {
+                    "Pair number": 14,
+                    "Name": "Zhang, James",
+                    "Rating": 1716,
+                    "Results": [
+                        "+;7;B",
+                        "=;2;W",
+                        "=;4;B",
+                        "~;5;W"
+                    ]
+                },
+                {
+                    "Pair number": 15,
+                    "Name": "Harrigan, Brian",
+                    "Rating": 1703,
+                    "Results": [
+                        "-;5;B",
+                        "-;11;W",
+                        "-;13;B",
+                        "B;-1;-"
+                    ]
+                },
+                {
+                    "Pair number": 16,
+                    "Name": "Trbojevic, George",
+                    "Rating": 1643,
+                    "Results": [
+                        "=;6;W",
+                        "+;9;B",
+                        "=;1;W",
+                        "~;4;B"
+                    ]
+                },
+                {
+                    "Pair number": 17,
+                    "Name": "Tumurkhuyag, Gerelt Od",
+                    "Rating": 1331,
+                    "Results": [
+                        "+;8;W",
+                        "+;6;B",
+                        "U;0;-",
+                        "~;11;W"
+                    ]
+                }
+            ],
+            "Teams": [
+                {
+                    "Pair number": 1,
+                    "Full name": "GANBAT",
+                    "Team code": "GANBAT"
+                },
+                {
+                    "Pair number": 2,
+                    "Full name": "KALWIJ",
+                    "Team code": "KALWIJ"
+                },
+                {
+                    "Pair number": 3,
+                    "Full name": "SHAREZ",
+                    "Team code": "SHAREZ"
+                }
+            ],
+            "Byes": [
+                {
+                    "Pair number": 4,
+                    "Round": 1,
+                    "Points": 1
+                },
+                {
+                    "Pair number": 9,
+                    "Round": 1,
+                    "Points": 0.5
+                },
+                {
+                    "Pair number": 10,
+                    "Round": 1,
+                    "Points": 0.5
+                },
+                {
+                    "Pair number": 10,
+                    "Round": 2,
+                    "Points": 0.5
+                },
+                {
+                    "Pair number": 10,
+                    "Round": 3,
+                    "Points": 0.5
+                },
+                {
+                    "Pair number": 15,
+                    "Round": 4,
+                    "Points": 1
+                }
+            ],
+            "Withdrawals": [
+                {
+                    "Pair number": 6,
+                    "Rounds withdrawn": [
+                        3
+                    ]
+                },
+                {
+                    "Pair number": 17,
+                    "Rounds withdrawn": [
+                        3
+                    ]
+                }
+            ]
+        }
+    ]
+}

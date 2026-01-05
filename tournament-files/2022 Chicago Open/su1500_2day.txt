@@ -1,0 +1,26 @@
+SwissSys Standings. CCA_CHI22: Under 1500-2 (Standings (no tiebrk))
+#	Name	Rating	Team	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Total	
+1	Lev Reyzin	1416		W20	W21	W5	H---	H---			 3.0	
+2	Aron Amram	1447		W9	W18	D3	~4				 2.5	
+3	Billy Marcelle Edwards	1429		W17	W16	D2	~5				 2.5	
+4	Charles O Esan	1386		D13	W14	W10	~2				 2.5	
+5	Max Villarreal	1485		W23	W8	L1	~3				 2.0	
+6	Oliver Rubenstein	1453		L16	W17	W13	~9				 2.0	
+7	Sam Allen Smith	1423	MCLSMI	W19	L10	W20	~12				 2.0	
+8	Deangelo Watkins	1395		W11	L5	W21	~10				 2.0	
+9	Evan Boettner	1363		L2	W22	W19	~6				 2.0	
+10	Emmanuel Pabustan	1307		W15	W7	L4	~8				 2.0	
+11	Justin Odisho	1138		L8	B---	W16	~13				 2.0	
+12	Temuulen Turbat	 998		B---	L13	X18	~7				 2.0	
+13	Michael Harris	1457		D4	W12	L6	~11				 1.5	
+14	Nader Rawshani	1424		L18	L4	W22	~17				 1.0	
+15	Steve Kuhlmann	1405		L10	L19	X23	~21				 1.0	
+16	Dylan Stein	1380		W6	L3	L11	~19				 1.0	
+17	Louis L Smith	1362		L3	L6	B---	~14				 1.0	
+18	Robert Lee Mcdonald	1347		W14	L2	F12	U---				 1.0	
+19	Andrew H Cook	1343		L7	W15	L9	~16				 1.0	
+20	Tamboura* Jackson	1320		L1	W23	L7	~22				 1.0	
+21	Michael Anthony Bauml	1298		W22	L1	L8	~15				 1.0	
+22	Andrzej Kadlubowski	1400		L21	L9	L14	~20				 0.0	
+23	Angelo  R Jackson	1387		L5	L20	F15	U---				 0.0	
+

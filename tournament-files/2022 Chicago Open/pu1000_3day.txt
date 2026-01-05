@@ -1,0 +1,28 @@
+Pairings for Round 2. CCA_CHI22: Under 1000-3
+Bd	#	Res	White	#	Res	Black	
+524	19	   	Phillip Schrode ( 796 1.0)	2	   	Michael Shelhart Sayers ( 992 1.0)	
+525	3	   	Ray Mingye Sun ( 969 1.0)	18	   	Albert Yang ( 818 1.0)	
+526	23	   	Nathan T Le ( 708 1.0)	4	   	Tigo Le ( 957 1.0)	
+527	5	   	Albert Chu ( 949 1.0)	22	   	Onyx Lo ( 718 1.0)	
+528	26	   	Jeffrey Elam ( 660 1.0)	6	   	Deborah Bowman ( 931 1.0)	
+529	7	   	Brian Hu ( 928 1.0)	36	   	Alyssa Jada Rodriguez ( 430 1.0)	
+530	9	   	Lucas Fahnoe ( 904 1.0)	43	   	Jarrod Schneider (unr. 1.0)	
+531	33	   	Adhrit Chavali ( 455 1.0)	10	   	Immanuel Zerega ( 896 1.0)	
+532	46	   	Josh Jeremey Yamamoto (unr. 1.0)	14	   	Brandon Simmons ( 851 1.0)	
+533	15	   	Anthony Codrea ( 851 1.0)	47	   	Christopher Kurtz (unr. 1.0)	
+534	50	   	Miguel Andrade (unr. 1.0)	16	   	Yusuf Ibrahim Bilgic ( 843 1.0)	
+535	42	   	Vivian Ahn ( 140 1.0)	12	   	Victoria Chen ( 875 0.5)	
+536	13	   	Florence Xu ( 864 0.5)	51	   	Jian Wu (unr. 0.5)	
+537	25	   	Kavya Ramesh ( 660 0.5)	38	   	Abigail Bowman ( 296 0.5)	
+538	37	   	Emily Jiarui Chung Zheng ( 429 0.5)	8	   	Shanu Sinha ( 905 0.0)	
+601	11	   	Aswath Madhan ( 887 0.0)	32	   	Darsh Mehta ( 457 0.0)	
+602	35	   	Adithya Karthik ( 434 0.0)	20	   	Nysa Ranjan ( 757 0.0)	
+603	21	   	Mythreyi Govindarajan ( 725 0.0)	34	   	Kain Pak ( 444 0.0)	
+604	39	   	Claire Lu ( 261 0.0)	24	   	Charlie Zhuang ( 683 0.0)	
+605	27	   	Varun Kamesh ( 609 0.0)	41	   	Suzanna Pashyan ( 168 0.0)	
+606	44	   	Uzair Qarni (unr. 0.0)	28	   	Samanth Biersdorf ( 549 0.0)	
+607	29	   	Neil Malpani ( 524 0.0)	45	   	John D Bowman (unr. 0.0)	
+608	48	   	Sharon Kwarteng (unr. 0.0)	30	   	Wilton Huang Wang ( 506 0.0)	
+609	31	   	George Zhuang ( 464 0.0)	49	   	Runzhe Cui (unr. 0.0)	
+	17	½ 	Purvi Menon ( 834 0.5)			BYE	
+

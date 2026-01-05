@@ -1,0 +1,343 @@
+{
+    "Sections": [
+        {
+            "Section name": "t4_s17_r1",
+            "Type": 0,
+            "Number of players": 30,
+            "Number of teams": 3,
+            "Rounds paired": 1,
+            "Rounds played": 0,
+            "Regular": true,
+            "Rapid": false,
+            "Blitz": false,
+            "Acceleration": 0,
+            "Use team pairings": true,
+            "Team cut": 4,
+            "Players": [
+                {
+                    "Pair number": 1,
+                    "Name": "Hunter, Nathan G",
+                    "Rating": 1398,
+                    "Results": [
+                        "~;16;W"
+                    ]
+                },
+                {
+                    "Pair number": 2,
+                    "Name": "Canfield, Michael",
+                    "Rating": 1382,
+                    "Results": [
+                        "~;17;B"
+                    ]
+                },
+                {
+                    "Pair number": 3,
+                    "Name": "Rhoads, James",
+                    "Rating": 1376,
+                    "Team": "SHIPU",
+                    "Results": [
+                        "~;18;W"
+                    ]
+                },
+                {
+                    "Pair number": 4,
+                    "Name": "Hoffman, William F",
+                    "Rating": 1352,
+                    "Results": [
+                        "~;19;B"
+                    ]
+                },
+                {
+                    "Pair number": 5,
+                    "Name": "Elias, Bradley J",
+                    "Rating": 1338,
+                    "Results": [
+                        "~;20;W"
+                    ]
+                },
+                {
+                    "Pair number": 6,
+                    "Name": "Zeiset, Brendan L",
+                    "Rating": 1330,
+                    "Results": [
+                        "~;21;B"
+                    ]
+                },
+                {
+                    "Pair number": 7,
+                    "Name": "Green, William J",
+                    "Rating": 1300,
+                    "Results": [
+                        "~;23;W"
+                    ]
+                },
+                {
+                    "Pair number": 8,
+                    "Name": "Weaver, Andrew P",
+                    "Rating": 1279,
+                    "Results": [
+                        "~;24;B"
+                    ]
+                },
+                {
+                    "Pair number": 9,
+                    "Name": "Govindarajula, Mur",
+                    "Rating": 1241,
+                    "Results": [
+                        "~;25;W"
+                    ]
+                },
+                {
+                    "Pair number": 10,
+                    "Name": "Kemble, Nash",
+                    "Rating": 1236,
+                    "Team": "SHIPU",
+                    "Results": [
+                        "~;26;B"
+                    ]
+                },
+                {
+                    "Pair number": 11,
+                    "Name": "Murugan, Akil K",
+                    "Rating": 1190,
+                    "Team": "SHIPU",
+                    "Results": [
+                        "~;27;W"
+                    ]
+                },
+                {
+                    "Pair number": 12,
+                    "Name": "Black, Samuel",
+                    "Rating": 1112,
+                    "Team": "SHIPU",
+                    "Results": [
+                        "~;28;B"
+                    ]
+                },
+                {
+                    "Pair number": 13,
+                    "Name": "Kuo, Nathan",
+                    "Rating": 1102,
+                    "Results": [
+                        "~;29;W"
+                    ]
+                },
+                {
+                    "Pair number": 14,
+                    "Name": "Collins, Joseph V",
+                    "Rating": 1086,
+                    "Results": [
+                        "~;30;B"
+                    ]
+                },
+                {
+                    "Pair number": 15,
+                    "Name": "Firlik, David",
+                    "Rating": 1066,
+                    "Results": [
+                        "B;0;-"
+                    ]
+                },
+                {
+                    "Pair number": 16,
+                    "Name": "Yosler, Nicholas R",
+                    "Rating": 1047,
+                    "Team": "SHIPU",
+                    "Results": [
+                        "~;1;B"
+                    ]
+                },
+                {
+                    "Pair number": 17,
+                    "Name": "Neiderhiser, Alex",
+                    "Rating": 1022,
+                    "Results": [
+                        "~;2;W"
+                    ]
+                },
+                {
+                    "Pair number": 18,
+                    "Name": "Huynh, Zachary C",
+                    "Rating": 1003,
+                    "Results": [
+                        "~;3;B"
+                    ]
+                },
+                {
+                    "Pair number": 19,
+                    "Name": "Sliker, Alexander J",
+                    "Rating": 983,
+                    "Results": [
+                        "~;4;W"
+                    ]
+                },
+                {
+                    "Pair number": 20,
+                    "Name": "Sperazza, Joseph J",
+                    "Rating": 979,
+                    "Results": [
+                        "~;5;B"
+                    ]
+                },
+                {
+                    "Pair number": 21,
+                    "Name": "Pugh, Nicholas M",
+                    "Rating": 932,
+                    "Team": "LZCCC",
+                    "Results": [
+                        "~;6;W"
+                    ]
+                },
+                {
+                    "Pair number": 22,
+                    "Name": "Aulenbacher, Joseph",
+                    "Rating": 932,
+                    "Team": "SHIPU",
+                    "Results": [
+                        "B;0;-"
+                    ]
+                },
+                {
+                    "Pair number": 23,
+                    "Name": "Bullington, Stuart",
+                    "Rating": 749,
+                    "Results": [
+                        "~;7;B"
+                    ]
+                },
+                {
+                    "Pair number": 24,
+                    "Name": "Sharma, Anand B",
+                    "Rating": 0,
+                    "Results": [
+                        "~;8;W"
+                    ]
+                },
+                {
+                    "Pair number": 25,
+                    "Name": "Masorti, Lucas",
+                    "Rating": 0,
+                    "Team": "PSU",
+                    "Results": [
+                        "~;9;B"
+                    ]
+                },
+                {
+                    "Pair number": 26,
+                    "Name": "Prodanets, Ivan",
+                    "Rating": 0,
+                    "Team": "PSU",
+                    "Results": [
+                        "~;10;W"
+                    ]
+                },
+                {
+                    "Pair number": 27,
+                    "Name": "Houston, Matthew C",
+                    "Rating": 0,
+                    "Results": [
+                        "~;11;B"
+                    ]
+                },
+                {
+                    "Pair number": 28,
+                    "Name": "Dorjsuren, Boldbaatar",
+                    "Rating": 0,
+                    "Results": [
+                        "~;12;W"
+                    ]
+                },
+                {
+                    "Pair number": 29,
+                    "Name": "Good, Todd",
+                    "Rating": 0,
+                    "Results": [
+                        "~;13;B"
+                    ]
+                },
+                {
+                    "Pair number": 30,
+                    "Name": "Lightcap, Luther",
+                    "Rating": 0,
+                    "Results": [
+                        "~;14;W"
+                    ]
+                }
+            ],
+            "Teams": [
+                {
+                    "Pair number": 1,
+                    "Full name": "SHIPU",
+                    "Team code": "SHIPU"
+                },
+                {
+                    "Pair number": 2,
+                    "Full name": "LZCCC",
+                    "Team code": "LZCCC"
+                },
+                {
+                    "Pair number": 3,
+                    "Full name": "PSU",
+                    "Team code": "PSU"
+                }
+            ],
+            "Byes": [
+                {
+                    "Pair number": 7,
+                    "Round": 5,
+                    "Points": 1
+                },
+                {
+                    "Pair number": 8,
+                    "Round": 4,
+                    "Points": 0.5
+                },
+                {
+                    "Pair number": 15,
+                    "Round": 1,
+                    "Points": 1
+                },
+                {
+                    "Pair number": 18,
+                    "Round": 4,
+                    "Points": 1
+                },
+                {
+                    "Pair number": 22,
+                    "Round": 1,
+                    "Points": 1
+                },
+                {
+                    "Pair number": 23,
+                    "Round": 4,
+                    "Points": 0.5
+                },
+                {
+                    "Pair number": 29,
+                    "Round": 4,
+                    "Points": 0.5
+                }
+            ],
+            "Withdrawals": [
+                {
+                    "Pair number": 16,
+                    "Rounds withdrawn": [
+                        5
+                    ]
+                },
+                {
+                    "Pair number": 23,
+                    "Rounds withdrawn": [
+                        5
+                    ]
+                },
+                {
+                    "Pair number": 29,
+                    "Rounds withdrawn": [
+                        5
+                    ]
+                }
+            ]
+        }
+    ]
+}

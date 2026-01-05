@@ -1,0 +1,168 @@
+SwissSys Standings. CCA_WO23: Under 1600 Section (Standings (no tiebrk))
+#	Name	ID	Rating	Team	St	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Rd 8	Rd 9	Total	Prize	
+1	Nader* Rawshani	30232614	1573		NJ	H---	H---	W77 (w)	W94 (b)	W126 (w)	W63 (b)	W6 (w)	W15 (b)	W2 (w)	 8.0	10000.00	
+2	Jan Lei Saret	16773557	1581		NY	W140 (w)	W56 (b)	W53 (w)	W6 (b)	W15 (w)	D5 (b)	W33 (b)	W3 (w)	L1 (b)	 7.5	2933.33	
+3	Ari Z. Karlin	16250665	1544		FL	W108 (b)	W76 (w)	W8 (b)	D38 (b)	W67 (w)	W44 (b)	W5 (w)	L2 (b)	W12 (w)	 7.5	2933.33	
+4	Yoyo He	15174491	1527		CA	W30 (w)	D62 (b)	W84 (w)	L43 (b)	W98 (w)	W39 (b)	W36 (w)	W21 (b)	W8 (w)	 7.5	2933.33	
+5	Trent L Williams	16883258	1590		MD	W98 (w)	W97 (b)	W51 (w)	D33 (b)	W16 (b)	D2 (w)	L3 (b)	W20 (w)	W19 (b)	 7.0	620.00	
+6	Davin Chen	30529002	1532	FANCHE	NY	W165 (b)	W37 (w)	W61 (b)	L2 (w)	W23 (b)	W14 (w)	L1 (b)	W26 (w)	W17 (b)	 7.0	620.00	
+7	Jonah Noam Kutikov	15612157	1520		NJ	W42 (b)	D127 (w)	L67 (b)	W76 (w)	W9 (b)	W37 (w)	D44 (w)	W27 (b)	W15 (w)	 7.0	620.00	
+8	Logan Moore	30203399	1511	YENMOO	PA	W103 (w)	W48 (b)	L3 (w)	W135 (b)	W91 (b)	W18 (w)	W29 (w)	W33 (b)	L4 (b)	 7.0	620.00	
+9	Ronald* Sanders	15835046	1506		GA	H---	H---	W128 (w)	W48 (b)	L7 (w)	W65 (b)	W28 (w)	W44 (b)	W29 (w)	 7.0	620.00	
+10	Craig Hinkley	15716096	1539		PA	W83 (w)	L63 (b)	W152 (w)	W59 (b)	D36 (w)	W82 (b)	L12 (w)	W38 (b)	W39 (w)	 6.5	200.00	
+11	Christian* Harrs	14376224	1518		FL	B---	W94 (w)	D34 (b)	L67 (w)	W13 (b)	W43 (w)	D17 (b)	D16 (w)	W37 (b)	 6.5	200.00	
+12	Tristan Perkins	15855720	1487		NY	L23 (b)	W131 (w)	D64 (b)	W120 (w)	W62 (b)	W68 (w)	W10 (b)	W14 (w)	L3 (b)	 6.5	1500.00	
+13	Taimoor Syed	17172077	1438		NY	W154 (b)	D67 (w)	W127 (b)	L34 (w)	L11 (w)	W103 (b)	W47 (w)	W45 (b)	W33 (w)	 6.5	1500.00	
+14	Nicklaus Lo	14493534	1591		CA	W155 (b)	W138 (w)	L20 (b)	W95 (w)	W43 (w)	L6 (b)	W38 (w)	L12 (b)	W59 (w)	 6.0		
+15	Daniel George	13996856	1567		CA	W79 (b)	W80 (w)	W21 (b)	W20 (w)	L2 (b)	W26 (w)	W16 (b)	L1 (w)	L7 (b)	 6.0		
+16	Jason Dang	30134127	1562	YOUDAN	NY	W99 (w)	W57 (b)	W55 (w)	W63 (b)	L5 (w)	W20 (b)	L15 (w)	D11 (b)	D21 (w)	 6.0		
+17	Snegapraneeth Sudhakar	30260576	1545	SUDSUD	CA	L37 (b)	W165 (w)	W25 (b)	W81 (w)	W57 (b)	D21 (w)	D11 (w)	W51 (b)	L6 (w)	 6.0		
+18	Zelin Fang	17083043	1541		CA	W131 (w)	W152 (b)	L63 (w)	W58 (b)	W55 (w)	L8 (b)	W59 (b)	L23 (w)	W62 (b)	 6.0		
+19	Broderick Bello	12482806	1529		NC	W101 (w)	L43 (b)	W130 (w)	D98 (b)	D60 (w)	W84 (b)	W104 (w)	W63 (b)	L5 (w)	 6.0		
+20	Aashrith Podduturi	15834477	1513		GA	W65 (w)	W153 (b)	W14 (w)	L15 (b)	W66 (w)	L16 (w)	W85 (b)	L5 (b)	W63 (w)	 6.0		
+21	Nathan Bolkhovitinov	16627606	1503		NY	W163 (w)	W143 (b)	L15 (w)	W119 (b)	W104 (w)	D17 (b)	W67 (w)	L4 (w)	D16 (b)	 6.0		
+22	Ian Widjaja	16010636	1479		CA	W106 (w)	D105 (b)	L68 (w)	W134 (b)	D84 (w)	W31 (b)	D46 (w)	D62 (b)	W66 (w)	 6.0		
+23	Darsh Verma	16885668	1469		WA	W12 (w)	W47 (b)	W88 (w)	L44 (b)	L6 (w)	W35 (b)	W48 (w)	W18 (b)	U---	 6.0		
+24	Michael Lin	17281737	1446		WA	W26 (b)	D146 (w)	D90 (b)	L50 (w)	D138 (b)	D118 (w)	W88 (w)	W89 (b)	W48 (w)	 6.0		
+25	Kevin Franco Prasanna	15771571	1411	FRAFRA	PA	L104 (w)	W142 (b)	L17 (w)	D101 (b)	W124 (w)	W74 (b)	W73 (w)	W67 (b)	H---	 6.0		
+26	Ian Avery Singh	30239811	1352	ROHSIN	NY	L24 (w)	W107 (b)	W73 (w)	W70 (b)	W53 (w)	L15 (b)	W49 (w)	L6 (b)	W51 (w)	 6.0		
+27	Cooper Mott	15455707	1337		NY	D49 (w)	L68 (b)	W72 (b)	D137 (w)	W146 (b)	W50 (w)	W91 (b)	L7 (w)	W54 (b)	 6.0		
+28	William Kaiyuan Wang	30082828	1200		ON	H---	L32 (b)	X109	W99 (b)	W30 (w)	D45 (w)	L9 (b)	W95 (w)	W55 (w)	 6.0		
+29	Gavin Preston Yichen Song	16849781	1597	CHESON	FL	D100 (b)	L82 (w)	W113 (b)	W110 (w)	W105 (b)	W52 (w)	L8 (b)	W56 (w)	L9 (b)	 5.5		
+30	Evan Banerjee	30675974	1594		MA	L4 (b)	L39 (w)	W125 (b)	W139 (w)	L28 (b)	W81 (w)	W43 (b)	W57 (w)	D36 (b)	 5.5		
+31	John Delgado	12812282	1561		NY	L76 (b)	W78 (w)	L148 (b)	W127 (w)	W108 (b)	L22 (w)	D58 (b)	W79 (w)	W80 (b)	 5.5		
+32	Grace Siqi Yang	17122026	1555		FL	L80 (b)	W28 (w)	L37 (b)	L41 (w)	W125 (b)	W115 (w)	D78 (b)	W110 (w)	W82 (b)	 5.5		
+33	David Lopez	13520430	1551		MA	W60 (w)	W81 (b)	W40 (w)	D5 (w)	W52 (b)	W38 (b)	L2 (w)	L8 (w)	L13 (b)	 5.5		
+34	Godwin Wilson-Livingstone	15745841	1546		NY	W128 (w)	W116 (b)	D11 (w)	W13 (b)	L38 (w)	L36 (b)	W82 (w)	L39 (b)	W83 (w)	 5.5		
+35	Andre P Menard	12760103	1503		CO	D115 (b)	L118 (w)	W150 (b)	D64 (w)	W133 (b)	L23 (w)	W100 (b)	W85 (w)	D41 (b)	 5.5		
+36	Seyma Oz	16078811	1458	OZSKHA	TX	D44 (w)	W134 (b)	D146 (b)	W90 (w)	D10 (b)	W34 (w)	L4 (b)	D41 (w)	D30 (w)	 5.5		
+37	Warren Liang	16874605	1413		NY	W17 (w)	L6 (b)	W32 (w)	W89 (b)	D49 (w)	L7 (b)	W70 (w)	W46 (b)	L11 (w)	 5.5		
+38	Dann Hu Merriman	17079355	1410	ZHAMER	WA	W158 (w)	W126 (b)	W91 (b)	D3 (w)	W34 (b)	L33 (w)	L14 (b)	L10 (w)	W68 (b)	 5.5		
+39	Leah Yang	30127892	1409	YANCOR	NY	L146 (b)	W30 (b)	W151 (w)	W147 (w)	D69 (b)	L4 (w)	W52 (b)	W34 (w)	L10 (b)	 5.5		
+40	Samuel Lewis Forsythe	30928238	1351		PA	W162 (b)	W50 (w)	L33 (b)	D75 (w)	H---	W53 (b)	L51 (w)	D49 (b)	W70 (w)	 5.5		
+41	Aashritha Vidhya Shankar	16754301	1349	SHADEV	TX	W107 (w)	L51 (w)	L147 (b)	W32 (b)	D70 (w)	W98 (b)	W75 (w)	D36 (b)	D35 (w)	 5.5		
+42	Hans Chi Law	16022577	1337		TX	L7 (w)	B---	L94 (b)	L78 (w)	D77 (b)	W124 (b)	W128 (w)	W93 (w)	W72 (b)	 5.5		
+43	Leo Wang	17354652	1283		NY	X161	W19 (w)	D69 (b)	W4 (w)	L14 (b)	L11 (b)	L30 (w)	W75 (b)	W88 (w)	 5.5		
+44	Daniel Bolkhovitinov	16445524	1584		NY	D36 (b)	W100 (w)	W133 (b)	W23 (w)	W68 (b)	L3 (w)	D7 (b)	L9 (w)	U---	 5.0		
+45	Gosley Mathiascheck Brodkin	30632788	1584	BROJOH	MD	D58 (w)	D130 (b)	L104 (w)	W112 (b)	W97 (w)	D28 (b)	W66 (b)	L13 (w)	D53 (b)	 5.0		
+46	Taylor Andrew Dunfee	30613043	1575		VA	L121 (b)	W140 (w)	W80 (b)	L85 (w)	W58 (b)	W95 (w)	D22 (b)	L37 (w)	D56 (b)	 5.0		
+47	John A Lebon	12752895	1571		FL	W139 (b)	L23 (w)	L81 (b)	W132 (w)	W129 (b)	D55 (w)	L13 (b)	W78 (w)	D58 (b)	 5.0		
+48	Tyshaune Mack	13551062	1549	DOSMAC	NY	W78 (b)	L8 (w)	W103 (b)	L9 (w)	W148 (b)	W57 (w)	L23 (b)	W61 (w)	L24 (b)	 5.0		
+49	Hartej Sahni	15475104	1523		NJ	D27 (b)	W150 (w)	D59 (b)	W61 (w)	D37 (b)	D85 (w)	L26 (b)	D40 (w)	D64 (b)	 5.0		
+50	Ilan Samuel Schwartz	14878262	1515		NY	W112 (w)	L40 (b)	W101 (w)	W24 (b)	L63 (w)	L27 (b)	L83 (w)	W131 (b)	W104 (w)	 5.0		
+51	Jose C De La Colina	15217257	1511		FL	W113 (w)	W41 (b)	L5 (b)	W133 (w)	D85 (b)	D69 (w)	W40 (b)	L17 (w)	L26 (b)	 5.0		
+52	Steven Finette	10127301	1500		MD	D118 (b)	W115 (w)	W110 (b)	W62 (w)	L33 (w)	L29 (b)	L39 (w)	W109 (b)	D65 (w)	 5.0		
+53	Jose Roldan	12135470	1500		FL	W85 (b)	W121 (w)	L2 (b)	W118 (w)	L26 (b)	L40 (w)	W111 (w)	D64 (b)	D45 (w)	 5.0		
+54	Yicong Li	16916580	1495		MA	D82 (b)	W125 (w)	D118 (b)	L105 (w)	W143 (b)	L66 (w)	W131 (w)	W104 (b)	L27 (w)	 5.0		
+55	Noni Hardaway	15466027	1480	HARHAR	NY	W123 (b)	W124 (w)	L16 (b)	W146 (w)	L18 (b)	D47 (b)	D64 (w)	W91 (w)	L28 (b)	 5.0		
+56	Rai Mukherji	16397615	1472		NY	X164	L2 (w)	D120 (b)	L84 (b)	W130 (w)	W61 (w)	W68 (b)	L29 (b)	D46 (w)	 5.0		
+57	Lexi Loar	30240758	1471	LOAKOO	OH	W145 (b)	L16 (w)	W143 (w)	W88 (b)	L17 (w)	L48 (b)	W102 (w)	L30 (b)	W91 (b)	 5.0		
+58	Laixian Wan	30509239	1462		MA	D45 (b)	D64 (w)	W121 (b)	L18 (w)	L46 (w)	W132 (b)	D31 (w)	W125 (b)	D47 (w)	 5.0		
+59	Elizabeth Xia	30428139	1457		IL	H---	W106 (b)	D49 (w)	L10 (w)	W137 (b)	W88 (b)	L18 (w)	W71 (w)	L14 (b)	 5.0		
+60	Alvin Lou	30228821	1428	LOULOU	NY	L33 (b)	D136 (w)	W123 (b)	W124 (w)	D19 (b)	L91 (w)	L71 (b)	W90 (w)	W94 (b)	 5.0		
+61	Selina Cheng	17236746	1405	CHELE	WA	W151 (w)	W70 (b)	L6 (w)	L49 (b)	W89 (w)	L56 (b)	W127 (w)	L48 (b)	W97 (w)	 5.0		
+62	Emily Tai	16026235	1395	TAIBER	NY	W87 (w)	D4 (w)	W92 (b)	L52 (b)	L12 (w)	W128 (b)	W93 (b)	D22 (w)	L18 (w)	 5.0		
+63	Ryan Guo	16441940	1340		VA	W72 (b)	W10 (w)	W18 (b)	L16 (w)	W50 (b)	L1 (w)	W69 (b)	L19 (w)	L20 (b)	 5.0		
+64	James Yang	30442916	1330		PA	H---	D58 (b)	D12 (w)	D35 (b)	D74 (w)	X138	D55 (b)	D53 (w)	D49 (w)	 5.0		
+65	Alex Musselman	14712065	1326		VA	L20 (b)	W155 (w)	L138 (b)	W152 (w)	W90 (b)	L9 (w)	D96 (b)	W77 (w)	D52 (b)	 5.0		
+66	Vahini Sadhu Venkata	16893742	1222	VENCON	PA	W96 (b)	L110 (w)	W129 (b)	W138 (w)	L20 (b)	W54 (b)	L45 (w)	W94 (w)	L22 (b)	 5.0		
+67	David Yagudayev	14506595	1559		NY	W77 (w)	D13 (b)	W7 (w)	W11 (b)	L3 (b)	W93 (w)	L21 (b)	L25 (w)	U---	 4.5		
+68	Liam Schrader Pinder	30851907	1550		PA	D110 (b)	W27 (w)	W22 (b)	W93 (w)	L44 (w)	L12 (b)	L56 (w)	W98 (b)	L38 (w)	 4.5		
+69	Matthew Clibanoff	16884466	1532		NY	W117 (w)	W102 (b)	D43 (w)	D104 (b)	D39 (w)	D51 (b)	L63 (w)	D83 (b)	U---	 4.5		
+70	Ari Bershak	16222222	1531		MD	W132 (b)	L61 (w)	W112 (b)	L26 (w)	D41 (b)	W80 (w)	L37 (b)	W118 (w)	L40 (b)	 4.5		
+71	Evan Jiahuan Zhou	16831148	1529	CHEZHO	NJ	L133 (b)	D144 (w)	W115 (b)	L82 (w)	W102 (w)	D83 (b)	W60 (w)	L59 (b)	D84 (w)	 4.5		
+72	Christopher Hill	12908517	1524		OH	L63 (w)	D83 (b)	L27 (w)	L150 (b)	W142 (w)	W106 (b)	W116 (w)	W108 (b)	L42 (w)	 4.5		
+73	Aileen Lou	30058347	1501	LOULOU	NY	W144 (b)	L133 (w)	L26 (b)	W121 (w)	D118 (b)	W110 (w)	L25 (b)	L80 (w)	W105 (b)	 4.5		
+74	Theodore Covey	12457323	1500		VA	L143 (b)	D113 (w)	D144 (b)	W153 (w)	D64 (b)	L25 (w)	D105 (b)	W111 (w)	D81 (b)	 4.5		
+75	Daniel Cruz	12939881	1499		NJ	W142 (w)	D104 (b)	D119 (w)	D40 (b)	L82 (w)	W116 (b)	L41 (b)	L43 (w)	W118 (b)	 4.5		
+76	Sobel Gaudissard	15800055	1477		NY	W31 (w)	L3 (b)	L116 (w)	L7 (b)	L103 (b)	W141 (w)	W143 (b)	W133 (w)	D85 (b)	 4.5		
+77	Adam Moore	16663416	1464		NY	L67 (b)	W111 (w)	L1 (b)	L108 (w)	D42 (w)	W150 (b)	W117 (w)	L65 (b)	W114 (w)	 4.5		
+78	Michael Anthony*** Bauml	17069343	1460		OH	L48 (w)	L31 (b)	W111 (w)	W42 (b)	L94 (w)	W133 (b)	D32 (w)	L47 (b)	W120 (w)	 4.5		
+79	Ansh S Nandurbarkar	15857120	1447		MA	L15 (w)	L120 (b)	D142 (w)	W141 (b)	D114 (w)	D117 (b)	W101 (w)	L31 (b)	W125 (w)	 4.5		
+80	Will Hutchins	15878545	1432		MS	W32 (w)	L15 (b)	L46 (w)	D130 (b)	W101 (w)	L70 (b)	W134 (w)	W73 (b)	L31 (w)	 4.5		
+81	Akshay Rajagopal	15629864	1421		NC	W136 (b)	L33 (w)	W47 (w)	L17 (b)	L88 (w)	L30 (b)	W135 (w)	W127 (b)	D74 (w)	 4.5		
+82	Logan White	15580358	1417		KY	D54 (w)	W29 (b)	L93 (w)	W71 (b)	W75 (b)	L10 (w)	L34 (b)	W96 (w)	L32 (w)	 4.5		
+83	Stella Liu	17042064	1408	LIULIU	NY	L10 (b)	D72 (w)	W136 (b)	W92 (w)	L93 (b)	D71 (w)	W50 (b)	D69 (w)	L34 (b)	 4.5		
+84	Christian Y Li	16923000	1349		MA	D92 (b)	W137 (w)	L4 (b)	W56 (w)	D22 (b)	L19 (w)	L95 (b)	W129 (w)	D71 (b)	 4.5		
+85	Balakrishnan Sreekum Maliekal	30403202	1304	SREMAL	ON	L53 (w)	W163 (b)	W97 (w)	W46 (b)	D51 (w)	D49 (b)	L20 (w)	L35 (b)	D76 (w)	 4.5		
+86	Wen Shen	30013762	1270		NJ	L97 (w)	L98 (b)	W163 (w)	L109 (b)	D140 (w)	D112 (b)	D113 (w)	W117 (b)	W108 (w)	 4.5		
+87	Malcolm Powell	16941012	1550			L62 (b)	L139 (w)	W165 (b)	L143 (w)	L115 (b)	L125 (w)	W145 (b)	W124 (w)	W121 (b)	 4.0		
+88	Matthew Laido	16100114	1549	LAILAI	NJ	W149 (b)	W129 (w)	L23 (b)	L57 (w)	W81 (b)	L59 (w)	L24 (b)	W100 (w)	L43 (b)	 4.0		
+89	Matthew Kennedy Moore	30203186	1536		MA	L129 (b)	W149 (w)	W139 (b)	L37 (w)	L61 (b)	W105 (w)	W99 (b)	L24 (w)	U---	 4.0		
+90	Yvette Fannell	14805752	1535	FANCHE	NY	W114 (w)	D119 (b)	D24 (w)	L36 (b)	L65 (w)	L111 (b)	W132 (w)	L60 (b)	W131 (w)	 4.0		
+91	Michael Dale Wiseman	12815504	1533		IN	W148 (w)	W135 (b)	L38 (w)	W116 (b)	L8 (w)	W60 (b)	L27 (w)	L55 (b)	L57 (w)	 4.0		
+92	Odell Greene	12082500	1503		PA	D84 (w)	W141 (b)	L62 (w)	L83 (b)	L131 (b)	L121 (w)	W106 (w)	D101 (b)	W132 (w)	 4.0		
+93	Michael Mendez	12495089	1500		NY	D141 (w)	B---	W82 (b)	L68 (b)	W83 (w)	L67 (b)	L62 (w)	L42 (b)	D99 (w)	 4.0		
+94	Ibrahim* Saizad	30609776	1488		LA	X157	L11 (b)	W42 (w)	L1 (w)	W78 (b)	L104 (b)	W114 (w)	L66 (b)	L60 (w)	 4.0		
+95	Alex Fuchs	30213296	1482		CT	L153 (w)	W117 (b)	W102 (w)	L14 (b)	W119 (w)	L46 (b)	W84 (w)	L28 (b)	U---	 4.0		
+96	Lyric Connor Authier	16538662	1481		TN	L66 (w)	L101 (b)	D114 (w)	D117 (b)	W113 (w)	W135 (b)	D65 (w)	L82 (b)	D102 (w)	 4.0		
+97	Aditya Joshi	16655401	1481		NJ	W86 (b)	L5 (w)	L85 (b)	W144 (w)	L45 (b)	W120 (w)	D118 (b)	D105 (w)	L61 (b)	 4.0		
+98	Maddox Jackson	17048985	1451		VA	L5 (b)	W86 (w)	W153 (b)	D19 (w)	L4 (b)	L41 (w)	W119 (b)	L68 (w)	H---	 4.0		
+99	Tomas Martinez	30709699	1436		FL	L16 (b)	W145 (w)	D124 (b)	L28 (w)	D120 (b)	W143 (w)	L89 (w)	D102 (b)	D93 (b)	 4.0		
+100	Robert D Wade	11400426	1429		PA	D29 (w)	L44 (b)	L134 (w)	W142 (b)	W150 (w)	D127 (b)	L35 (w)	L88 (b)	W133 (b)	 4.0		
+101	Allen Everett Wang	30218415	1365		PA	L19 (b)	W96 (w)	L50 (b)	D25 (w)	L80 (b)	W123 (w)	L79 (b)	D92 (w)	W129 (b)	 4.0		
+102	Raymond Ouyang	30136126	1303		NJ	W147 (b)	L69 (w)	L95 (b)	W149 (w)	L71 (b)	W129 (w)	L57 (b)	D99 (w)	D96 (b)	 4.0		
+103	Ian Lowther	30277011	1300		AL	L8 (b)	X159	L48 (w)	D128 (b)	W76 (w)	L13 (w)	L110 (b)	W138 (w)	H---	 4.0		
+104	Olivia Ryerson	16727082	1216	RYERYE	PA	W25 (b)	D75 (w)	W45 (b)	D69 (w)	L21 (b)	W94 (w)	L19 (b)	L54 (w)	L50 (b)	 4.0		
+105	Rishik Bhattacharyya	30135902	1079		NJ	B---	D22 (w)	H---	W54 (b)	L29 (w)	L89 (b)	D74 (w)	D97 (b)	L73 (w)	 4.0		
+106	Gayathri Sreekumar	30061958	1070	SREMAL	ON	L22 (b)	L59 (w)	L140 (b)	W145 (b)	W136 (w)	L72 (w)	L92 (b)	W149 (w)	W130 (b)	 4.0		
+107	Ben Davar	30355010	1483		NY	L41 (b)	L26 (w)	L132 (b)	L125 (w)	B---	W139 (w)	W115 (b)	D114 (b)	U---	 3.5		
+108	Grant Mccool	12533425	1445		PA	L3 (w)	H---	H---	W77 (b)	L31 (w)	H---	W121 (b)	L72 (w)	L86 (b)	 3.5		
+109	Steven Rolfe	12674946	1445		PA	L124 (b)	D123 (w)	F28	W86 (w)	H---	W144 (b)	H---	L52 (w)	U---	 3.5		
+110	Alvin R Jones	12692133	1425		MD	D68 (w)	W66 (b)	L52 (w)	L29 (b)	W134 (w)	L73 (b)	W103 (w)	L32 (b)	U---	 3.5		
+111	Vikraman Boobalan	14866060	1400		VA	L126 (w)	L77 (b)	L78 (b)	B---	W154 (w)	W90 (w)	L53 (b)	L74 (b)	D122 (w)	 3.5		
+112	John B North	12423887	1400		NY	L50 (b)	W160 (b)	L70 (w)	L45 (w)	D121 (b)	D86 (w)	D120 (b)	D122 (w)	D119 (b)	 3.5		
+113	Renald Wilson	31219193	1400		NB	L51 (b)	D74 (b)	L29 (w)	D115 (w)	L96 (b)	W149 (w)	D86 (b)	L121 (w)	W137 (b)	 3.5		
+114	Yegna Sairam Jandhyala	30294344	1394		NJ	L90 (b)	L147 (w)	D96 (b)	W136 (w)	D79 (b)	W137 (w)	L94 (b)	D107 (w)	L77 (b)	 3.5		
+115	Aanya Yadawad	16191144	1392	YADLIA	MA	D35 (w)	L52 (b)	L71 (w)	D113 (b)	W87 (w)	L32 (b)	L107 (w)	D123 (b)	W136 (w)	 3.5		
+116	Aaditya* Bilakanti	16403578	1384		VA	W---	L34 (w)	W76 (b)	L91 (w)	H---	L75 (w)	L72 (b)	W134 (b)	U---	 3.5		
+117	Celine Chen	30485114	1377	CHESON	FL	L69 (b)	L95 (w)	D155 (b)	D96 (w)	W152 (b)	D79 (w)	L77 (b)	L86 (w)	W138 (b)	 3.5		
+118	Ari Zhang	16235234	1343		CA	D52 (w)	W35 (b)	D54 (w)	L53 (b)	D73 (w)	D24 (b)	D97 (w)	L70 (b)	L75 (w)	 3.5		
+119	Leo Su	16192331	1324		VA	B---	D90 (w)	D75 (b)	L21 (w)	L95 (b)	H---	L98 (w)	D128 (b)	D112 (w)	 3.5		
+120	Rohan Kunal Madhok	16867876	1293		NJ	L138 (b)	W79 (w)	D56 (w)	L12 (b)	D99 (w)	L97 (b)	D112 (w)	W140 (b)	L78 (b)	 3.5		
+121	Swaminathan Sankar	14080777	1291		CA	W46 (w)	L53 (b)	L58 (w)	L73 (b)	D112 (w)	W92 (b)	L108 (w)	W113 (b)	L87 (w)	 3.5		
+122	Vihaan* Jambudi	30035506	1283		NJ	H---	H---	L126 (w)	D154 (b)	L128 (w)	L140 (b)	W136 (w)	D112 (b)	D111 (b)	 3.5		
+123	Vihan Grover	30105977	1264		CA	L55 (w)	D109 (b)	L60 (w)	L131 (b)	W145 (w)	L101 (b)	D130 (b)	D115 (w)	W139 (b)	 3.5		
+124	Chase Wang	15015852	1162		CA	W109 (w)	L55 (b)	D99 (w)	L60 (b)	L25 (b)	L42 (w)	W150 (w)	L87 (b)	W140 (w)	 3.5		
+125	Graeme Sun Tsai	16098202	1156	SUNTSA	DC	H---	L54 (b)	L30 (w)	W107 (b)	L32 (w)	W87 (b)	W140 (w)	L58 (w)	L79 (b)	 3.5		
+126	Luis Carias	12906002	1529		DC	W111 (b)	L38 (w)	W122 (b)	W148 (w)	L1 (b)	U---	U---	U---	U---	 3.0		
+127	Danny Kharaev	15798012	1509	WURKHA	CA	X156	D7 (b)	L13 (w)	L31 (b)	W135 (w)	D100 (w)	L61 (b)	L81 (w)	U---	 3.0		
+128	Mohammad Bazzi	13323770	1454		MI	L34 (b)	W154 (w)	L9 (b)	D103 (w)	W122 (b)	L62 (w)	L42 (b)	D119 (w)	U---	 3.0		
+129	David Roldan	16075262	1450		VA	W89 (w)	L88 (b)	L66 (w)	W140 (b)	L47 (w)	L102 (b)	W144 (w)	L84 (b)	L101 (w)	 3.0		
+130	Daniel Valdes	12457590	1400		FL	H---	D45 (w)	L19 (b)	D80 (w)	L56 (b)	L134 (b)	D123 (w)	W135 (b)	L106 (w)	 3.0		
+131	Nicolas M Pastore	30904798	1395		PA	L18 (b)	L12 (b)	H---	W123 (w)	W92 (w)	H---	L54 (b)	L50 (w)	L90 (b)	 3.0		
+132	Thomas Egelhof	30224545	1370		NY	L70 (w)	L151 (b)	W107 (w)	L47 (b)	W149 (b)	L58 (w)	L90 (b)	W143 (w)	L92 (b)	 3.0		
+133	Kola Oyekole	15784363	1344			W71 (w)	W73 (b)	L44 (w)	L51 (b)	L35 (w)	L78 (w)	W137 (b)	L76 (b)	L100 (w)	 3.0		
+134	Anish Saravanan	16732165	1249		MA	D137 (b)	L36 (w)	W100 (b)	L22 (w)	L110 (b)	W130 (w)	L80 (b)	L116 (w)	H---	 3.0		
+135	Tommy Kozlek	30347417	1208		MA	B---	L91 (w)	W154 (b)	L8 (w)	L127 (b)	L96 (w)	L81 (b)	L130 (w)	W149 (b)	 3.0		
+136	Sidney Meade	30982481	1546		MA	L81 (w)	D60 (b)	L83 (w)	L114 (b)	L106 (b)	W142 (w)	L122 (b)	W150 (w)	L115 (b)	 2.5		
+137	Rodney Woolson	15078207	1500		CA	D134 (w)	L84 (b)	W141 (w)	D27 (b)	L59 (w)	L114 (b)	L133 (w)	D144 (b)	L113 (w)	 2.5		
+138	Jeffrey Jacobus	15411713	1491		NY	W120 (w)	L14 (b)	W65 (w)	L66 (b)	D24 (w)	F64	U---	L103 (b)	L117 (w)	 2.5		
+139	Emmanuel Jagmohan	10097703	1400		NY	L47 (w)	W87 (b)	L89 (w)	L30 (b)	L144 (w)	L107 (b)	D149 (b)	B---	L123 (w)	 2.5		
+140	Jerome W Tichacek	12014840	1400		NE	L2 (b)	L46 (b)	W106 (w)	L129 (w)	D86 (b)	W122 (w)	L125 (b)	L120 (w)	L124 (b)	 2.5		
+141	Florence Leung	12558126	1307	LEUKOW	NY	D93 (b)	L92 (w)	L137 (b)	L79 (w)	H---	L76 (b)	H---	H---	D143 (w)	 2.5		
+142	Richard James Schmidt	10269971	1300		OH	L75 (b)	L25 (w)	D79 (b)	L100 (w)	L72 (b)	L136 (b)	B---	L145 (w)	W150 (b)	 2.5		
+143	Wendell Whitaker	13729200	1300		AL	W74 (w)	L21 (w)	L57 (b)	W87 (b)	L54 (w)	L99 (b)	L76 (w)	L132 (b)	D141 (b)	 2.5		
+144	Benjamin D Statz	12746377	1293		NY	L73 (w)	D71 (b)	D74 (w)	L97 (b)	W139 (b)	L109 (w)	L129 (b)	D137 (w)	U---	 2.5		
+145	Charles Wang	30481807	1122		VA	L57 (w)	L99 (b)	L149 (b)	L106 (w)	L123 (b)	B---	L87 (w)	W142 (b)	H---	 2.5		
+146	James N Greer	13000030	1547		IL	W39 (w)	D24 (b)	D36 (w)	L55 (b)	L27 (w)	U---	U---	U---	U---	 2.0		
+147	Ronald Sanders	15835046	1506		GA	L102 (w)	W114 (b)	W41 (w)	L39 (b)	U---	U---	U---	U---	U---	 2.0		
+148	David Tyau	12877280	1402		UT	L91 (b)	X158	W31 (w)	L126 (b)	L48 (w)	U---	U---	U---	U---	 2.0		
+149	Donald Colbert	10558450	1400		RI	L88 (w)	L89 (b)	W145 (w)	L102 (b)	L132 (w)	L113 (b)	D139 (w)	L106 (b)	L135 (w)	 1.5		
+150	William Jere Green	12232750	1303		PA	H---	L49 (b)	L35 (w)	W72 (w)	L100 (b)	L77 (w)	L124 (b)	L136 (b)	L142 (w)	 1.5		
+151	Suneel Sharad	14028004	1538		NJ	L61 (b)	W132 (w)	L39 (b)	U---	U---	U---	U---	U---	U---	 1.0		
+152	Marty Chambers	12501937	1400		NJ	W160 (w)	L18 (w)	L10 (b)	L65 (b)	L117 (w)	U---	U---	U---	U---	 1.0		
+153	Vihaan Jambudi	30035506	1283		NJ	W95 (b)	L20 (w)	L98 (w)	L74 (b)	U---	U---	U---	U---	U---	 1.0		
+154	Suneel* Sharad	14028004	1538		NJ	L13 (w)	L128 (b)	L135 (w)	D122 (w)	L111 (b)	U---	U---	U---	U---	 0.5		
+155	Michael Anthony* Bauml	17069343	1460		OH	L14 (w)	L65 (b)	D117 (w)	U---	U---	U---	U---	U---	U---	 0.5		
+156	Miguel Angel Andrade-vazquez	16985583	1585		CA	F127	U---	U---	U---	U---	U---	U---	U---	U---	 0.0		
+157	Nader Rawshani	30232614	1573		NJ	F94	U---	U---	U---	U---	U---	U---	U---	U---	 0.0		
+158	Evan Meyers	14491825	1533		PA	L38 (b)	F148	U---	U---	U---	U---	U---	U---	U---	 0.0		
+159	Ashwath Raj	16724474	1522		VA	U---	F103	U---	U---	U---	U---	U---	U---	U---	 0.0		
+160	Christian Harrs	14376224	1518		FL	L152 (b)	L112 (w)	U---	U---	U---	U---	U---	U---	U---	 0.0		
+161	Ibrahim Saizad	30609776	1488		LA	F43	U---	U---	U---	U---	U---	U---	U---	U---	 0.0		
+162	Michael Anthony Bauml	17069343	1460		OH	L40 (w)	U---	U---	U---	U---	U---	U---	U---	U---	 0.0		
+163	Rama Krishna Chitta	17350313	1454		CA	L21 (b)	L85 (w)	L86 (b)	U---	U---	U---	U---	U---	U---	 0.0		
+164	Clarence Harris	12543396	1400		CA	F56	U---	U---	U---	U---	U---	U---	U---	U---	 0.0		
+165	Aaditya Bilakanti	16403578	1384		VA	L6 (w)	L17 (b)	L87 (w)	U---	U---	U---	U---	U---	U---	 0.0		
+

@@ -1,0 +1,16 @@
+Pairings for Round 2. CCA_CHI22: Under 1700-3
+Bd	#	Res	White	#	Res	Black	
+355	1	   	Gurulakshmi Kaliappan (1694 1.0)	13	   	Angel T Tochimani (1537 1.0)	
+356	3	   	Jimmy Chen (1644 1.0)	19	   	Rahul Rajeshkumar (1505 1.0)	
+357	22	   	Jacob Buchanan Wang (1446 1.0)	6	   	Kamran Rawshani (1613 1.0)	
+358	10	   	Jonathan Terrell (1567 1.0)	21	   	Cj Elam (1476 1.0)	
+359	12	   	Kevin Robert Fischer (1543 1.0)	26	   	Daniel Martalogu (1290 1.0)	
+360	24	   	Drew Salski (1317 1.0)	2	   	Michael Neshewat (1685 0.5)	
+361	15	   	Radhika Gupta (1520 0.5)	4	   	Austin Insley (1642 0.5)	
+362	18	   	Rishabh Udeshi (1513 0.5)	9	   	David Rubenstein (1577 0.0)	
+363	5	   	John Williams (1631 0.0)	17	   	Sam Zschack (1513 0.0)	
+364	7	   	Ronald Dewayne Sanders (1608 0.0)	23	   	Niko Richard Curtis Nixon (1402 0.0)	
+365	8	   	Jordan Colby (1581 0.0)	25	   	Julian I Newman (1311 0.0)	
+366	20	   	Rudy Padilla (1500 0.0)	11	   	Benjamin Durost (1561 0.0)	
+367	27	   	Jian N/a Jiang (1268 0.0)	14	   	Chris Kletzien (1521 0.0)	
+

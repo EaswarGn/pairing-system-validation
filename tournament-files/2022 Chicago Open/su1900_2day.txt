@@ -1,0 +1,20 @@
+SwissSys Standings. CCA_CHI22: Under 1900-2 (Standings (no tiebrk))
+#	Name	Rating	Team	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Total	
+1	Jd* Winick	1879		W14	W4	W9	~2				 3.0	
+2	George Leo Mccoy	1891		W5	D3	D7	~1				 2.0	
+3	Ivan Wijetunge	1858	KALWIJ	B---	D2	D6	~7				 2.0	
+4	Adam Forrest Stafford	1855		W17	L1	W12	~6				 2.0	
+5	George David	1774		L2	W17	W16	~8				 2.0	
+6	James Zhang	1716		W11	D9	D3	~4		H---		 2.0	
+7	George Trbojevic	1643		D15	W13	D2	~3				 2.0	
+8	Gerelt Od Tumurkhuyag	1331		W12	W15	U---	~5				 2.0	
+9	Amarjargal Ganbaatar	1889	GANBAT	W16	D6	L1	~10				 1.5	
+10	Gennadiy* Reznikov	1800	SHAREZ	H---	H---	H---	~9				 1.5	
+11	Aswin Chirukandath	1824		L6	D16	D13	~12				 1.0	
+12	Eric Kennedy	1807		L8	W14	L4	~11				 1.0	
+13	Mohammed H Zafar	1802		H---	L7	D11	~14				 1.0	
+14	Logan Mark Jo Fry	1726		L1	L12	W17	~13				 1.0	
+15	Sharath Radhakrishnan	1841		D7	L8	U---	~16				 0.5	
+16	Nikhil Murugan	1762		L9	D11	L5	~15				 0.5	
+17	Brian Harrigan	1703		L4	L5	L14	B---				 0.0	
+

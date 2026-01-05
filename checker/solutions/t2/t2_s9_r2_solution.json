@@ -1,0 +1,440 @@
+{
+    "Sections": [
+        {
+            "Section name": "t2_s9_r2",
+            "Type": 0,
+            "Number of players": 43,
+            "Number of teams": 1,
+            "Rounds paired": 2,
+            "Rounds played": 1,
+            "Regular": true,
+            "Rapid": false,
+            "Blitz": false,
+            "Acceleration": 0,
+            "Use team pairings": true,
+            "Team cut": 4,
+            "Players": [
+                {
+                    "Pair number": 1,
+                    "Name": "Rowan, Thomas William",
+                    "Rating": 1170,
+                    "Results": [
+                        "-;21;B",
+                        "~;40;W"
+                    ]
+                },
+                {
+                    "Pair number": 2,
+                    "Name": "Yang, Leah",
+                    "Rating": 1165,
+                    "Results": [
+                        "=;22;W",
+                        "~;41;B"
+                    ]
+                },
+                {
+                    "Pair number": 3,
+                    "Name": "Pang, Owen J",
+                    "Rating": 1151,
+                    "Results": [
+                        "-;23;B",
+                        "~;24;W"
+                    ]
+                },
+                {
+                    "Pair number": 4,
+                    "Name": "Heid, Jake Matthew",
+                    "Rating": 1140,
+                    "Results": [
+                        "+;9;W",
+                        "~;21;B"
+                    ]
+                },
+                {
+                    "Pair number": 5,
+                    "Name": "Fries, Aiden",
+                    "Rating": 1138,
+                    "Results": [
+                        "+;24;W",
+                        "~;23;B"
+                    ]
+                },
+                {
+                    "Pair number": 6,
+                    "Name": "Yousufi, Mujtuba Ahmed",
+                    "Rating": 1117,
+                    "Results": [
+                        "=;25;B",
+                        "~;29;W"
+                    ]
+                },
+                {
+                    "Pair number": 7,
+                    "Name": "Rajiv, Hrtha",
+                    "Rating": 1113,
+                    "Results": [
+                        "+;27;W",
+                        "~;26;B"
+                    ]
+                },
+                {
+                    "Pair number": 8,
+                    "Name": "Yang, Jonathan",
+                    "Rating": 1112,
+                    "Results": [
+                        "-;28;B",
+                        "~;27;W"
+                    ]
+                },
+                {
+                    "Pair number": 9,
+                    "Name": "Zhang, Max",
+                    "Rating": 1109,
+                    "Results": [
+                        "-;4;B",
+                        "~;34;W"
+                    ]
+                },
+                {
+                    "Pair number": 10,
+                    "Name": "Huang, Terence",
+                    "Rating": 1103,
+                    "Results": [
+                        "=;30;W",
+                        "~;36;B"
+                    ]
+                },
+                {
+                    "Pair number": 11,
+                    "Name": "Melnikov, David",
+                    "Rating": 1095,
+                    "Results": [
+                        "=;31;B",
+                        "~;25;W"
+                    ]
+                },
+                {
+                    "Pair number": 12,
+                    "Name": "Ramkumar, Siddharth",
+                    "Rating": 1085,
+                    "Results": [
+                        "-;32;W",
+                        "~;38;B"
+                    ]
+                },
+                {
+                    "Pair number": 13,
+                    "Name": "Statz, Benjamin D",
+                    "Rating": 1081,
+                    "Results": [
+                        "-;33;B",
+                        "~;35;W"
+                    ]
+                },
+                {
+                    "Pair number": 14,
+                    "Name": "Martin, Jacqueline A",
+                    "Rating": 1074,
+                    "Team": "MARMAR",
+                    "Results": [
+                        "+;34;W",
+                        "~;28;B"
+                    ]
+                },
+                {
+                    "Pair number": 15,
+                    "Name": "Zhang, Ari",
+                    "Rating": 1064,
+                    "Results": [
+                        "+;35;B",
+                        "~;33;W"
+                    ]
+                },
+                {
+                    "Pair number": 16,
+                    "Name": "Nordeman, Thomas",
+                    "Rating": 1050,
+                    "Results": [
+                        "=;36;W",
+                        "~;30;B"
+                    ]
+                },
+                {
+                    "Pair number": 17,
+                    "Name": "Yu, Vincent Zhiwen",
+                    "Rating": 1049,
+                    "Results": [
+                        "=;37;B",
+                        "~;31;W"
+                    ]
+                },
+                {
+                    "Pair number": 18,
+                    "Name": "Nandurbarkar, Ansh S",
+                    "Rating": 1042,
+                    "Results": [
+                        "+;38;W",
+                        "~;32;B"
+                    ]
+                },
+                {
+                    "Pair number": 19,
+                    "Name": "Teper, Michael Joh",
+                    "Rating": 1016,
+                    "Results": [
+                        "-;39;B",
+                        "~;43;W"
+                    ]
+                },
+                {
+                    "Pair number": 20,
+                    "Name": "Burgos, Gabriel",
+                    "Rating": 1009,
+                    "Results": [
+                        "+;43;W",
+                        "~;39;B"
+                    ]
+                },
+                {
+                    "Pair number": 21,
+                    "Name": "James, Andrew Christian-ale",
+                    "Rating": 1009,
+                    "Results": [
+                        "+;1;W",
+                        "~;4;W"
+                    ]
+                },
+                {
+                    "Pair number": 22,
+                    "Name": "Madhok, Rohan Kunal",
+                    "Rating": 999,
+                    "Results": [
+                        "=;2;B",
+                        "~;37;W"
+                    ]
+                },
+                {
+                    "Pair number": 23,
+                    "Name": "Kallamparambil, Sathyan",
+                    "Rating": 989,
+                    "Results": [
+                        "+;3;W",
+                        "~;5;W"
+                    ]
+                },
+                {
+                    "Pair number": 24,
+                    "Name": "Srivilliputhur, Kesavan M",
+                    "Rating": 989,
+                    "Results": [
+                        "-;5;B",
+                        "~;3;B"
+                    ]
+                },
+                {
+                    "Pair number": 25,
+                    "Name": "Hu, Colin",
+                    "Rating": 986,
+                    "Results": [
+                        "=;6;W",
+                        "~;11;B"
+                    ]
+                },
+                {
+                    "Pair number": 26,
+                    "Name": "Hu, Charles Chengyu",
+                    "Rating": 983,
+                    "Results": [
+                        "+;42;W",
+                        "~;7;W"
+                    ]
+                },
+                {
+                    "Pair number": 27,
+                    "Name": "Zhou, Evan Jiahuan",
+                    "Rating": 979,
+                    "Results": [
+                        "-;7;B",
+                        "~;8;B"
+                    ]
+                },
+                {
+                    "Pair number": 28,
+                    "Name": "Levin, Jordan Sean",
+                    "Rating": 964,
+                    "Results": [
+                        "+;8;W",
+                        "~;14;W"
+                    ]
+                },
+                {
+                    "Pair number": 29,
+                    "Name": "Goddard, Eric",
+                    "Rating": 958,
+                    "Results": [
+                        "H;0;-",
+                        "~;6;B"
+                    ]
+                },
+                {
+                    "Pair number": 30,
+                    "Name": "Zhou, Elizabeth",
+                    "Rating": 952,
+                    "Results": [
+                        "=;10;B",
+                        "~;16;W"
+                    ]
+                },
+                {
+                    "Pair number": 31,
+                    "Name": "Chu, Leon",
+                    "Rating": 918,
+                    "Results": [
+                        "=;11;W",
+                        "~;17;B"
+                    ]
+                },
+                {
+                    "Pair number": 32,
+                    "Name": "Fries, Connor",
+                    "Rating": 915,
+                    "Results": [
+                        "+;12;B",
+                        "~;18;W"
+                    ]
+                },
+                {
+                    "Pair number": 33,
+                    "Name": "Cancino, Jose Antonio",
+                    "Rating": 892,
+                    "Results": [
+                        "+;13;W",
+                        "~;15;B"
+                    ]
+                },
+                {
+                    "Pair number": 34,
+                    "Name": "Cheng, Jeffrey Williams",
+                    "Rating": 854,
+                    "Results": [
+                        "-;14;B",
+                        "~;9;B"
+                    ]
+                },
+                {
+                    "Pair number": 35,
+                    "Name": "Dehorty, Fatima",
+                    "Rating": 848,
+                    "Results": [
+                        "-;15;W",
+                        "~;13;B"
+                    ]
+                },
+                {
+                    "Pair number": 36,
+                    "Name": "Sun, Claire",
+                    "Rating": 846,
+                    "Results": [
+                        "=;16;B",
+                        "~;10;W"
+                    ]
+                },
+                {
+                    "Pair number": 37,
+                    "Name": "Star, Daisy",
+                    "Rating": 842,
+                    "Results": [
+                        "=;17;W",
+                        "~;22;B"
+                    ]
+                },
+                {
+                    "Pair number": 38,
+                    "Name": "Sun, Kaden",
+                    "Rating": 822,
+                    "Results": [
+                        "-;18;B",
+                        "~;12;W"
+                    ]
+                },
+                {
+                    "Pair number": 39,
+                    "Name": "Yang, Albert",
+                    "Rating": 820,
+                    "Results": [
+                        "+;19;W",
+                        "~;20;W"
+                    ]
+                },
+                {
+                    "Pair number": 40,
+                    "Name": "Andrews, Nick",
+                    "Rating": 702,
+                    "Results": [
+                        "H;-1;-",
+                        "~;1;B"
+                    ]
+                },
+                {
+                    "Pair number": 41,
+                    "Name": "Rodriguez, Billei",
+                    "Rating": 335,
+                    "Results": [
+                        "B;-1;-",
+                        "~;2;W"
+                    ]
+                },
+                {
+                    "Pair number": 42,
+                    "Name": "Star, Dylan",
+                    "Rating": 221,
+                    "Results": [
+                        "-;26;B",
+                        "U;0;-"
+                    ]
+                },
+                {
+                    "Pair number": 43,
+                    "Name": "Bussiere, Tristan",
+                    "Rating": 0,
+                    "Results": [
+                        "-;20;B",
+                        "~;19;B"
+                    ]
+                }
+            ],
+            "Teams": [
+                {
+                    "Pair number": 1,
+                    "Full name": "MARMAR",
+                    "Team code": "MARMAR"
+                }
+            ],
+            "Byes": [
+                {
+                    "Pair number": 29,
+                    "Round": 1,
+                    "Points": 0.5
+                },
+                {
+                    "Pair number": 40,
+                    "Round": 1,
+                    "Points": 0.5
+                },
+                {
+                    "Pair number": 41,
+                    "Round": 1,
+                    "Points": 1
+                }
+            ],
+            "Withdrawals": [
+                {
+                    "Pair number": 42,
+                    "Rounds withdrawn": [
+                        2
+                    ]
+                }
+            ]
+        }
+    ]
+}

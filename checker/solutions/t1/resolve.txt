@@ -1,0 +1,23 @@
+index,section name,num_tests
+1,U1000Merged,7
+2,U1300Merged,7
+3,U1500Merged,7
+4,U1700Merged,7
+5,U1900Merged,7
+6,Under 1000-2,4
+7,Under 1000-3,2
+8,Under 1000-4,2
+9,Under 1300-2,4
+10,Under 1300-3,2
+11,Under 1300-4,2
+12,Under 1500-2,4
+13,Under 1500-3,2
+14,Under 1500-4,2
+15,Under 1700-2,4
+16,Under 1700-3,2
+17,Under 1700-4,2
+18,Under 1900-2,4
+19,Under 1900-3,2
+20,Under 1900-4,2
+
+### 2022 Chicago Open, Total: 75

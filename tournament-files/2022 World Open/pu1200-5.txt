@@ -1,0 +1,18 @@
+Pairings for Round 2. CCA_WO22: Under 1200-5
+Bd	#	Res	White	#	Res	Black	
+579	14	   	Mady Krise (1013 1.0)	2	   	Jacob Nair (1175 1.0)	
+580	16	   	Michael Zhang ( 974 1.0)	4	   	Andre L Morris (1157 1.0)	
+581	5	   	Alan Fraley (1150 1.0)	18	   	Matteo Singer ( 962 1.0)	
+582	8	   	Anna Mari Boglino (1062 1.0)	26	   	Stephen Fanning ( 837 1.0)	
+583	21	   	Christian Gaw ( 892 1.0)	9	   	Eric Peffer (1058 1.0)	
+584	29	   	Doyle Akin ( 748 1.0)	11	   	Anderson E Broadus (1046 1.0)	
+585	30	   	Edmund D Meyers ( 724 1.0)	13	   	Austin Carl Youngerman (1019 1.0)	
+586	10	   	Megan Gansukh (1054 0.5)	31	   	Max Zong ( 708 1.0)	
+587	6	   	Philip Lesko (1126 0.5)	24	   	Stephen E Lapinel ( 856 0.5)	
+588	1	   	Sujay Uppalapati (1196 0.0)	19	   	Aniket Narasinh Sinkar ( 929 0.0)	
+589	3	   	Leo Su (1173 0.0)	22	   	Kyla Shai Brink ( 891 0.0)	
+590	23	   	Zachary Gaw ( 879 0.0)	7	   	Riona Hiwale (1121 0.0)	
+591	12	   	Mingway Wang (1037 0.0)	27	   	Anthony Debroux ( 791 0.0)	
+592	17	   	Alan Morris ( 969 0.0)	28	   	Aiden Zhu ( 756 0.0)	
+	20	½ 	Fahad Anwar ( 894 0.0)			BYE	
+

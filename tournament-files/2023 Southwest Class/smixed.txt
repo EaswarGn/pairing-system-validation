@@ -1,0 +1,63 @@
+Team Roster and Standings. CCA_SWCC23: Mixed Doubles Merged
+	Code	Name	Score	Prize
+1	YANWAN	Ruiyang Yan - Oscar Wang (2087.5)	10.0	$1000.00
+		Oscar Wang (1956) 6.0		
+		FM Ruiyang Yan (2219) 4.0		
+2	ZHAZHA	Michelle Zhang - Michael Zhang (1423.0)	9.0	$333.34
+		Michael Zhang (1067) 5.0		
+		Michelle Zhang (1779) 4.0		
+3	WHIWHI	Ashley White - Logan White (1168.0)	9.0	$333.34
+		Logan White (1168) 7.0		
+		Ashley White (unr.) 2.0		
+4	NAGNAG	Bhuvi Naga - Pradeep Naga (810.0)	9.0	$333.34
+		Pradeep Naga (1019) 5.0		
+		Bhuvi Naga ( 601) 4.0		
+5	DHIWAR	Sangeeta Dhingra - Krishnan Warrier (1943.0)	8.0	
+		Krishnan* Warrier (2039) 5.0		
+		Sangeeta Dhingra (1847) 3.0		
+6	SHASHA	Deborah Shafer - Logan Shafer (1629.0)	7.5	
+		Logan Clark Shafer (1958) 4.0		
+		Deborah R Shafer (1300) 3.5		
+7	CHUWEL	Yue Chu - Vinh Welsh (1847.5)	7.0	
+		Vinh Welsh (1923) 3.5		
+		Yue Chu (1772) 3.5		
+8	ZHALIU	Ellery Zhang - Eric Liu (1845.0)	7.0	
+		CM Eric Chang Liu (2174) 4.0		
+		Ellery C Zhang (1516) 3.0		
+9	NAMGUT	Dhanvi Namala - Aryan Gutla (1840.0)	7.0	
+		Aryan Gutla (2411) 3.5		
+		Dhanvi Namala (1269) 3.5		
+10	SINSIN	Sejal Singh - Siddharth Singh (1667.0)	7.0	
+		Sejal Singh (1474) 4.0		
+		Siddharth Singh (1860) 3.0		
+11	BOUBAD	Afaf Bouardi - Jeremy Bader (1625.5)	7.0	
+		Jeremy Bader (2051) 4.0		
+		Afaf* Bouardi (1200) 3.0		
+12	BRAAMB	Elizabeth Braddy - Ryan Amburgy (2002.0)	6.5	
+		Elizabeth Riley Braddy (1754) 4.0		
+		FM Ryan Amburgy (2250) 2.5		
+13	PRAGAN	Nandini Prakash - Vikash Ganesan (1569.5)	6.5	
+		Vikash Ganesan (1451) 4.0		
+		Nandini Prakash (1688) 2.5		
+14	QISUN	Jenny Qi - Kevin Sun (1871.0)	6.0	
+		Jenny Qi (1762) 3.5		
+		Kevin Sun (1980) 2.5		
+15	PRAIND	Pranavi Pramod - Suhas Indukuri (1626.0)	6.0	
+		Suhas Varma Indukuri (1746) 3.5		
+		Pranavi Pramod (1506) 2.5		
+16	WADWAD	Ananya Wadhwa - Aayush Wadhwa (1740.5)	5.5	
+		Ananya Wadhwa (1539) 3.5		
+		Aayush Wadhwa (1942) 2.0		
+17	KRIKRI	Mihika Krishnan - Anish Krishnan (1603.5)	5.5	
+		Mihika Krishnan (1509) 3.0		
+		Anish Krishnan (1698) 2.5		
+18	VINRAJ	Nethra Vinayagaram - S Rajagopal (1174.0)	5.5	
+		Shankaranarayanan Rajagopal (1222) 3.5		
+		Nethra Vinayagaram (1126) 2.0		
+19	SHEBAR	Yangyang Shen - Lyric Barai (1580.0)	5.0	
+		Yangyang Shen (1529) 3.0		
+		Lyric* Barai (1580) 2.0		
+20	BARBAR	Rheya Barai - Sumeet Barai (560.0)	5.0	
+		Sumeet Barai ( 553) 3.0		
+		Rheya Sumeet Barai ( 567) 2.0		
+

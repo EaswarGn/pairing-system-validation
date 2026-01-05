@@ -1,0 +1,95 @@
+SwissSys Wall Chart. CCA_WO22: Under 1600-4 (Standings (no tiebrk))
+#	Name/Rating/ID	St/Tm	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Rd 8	Rd 9	
+1	Sree Chetan Varma Ganapatiraju	PA	B  36	W  10								
+	1591   30268679      		 1.0									
+2	Nithin Palacherla	GA	W  37	B  11								
+	1583   16361223      		 1.0									
+3	Avtandil Chanadiri	NY	W  38	B  14								
+	1579   16404132      		 1.0									
+4	Amit Prasad	FL	B  39	W  12								
+	1552   14942040      		 1.0									
+5	Brad Jolly	IN	W  40	B  15								
+	1535   30367359      		 1.0									
+6	Marcos Gabriel Casares	FL	B  41	W  13								
+	1533   30429995      		 1.0									
+7	Hashim Abed	VA	bye  	W  16								
+	1528   15323442      		 1.0									
+8	Leon Luo	NJ	W  42	B  17								
+	1517   16936390      		 1.0									
+9	Aaron Samuel Krayn	CT	B  43	W  18								
+	1506   15908552      		 1.0									
+10	Michael Gregory Feldman	NY	W  44	B    1								
+	1484   30397295      		 1.0									
+11	Alvin R Jones	MD	B  45	W    2								
+	1482   12692133      		 1.0									
+12	Aritra Kuma Misra	PA	W  46	B    4								
+	1465   30220867      		 1.0									
+13	Varun Kumar	WA	W  30	B    6			bye		bye			
+	1428   15109877      		 1.0									
+14	Elena Stuckert	TX	B  31	W    3								
+	1408   16380966      		 1.0									
+15	Phineas Hugo Weingarten	NY	B  32	W    5								
+	1324   17080545      		 1.0									
+16	Kyle Tebelman	NC	-  33	B    7								
+	1320   30332232      		X1.0									
+17	Enmon Benjami Liu	PA	B  34	W    8								
+	1296   16185307      		 1.0									
+18	Robert Fanjun Wei	NY	W  35	B    9								
+	1210   17353108      		 1.0									
+19	Cooper Mott	NY	bye  	B  21								
+	1104   15455707      		 1.0									
+20	Chris R Andrews	DC	bye  	bye  								
+	1551   12939572      		 0.5									
+21	Brian Qu	NJ	B  26	W  19								
+	1546   30017435      		 0.5									
+22	Ronald Sanders II	GA	bye  	W  28								
+	1513   15835046      		 0.5									
+23	Samanyu Thandra	NJ	W  27	B  29								
+	1473   17355613      		 0.5									
+24	Derek Zhou	NY	B  28	W  26								
+	1472   14767380      		 0.5									
+25	Christopher Hill	OH	W  29	B  27								
+	1450   12908517      		 0.5									
+26	Navek Leonard	MD	W  21	B  24								
+	1407   16334615      		 0.5									
+27	Rahul Srinivaas Senthil	PA	B  23	W  25								
+	1272   16742010      		 0.5									
+28	Zackary Davis	MO	W  24	B  22								
+	1259   15789134      		 0.5									
+29	Aarav Sai Bharathy Mohan	WA	B  25	W  23								
+	1142   30125099      		 0.5									
+30	Nicholas Alan Effland	PA	B  13	W  39								
+	1582   16070161      		 0.0									
+31	Atom Valderrama	PA	W  14	B  40								
+	1551   17174398      		 0.0									
+32	John A Lebon	FL	W  15	B  42								
+	1500   12752895      		 0.0									
+33	Matthew Clibanoff	NY	-  16	----	----	----	----	----	----	----	----	
+	1493   16884466      		F0.0									
+34	Oyekola Oyekole	NY	W  17	B  44								
+	1479   15784363      		 0.0									
+35	Prajit Manivannan	FL	B  18	W  41								
+	1464   16776803      		 0.0									
+36	David Tyau	UT	W    1	B  46								
+	1438   12877280      		 0.0									
+37	Kevin Guyah Harrilal	FL	B    2	W  43								
+	1434   17098988      		 0.0									
+38	David W Shirbroun	NY	B    3	W  45								
+	1410   21013250      		 0.0									
+39	Alexander Edwin Paxson	MD	W    4	B  30								
+	1409   15516085      		 0.0									
+40	Lennik Rempe	AZ	B    5	W  31								
+	1400   15868931      		 0.0									
+41	Ethan Pu	NJ	W    6	B  35								
+	1397   16047624      		 0.0									
+42	Nathan Zeigler	PA	B    8	W  32								
+	1375   17328765      		 0.0									
+43	Yimeng Sun	TX	W    9	B  37								
+	1372   16513258      		 0.0									
+44	Graham Bradley Smith	NY	B  10	W  34								
+	1304   14667581      		 0.0									
+45	Leonhard Chang	NJ	W  11	B  38								
+	1286   17018215      		 0.0									
+46	Anisha Sripada	OR	B  12	W  36								
+	1220   16412420      		 0.0									
+

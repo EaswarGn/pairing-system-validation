@@ -1,0 +1,350 @@
+{
+    "Sections": [
+        {
+            "Section name": "t4_s15_r3",
+            "Type": 0,
+            "Number of players": 26,
+            "Number of teams": 7,
+            "Rounds paired": 2,
+            "Rounds played": 2,
+            "Regular": true,
+            "Rapid": false,
+            "Blitz": false,
+            "Acceleration": 0,
+            "Use team pairings": true,
+            "Team cut": 4,
+            "Players": [
+                {
+                    "Pair number": 1,
+                    "Name": "Forsythe, Samuel L",
+                    "Rating": 1487,
+                    "Results": [
+                        "-;13;B",
+                        "-;25;W"
+                    ]
+                },
+                {
+                    "Pair number": 2,
+                    "Name": "Lin, Kirby",
+                    "Rating": 1486,
+                    "Results": [
+                        "+;14;W",
+                        "-;13;B"
+                    ]
+                },
+                {
+                    "Pair number": 3,
+                    "Name": "Rebisz, Matthew",
+                    "Rating": 1454,
+                    "Results": [
+                        "-;15;B",
+                        "+;17;W"
+                    ]
+                },
+                {
+                    "Pair number": 4,
+                    "Name": "Legden, Ngawang",
+                    "Rating": 1441,
+                    "Team": "HRRTS",
+                    "Results": [
+                        "+;16;W",
+                        "+;18;B"
+                    ]
+                },
+                {
+                    "Pair number": 5,
+                    "Name": "Wang, Calvin Jiaru",
+                    "Rating": 1419,
+                    "Results": [
+                        "+;17;B",
+                        "-;15;W"
+                    ]
+                },
+                {
+                    "Pair number": 6,
+                    "Name": "Richard, Gideon S",
+                    "Rating": 1384,
+                    "Team": "VLFMS",
+                    "Results": [
+                        "-;18;W",
+                        "-;16;B"
+                    ]
+                },
+                {
+                    "Pair number": 7,
+                    "Name": "Rhoads, James",
+                    "Rating": 1376,
+                    "Results": [
+                        "+;20;B",
+                        "=;22;W"
+                    ]
+                },
+                {
+                    "Pair number": 8,
+                    "Name": "Dudley, Ean Micah",
+                    "Rating": 1353,
+                    "Results": [
+                        "+;21;W",
+                        "=;23;B"
+                    ]
+                },
+                {
+                    "Pair number": 9,
+                    "Name": "Hoffman, William F",
+                    "Rating": 1352,
+                    "Results": [
+                        "-;22;B",
+                        "+;19;W"
+                    ]
+                },
+                {
+                    "Pair number": 10,
+                    "Name": "Sides, Ethan Edwar",
+                    "Rating": 1342,
+                    "Results": [
+                        "-;23;W",
+                        "+;21;B"
+                    ]
+                },
+                {
+                    "Pair number": 11,
+                    "Name": "Zeiset, Brendan",
+                    "Rating": 1330,
+                    "Results": [
+                        "-;24;B",
+                        "+;20;W"
+                    ]
+                },
+                {
+                    "Pair number": 12,
+                    "Name": "Seeduri, Srivardhan",
+                    "Rating": 1278,
+                    "Team": "ELMAS",
+                    "Results": [
+                        "+;26;W",
+                        "+;24;B"
+                    ]
+                },
+                {
+                    "Pair number": 13,
+                    "Name": "Gessner, Jeffrey A",
+                    "Rating": 1256,
+                    "Results": [
+                        "+;1;W",
+                        "+;2;W"
+                    ]
+                },
+                {
+                    "Pair number": 14,
+                    "Name": "Brodetzki, Noam",
+                    "Rating": 1255,
+                    "Results": [
+                        "-;2;B",
+                        "+;26;W"
+                    ]
+                },
+                {
+                    "Pair number": 15,
+                    "Name": "Lutz, Aaron",
+                    "Rating": 1244,
+                    "Team": "HRRTS",
+                    "Results": [
+                        "+;3;W",
+                        "+;5;B"
+                    ]
+                },
+                {
+                    "Pair number": 16,
+                    "Name": "Luo, William T",
+                    "Rating": 1230,
+                    "Team": "VTMES",
+                    "Results": [
+                        "-;4;B",
+                        "+;6;W"
+                    ]
+                },
+                {
+                    "Pair number": 17,
+                    "Name": "Le, Samuel",
+                    "Rating": 1216,
+                    "Team": "MRNES",
+                    "Results": [
+                        "-;5;W",
+                        "-;3;B"
+                    ]
+                },
+                {
+                    "Pair number": 18,
+                    "Name": "Jiang, Jack",
+                    "Rating": 1211,
+                    "Results": [
+                        "+;6;B",
+                        "-;4;W"
+                    ]
+                },
+                {
+                    "Pair number": 19,
+                    "Name": "Fischer, Michael",
+                    "Rating": 1200,
+                    "Results": [
+                        "U;0;-",
+                        "-;9;B"
+                    ]
+                },
+                {
+                    "Pair number": 20,
+                    "Name": "Desteno, Joshua R",
+                    "Rating": 1188,
+                    "Team": "ELCMS",
+                    "Results": [
+                        "-;7;W",
+                        "-;11;B"
+                    ]
+                },
+                {
+                    "Pair number": 21,
+                    "Name": "Puranikmath, Kalyani",
+                    "Rating": 1179,
+                    "Team": "MRSCS",
+                    "Results": [
+                        "-;8;B",
+                        "-;10;W"
+                    ]
+                },
+                {
+                    "Pair number": 22,
+                    "Name": "Armaing, Arthur",
+                    "Rating": 1169,
+                    "Results": [
+                        "+;9;W",
+                        "=;7;B"
+                    ]
+                },
+                {
+                    "Pair number": 23,
+                    "Name": "Jump, Samuel",
+                    "Rating": 1109,
+                    "Results": [
+                        "+;10;B",
+                        "=;8;W"
+                    ]
+                },
+                {
+                    "Pair number": 24,
+                    "Name": "Robinson III, Richard",
+                    "Rating": 1059,
+                    "Results": [
+                        "+;11;W",
+                        "-;12;W"
+                    ]
+                },
+                {
+                    "Pair number": 25,
+                    "Name": "Sciochetti, Joseph",
+                    "Rating": 1003,
+                    "Results": [
+                        "B;0;-",
+                        "+;1;B"
+                    ]
+                },
+                {
+                    "Pair number": 26,
+                    "Name": "Sharma, Anand B",
+                    "Rating": 0,
+                    "Results": [
+                        "-;12;B",
+                        "-;14;B"
+                    ]
+                }
+            ],
+            "Teams": [
+                {
+                    "Pair number": 1,
+                    "Full name": "HRRTS",
+                    "Team code": "HRRTS"
+                },
+                {
+                    "Pair number": 2,
+                    "Full name": "VLFMS",
+                    "Team code": "VLFMS"
+                },
+                {
+                    "Pair number": 3,
+                    "Full name": "ELMAS",
+                    "Team code": "ELMAS"
+                },
+                {
+                    "Pair number": 4,
+                    "Full name": "VTMES",
+                    "Team code": "VTMES"
+                },
+                {
+                    "Pair number": 5,
+                    "Full name": "MRNES",
+                    "Team code": "MRNES"
+                },
+                {
+                    "Pair number": 6,
+                    "Full name": "ELCMS",
+                    "Team code": "ELCMS"
+                },
+                {
+                    "Pair number": 7,
+                    "Full name": "MRSCS",
+                    "Team code": "MRSCS"
+                }
+            ],
+            "Byes": [
+                {
+                    "Pair number": 21,
+                    "Round": 4,
+                    "Points": 1
+                },
+                {
+                    "Pair number": 24,
+                    "Round": 6,
+                    "Points": 1
+                },
+                {
+                    "Pair number": 25,
+                    "Round": 1,
+                    "Points": 1
+                }
+            ],
+            "Withdrawals": [
+                {
+                    "Pair number": 6,
+                    "Rounds withdrawn": [
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "Pair number": 8,
+                    "Rounds withdrawn": [
+                        6
+                    ]
+                },
+                {
+                    "Pair number": 16,
+                    "Rounds withdrawn": [
+                        6
+                    ]
+                },
+                {
+                    "Pair number": 19,
+                    "Rounds withdrawn": [
+                        1
+                    ]
+                },
+                {
+                    "Pair number": 24,
+                    "Rounds withdrawn": [
+                        4,
+                        5
+                    ]
+                }
+            ]
+        }
+    ]
+}

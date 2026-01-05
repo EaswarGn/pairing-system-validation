@@ -1,0 +1,26 @@
+Pairings for Round 2. CCA_WO22: Under 1600-4
+Bd	#	Res	White	#	Res	Black	
+643	1	   	Sree Chetan Varma Ganapatiraju (1591 1.0)	17	   	Michael Gregory Feldman (1484 1.0)	
+644	18	   	Alvin R Jones (1482 1.0)	2	   	Nithin Palacherla (1583 1.0)	
+645	30	   	Elena Stuckert (1408 1.0)	4	   	Avtandil Chanadiri (1579 1.0)	
+646	5	   	Amit Prasad (1552 1.0)	22	   	Aritra Kuma Misra (1465 1.0)	
+647	36	   	Phineas Hugo Weingarten (1324 1.0)	9	   	Brad Jolly (1535 1.0)	
+648	10	   	Marcos Gabriel Casares (1533 1.0)	27	   	Varun Kumar (1428 1.0)	
+649	11	   	Hashim Abed (1528 1.0)	37	   	Kyle Tebelman (1320 1.0)	
+650	39	   	Enmon Benjami Liu (1296 1.0)	12	   	Leon Luo (1517 1.0)	
+651	14	   	Aaron Samuel Krayn (1506 1.0)	44	   	Robert Fanjun Wei (1210 1.0)	
+652	8	   	Brian Qu (1546 0.5)	46	   	Cooper Mott (1104 1.0)	
+653	13	   	Ronald Sanders II (1513 0.5)	42	   	Zackary Davis (1259 0.5)	
+654	45	   	Aarav Sai Bharathy Mohan (1142 0.5)	20	   	Samanyu Thandra (1473 0.5)	
+655	21	   	Derek Zhou (1472 0.5)	31	   	Navek Leonard (1407 0.5)	
+656	41	   	Rahul Srinivaas Senthil (1272 0.5)	24	   	Christopher Hill (1450 0.5)	
+657	3	   	Nicholas Alan Effland (1582 0.0)	29	   	Alexander Edwin Paxson (1409 0.0)	
+658	32	   	Lennik Rempe (1400 0.0)	6	   	Atom Valderrama (1551 0.0)	
+659	34	   	Nathan Zeigler (1375 0.0)	15	   	John A Lebon (1500 0.0)	
+660	38	   	Graham Bradley Smith (1304 0.0)	19	   	Oyekola Oyekole (1479 0.0)	
+661	23	   	Prajit Manivannan (1464 0.0)	33	   	Ethan Pu (1397 0.0)	
+662	43	   	Anisha Sripada (1220 0.0)	25	   	David Tyau (1438 0.0)	
+663	26	   	Kevin Guyah Harrilal (1434 0.0)	35	   	Yimeng Sun (1372 0.0)	
+664	28	   	David W Shirbroun (1410 0.0)	40	   	Leonhard Chang (1286 0.0)	
+	7	½ 	Chris R Andrews (1551 0.5)			BYE	
+

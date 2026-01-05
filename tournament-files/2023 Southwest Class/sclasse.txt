@@ -1,0 +1,51 @@
+SwissSys Standings. CCA_SWCC23: Class E Merged (Standings (no tiebrk))
+#	Name	ID	Rating	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Total	Prize	
+1	Logan White	15580358	1168	W30 (w)	W3 (b)	W5 (w)	W14 (b)	W2 (w)	W9 (b)	W11 (w)	 7.0	800.00	
+2	Zachary Aaron Gawiser	15608941	1009	W44 (w)	W31 (b)	W13 (w)	D9 (w)	L1 (b)	W15 (b)	W5 (w)	 5.5	350.00	
+3	Oliver Wang	17140002	 970	W25 (b)	L1 (w)	D29 (b)	W38 (w)	W17 (b)	W18 (w)	W9 (w)	 5.5	350.00	
+4	Michael Zhang	16824864	1067	W21 (w)	D17 (b)	W7 (w)	D12 (b)	W6 (w)	L5 (b)	W15 (w)	 5.0	75.00	
+5	Pradeep Naga	30688904	1019	W47 (b)	W39 (w)	L1 (b)	W16 (w)	W7 (b)	W4 (w)	L2 (b)	 5.0	75.00	
+6	Sarvesh Nair	16292056	 997	W34 (b)	L11 (w)	W18 (b)	W28 (w)	L4 (b)	W20 (w)	W14 (b)	 5.0	75.00	
+7	Andres Vargas	12877119	 986	W40 (b)	W24 (w)	L4 (b)	W23 (w)	L5 (w)	W28 (b)	W13 (w)	 5.0	75.00	
+8	Pardhu Sai Kanaparthi	30250581	1046	D29 (b)	L18 (w)	W24 (b)	W22 (b)	L19 (w)	W23 (w)	W16 (b)	 4.5		
+9	Parker Myers	16198702	1026	W19 (w)	W16 (b)	W11 (w)	D2 (b)	W13 (w)	L1 (w)	L3 (b)	 4.5		
+10	Rithik Jayaram	16767726	 986	W37 (w)	L12 (b)	D19 (w)	W32 (b)	L18 (w)	W24 (b)	W25 (w)	 4.5		
+11	Christian Lee Deluca	new	unr.	W15 (w)	W6 (b)	L9 (b)	W26 (w)	W14 (w)	H---	L1 (b)	 4.5		
+12	Ishaan Ikkurthi	30361280	1183	W23 (b)	W10 (w)	L14 (b)	D4 (w)	L15 (w)	D17 (b)	W32 (w)	 4.0		
+13	Aarav Prasad Dinesh	17145172	1166	W20 (b)	W26 (w)	L2 (b)	W17 (w)	L9 (b)	W31 (w)	L7 (b)	 4.0		
+14	Jaylen Jeremiah Marshall	17083441	1016	W22 (w)	W28 (b)	W12 (w)	L1 (w)	L11 (b)	W19 (b)	L6 (w)	 4.0		
+15	Mukund Sharma	15560946	 937	L11 (b)	W44 (w)	W40 (b)	W31 (w)	W12 (b)	L2 (w)	L4 (b)	 4.0		
+16	Aiden Zhu	30347481	 935	W33 (w)	L9 (w)	W34 (b)	L5 (b)	W21 (w)	W22 (b)	L8 (w)	 4.0		
+17	Leo Olivera Jackson	30226167	 864	X48	D4 (w)	W38 (b)	L13 (b)	L3 (w)	D12 (w)	W31 (b)	 4.0		
+18	Kyrene Zhang	17112501	 799	H---	W8 (b)	L6 (w)	W29 (w)	W10 (b)	L3 (b)	D19 (w)	 4.0		
+19	David Epstein	30937163	 715	L9 (b)	W33 (w)	D10 (b)	W36 (w)	W8 (b)	L14 (w)	D18 (b)	 4.0		
+20	Mark A* Vargas	12466346	 712	L13 (w)	L41 (b)	W37 (w)	W42 (w)	W26 (b)	L6 (b)	W34 (w)	 4.0		
+21	Devdatta Kashelkar	30828654	 670	L4 (b)	W25 (w)	L26 (b)	W34 (w)	L16 (b)	W41 (w)	W33 (b)	 4.0		
+22	Bhuvi Naga	30688919	 601	L14 (b)	W43 (w)	W39 (b)	L8 (w)	W27 (b)	L16 (w)	W28 (w)	 4.0		
+23	Atharv Katdare	30302894	 796	L12 (w)	W37 (b)	W41 (w)	L7 (b)	D24 (w)	L8 (b)	W35 (w)	 3.5		
+24	Craig Carson	30596972	 426	W36 (w)	L7 (b)	L8 (w)	W35 (b)	D23 (b)	L10 (w)	W41 (b)	 3.5		
+25	Emile Morgan	30269469	 355	L3 (w)	L21 (b)	H---	W43 (w)	W30 (b)	W26 (w)	L10 (b)	 3.5		
+26	Saanvika C Kalavagunta	16697508	 941	W41 (w)	L13 (b)	W21 (w)	L11 (b)	L20 (w)	L25 (b)	W36 (w)	 3.0		
+27	Bhanusri Durbhakula	16904413	 935	D38 (w)	D35 (b)	L31 (w)	W33 (b)	L22 (w)	L34 (b)	W40 (w)	 3.0		
+28	Andrew Wang	30731105	 819	W43 (b)	L14 (w)	W42 (b)	L6 (b)	W41 (w)	L7 (w)	L22 (b)	 3.0		
+29	Douglas W Jackson	30711786	 765	D8 (w)	D36 (b)	D3 (w)	L18 (b)	W38 (w)	D32 (b)	U---	 3.0		
+30	Anushka Borse	16724907	 754	L1 (b)	L34 (w)	L32 (b)	B---	L25 (w)	W45 (b)	W43 (w)	 3.0		
+31	Samantha Kathelynn Davis	30219140	 656	W35 (w)	L2 (w)	W27 (b)	L15 (b)	W39 (w)	L13 (b)	L17 (w)	 3.0		
+32	Myles H Stewart	30929293	 650	H---	L38 (b)	W30 (w)	L10 (w)	W36 (b)	D29 (w)	L12 (b)	 3.0		
+33	Sumeet Barai	16347455	 553	L16 (b)	L19 (b)	W45 (w)	L27 (w)	W42 (b)	W39 (b)	L21 (w)	 3.0		
+34	Vincent He	30285844	 490	L6 (w)	W30 (b)	L16 (w)	L21 (b)	W40 (b)	W27 (w)	L20 (b)	 3.0		
+35	Alan Wolfskill	12899626	1020	L31 (b)	D27 (w)	L36 (b)	L24 (w)	W43 (b)	W37 (w)	L23 (b)	 2.5		
+36	William H, Jr Lawrence	17273194	 901	L24 (b)	D29 (w)	W35 (w)	L19 (b)	L32 (w)	W38 (b)	L26 (b)	 2.5		
+37	Sue Samuels	30550747	 447	L10 (b)	L23 (w)	L20 (b)	W45 (w)	X44	L35 (b)	H---	 2.5		
+38	Ethan Todd Stanich	30921617	unr.	D27 (b)	W32 (w)	L17 (w)	L3 (b)	L29 (b)	L36 (w)	W44 (b)	 2.5		
+39	Rebecca Rutledge	15889697	 895	W45 (w)	L5 (b)	L22 (w)	W44 (b)	L31 (b)	L33 (w)	U---	 2.0		
+40	Rheya Sumeet Barai	16737726	 567	L7 (w)	W45 (b)	L15 (w)	L41 (b)	L34 (w)	W42 (w)	L27 (b)	 2.0		
+41	Ashley White	31026218	unr.	L26 (b)	W20 (w)	L23 (b)	W40 (w)	L28 (b)	L21 (b)	L24 (w)	 2.0		
+42	Luca Yang	30914170	unr.	H---	H---	L28 (w)	L20 (b)	L33 (w)	L40 (b)	W45 (b)	 2.0		
+43	Emanuel Xavier Claudio-loiz	30973059	unr.	L28 (w)	L22 (b)	H---	L25 (b)	L35 (w)	B---	L30 (b)	 1.5		
+44	Micah Kheraj	16335728	 516	L2 (b)	L15 (b)	B---	L39 (w)	F37	U---	L38 (w)	 1.0		
+45	Venkat Kiran Kumar Relangi	30980106	unr.	L39 (b)	L40 (w)	L33 (b)	L37 (b)	B---	L30 (w)	L42 (w)	 1.0		
+46	Sarah Brauner	17120344	 863	U---	U---	U---	U---	U---	U---	U---	 0.0		
+47	Mark A Vargas	12466346	 712	L5 (w)	U---	U---	U---	U---	U---	U---	 0.0		
+48	Jacob Anderson-Richard	31003901	unr.	F17	U---	U---	U---	U---	U---	U---	 0.0		
+

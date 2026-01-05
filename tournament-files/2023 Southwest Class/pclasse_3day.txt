@@ -1,0 +1,17 @@
+Pairings for Round 2. CCA_SWCC23: Class E (Under 1200)-3
+Bd	#	Res	White	#	Res	Black	
+223	1	   	Ishaan Ikkurthi (1183 1.0)	8	   	Rithik Jayaram ( 986 1.0)	
+224	9	   	Oliver Wang ( 970 1.0)	2	   	Logan White (1168 1.0)	
+225	3	   	Aarav Prasad Dinesh (1166 1.0)	10	   	Saanvika C Kalavagunta ( 941 1.0)	
+226	13	   	Leo Olivera Jackson ( 864 1.0)	4	   	Michael Zhang (1067 1.0)	
+227	18	   	Samantha Kathelynn Davis ( 656 1.0)	6	   	Zachary Aaron Gawiser (1009 1.0)	
+228	7	   	Sarvesh Nair ( 997 1.0)	25	   	Christian Lee Deluca (unr. 1.0)	
+229	27	   	Ethan Todd Stanich (unr. 0.5)	19	   	Myles H Stewart ( 650 0.5)	
+230	5	   	Alan Wolfskill (1020 0.0)	12	   	Bhanusri Durbhakula ( 935 0.5)	
+231	11	   	Mukund Sharma ( 937 0.0)	20	   	Micah Kheraj ( 516 0.0)	
+232	22	   	Sue Samuels ( 447 0.0)	14	   	Atharv Katdare ( 796 0.0)	
+233	15	   	Anushka Borse ( 754 0.0)	21	   	Vincent He ( 490 0.0)	
+234	24	   	Ashley White (unr. 0.0)	16	   	Mark A Vargas ( 712 0.0)	
+235	17	   	Devdatta Kashelkar ( 670 0.0)	23	   	Emile Morgan ( 355 0.0)	
+	26	½ 	Luca Yang (unr. 0.5)			BYE	
+

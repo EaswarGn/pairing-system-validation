@@ -1,0 +1,26 @@
+Pairings for Round 2. CCA_WO22: Under 1400-5
+Bd	#	Res	White	#	Res	Black	
+540	1	   	Gabriel Peter (1398 1.0)	23	   	Adam Hinton (1294 1.0)	
+541	20	   	William E Perry (1300 1.0)	2	   	Gregory Tod Burke (1396 1.0)	
+542	3	   	Rees Thomas (1396 1.0)	29	   	Dani Kibblewhite  (1280 1.0)	
+543	24	   	Yicong Li (1288 1.0)	4	   	Pamil Jain (1392 1.0)	
+544	35	   	Everett C Pashley (1224 1.0)	6	   	Bennie Porter Jr (1387 1.0)	
+545	43	   	Miah Guo (1182 1.0)	8	   	Kiani Walker (1378 1.0)	
+546	11	   	Sebastien D'Stair (1359 1.0)	31	   	Hashem Zahedipour (1255 1.0)	
+547	13	   	Anthony Lopresto (1345 1.0)	34	   	Daniel St Schreck (1241 1.0)	
+548	16	   	Jay Serice (1339 1.0)	42	   	William Montross (1200 1.0)	
+549	45	   	Leonardo Dou (1166 1.0)	17	   	Everitt Ros Clark (1327 1.0)	
+550	49	   	Winston Huan Wang ( 931 1.0)	12	   	Tony Delabre (1357 0.5)	
+551	14	   	Jose-M G Mirasol (1341 0.5)	46	   	Will Hutchins (1118 0.5)	
+552	37	   	Yibei Xiao (1215 0.5)	15	   	Anshu Seetharaman (1341 0.5)	
+553	22	   	Angelina Verma (1296 0.5)	39	   	Lenon C Murray (1206 0.5)	
+554	5	   	Craig Hinkley (1391 0.0)	36	   	Laixian Wan (1224 0.0)	
+555	9	   	Michael Pau Irvin (1375 0.0)	38	   	Lucas Dou (1209 0.0)	
+556	30	   	Norm Koontz (1269 0.0)	10	   	Frank L White (1368 0.0)	
+557	32	   	Jeremy Zhang (1247 0.0)	19	   	Archer D Berenson (1304 0.0)	
+558	41	   	Steven L Baer (1200 0.0)	21	   	Christophe Burger (1300 0.0)	
+559	47	   	Eric S Simon (1048 0.0)	25	   	Luis J Vasquez (1288 0.0)	
+560	26	   	Zining Fan (1287 0.0)	40	   	Winston Cheung (1204 0.0)	
+561	28	   	Yunhui Ma (1283 0.0)	44	   	Sahana Ramesh (1180 0.0)	
+	48	1 	Robert Allen ( 940 0.0)			BYE	
+

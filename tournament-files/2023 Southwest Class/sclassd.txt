@@ -1,0 +1,29 @@
+SwissSys Standings. CCA_SWCC23: Class D Merged (Standings (no tiebrk))
+#	Name	ID	Rating	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Total	Prize	
+1	Amogh Akella	30066572	1277	W11 (w)	L5 (b)	W21 (w)	W10 (b)	D4 (w)	W7 (b)	W3 (b)	 5.5	800.00	
+2	Will Hutchins	15878545	1381	L7 (b)	W12 (w)	D8 (b)	W11 (w)	W15 (b)	W5 (w)	H---	 5.0	350.00	
+3	Preston Rushford	15217022	1230	W24 (w)	D16 (b)	W19 (w)	W13 (w)	D5 (b)	W6 (b)	L1 (w)	 5.0	350.00	
+4	Reynaldo Huerta	12827698	1393	W15 (w)	L18 (b)	D9 (w)	W19 (b)	D1 (b)	W13 (w)	D6 (b)	 4.5	60.00	
+5	Suraj Boinpally	16356773	1389	W20 (b)	W1 (w)	D7 (b)	W6 (w)	D3 (w)	L2 (b)	D8 (w)	 4.5	60.00	
+6	Aditya Kotaru	15453455	1378	W8 (w)	W9 (b)	W18 (w)	L5 (b)	W7 (b)	L3 (w)	D4 (w)	 4.5	60.00	
+7	Surya Prakash Kundurthi	30799195	1218	W2 (w)	W21 (b)	D5 (w)	W18 (b)	L6 (w)	L1 (w)	W15 (b)	 4.5	60.00	
+8	Chad Bostick	30604715	1169	L6 (b)	W26 (w)	D2 (w)	W16 (b)	D13 (b)	W12 (w)	D5 (b)	 4.5	60.00	
+9	Mingle Daniel Li	30351225	1201	W26 (w)	L6 (w)	D4 (b)	L15 (b)	W23 (w)	W14 (b)	H---	 4.0		
+10	Arya Roy Choudhury	30381329	1155	D13 (w)	D17 (b)	W14 (b)	L1 (w)	D21 (b)	D19 (w)	W18 (w)	 4.0		
+11	Shravan Balaji	16753506	1150	L1 (b)	W20 (w)	W17 (w)	L2 (b)	L14 (w)	W22 (b)	W19 (w)	 4.0		
+12	Zachary Gaw	16980957	1053	H---	L2 (b)	W23 (w)	W17 (b)	W18 (w)	L8 (b)	D13 (w)	 4.0		
+13	John W Kendrick	12740110	1376	D10 (b)	W22 (w)	W16 (w)	L3 (b)	D8 (w)	L4 (b)	D12 (b)	 3.5		
+14	Deborah R Shafer	12453078	1300	L16 (b)	D15 (b)	L10 (w)	W22 (w)	W11 (b)	L9 (w)	W21 (w)	 3.5		
+15	Shankaranarayanan Rajagopal	30369578	1222	L4 (b)	D14 (w)	W22 (b)	W9 (w)	L2 (w)	W21 (b)	L7 (w)	 3.5		
+16	Rayna Yan	30157975	1210	W14 (w)	D3 (w)	L13 (b)	L8 (w)	L19 (b)	W23 (b)	W26 (b)	 3.5		
+17	Saatvik Agarwal	30138317	1274	D22 (b)	D10 (w)	L11 (b)	L12 (w)	L20 (b)	W26 (w)	W23 (b)	 3.0		
+18	Michael Mao	17139911	1214	W23 (b)	W4 (w)	L6 (b)	L7 (w)	L12 (b)	W20 (w)	L10 (b)	 3.0		
+19	Christian Gaw	16980942	1202	H---	W23 (w)	L3 (b)	L4 (w)	W16 (w)	D10 (b)	L11 (b)	 3.0		
+20	Afaf* Bouardi	16091921	1200	L5 (w)	L11 (b)	W26 (b)	L21 (w)	W17 (w)	L18 (b)	W22 (w)	 3.0		
+21	Samarth Ram Bharadwaj	30155483	1159	B---	L7 (w)	L1 (b)	W20 (b)	D10 (w)	L15 (w)	L14 (b)	 2.5		
+22	Anurag Roy Choudhury	30404842	1092	D17 (w)	L13 (b)	L15 (w)	L14 (b)	W26 (b)	L11 (w)	L20 (b)	 1.5		
+23	Ishak Hossain	12919414	1364	L18 (w)	L19 (b)	L12 (b)	W26 (w)	L9 (b)	L16 (w)	L17 (w)	 1.0		
+24	Afaf Bouardi	16091921	1200	L3 (b)	U---	U---	U---	U---	U---	U---	 0.0		
+25	Sofia Rios-Ocampo	30424110	1187	U---	U---	U---	U---	U---	U---	U---	 0.0		
+26	Isaiah Felix	17111796	1006	L9 (b)	L8 (b)	L20 (w)	L23 (b)	L22 (w)	L17 (b)	L16 (w)	 0.0		
+

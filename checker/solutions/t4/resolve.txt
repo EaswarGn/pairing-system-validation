@@ -1,0 +1,21 @@
+index,section name,num_tests
+1,712u1000,5
+2,712u1300,5
+3,712UnderMerge,5
+4,712unr,5
+5,k3,5
+6,k5,5
+7,k6u500,5
+8,k6u800,5
+9,k8,5
+10,k9u600,5
+11,k9u1100,5
+12,k12,5
+13,quickopen,6
+14,quicku1100,6
+15,quicku1500,6
+16,riddleopen,5
+17,riddleu1400,5
+18,riddleu1800,5
+
+### 2024 PA State Scholastics --- Remove this line for program

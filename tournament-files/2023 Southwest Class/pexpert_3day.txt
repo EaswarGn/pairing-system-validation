@@ -1,0 +1,10 @@
+Pairings for Round 2. CCA_SWCC23: Expert (1900-2199)-3
+Bd	#	Res	White	#	Res	Black	
+173	5	   	Krishnan Warrier (2039 1.0)	2	   	Jonathan J Lang (2102 1.0)	
+174	3	   	Minh Binh Tran (2099 1.0)	4	   	Kenneth Su (2095 1.0)	
+175	11	   	Zachary John Haskin (2000 1.0)	6	   	Yakshwag Reddy Raju (2029 0.5)	
+176	1	   	Ahmet Shapiro-Erciyas (2121 0.5)	8	   	Paul Yuu Iinuma (2017 0.5)	
+177	15	   	Luca Chang (1900 0.5)	7	   	Advait Nair (2028 0.5)	
+178	9	   	Cannon Farragut (2017 0.0)	14	   	Joe Dean Veal (1903 0.0)	
+179	12	   	Ravishekhar Kashelkar (2000 0.0)	10	   	Christopher Iver Motley (2001 0.0)	
+

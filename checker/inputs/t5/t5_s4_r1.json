@@ -1,0 +1,357 @@
+{
+    "Sections": [
+        {
+            "Section name": "t5_s4_r1",
+            "Type": 0,
+            "Number of players": 44,
+            "Number of teams": 3,
+            "Rounds paired": 0,
+            "Rounds played": 0,
+            "Regular": true,
+            "Rapid": false,
+            "Blitz": false,
+            "Acceleration": 0,
+            "Use team pairings": true,
+            "Team cut": 4,
+            "Players": [
+                {
+                    "Pair number": 1,
+                    "Name": "Li, William Y",
+                    "Rating": 1393,
+                    "Results": []
+                },
+                {
+                    "Pair number": 2,
+                    "Name": "Han, Timothy",
+                    "Rating": 1371,
+                    "Results": []
+                },
+                {
+                    "Pair number": 3,
+                    "Name": "Lameda, Gerardo",
+                    "Rating": 1364,
+                    "Results": []
+                },
+                {
+                    "Pair number": 4,
+                    "Name": "Moore, Alden",
+                    "Rating": 1362,
+                    "Results": []
+                },
+                {
+                    "Pair number": 5,
+                    "Name": "Suvaca, Gabriel",
+                    "Rating": 1354,
+                    "Results": []
+                },
+                {
+                    "Pair number": 6,
+                    "Name": "Lui, Isaac Noah",
+                    "Rating": 1353,
+                    "Results": []
+                },
+                {
+                    "Pair number": 7,
+                    "Name": "Devineni, Sriman",
+                    "Rating": 1351,
+                    "Results": []
+                },
+                {
+                    "Pair number": 8,
+                    "Name": "Fish, Ean",
+                    "Rating": 1350,
+                    "Results": []
+                },
+                {
+                    "Pair number": 9,
+                    "Name": "Ayyagari, Abhishikth",
+                    "Rating": 1330,
+                    "Results": []
+                },
+                {
+                    "Pair number": 10,
+                    "Name": "Shrivastava, Ansh",
+                    "Rating": 1316,
+                    "Results": []
+                },
+                {
+                    "Pair number": 11,
+                    "Name": "Brown, Tayon",
+                    "Rating": 1308,
+                    "Results": []
+                },
+                {
+                    "Pair number": 12,
+                    "Name": "Murray, Gregory",
+                    "Rating": 1300,
+                    "Results": []
+                },
+                {
+                    "Pair number": 13,
+                    "Name": "Schafli, Ephraim",
+                    "Rating": 1293,
+                    "Results": []
+                },
+                {
+                    "Pair number": 14,
+                    "Name": "Rivera-duran, Alan",
+                    "Rating": 1288,
+                    "Results": []
+                },
+                {
+                    "Pair number": 15,
+                    "Name": "Cumming, Gabriel",
+                    "Rating": 1276,
+                    "Results": []
+                },
+                {
+                    "Pair number": 16,
+                    "Name": "Chen, Panda",
+                    "Rating": 1274,
+                    "Results": []
+                },
+                {
+                    "Pair number": 17,
+                    "Name": "Klatt, Joshua",
+                    "Rating": 1273,
+                    "Results": []
+                },
+                {
+                    "Pair number": 18,
+                    "Name": "Cunningham, Charles",
+                    "Rating": 1271,
+                    "Results": []
+                },
+                {
+                    "Pair number": 19,
+                    "Name": "Sayana, Varun",
+                    "Rating": 1259,
+                    "Team": "SAYSAY",
+                    "Results": []
+                },
+                {
+                    "Pair number": 20,
+                    "Name": "Collins, Tanin",
+                    "Rating": 1245,
+                    "Results": []
+                },
+                {
+                    "Pair number": 21,
+                    "Name": "Bauer, Adrian",
+                    "Rating": 1241,
+                    "Results": []
+                },
+                {
+                    "Pair number": 22,
+                    "Name": "Anusic, Ivo",
+                    "Rating": 1231,
+                    "Results": []
+                },
+                {
+                    "Pair number": 23,
+                    "Name": "Osada, Jesse Hugh",
+                    "Rating": 1227,
+                    "Results": []
+                },
+                {
+                    "Pair number": 24,
+                    "Name": "Sayana, Varsha",
+                    "Rating": 1209,
+                    "Team": "SAYSAY",
+                    "Results": []
+                },
+                {
+                    "Pair number": 25,
+                    "Name": "John Francis Kennedy, Kevin Andr",
+                    "Rating": 1189,
+                    "Results": []
+                },
+                {
+                    "Pair number": 26,
+                    "Name": "Berkson, Leo",
+                    "Rating": 1165,
+                    "Team": "TAIBER",
+                    "Results": []
+                },
+                {
+                    "Pair number": 27,
+                    "Name": "Carman, Jesse",
+                    "Rating": 1122,
+                    "Results": []
+                },
+                {
+                    "Pair number": 28,
+                    "Name": "Tirukottiyur Sathish, Anirudh",
+                    "Rating": 1087,
+                    "Results": []
+                },
+                {
+                    "Pair number": 29,
+                    "Name": "Zhang, Hyden Z",
+                    "Rating": 1078,
+                    "Results": []
+                },
+                {
+                    "Pair number": 30,
+                    "Name": "Owen, Trevor Donovan",
+                    "Rating": 1072,
+                    "Results": []
+                },
+                {
+                    "Pair number": 31,
+                    "Name": "Wu, Kyle",
+                    "Rating": 1047,
+                    "Results": []
+                },
+                {
+                    "Pair number": 32,
+                    "Name": "Yang, Jeffrey",
+                    "Rating": 1046,
+                    "Results": []
+                },
+                {
+                    "Pair number": 33,
+                    "Name": "Reynolds, Devon B",
+                    "Rating": 1033,
+                    "Results": []
+                },
+                {
+                    "Pair number": 34,
+                    "Name": "Akalin, Aslihan B",
+                    "Rating": 980,
+                    "Team": "AKAGOR",
+                    "Results": []
+                },
+                {
+                    "Pair number": 35,
+                    "Name": "Mcdermott, Faelan E",
+                    "Rating": 903,
+                    "Results": []
+                },
+                {
+                    "Pair number": 36,
+                    "Name": "Craig, Antonio",
+                    "Rating": 901,
+                    "Results": []
+                },
+                {
+                    "Pair number": 37,
+                    "Name": "Rao, Aakash",
+                    "Rating": 862,
+                    "Results": []
+                },
+                {
+                    "Pair number": 38,
+                    "Name": "Zagranichny, James",
+                    "Rating": 494,
+                    "Results": []
+                },
+                {
+                    "Pair number": 39,
+                    "Name": "Mott, Liam",
+                    "Rating": 465,
+                    "Results": []
+                },
+                {
+                    "Pair number": 40,
+                    "Name": "Walia, Meher",
+                    "Rating": 420,
+                    "Results": []
+                },
+                {
+                    "Pair number": 41,
+                    "Name": "Walia, Armaan",
+                    "Rating": 216,
+                    "Results": []
+                },
+                {
+                    "Pair number": 42,
+                    "Name": "Kim, Brandon",
+                    "Rating": 0,
+                    "Results": []
+                },
+                {
+                    "Pair number": 43,
+                    "Name": "Dolgov, Luka Alexander",
+                    "Rating": 0,
+                    "Results": []
+                },
+                {
+                    "Pair number": 44,
+                    "Name": "Taylor, Nathaniel B",
+                    "Rating": 0,
+                    "Results": []
+                }
+            ],
+            "Teams": [
+                {
+                    "Pair number": 1,
+                    "Full name": "SAYSAY",
+                    "Team code": "SAYSAY"
+                },
+                {
+                    "Pair number": 2,
+                    "Full name": "TAIBER",
+                    "Team code": "TAIBER"
+                },
+                {
+                    "Pair number": 3,
+                    "Full name": "AKAGOR",
+                    "Team code": "AKAGOR"
+                }
+            ],
+            "Byes": [
+                {
+                    "Pair number": 12,
+                    "Round": 1,
+                    "Points": 0.5
+                },
+                {
+                    "Pair number": 12,
+                    "Round": 5,
+                    "Points": 0.5
+                },
+                {
+                    "Pair number": 34,
+                    "Round": 1,
+                    "Points": 0.5
+                },
+                {
+                    "Pair number": 37,
+                    "Round": 4,
+                    "Points": 0.5
+                },
+                {
+                    "Pair number": 38,
+                    "Round": 5,
+                    "Points": 1
+                },
+                {
+                    "Pair number": 41,
+                    "Round": 4,
+                    "Points": 1
+                }
+            ],
+            "Withdrawals": [
+                {
+                    "Pair number": 20,
+                    "Rounds withdrawn": [
+                        2,
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "Pair number": 23,
+                    "Rounds withdrawn": [
+                        2,
+                        3,
+                        4,
+                        5
+                    ]
+                }
+            ]
+        }
+    ]
+}

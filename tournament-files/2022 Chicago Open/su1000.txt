@@ -1,0 +1,162 @@
+SwissSys Standings. CCA_CHI22: Under 1000 Merged (Standings (no tiebrk))
+#	Name	Rating	Team	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Total	Prize	
+1	Ray Mingye Sun	 969	PASSUN	W113	W90	W60	W6	D2	W11	W3	 6.5	750.00	
+2	Immanuel Zerega	 896		W154	W57	W84	W27	D1	W29	W8	 6.5	750.00	
+3	Troy Gonzales	 927		W99	W63	W47	W20	W25	W12	L1	 6.0	213.00	
+4	Abiola Adekola	 867	ADEADE	L106	W118	W103	W64	W84	W39	W27	 6.0	213.00	
+5	Altansoyombo Davaadorj	unr.		H---	W75	W70	D44	W67	W41	W13	 6.0	200.00	(prize limit)
+6	Grant Greenberg	unr.		W94	W50	W67	L1	W17	W18	W20	 6.0	200.00	(prize limit)
+7	Bella Lingxuan Li	 940	LILIA	W98	W116	L20	W78	W93	W25	D12	 5.5	75.00	
+8	Junho Park	 921		W144	W64	W24	D11	W10	W32	L2	 5.5	75.00	
+9	Eric Tang	 911		W136	W139	D37	W77	L11	W35	W32	 5.5	75.00	
+10	Lucas Fahnoe	 904		W133	X148	H---	W45	L8	W52	W28	 5.5	75.00	
+11	Nysa Bothe	 839	BOTCHA	W80	W85	W40	D8	W9	L1	W29	 5.5	75.00	
+12	Phillip Schrode	 796		W102	W13	W38	W16	W28	L3	D7	 5.5	75.00	
+13	Michael Shelhart Sayers	 992		W72	L12	W52	W22	W44	W19	L5	 5.0		
+14	Andy Bilguun Seo	 974		X153	L48	W56	L49	W111	W50	W34	 5.0		
+15	Neo Wei	 973		W56	L24	W58	L62	W53	W107	W48	 5.0		
+16	Arman Harutyunyan	 970		W54	W59	W88	L12	W49	L20	W44	 5.0		
+17	James Erdenebat	 919		W145	W103	W106	L25	L6	W93	W54	 5.0		
+18	Oliver Edward Cooke	 914		W157	L61	W72	W50	W26	L6	W55	 5.0		
+19	Amy Zhan	 890	ZHAXIO	W78	W108	L25	W104	W63	L13	W61	 5.0		
+20	Cameron James Keller	 871		W62	W39	W7	L3	W82	W16	L6	 5.0		
+21	Christian Gaw	 847		L59	D54	W73	W121	W77	W65	H---	 5.0		
+22	Jashith Charvik Dadibattina	 795		L26	W124	W114	L13	W99	W64	W39	 5.0		
+23	Grant Heitman	 757		X156	L27	W59	W126	L39	W84	W40	 5.0		
+24	Vishwak Jalagam	 699	SHAJAL	W105	W15	L8	L39	W81	W38	W41	 5.0		
+25	Tristan Buffington	unr.		W49	W68	W19	W17	L3	L7	W43	 5.0		
+26	Nurdan Momunkulov	unr.		W22	L88	W110	W69	L18	W47	W42	 5.0		
+27	Reed A Wuttke	unr.		W71	W23	B---	L2	W88	W42	L4	 5.0		
+28	Kevin Joseph Olsta	 998		W112	D43	W74	W37	L12	W48	L10	 4.5		
+29	Deborah Bowman	 931	BOWGUT	W96	W129	W61	W93	D32	L2	L11	 4.5		
+30	Rudolf Radics	 925		L116	W117	W136	W106	D61	L34	W58	 4.5		
+31	Alan Young Zhan	 924		W100	W123	L48	L82	W72	D56	W83	 4.5		
+32	Shane M Asbra	 884		W146	W65	W122	W48	D29	L8	L9	 4.5		
+33	Brandon Simmons	 851		W142	L84	W130	L61	W60	W62	H---	 4.5		
+34	Lucas Schneider	 821		L63	W100	W123	W122	D65	W30	L14	 4.5		
+35	Nysa Ranjan	 757	RANLOD	L84	W154	W137	W38	H---	L9	W82	 4.5		
+36	Onyx Lo	 718		W159	D66	L45	L70	W120	B---	W68	 4.5		
+37	Siddharth Chakravarthula	 650		W119	W87	D9	L28	W45	W68	U---	 4.5		
+38	Jack G Heller	 969		W115	W53	L12	L35	W95	L24	W74	 4.0		
+39	Evan Gonzales	 950		W134	L20	W116	W24	W23	L4	L22	 4.0		
+40	Mahendra Lavanur	 940		W58	W82	L11	L63	W112	W71	L23	 4.0		
+41	Jengsse Perez	 923	KEIPER	W118	W106	L78	W116	W113	L5	L24	 4.0		
+42	Shanu Sinha	 905	SINFLO	L57	W73	W96	W92	W62	L27	L26	 4.0		
+43	Oliver Baasandoo	 873		W140	D28	L77	W120	W74	D61	L25	 4.0		
+44	Florence Xu	 864	XUKAM	D141	W83	W121	D5	L13	W75	L16	 4.0		
+45	Anthony Codrea	 851		X155	D121	W36	L10	L37	W76	D56	 4.0		
+46	Yusuf Ibrahim Bilgic	 843		W101	L60	D57	W86	L68	W117	D52	 4.0		
+47	Tyler Hagen	 820		W104	W125	L3	L85	W78	L26	W96	 4.0		
+48	Gabriel Mcdaniel	 803		W79	W14	W31	L32	W85	L28	L15	 4.0		
+49	Temuujin Munkhtur	 760		L25	W145	W108	W14	L16	D82	D57	 4.0		
+50	Daniel J Lee	 753		W124	L6	W75	L18	W139	L14	W103	 4.0		
+51	Charlie Zhuang	 683		L60	W142	W128	L67	L107	W116	W108	 4.0		
+52	Kavya Ramesh	 660	RAMSUN	D83	W141	L13	W66	W70	L10	D46	 4.0		
+53	Venkatesh Ramesh Bellamkonda	 645		W86	L38	L69	W102	L15	W138	W87	 4.0		
+54	Ksenija A Matus	 620	MATMUR	L16	D21	D71	W133	W126	W88	L17	 4.0		
+55	Elizabeth Xia	 514	XIAYU	L125	L78	W117	W80	W69	W67	L18	 4.0		
+56	Karol Verniani	 489		L15	W80	L14	W103	W89	D31	D45	 4.0		
+57	Adhrit Chavali	 455	BOTCHA	W42	L2	D46	L128	W121	W122	D49	 4.0		
+58	Harshita Baskaran	 390		L40	W105	L15	W125	W128	X91	L30	 4.0		
+59	Khurelbaatar Anand-ochir	unr.		W21	L16	L23	L71	W131	W111	W88	 4.0		
+60	Miguel Andrade	unr.		W51	W46	L1	F88	L33	W89	W90	 4.0		
+61	Dylan Michael Kane Annis	unr.		W92	W18	L29	W33	D30	D43	L19	 4.0		
+62	Jacob R Sanner	unr.		L20	W131	W87	W15	L42	L33	W94	 4.0		
+63	Ryan Seeley	unr.		W34	L3	W89	W40	L19	W90	U---	 4.0		
+64	Joshua B Segal	unr.		W109	L8	W111	L4	W129	L22	W93	 4.0		
+65	Jasper Meadows	 972		W131	L32	W98	W109	D34	L21	U---	 3.5		
+66	Albert Chu	 949		W114	D36	L93	L52	L79	W119	W115	 3.5		
+67	Brian Hu	 928		W97	W135	L6	W51	L5	L55	D72	 3.5		
+68	Alexander Woo	 901		W138	L25	D79	W112	W46	L37	L36	 3.5		
+69	Aswath Madhan	 887		L135	W97	W53	L26	L55	W132	H---	 3.5		
+70	Victoria Chen	 875	CHESID	D73	W137	L5	W36	L52	L74	W117	 3.5		
+71	Tirth V Patel	 660		L27	D86	D54	W59	W108	L40	D84	 3.5		
+72	Varun Kamesh	 609	XUKAM	L13	W101	L18	W115	L31	W105	D67	 3.5		
+73	Emily Jiarui Zheng	 429	CHURHI	D70	L42	L21	L83	W137	W121	W123	 3.5		
+74	Aaliyah Johnson	 379	JOHHAR	H---	W143	L28	W79	L43	W70	L38	 3.5		
+75	Jeremy Dillingham	 102		B---	L5	L50	W96	W109	L44	H---	 3.5		
+76	Runzhe Cui	unr.		L93	L96	W154	D130	W86	L45	W109	 3.5		
+77	William B Dillon	unr.		H---	W120	W43	L9	L21	H---	H---	 3.5		
+78	Zachariah Elliott	unr.		L19	W55	W41	L7	L47	D95	W112	 3.5		
+79	Dayton Killian	unr.		L48	W132	D68	L74	W66	H---	H---	 3.5		
+80	Tugstsogt Oyunbold	unr.		L11	L56	W100	L55	D115	W118	W110	 3.5		
+81	Philip Ross	unr.		L88	L94	W101	W114	L24	D110	W113	 3.5		
+82	Drake Allen Shadle	unr.		W89	L40	W127	W31	L20	D49	L35	 3.5		
+83	Jian Wu	unr.		D52	L44	L86	W73	W130	W92	L31	 3.5		
+84	Josh Jeremey Yamamoto	unr.		W35	W33	L2	W90	L4	L23	D71	 3.5		
+85	Jay Kumar	 997		X152	L11	W95	W47	L48	U---	U---	 3.0		
+86	Zachary Gaw	 988		L53	D71	W83	L46	L76	W100	H---	 3.0		
+87	Isaac Chan-Osborn	 955		W132	L37	L62	L98	W145	W99	L53	 3.0		
+88	Alexander Ramey	 868		W81	W26	L16	X60	L27	L54	L59	 3.0		
+89	Jishnu Sriraman	 846		L82	W99	L63	W144	L56	L60	W135	 3.0		
+90	Albert Yang	 818		W107	L1	W115	L84	W104	L63	L60	 3.0		
+91	Scott Miller	 816		L123	W144	L104	W145	W98	F58	U---	 3.0		
+92	Jotin Samayamantri	 732		L61	X157	W135	L42	D122	L83	D106	 3.0		
+93	Nathan T Le	 708		W76	W126	W66	L29	L7	L17	L64	 3.0		
+94	Gaurav Vikram Gokhale	 699		L6	W81	L107	U---	W136	W98	L62	 3.0		
+95	Vasanth Thirunavukkarasu	 640		L122	W146	L85	W138	L38	D78	D104	 3.0		
+96	George Zhuang	 464		L29	W76	L42	L75	W146	W125	L47	 3.0		
+97	Darsh Mehta	 457		L67	L69	L102	W141	L105	W136	W138	 3.0		
+98	Devaanshi Bothe	 369	BOTGAN	L7	W119	L65	W87	L91	L94	W128	 3.0		
+99	Bolt Chinerdene	 358		L3	L89	W140	W127	L22	L87	W129	 3.0		
+100	Hugh Lin	 342		L31	L34	L80	B---	W127	L86	W130	 3.0		
+101	Suzanna Pashyan	 168	PASKAM	L46	L72	L81	B---	L114	W131	W134	 3.0		
+102	John D Bowman	unr.	BOWBOW	L12	L130	W97	L53	L132	W144	W133	 3.0		
+103	Samuel Kelly	unr.		X150	L17	L4	L56	W135	W128	L50	 3.0		
+104	Duncan Lee Losacco	unr.		L47	W134	W91	L19	L90	D112	D95	 3.0		
+105	Edrick Otgonbayar	unr.		L24	L58	L144	W147	W97	L72	W132	 3.0		
+106	Jaymil Parikh	unr.		W4	L41	L17	L30	W110	D109	D92	 3.0		
+107	Uzair Qarni	unr.		L90	W113	W94	U---	W51	L15	U---	 3.0		
+108	Max Wei	unr.		X151	L19	L49	W132	L71	W114	L51	 3.0		
+109	Remington Kehinde Adekola	 755		L64	W138	W139	L65	L75	D106	L76	 2.5		
+110	Mythreyi Govindarajan	 725		L121	W133	L26	W135	L106	D81	L80	 2.5		
+111	Aarnav Ganti	 656	BOTGAN	L139	W147	L64	W123	L14	L59	D116	 2.5		
+112	Ajitesh Nattamai	 615		L28	W140	W125	L68	L40	D104	L78	 2.5		
+113	Samantha Biersdorf	 549	BIELES	L1	L107	W141	W137	L41	D123	L81	 2.5		
+114	Wilton Huang Wang	 506		L66	W159	L22	L81	W101	L108	D120	 2.5		
+115	Avidha Biswas	 420		L38	B---	L90	L72	D80	W143	L66	 2.5		
+116	Bala Dhodda	 356		W30	L7	L39	L41	W124	L51	D111	 2.5		
+117	Rishi Suresh	 325		H---	L30	L55	W136	W143	L46	L70	 2.5		
+118	Dean Siddiqui	 286		L41	L4	D119	L131	W159	L80	W143	 2.5		
+119	Charlie He	unr.		L37	L98	D118	L143	W141	L66	W142	 2.5		
+120	Drake Jiang	unr.		H---	L77	W143	L43	L36	D130	D114	 2.5		
+121	Christopher Kurtz	unr.		W110	D45	L44	L21	L57	L73	W141	 2.5		
+122	Louis Lenoir	unr.		W95	W127	L32	L34	D92	L57	U---	 2.5		
+123	Winslow Taylor	unr.		W91	L31	L34	L111	W134	D113	L73	 2.5		
+124	Lei Wu	unr.	WUZHA	L50	L22	L142	W159	L116	W145	H---	 2.5		
+125	Jennifer Keith	 990	KEIPER	W55	L47	L112	L58	W144	L96	U---	 2.0		
+126	Tigo Le	 957	WISLE	W130	L93	W129	L23	L54	U---	U---	 2.0		
+127	Nat Solomon	 899		W147	L122	L82	L99	L100	W142	U---	 2.0		
+128	Purvi Menon	 834		H---	H---	L51	W57	L58	L103	L98	 2.0		
+129	Jeffrey Elam	 660		X149	L29	L126	W142	L64	U---	L99	 2.0		
+130	Neil Malpani	 524		L126	W102	L33	D76	L83	D120	L100	 2.0		
+131	Andrew Gerelt Od	 478		L65	L62	L138	W118	L59	L101	W147	 2.0		
+132	Sean Myagmarochir	 445		L87	L79	W147	L108	W102	L69	L105	 2.0		
+133	Kain Pak	 444		L10	L110	W159	L54	L138	W137	L102	 2.0		
+134	Shrivardhan Sai Vardhineedi	 434		L39	L104	W146	L139	L123	W147	L101	 2.0		
+135	Alyssa Jada Rodriguez	 430	RODGEI	W69	L67	L92	L110	L103	W146	L89	 2.0		
+136	Zayd Siddiqui	 221		L9	B---	L30	L117	L94	L97	W146	 2.0		
+137	Vivian Ahn	 140		B---	L70	L35	L113	L73	L133	X144	 2.0		
+138	Batochir Dorjbat	unr.		L68	L109	W131	L95	W133	L53	L97	 2.0		
+139	Matt Hochstein	unr.		W111	L9	L109	W134	L50	U---	U---	 2.0		
+140	Rick Shotts	unr.		L43	L112	L99	L146	L147	B---	W145	 2.0		
+141	Abigail Bowman	 296	BOWBOW	D44	L52	L113	L97	L119	W159	L121	 1.5		
+142	Claire Lu	 261		L33	L51	W124	L129	H---	L127	L119	 1.5		
+143	Isaac S Zheng	unr.		H---	L74	L120	W119	L117	L115	L118	 1.5		
+144	Margad Erdenebaatar	 259		L8	L91	W105	L89	L125	L102	F137	 1.0		
+145	Todd Gerelt Od	 250		L17	L49	B---	L91	L87	L124	L140	 1.0		
+146	Huslen Batkhuyag	unr.		L32	L95	L134	W140	L96	L135	L136	 1.0		
+147	Caleb T Razdolsky	unr.		L127	L111	L132	L105	W140	L134	L131	 1.0		
+148	Jarrod Schneider	unr.		X---	F10	U---	U---	U---	U---	U---	 1.0		
+149	Maharshi Patel	 996		F129	U---	U---	U---	U---	U---	U---	 0.0		
+150	Alexander Panich	 760		F103	U---	U---	U---	U---	U---	U---	 0.0		
+151	Jasmine Rao	 616		F108	U---	U---	U---	U---	U---	U---	 0.0		
+152	Yuseph Majad Ali	 586		F85	U---	U---	U---	U---	U---	U---	 0.0		
+153	Kamalesh Motamarri	 505		F14	U---	U---	U---	U---	U---	U---	 0.0		
+154	Adithya Karthik	 434		L2	L35	L76	U---	U---	U---	U---	 0.0		
+155	Michael Mysiewicz	 204		F45	U---	U---	U---	U---	U---	U---	 0.0		
+156	John Adreani	unr.		F23	U---	U---	U---	U---	U---	U---	 0.0		
+157	Osaro Amadasun	unr.		L18	F92	U---	U---	U---	U---	U---	 0.0		
+158	Frank Gustav Keller	unr.		U---	U---	U---	U---	U---	U---	U---	 0.0		
+159	Sharon Kwarteng	unr.	KWAFIS	L36	L114	L133	L124	L118	L141	U---	 0.0		
+

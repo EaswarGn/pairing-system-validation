@@ -1,0 +1,90 @@
+SwissSys Standings. CCA_WO23: Under 1400-4 (Standings (no tiebrk))
+#	Name	ID	Rating	Team	St	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Rd 8	Rd 9	Total	
+1	Ian Erickson	30106611	1393		CA	W59 (b)	~22 (w)								 1.0	
+2	Zachary R Thompson	14012248	1383		MD	X60	~24 (w)								 1.0	
+3	Ali Hawkes	15777743	1350		PA	W61 (w)	~21 (b)								 1.0	
+4	Jesse Levi Hayden	16529228	1333		RI	W62 (w)	~23 (b)								 1.0	
+5	Collin Holson	30246641	1329		MA	X63	~26 (w)								 1.0	
+6	Vikram Scherfke	16492162	1325		MA	W64 (w)	~25 (b)								 1.0	
+7	Daniel Palmer	15798508	1324		NY	W65 (b)	~27 (w)								 1.0	
+8	Greg Yardley	30778979	1321		PA	W66 (w)	~28 (b)								 1.0	
+9	Andrew Christian-ale James	30042222	1316		MD	W67 (b)	~29 (w)								 1.0	
+10	Willi Mccauley Jr	13944615	1312		NJ	W68 (b)	~30 (w)								 1.0	
+11	Franklin He	14351548	1311		VA	W69 (w)	~31 (b)								 1.0	
+12	Mikhail Bilokin	15952712	1295		CT	W70 (w)	~32 (b)								 1.0	
+13	Hua Ma	30350735	1295		PA	W71 (b)	~33 (w)								 1.0	
+14	Lily Wang	30019679	1286		CT	W72 (w)	~34 (b)								 1.0	
+15	Danny Chen	30347659	1278		NJ	W73 (b)	~36 (w)								 1.0	
+16	Prashanth Podduturi	16694122	1271		GA	W74 (w)	~35 (b)								 1.0	
+17	Dylan L Trinh	16752435	1266		CA	W75 (b)	~38 (w)								 1.0	
+18	Owen Chance Anatra	30379415	1261		CT	W76 (w)	~37 (b)								 1.0	
+19	Connor Watts	31246965	1257		WA	W77 (b)	~39 (w)								 1.0	
+20	Jingyi Lu	30222801	1245		PA	W78 (w)	~41 (b)								 1.0	
+21	Jake Matthew Heid	16747697	1243		NY	W79 (b)	~3 (w)								 1.0	
+22	Vladyslav Leshchynskyi	30910123	1241		PA	W80 (w)	~1 (b)								 1.0	
+23	Jack Chen-kurmann	17038266	1230		PA	W81 (b)	~4 (w)								 1.0	
+24	Winston Cheung	16861950	1221		NY	W82 (w)	~2 (b)								 1.0	
+25	Nubaid Khan	16523207	1206		VA	W83 (b)	~6 (w)								 1.0	
+26	Adithi Srinivasan	15703428	1205		PA	W84 (w)	~5 (b)								 1.0	
+27	Joey Nepravishta	17104790	1172		NY	W85 (w)	~7 (b)								 1.0	
+28	Jason Cheung	16022431	1164		NJ	W86 (b)	~8 (w)								 1.0	
+29	Marie Guan	30137479	1155		ON	W87 (w)	~9 (b)								 1.0	
+30	Charles Edward Pratt	14051723	1130		MA	W48 (w)	~10 (b)								 1.0	
+31	Sophie Rohrs	16694060	1126		CT	W49 (b)	~11 (w)								 1.0	
+32	Jacqueline A Martin	14726531	1107		DC	W50 (b)	~12 (w)			H---					 1.0	
+33	Dylan Pierce Dennis	14109395	1099		MD	W51 (w)	~13 (b)								 1.0	
+34	Ely Feldman	16720328	1073		PA	W52 (w)	~14 (w)								 1.0	
+35	Simon Muen Ye	30236392	1029		PA	W53 (b)	~16 (w)								 1.0	
+36	Anirudh Anand	30324099	1004		MI	W54 (w)	~15 (b)								 1.0	
+37	Ben A Chai	30241040	 992		NY	W55 (b)	~18 (w)								 1.0	
+38	Gloria Sun	16732233	 983		VA	W56 (w)	~17 (b)								 1.0	
+39	Adrian Alexander Roberts	16056063	 820		NJ	W57 (w)	~19 (b)								 1.0	
+40	Jeffrey Andrew Gessner	30219729	 613		PA	W58 (w)	~42 (b)								 1.0	
+41	Ethan Kalimian	15810417	 432		NY	B---	~20 (w)								 1.0	
+42	Milind Torney	17046554	1363		CA	D44 (b)	~40 (w)								 0.5	
+43	Dhruv Torney	16774352	1232		CA	D47 (w)	~45 (b)								 0.5	
+44	Koushya Yellemraju	30186735	1110		NJ	D42 (w)	~46 (b)	H---				H---			 0.5	
+45	Kevin Mor Simmons	30638383	1009		PA	H---	~43 (w)								 0.5	
+46	Daniel Deshpande	30269570	 962		CT	H---	~44 (w)								 0.5	
+47	Aaron Tan	30452337	 812		MD	D43 (b)	~48 (w)								 0.5	
+48	William Lyon Auerbacher	16945167	1380		PA	L30 (b)	~47 (b)								 0.0	
+49	Jonah Lowery	12474858	1367		MI	L31 (w)	~69 (b)								 0.0	
+50	Tanisha Saha	17305578	1357		FL	L32 (w)	~70 (b)								 0.0	
+51	Isaac Noah Lui	30138098	1353		NY	L33 (b)	~67 (w)								 0.0	
+52	Geordany Solomon	15502503	1339		NY	L34 (b)	~68 (w)								 0.0	
+53	Bennie Porter	12533118	1313		OH	L35 (w)	~72 (b)								 0.0	
+54	Sahana Santosh	15912193	1307		GA	L36 (b)	~71 (w)								 0.0	
+55	Rodney Holmes	12578827	1300		VA	L37 (w)	~74 (b)								 0.0	
+56	James M Weisz	14875146	1300		CT	L38 (b)	~73 (w)								 0.0	
+57	Tarun Ram Tammineni	30191953	1238		VA	L39 (b)	~75 (w)								 0.0	
+58	Vincent W Liu	30188920	1199		NY	L40 (b)	~77 (w)								 0.0	
+59	Shanmukhi D Malireddy	30075762	1154		NC	L1 (w)	~78 (b)								 0.0	
+60	James C Easley	12673781	1136		GA	F2	~76 (b)								 0.0	
+61	Jesse Snell	31147511	1091		NY	L3 (b)	~79 (w)								 0.0	
+62	Joshua Wang	30563650	1068		CT	L4 (b)	~80 (w)								 0.0	
+63	James Easley	13200035	1060		FL	F5	~82 (b)								 0.0	
+64	Samarth Singh	16715622	1053		NY	L6 (b)	~83 (w)								 0.0	
+65	Ujjval Burre	15804325	1051		VA	L7 (w)	~84 (b)								 0.0	
+66	Andy Wang	30019623	1051		CT	L8 (b)	~85 (w)								 0.0	
+67	Bruce Hill	12834513	1033		OH	L9 (w)	~51 (b)								 0.0	
+68	Hungchang Chiu	16753691	1019		TX	L10 (w)	~52 (b)								 0.0	
+69	Anny Chen	16616434	1005		NJ	L11 (b)	~49 (w)								 0.0	
+70	Adidev Yadhunandan	15578625	 963		VA	L12 (b)	~50 (w)								 0.0	
+71	Thomas Nordeman	13068000	 934		PA	L13 (w)	~54 (b)								 0.0	
+72	Harry Chen	30347683	 928		NJ	L14 (b)	~53 (w)								 0.0	
+73	Cora Dunn	30580705	 926		NY	L15 (w)	~56 (b)								 0.0	
+74	Jerry Zong	30723485	 916		NJ	L16 (b)	~55 (w)								 0.0	
+75	Amudhan Ashok	17246298	 914		VA	L17 (w)	~57 (b)								 0.0	
+76	Akshita Sudhakar	30267152	 879		CA	L18 (b)	~60 (w)								 0.0	
+77	Kyrene Zhang	17112501	 875		WA	L19 (w)	~58 (b)								 0.0	
+78	Eric Merryman	30176605	 865		MD	L20 (b)	~59 (w)								 0.0	
+79	Ulugbek Khasanov	17028720	 853		AL	L21 (w)	~61 (b)								 0.0	
+80	Zen Jiang	30049564	 824		CT	L22 (b)	~62 (b)								 0.0	
+81	Daniel Merkh	30393796	 798		PA	L23 (w)	H---								 0.0	
+82	Aahan Sriram	30739934	 728		WA	L24 (b)	~63 (w)								 0.0	
+83	Brian Alexander Sand	15661953	 669		PA	L25 (w)	~64 (b)								 0.0	
+84	Johnathan Alexander Pratt	14083830	 644		MA	L26 (b)	~65 (w)								 0.0	
+85	Benjamin Musselman	15183886	 582		VA	L27 (b)	~66 (b)								 0.0	
+86	Alexandra Pabustan Manon-og	30704440	 483		NY	L28 (w)	B---								 0.0	
+87	Shawn Fanning	new	unr.		MA	L29 (b)	H---								 0.0	
+

@@ -1,0 +1,12 @@
+Pairings for Round 2. CCA_SWCC23: Class A  (1700-1999)-3
+Bd	#	Res	White	#	Res	Black	
+181	1	   	Oscar Wang (1956 1.0)	7	   	Oliver Hsiao (1828 1.0)	
+182	8	   	Saathvik Dasari (1790 1.0)	2	   	Tianjun Chen (1884 1.0)	
+183	3	   	Thirupathy Ramanathan (1880 1.0)	15	   	Elizabeth Riley Braddy (1754 1.0)	
+184	10	   	Lev Shangin (1783 1.0)	4	   	Tony Zhou (1862 1.0)	
+185	18	   	Benjamin Munro Austin (1700 1.0)	5	   	Nikunj Chandrakant Oza (1851 0.0)	
+186	6	   	Marvin Lee (1850 0.0)	17	   	Kanishk Mahesh (1707 0.0)	
+187	14	   	Srikar Kandikayala (1756 0.0)	9	   	Greg Zhou (1788 0.0)	
+188	16	   	Mark Mettler (1733 0.0)	11	   	Devin Sanjay Martins (1774 0.0)	
+189	12	   	Samuel Gu (1770 0.0)	19	   	Ayan Nagulapally (1699 0.0)	
+

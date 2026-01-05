@@ -1,0 +1,73 @@
+SwissSys Standings. CCA_WO23: Under 1800-4 (Standings (no tiebrk))
+#	Name	ID	Rating	Team	St	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Rd 8	Rd 9	Total	
+1	Ronmel Matamoros	14387842	1782		MD	W54 (b)	~14 (w)							H---	 1.0	
+2	Arrik Aragorn Leman	16629033	1772		CT	X55	~16 (w)								 1.0	
+3	Cyril Chua	16110064	1757		IL	W56 (w)	~15 (b)								 1.0	
+4	Hector Juarez Reyes	30276947	1754		NJ	W57 (b)	~17 (w)								 1.0	
+5	Will Johnson	14937405	1747		CT	B---	~19 (w)								 1.0	
+6	Chad Michael Engan	12491054	1743		MT	W58 (b)	~23 (w)								 1.0	
+7	Udo Onua	15438930	1738		NY	W59 (w)	~18 (b)								 1.0	
+8	Christopher Sims	12634402	1711		PA	W60 (w)	~20 (b)								 1.0	
+9	Joshua D Deskovic	16386903	1706		NY	W61 (w)	~21 (b)								 1.0	
+10	Ronald C Stokes	12395553	1700		PA	W62 (b)	~26 (w)								 1.0	
+11	Phineas Hugo Weingarten	17080545	1698		NY	W63 (w)	~22 (b)								 1.0	
+12	Derek Zhang	17110950	1697		NY	W64 (b)	~27 (w)								 1.0	
+13	Armandas Ledas	30204230	1695		FL	W65 (w)	~24 (b)								 1.0	
+14	Demir Berke Tulunoglu	16605413	1682		OH	W66 (w)	~1 (b)								 1.0	
+15	Paul Little	12499369	1673			W67 (b)	~3 (w)								 1.0	
+16	Oliver Rubenstein	14452644	1672		KS	W68 (w)	~2 (b)								 1.0	
+17	Santosh Dungi	17290422	1661		AZ	W69 (w)	~4 (b)								 1.0	
+18	Ryan Zilu Chen	15772966	1656		NY	W70 (b)	~7 (w)								 1.0	
+19	Tyler Dean Harris	13100922	1639		MO	W45 (w)	~5 (b)					H---	H---	U---	 1.0	
+20	Haoming Jia	17270921	1632		NY	W46 (b)	~8 (w)								 1.0	
+21	Erich Donald Snell	14502571	1623		NY	W47 (b)	~9 (w)								 1.0	
+22	Jason Bai	30173780	1620		CT	W48 (b)	~11 (w)								 1.0	
+23	David Rubenstein	12569796	1619		KS	W49 (w)	~6 (b)								 1.0	
+24	Odbayar Yondon	30245517	1608		WA	W50 (b)	~13 (w)								 1.0	
+25	Adrian Hujic	16957615	1526			W51 (b)	H---					H---			 1.0	
+26	Jordan Sean Levin	30308508	1515		PA	W52 (w)	~10 (b)								 1.0	
+27	Tao Liu	30188633	1414		NY	W53 (w)	~12 (b)								 1.0	
+28	Isabella Lai	15990974	1726		MA	D38 (b)	~35 (w)								 0.5	
+29	Niall Mckenzie	16304202	1725		ID	D39 (w)	~37 (b)								 0.5	
+30	Finn Belew	15220601	1712		ID	D40 (b)	~38 (w)								 0.5	
+31	Devin Michael Scanlon	15942297	1708		FL	D41 (b)	~40 (w)								 0.5	
+32	Patrick Keegan	16388936	1668		LA	H---	~41 (w)								 0.5	
+33	Richard S Pugh Iii	12525508	1661		NY	D43 (b)	~42 (w)								 0.5	
+34	Lorenzo Sampson	12640338	1645		GA	H---	H---	H---							 0.5	
+35	Benjamin Koo	30208528	1640		PA	D44 (w)	~28 (b)								 0.5	
+36	Case Bongirne	13110673	1631		NY	H---	~43 (w)								 0.5	
+37	Donato Gamaro	16398583	1598		NY	H---	~29 (w)								 0.5	
+38	Thomas Lay	12599276	1583		NY	D28 (w)	~30 (b)								 0.5	
+39	Sean Xiaoang Zhang	17109032	1562		CA	D29 (b)	H---								 0.5	
+40	Vedansh Kumbharathi	30024270	1555		PA	D30 (w)	~31 (b)								 0.5	
+41	Alan Su	30188662	1533		CT	D31 (w)	~32 (b)								 0.5	
+42	Nan Ji	16758085	1367		MA	H---	~33 (b)								 0.5	
+43	Robert Fanjun Wei	17353108	1324		NY	D33 (w)	~36 (b)								 0.5	
+44	William Mears	30884397	1088		MA	D35 (b)	~45 (w)								 0.5	
+45	Arnav Karthikeyan	15514355	1784		IL	L19 (b)	~44 (b)								 0.0	
+46	Don Asanti Burrus	12734442	1783		TX	L20 (w)	~59 (b)								 0.0	
+47	Theodore Emile Businger	30365687	1780		MA	L21 (w)	~60 (b)								 0.0	
+48	Levi Kalani Alexa Fogo Esquivel	30159592	1770		QR	L22 (w)	~61 (b)								 0.0	
+49	Anthony Asseviro	13679473	1760		NY	L23 (b)	~62 (w)								 0.0	
+50	Daniial Abdivaliev	31307877	1750			L24 (w)	~63 (b)								 0.0	
+51	Eric Kennedy	12939380	1708		NY	L25 (w)	~65 (b)								 0.0	
+52	Aayansh R Guntaka	30198721	1706		AZ	L26 (b)	~64 (w)								 0.0	
+53	Yifei Zhou	16679298	1684		VA	L27 (b)	~67 (w)								 0.0	
+54	Dennis Moore	12757345	1626		PA	L1 (w)	~66 (b)								 0.0	
+55	Glenn M Shelton	12870031	1620		VA	F2	U---								 0.0	
+56	Shalini Shankar	17080901	1617		NJ	L3 (b)	~70 (w)								 0.0	
+57	Manuel A. Luna-murray	13382687	1614		PA	L4 (w)	~68 (b)								 0.0	
+58	Farzin Mashali	17083304	1601		TN	L6 (w)	~69 (b)								 0.0	
+59	Srinivas Burre	14995896	1600		VA	L7 (b)	~46 (w)								 0.0	
+60	Siddharth Santosh	15912207	1548		GA	L8 (b)	~47 (w)								 0.0	
+61	Eric Liu	30136104	1512		NY	L9 (b)	~48 (w)								 0.0	
+62	Isaac Hart Statz	30163816	1510		NY	L10 (w)	~49 (b)								 0.0	
+63	David Johnathan Carr	30315361	1507		NY	L11 (b)	~50 (w)								 0.0	
+64	Nivaan Shrivastava	30075883	1443		NJ	L12 (w)	~52 (b)								 0.0	
+65	Riley Joseph Duda-thomson	16881026	1424		NY	L13 (b)	~51 (w)								 0.0	
+66	Giorgi Shinjiashvili	30326521	1410		PA	L14 (b)	~54 (w)								 0.0	
+67	Rishan Malhotra	30186145	1379		NJ	L15 (w)	~53 (b)								 0.0	
+68	Darren Wu	30136086	1373		NY	L16 (b)	~57 (w)								 0.0	
+69	Carter William Gill	30437446	1296		NJ	L17 (b)	~58 (w)								 0.0	
+70	Lige Bi	17217788	1220		NY	L18 (w)	~56 (b)								 0.0	
+

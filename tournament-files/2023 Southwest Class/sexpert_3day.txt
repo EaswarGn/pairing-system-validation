@@ -1,0 +1,18 @@
+SwissSys Standings. CCA_SWCC23: Expert (1900-2199)-3 (Standings (no tiebrk))
+#	Name	ID	Rating	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Total	
+1	Jonathan J Lang	12920453	2102	W11 (w)	~4 (b)					U---	 1.0	
+2	Minh Binh Tran	15216913	2099	W12 (b)	~3 (w)						 1.0	
+3	Kenneth Su	15191452	2095	W13 (w)	~2 (b)						 1.0	
+4	Krishnan Warrier	12837312	2039	W15 (b)	~1 (w)						 1.0	
+5	Zachary John Haskin	12827624	2000	W14 (b)	~7 (w)						 1.0	
+6	Ahmet Shapiro-Erciyas	12919664	2121	D8 (b)	~9 (w)		H---	H---			 0.5	
+7	Yakshwag Reddy Raju	16801442	2029	D10 (w)	~5 (b)						 0.5	
+8	Advait Nair	15900267	2028	D6 (w)	~10 (b)						 0.5	
+9	Paul Yuu Iinuma	2031809	2017	H---	~6 (b)						 0.5	
+10	Luca Chang	16081600	1900	D7 (b)	~8 (w)						 0.5	
+11	Cannon Farragut	16051045	2017	L1 (b)	~15 (w)						 0.0	
+12	Christopher Iver Motley	16231534	2001	L2 (w)	~13 (b)						 0.0	
+13	Ravishekhar Kashelkar	16569617	2000	L3 (b)	~12 (w)						 0.0	
+14	Alexander Zhu	16147664	1921	L5 (w)	U---						 0.0	
+15	Joe Dean Veal	12520979	1903	L4 (w)	~11 (b)						 0.0	
+

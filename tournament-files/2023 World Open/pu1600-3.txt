@@ -1,0 +1,18 @@
+Pairings for Round 5. CCA_WO23: Under 1600-3
+Bd	#	Res	White	#	Res	Black	
+767	8	1 	Ari Z. Karlin (1544 3.5)	5	0 	David Yagudayev (1559 3.5)	
+768	7	0 	Godwin Wilson-Livingstone (1546 3.5)	26	1 	Dann Hu Merriman (1410 3.5)	
+769	2	1 	Nader* Rawshani (1573 3.0)	12	0 	Luis Carias (1529 3.0)	
+770	11	0 	Michael Dale Wiseman (1533 3.0)	16	1 	Logan Moore (1511 3.0)	
+771	18	0 	Ronald Sanders (1506 3.0)	14	1 	Jonah Noam Kutikov (1520 2.5)	
+772	25	0 	Taimoor Syed (1438 2.5)	15	1 	Christian Harrs (1518 2.5)	
+801	24	0 	Grant Mccool (1445 2.0)	4	1 	John Delgado (1561 2.0)	
+802	27	0 	David Tyau (1402 2.0)	6	1 	Tyshaune Mack (1549 2.0)	
+803	22	0 	Michael Anthony* Bauml (1460 2.0)	19	1 	Ibrahim Saizad (1488 2.0)	
+804	17	1 	Danny Kharaev (1509 1.5)	33	0 	Tommy Kozlek (1208 2.0)	
+805	32	0 	Vihaan Jambudi (1283 1.5)	23	1 	Mohammad Bazzi (1454 1.5)	
+806	31	1 	Ian Lowther (1300 1.5)	20	0 	Sobel Gaudissard (1477 1.0)	
+807	21	½ 	Adam Moore (1464 1.0)	30	½ 	Hans Chi Law (1337 1.0)	
+808	28	1 	Vikraman Boobalan (1400 1.0)	9	0 	Suneel Sharad (1538 0.5)	
+	29	½ 	Aaditya Bilakanti (1384 2.0)			BYE	
+

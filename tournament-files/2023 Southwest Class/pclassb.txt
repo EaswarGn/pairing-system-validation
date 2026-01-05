@@ -1,0 +1,28 @@
+Pairings for Round 7. CCA_SWCC23: Class B Merged
+Bd	#	Res	White	#	Res	Black	
+131	15	0 	Ronit Podder (1685 6.0)	3	1 	Travis J Olson (1762 5.0)	
+132	37	0 	Ethan Edward Hartfield (1596 5.0)	51	1 	Tanvi Borse (1532 5.0)	
+133	8	1 	William Christopher Hamill (1706 4.5)	20	0 	Huanzhi Zhou (1665 4.5)	
+134	1	1 	Maurya Chandra (1792 4.0)	34	0 	Ozan Adiguzel (1604 4.5)	
+135	13	0 	Jason Jimmy (1694 4.0)	29	1 	Asmit Panda (1626 4.0)	
+136	17	1 	Annamalai Arunachalam (1674 4.0)	55	0 	Sai Vijay Himaghna Sista (1523 4.0)	
+137	18	1 	Sebastian Lee (1673 4.0)	36	0 	Benny Thottakkara (1600 4.0)	
+138	28	1 	Matthew W Feldman (1632 4.0)	44	0 	Arjun Bupeshnath (1568 4.0)	
+139	25	1 	Jeremy Lovelace (1653 3.5)	6	0 	Aayansh R Guntaka (1712 3.5)	
+140	12	1 	Zachary Rozenblat (1697 3.5)	23	0 	Cole Braun (1653 3.5)	
+141	31	1 	Srihas Maddipati (1620 3.5)	21	0 	Aaron A Reyes (1661 3.5)	
+142	9	1 	Christos Konstantakos (1701 3.0)	64	0 	Lawrence C* Zhang (1447 3.5)	
+143	10	0 	Kelvin* McAlister (1700 3.0)	38	1 	Shriyan Vuyyuru (1593 3.0)	
+144	19	1 	Brian Alan Wolfskill (1672 3.0)	53	0 	Yangyang Shen (1529 3.0)	
+145	5	0 	Artemio Loiz (1721 2.5)	62	1 	Vikash Ganesan (1451 3.0)	
+146	4	0 	Naren Pullela (1740 2.5)	42	1 	Tommy Li (1579 2.5)	
+147	46	1 	Isabella Stubbins (1563 2.5)	27	0 	Gabriel Teubner (1640 2.5)	
+148	35	½ 	Hector R Martinez (1600 2.5)	43	½ 	David Lamas (1574 2.5)	
+149	40	½ 	Sahithi Kommuri (1581 2.5)	58	½ 	Mihika Krishnan (1509 2.5)	
+150	32	1 	Holden Humphreys (1618 2.0)	41	0 	Lyric Barai (1580 2.0)	
+151	60	0 	John Xavier (1500 2.0)	57	1 	Ellery C Zhang (1516 2.0)	
+152	30	1 	Julius Cromartie (1622 1.5)	39	0 	Benjamin Higgins (1585 1.5)	
+153	7	0 	Charles R Davis (1711 0.5)	59	1 	Pranavi Pramod (1506 1.5)	
+	47	½ 	Garrett Hunt (1544 2.5)			BYE	
+	52	½ 	Siddharth Santosh (1532 2.0)			BYE	
+

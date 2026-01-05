@@ -1,0 +1,62 @@
+[Tournament info]
+Title=PA State Scholastic Championships
+Time controls=Game / 40 Minutes with 5 Second Delay
+[Section count]
+Total=3
+[Sections]
+Section1=k3
+Section2=k6u800
+Section3=k6u500
+[k3]
+Section title=Grades K to 3 Open
+Event type=1
+Double blitz=0
+Coin toss=0
+Ratings=0
+Time controls=
+Minimum rating=0
+Maximum rating=9999
+Minimum grade=0
+Maximum grade=3
+Starting board=201
+Rounds=5
+Rounds paired=5
+Exclude batch=0
+Exclude ratings=0
+Exclude Krause=0
+[k6u800]
+Section title=Grades K to 6 U800
+Event type=1
+Double blitz=0
+Coin toss=1
+Ratings=-1
+Time controls=
+Minimum rating=0
+Maximum rating=799
+Minimum grade=0
+Maximum grade=6
+Starting board=221
+Rounds=5
+Rounds paired=5
+Exclude batch=0
+Exclude ratings=0
+Exclude Krause=0
+[k6u500]
+Section title=Grades K to 6 U500
+Event type=1
+Double blitz=0
+Coin toss=0
+Ratings=-1
+Time controls=
+Minimum rating=0
+Maximum rating=799
+Minimum grade=0
+Maximum grade=6
+Starting board=232
+Rounds=5
+Rounds paired=5
+Exclude batch=0
+Exclude ratings=0
+Exclude Krause=0
+[Setup]
+Version=9.06

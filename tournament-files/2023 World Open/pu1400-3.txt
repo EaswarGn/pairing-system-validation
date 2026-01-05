@@ -1,0 +1,25 @@
+Pairings for Round 5. CCA_WO23: Under 1400-3
+Bd	#	Res	White	#	Res	Black	
+810	16	½ 	Panda Chen (1274 4.0)	15	½ 	Gabriel Cumming (1276 4.0)	
+811	10	0 	Ansh Shrivastava (1316 3.5)	1	1 	William Y Li (1393 3.0)	
+812	7	½ 	Sriman Devineni (1351 3.0)	22	½ 	Ivo Anusic (1231 3.5)	
+813	8	1 	Ean Fish (1350 3.0)	18	0 	Charles Cunningham (1271 3.0)	
+814	21	0 	Adrian Bauer (1241 3.0)	9	1 	Abhishikth Ayyagari (1330 3.0)	
+815	11	1 	Tayon Brown (1308 3.0)	30	0 	Trevor Donovan Owen (1072 3.0)	
+816	24	0 	Varsha Sayana (1209 2.5)	3	1 	Gerardo Lameda (1364 2.5)	
+817	25	1 	Kevin Andr John Francis Kennedy (1189 2.5)	4	0 	Alden Moore (1362 2.0)	
+818	26	½ 	Leo Berkson (1165 2.0)	5	½ 	Gabriel Suvaca (1354 2.0)	
+819	6	1 	Isaac Noah Lui (1353 2.0)	19	0 	Varun Sayana (1259 2.0)	
+820	13	½ 	Ephraim Schafli (1293 2.0)	44	½ 	Nathaniel B Taylor (unr. 2.0)	
+821	27	0 	Jesse Carman (1122 2.0)	14	1 	Alan Rivera-duran (1288 2.0)	
+822	17	0 	Joshua Klatt (1273 2.0)	42	1 	Brandon Kim (unr. 2.0)	
+823	29	1 	Hyden Z Zhang (1078 2.0)	28	0 	Anirudh Tirukottiyur Sathish (1087 1.5)	
+824	40	0 F	Meher Walia ( 420 1.5)	2	1 X	Timothy Han (1371 1.0)	
+825	31	1 X	Kyle Wu (1047 1.0)	39	0 F	Liam Mott ( 465 1.0)	
+826	36	0 	Antonio Craig ( 901 1.0)	32	1 	Jeffrey Yang (1046 1.0)	
+827	37	1 	Aakash Rao ( 862 1.0)	33	0 	Devon B Reynolds (1033 1.0)	
+828	35	0 	Faelan E Mcdermott ( 903 1.0)	43	1 	Luka Alexander Dolgov (unr. 1.0)	
+829	34	1 	Aslihan B Akalin ( 980 0.5)	41	0 	Armaan Walia ( 216 1.0)	
+	38	1 	James Zagranichny ( 494 0.0)			Please wait here	
+	12	½ 	Gregory Murray (1300 1.5)			BYE	
+

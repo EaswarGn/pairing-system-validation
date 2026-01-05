@@ -1,0 +1,120 @@
+{
+    "Sections": [
+        {
+            "Section name": "t2_s19_r2",
+            "Type": 0,
+            "Number of players": 10,
+            "Number of teams": 1,
+            "Rounds paired": 2,
+            "Rounds played": 1,
+            "Regular": true,
+            "Rapid": false,
+            "Blitz": false,
+            "Acceleration": 0,
+            "Use team pairings": true,
+            "Team cut": 4,
+            "Players": [
+                {
+                    "Pair number": 1,
+                    "Name": "Overlingas, Akeras",
+                    "Rating": 1575,
+                    "Results": [
+                        "+;6;W",
+                        "~;4;B"
+                    ]
+                },
+                {
+                    "Pair number": 2,
+                    "Name": "Sharf, Sam",
+                    "Rating": 1533,
+                    "Team": "SHAPIN",
+                    "Results": [
+                        "+;10;W",
+                        "~;5;B"
+                    ]
+                },
+                {
+                    "Pair number": 3,
+                    "Name": "Covey, Theodore",
+                    "Rating": 1511,
+                    "Results": [
+                        "-;7;B",
+                        "~;9;W"
+                    ]
+                },
+                {
+                    "Pair number": 4,
+                    "Name": "Elwell, Jake",
+                    "Rating": 1508,
+                    "Results": [
+                        "+;8;W",
+                        "~;1;W"
+                    ]
+                },
+                {
+                    "Pair number": 5,
+                    "Name": "Moore, Adam",
+                    "Rating": 1489,
+                    "Results": [
+                        "+;9;B",
+                        "~;2;W"
+                    ]
+                },
+                {
+                    "Pair number": 6,
+                    "Name": "Wade, Robert D",
+                    "Rating": 1458,
+                    "Results": [
+                        "-;1;B",
+                        "~;7;W"
+                    ]
+                },
+                {
+                    "Pair number": 7,
+                    "Name": "Eggleston, Jack",
+                    "Rating": 1457,
+                    "Results": [
+                        "+;3;W",
+                        "~;6;B"
+                    ]
+                },
+                {
+                    "Pair number": 8,
+                    "Name": "DeDona, Christopher",
+                    "Rating": 1428,
+                    "Results": [
+                        "-;4;B",
+                        "~;10;W"
+                    ]
+                },
+                {
+                    "Pair number": 9,
+                    "Name": "Weiss, Matthew David",
+                    "Rating": 1426,
+                    "Results": [
+                        "-;5;W",
+                        "~;3;B"
+                    ]
+                },
+                {
+                    "Pair number": 10,
+                    "Name": "Harris, Clarence",
+                    "Rating": 1400,
+                    "Results": [
+                        "-;2;B",
+                        "~;8;B"
+                    ]
+                }
+            ],
+            "Teams": [
+                {
+                    "Pair number": 1,
+                    "Full name": "SHAPIN",
+                    "Team code": "SHAPIN"
+                }
+            ],
+            "Byes": [],
+            "Withdrawals": []
+        }
+    ]
+}

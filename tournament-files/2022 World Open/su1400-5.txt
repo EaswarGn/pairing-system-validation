@@ -1,0 +1,52 @@
+SwissSys Standings. CCA_WO22: Under 1400-5 (Standings (no tiebrk))
+#	Name	Rating	Team	Rd 1	Rd 2	Rd 3	Rd 4	Rd 5	Rd 6	Rd 7	Total	
+1	Gabriel Peter	1398		W37							 1.0	
+2	Gregory Tod Burke	1396		W38							 1.0	
+3	Rees Thomas	1396		W39							 1.0	
+4	Pamil Jain	1392		W40							 1.0	
+5	Bennie Porter Jr	1387		W41							 1.0	
+6	Kiani Walker	1378		W42							 1.0	
+7	Sebastien D'Stair	1359		W43							 1.0	
+8	Anthony Lopresto	1345		W44							 1.0	
+9	Jay Serice	1339		W45							 1.0	
+10	Everitt Ros Clark	1327		W46							 1.0	
+11	William E Perry	1300		W47							 1.0	
+12	Adam Hinton	1294		W48							 1.0	
+13	Yicong Li	1288		W49							 1.0	
+14	Dani Kibblewhite 	1280		W30							 1.0	
+15	Hashem Zahedipour	1255		W31							 1.0	
+16	Daniel St Schreck	1241		W32							 1.0	
+17	Everett C Pashley	1224		W33							 1.0	
+18	William Montross	1200		W34							 1.0	
+19	Miah Guo	1182		W35							 1.0	
+20	Leonardo Dou	1166		W36							 1.0	
+21	Winston Huan Wang	 931		B---							 1.0	
+22	Tony Delabre	1357		D27							 0.5	
+23	Jose-M G Mirasol	1341		H---							 0.5	
+24	Anshu Seetharaman	1341		D28							 0.5	
+25	Angelina Verma	1296		D29							 0.5	
+26	Banarasi Tippa	1246		H---							 0.5	
+27	Yibei Xiao	1215		D22							 0.5	
+28	Lenon C Murray	1206		D24							 0.5	
+29	Will Hutchins	1118		D25							 0.5	
+30	Craig Hinkley	1391		L14							 0.0	
+31	Dillan Hobby	1385		L15							 0.0	
+32	Michael Pau Irvin	1375		L16							 0.0	
+33	Frank L White	1368		L17							 0.0	
+34	Justin Dehorty	1308		L18							 0.0	
+35	Archer D Berenson	1304		L19							 0.0	
+36	Christophe Burger	1300		L20							 0.0	
+37	Luis J Vasquez	1288		L1							 0.0	
+38	Zining Fan	1287		L2							 0.0	
+39	Austin Wang	1284		L3							 0.0	
+40	Yunhui Ma	1283		L4							 0.0	
+41	Norm Koontz	1269		L5							 0.0	
+42	Jeremy Zhang	1247		L6							 0.0	
+43	Laixian Wan	1224		L7							 0.0	
+44	Lucas Dou	1209		L8							 0.0	
+45	Winston Cheung	1204		L9							 0.0	
+46	Steven L Baer	1200		L10							 0.0	
+47	Sahana Ramesh	1180		L11							 0.0	
+48	Eric S Simon	1048		L12							 0.0	
+49	Robert Allen	 940		L13							 0.0	
+

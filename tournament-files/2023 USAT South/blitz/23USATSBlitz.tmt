@@ -1,0 +1,26 @@
+[Setup]
+Version=9.06
+[Tournament info]
+Title=
+Time controls=
+[Section count]
+Total=1
+[Sections]
+Section1=Blitz
+[Blitz]
+Section title=USATS Blitz
+Event type=0
+Double blitz=1
+Coin toss=1
+Ratings=0
+Time controls=G/3+2
+Minimum rating=0
+Maximum rating=9999
+Minimum grade=0
+Maximum grade=99
+Starting board=25
+Rounds=5
+Exclude batch=0
+Exclude ratings=0
+Exclude Krause=0
+Rounds paired=5
